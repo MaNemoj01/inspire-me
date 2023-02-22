@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> It's very important to like the people you work with, otherwise life and your job is gonna be quite miserable.
-> -- Elon Musk
+> Short cuts make long delays.
+> -- J.R.R. Tolkien
