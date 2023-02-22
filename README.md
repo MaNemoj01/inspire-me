@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> We will act consistently with our view of who we truly are, whether that view is accurate or not.
-> -- Tony Robbins
+> Happiness is an effect of doing what you love, not an end goal to be achieved.
+> -- Celestine Chua
