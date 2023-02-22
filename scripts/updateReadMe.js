@@ -23,3 +23,4 @@ const updatedContent = `# Inspirational quote of the day
 `
 
 fs.writeFileSync(readMePath, updatedContent)
+console.log("Successfully updated README.md file.")

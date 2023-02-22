@@ -13,16 +13,21 @@ const updateQuote = async () => {
     const dataContent = fs.readFileSync(dataPath);
     const parsedData = JSON.parse(dataContent)
 
-    // Push current `inspirationOfDay` to `pastInspirations`
-    parsedData.pastInspirations.push(parsedData.inspirationOfDay)
+    let quoteResponse;
+    try {
+        // Fetch new inspiration
+        quoteResponse = await (await fetch('https://zenquotes.io/api/random')).json()
+        // Push current `inspirationOfDay` to `pastInspirations`
+        parsedData.pastInspirations.push(parsedData.inspirationOfDay)
 
-    // Fetch new inspiration
-    const quoteResponse = await (await fetch('https://zenquotes.io/api/random')).json()
-    
-    // Replace current inspiration with new one
-    parsedData.inspirationOfDay = quoteResponse[0];
+        // Replace current inspiration with new one
+        parsedData.inspirationOfDay = quoteResponse[0];
 
-    fs.writeFileSync(dataPath, JSON.stringify(parsedData))
+        fs.writeFileSync(dataPath, JSON.stringify(parsedData))
+        console.log("Successfully updated quote.")
+    } catch (error) {
+        console.log("Error while updating quote: ", e)
+    }
 }
 
 const updateImage = async () => {
@@ -34,8 +39,9 @@ const updateImage = async () => {
         const arrayBuffer = await (await fetch('https://source.unsplash.com/1600x900/?nature')).arrayBuffer()
         const buffer = Buffer.from(arrayBuffer, 'binary');
         fs.writeFileSync(imagePath, buffer);
+        console.log("Successfully updated image.")
     } catch(e) {
-        console.log("Error: ", e)
+        console.log("Error while updating image: ", e)
     }
 }
 
