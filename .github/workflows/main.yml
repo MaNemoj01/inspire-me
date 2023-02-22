@@ -1,0 +1,38 @@
+name: Run scripts and update files
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '*/5 * * * *'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Use Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18.x
+
+      - name: Update Data
+        run: node ./scripts/updateData.js
+
+      - name: Update Index Html
+        run: node ./scripts/updateIndexHtml.js
+
+      - name: Update ReadMe
+        run: node ./scripts/updateReadMe.js
+
+      - name: Commit and push updates
+        run: |
+          git config user.name "${GITHUB_ACTOR}"
+          git config user.email "manemoj01@gmail.com"
+          git add .
+          git commit -m "Feat: Update changes"
+          git push --all -f https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git
