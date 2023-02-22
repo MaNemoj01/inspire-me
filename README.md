@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> The quality of your commitments will determine the course of your life.
-> -- Ralph Marston
+> Every man gotta right to decide his own destiny.
+> -- Bob Marley
