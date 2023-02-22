@@ -16,7 +16,7 @@ const updatedContent = `# Inspirational quote of the day
     <img src="./data/photo.jpeg" alt="Beautiful nature photo" width="300" height="250">
 </p>
 
-Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).
+*Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
 > ${parsedData.inspirationOfDay.q}
 > -- ${parsedData.inspirationOfDay.a}
