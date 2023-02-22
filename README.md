@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> An intelligence test sometimes shows a man how smart he would have been not to have taken it.
-> -- Laurence J. Peter
+> The quality of your commitments will determine the course of your life.
+> -- Ralph Marston
