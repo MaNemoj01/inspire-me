@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Short cuts make long delays.
-> -- J.R.R. Tolkien
+> An intelligence test sometimes shows a man how smart he would have been not to have taken it.
+> -- Laurence J. Peter
