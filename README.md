@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> If you care about someone enough, you'll always be there for them no matter what.
-> -- Roy T. Bennett
+> Change is hard at first, messy in the middle and gorgeous at the end.
+> -- Robin Sharma
