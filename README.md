@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> To live is the rarest thing in the world. Most people exist, that is all. 
-> -- Oscar Wilde
+> A wise person should have money in their head, but not in their heart.
+> -- Jonathan Swift
