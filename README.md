@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> The most important thing is to enjoy your life, to be happy, it's all that matters.
-> -- Audrey Hepburn
+> The goal is not to be perfect by the end, the goal is to be better today.
+> -- Simon Sinek
