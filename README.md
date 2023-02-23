@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Either get busy living or get busy dying.
-> -- Stephen King
+> If you care about someone enough, you'll always be there for them no matter what.
+> -- Roy T. Bennett
