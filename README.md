@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> It is startling to realize how much unbelief is necessary to make belief possible.
-> -- Eric Hoffer
+> The nearer a man comes to a calm mind, the closer he is to strength.
+> -- Marcus Aurelius
