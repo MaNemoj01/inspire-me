@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Great minds are always feared by lesser minds.
-> -- Dan Brown
+> It is better to light a single candle than to curse the darkness.
+> -- Eleanor Roosevelt
