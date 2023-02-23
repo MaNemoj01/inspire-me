@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> All life is an experiment. The more experiments you make, the better.
-> -- Ralph Waldo Emerson
+> Great things happen to those who don't stop believing, trying, learning, and being grateful.
+> -- Roy T. Bennett
