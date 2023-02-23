@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Chop your own wood and it will warm you twice. 
-> -- Henry Ford
+> Remember where you came from, where you're going, and why you created this mess you got yourself into in the first place.
+> -- Richard Bach
