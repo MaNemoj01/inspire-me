@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Life has the name of life, but in reality it is death.
-> -- Heraclitus
+> Chop your own wood and it will warm you twice. 
+> -- Henry Ford
