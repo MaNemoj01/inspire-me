@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> We've got to live, no matter how many skies have fallen.
-> -- D. H. Lawrence
+> Change is hardest at the beginning, messiest in the middle and best at the end.
+> -- Robin Sharma
