@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Life may be full of pain but that's not an excuse to give up.
-> -- Arnold Schwarzenegger
+> What would you do if you weren't afraid?
+> -- Spencer Johnson
