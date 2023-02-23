@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Change is hard at first, messy in the middle and gorgeous at the end.
-> -- Robin Sharma
+> Great minds are always feared by lesser minds.
+> -- Dan Brown
