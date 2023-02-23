@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> A gentleman accepts the responsibility of his actions and bears the burden of their consequences.
-> -- William Faulkner
+> It is startling to realize how much unbelief is necessary to make belief possible.
+> -- Eric Hoffer
