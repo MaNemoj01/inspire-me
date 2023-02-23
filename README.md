@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> It is better to light a single candle than to curse the darkness.
-> -- Eleanor Roosevelt
+> A gentleman accepts the responsibility of his actions and bears the burden of their consequences.
+> -- William Faulkner
