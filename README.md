@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Success seems to be connected to action. Successful people keep moving. They make mistakes, but they don't quit.
-> -- Conrad Hilton
+> Numbing the pain for a while will make it worse when you finally feel it.
+> -- Albus Dumbledore
