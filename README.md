@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> The meaning of life is just to be alive. It is so plain and so obvious and so simple.
-> -- Alan Watts
+> Failing is another stepping stone to greatness.
+> -- Oprah Winfrey
