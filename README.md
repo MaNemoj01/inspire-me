@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Always render more and better service than is expected of you, no matter what your task may be.
-> -- Og Mandino
+> Meditate. It won't be fun but it will surface what you need to deal with.
+> -- Naval Ravikant
