@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> People are not disturbed by things, but by the views they take of them.
-> -- Epictetus
+> The less people know, the more stubbornly they know it.
+> -- Osho
