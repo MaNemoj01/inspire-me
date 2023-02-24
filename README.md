@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Either you run the day or the day runs you.
-> -- Jim Rohn
+> Success seems to be connected to action. Successful people keep moving. They make mistakes, but they don't quit.
+> -- Conrad Hilton
