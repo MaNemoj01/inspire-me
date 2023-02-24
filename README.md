@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Life is trying things to see if they work.
-> -- Ray Bradbury
+> The meaning of life is just to be alive. It is so plain and so obvious and so simple.
+> -- Alan Watts
