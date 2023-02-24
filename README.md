@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> If you want to feel happy, do something for yourself. If you want to feel fulfilled, do something for someone else.
-> -- Simon Sinek
+> People are not disturbed by things, but by the views they take of them.
+> -- Epictetus
