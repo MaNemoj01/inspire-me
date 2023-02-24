@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Most of the important things in the world have been accompanied by people who have kept on trying when there seemed to be no hope at all.
-> -- Dale Carnegie
+> The way to change others' minds is with affection, and not anger.
+> -- Dalai Lama
