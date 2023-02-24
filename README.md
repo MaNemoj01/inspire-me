@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> If you do not conquer self, you will be conquered by self.
-> -- Napoleon Hill
+> The true soldier fights not because he hates what is in front of him, but because he loves what is behind him.
+> -- Gilbert Chesterton
