@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Lying can never save us from another lie.
-> -- Vaclav Havel
+> To get angry is like to revenge yourself for the guilt of others.
+> -- Jonathan Swift
