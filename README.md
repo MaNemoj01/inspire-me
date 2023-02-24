@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Numbing the pain for a while will make it worse when you finally feel it.
-> -- Albus Dumbledore
+> The greatest test of courage on earth is to bear defeat without losing heart.
+> -- Robert Greene
