@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Peace is letting it be. Letting life flow, letting emotions flow through you.
-> -- Kamal Ravikant
+> Words, once they are printed, have a life of their own.
+> -- Carol Burnett
