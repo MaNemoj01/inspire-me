@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Meditate. It won't be fun but it will surface what you need to deal with.
-> -- Naval Ravikant
+> Either you run the day or the day runs you.
+> -- Jim Rohn
