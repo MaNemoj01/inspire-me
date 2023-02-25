@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> There is no such thing as a great talent without great willpower.
-> -- Honore de Balzac
+> Nothing can survive without food. Everything we consume acts either to heal us or to poison us.
+> -- Thich Nhat Hanh
