@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> The person who says something is impossible should not interrupt the person who is doing it.
-> -- Chinese Proverb
+> Begin at once to live, and count each separate day as a separate life.  
+> -- Seneca
