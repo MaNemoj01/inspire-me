@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Get mad, then get over it.
-> -- Colin Powell
+> Men learn to love the woman they are attracted to. Women learn to become attracted to the man they fall in love with.
+> -- Woody Allen
