@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Choose a job you love, and you will never have to work a day in your life. 
-> -- Confucius
+> I must also have a dark side if I am to be whole.
+> -- Carl Jung
