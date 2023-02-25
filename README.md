@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> When one door closes another door opens. 
-> -- Alexander Graham Bell
+> The person who says something is impossible should not interrupt the person who is doing it.
+> -- Chinese Proverb
