@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> If you get up one more time than you fall, you will make it through.
-> -- Chinese Proverb
+> Learn from the rejection and turn it into an opportunity!
+> -- Mary Engelbreit
