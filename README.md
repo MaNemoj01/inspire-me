@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Everyone you admire was once a beginner.
-> -- Jack Butcher
+> I've always lived in the moment.
+> -- Yanni
