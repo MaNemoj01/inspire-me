@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting.
-> -- Zig Ziglar
+> The truth is simple. If it was complicated, everyone would understand it.
+> -- Walt Whitman
