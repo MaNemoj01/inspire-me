@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> We are all faced with a series of great opportunities brilliantly disguised as impossible situations. 
-> -- Charles Swindoll
+> Your work is to discover your work and then, with all your heart, to give yourself to it.
+> -- Buddha
