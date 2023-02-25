@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Integrity is telling myself the truth. And honesty is telling the truth to other people.
-> -- Spencer Johnson
+> In matters of style, swim with the current; in matters of principle, stand like a rock.
+> -- Thomas Jefferson
