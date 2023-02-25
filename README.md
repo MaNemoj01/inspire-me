@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> The prettiest eyes have cried the most.
-> -- Unknown
+> Get mad, then get over it.
+> -- Colin Powell
