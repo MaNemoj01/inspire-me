@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Don't let the behavior of others destroy your inner peace.
-> -- Dalai Lama
+> When one door closes another door opens. 
+> -- Alexander Graham Bell
