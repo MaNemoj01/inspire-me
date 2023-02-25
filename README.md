@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> In matters of style, swim with the current; in matters of principle, stand like a rock.
-> -- Thomas Jefferson
+> Choose a job you love, and you will never have to work a day in your life. 
+> -- Confucius
