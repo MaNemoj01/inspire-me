@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Your work is to discover your work and then, with all your heart, to give yourself to it.
-> -- Buddha
+> Integrity is telling myself the truth. And honesty is telling the truth to other people.
+> -- Spencer Johnson
