@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> I must also have a dark side if I am to be whole.
-> -- Carl Jung
+> To achieve, you need thought. You have to know what you are doing and that's real power.
+> -- Ayn Rand
