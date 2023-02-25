@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Nothing can survive without food. Everything we consume acts either to heal us or to poison us.
-> -- Thich Nhat Hanh
+> The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting.
+> -- Zig Ziglar
