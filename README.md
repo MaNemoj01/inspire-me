@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Your mind will make you rich or poor, depending on the use you put to it.
-> -- Brian Tracy
+> Only he who has no use for the empire is fit to be entrusted with it.
+> -- Zhuangzi
