@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> It's better to stand by someone's side than by yourself.
-> -- Jack London
+> I am always doing what I cannot do yet, in order to learn how to do it.
+> -- Vincent van Gogh
