@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Begin at once to live, and count each separate day as a separate life.  
-> -- Seneca
+> Have the courage to follow your heart and intuition. They somehow know what you truly want to become.
+> -- Steve Jobs
