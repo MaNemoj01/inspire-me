@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years.
-> -- Richard Bach
+> Opportunities multiply as they are seized.
+> -- Sun Tzu
