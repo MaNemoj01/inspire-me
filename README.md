@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> First comes the shy wish. Then you must have the heart to have the dream. Then, you work, and work.  
-> -- Estee Lauder
+> Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years.
+> -- Richard Bach
