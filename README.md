@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Action may not always bring happiness, but there is no happiness without action.
-> -- William James
+> Your mind will make you rich or poor, depending on the use you put to it.
+> -- Brian Tracy
