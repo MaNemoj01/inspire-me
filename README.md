@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Rivers know this: there is no hurry. We shall get there some day.
-> -- A.A. Milne
+> It's better to stand by someone's side than by yourself.
+> -- Jack London
