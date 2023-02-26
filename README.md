@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Those who dream by day are cognizant of many things which escape those who dream only by night.
-> -- Vincent van Gogh
+> Action may not always bring happiness, but there is no happiness without action.
+> -- William James
