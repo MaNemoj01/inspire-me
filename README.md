@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> When you are totally at peace with yourself, nothing can shake you.
-> -- Deepam Chaterjee
+> If you can't, you must. If you must, you can.
+> -- Tony Robbins
