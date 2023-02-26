@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> If you can't, you must. If you must, you can.
-> -- Tony Robbins
+> Rivers know this: there is no hurry. We shall get there some day.
+> -- A.A. Milne
