@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> The pain of parting is nothing to the joy of meeting again.
-> -- Charles Dickens
+> When you are totally at peace with yourself, nothing can shake you.
+> -- Deepam Chaterjee
