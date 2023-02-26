@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> We must create our own world or we will die from inaction.
-> -- Robert Greene
+> Shoot for the moon, because even if you miss, you'll land among the stars.
+> -- Les Brown
