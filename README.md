@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Opportunities multiply as they are seized.
-> -- Sun Tzu
+> He who laughs at himself never runs out of things to laugh at.
+> -- Epictetus
