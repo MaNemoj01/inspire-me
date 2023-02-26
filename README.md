@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Shoot for the moon, because even if you miss, you'll land among the stars.
-> -- Les Brown
+> The pain of parting is nothing to the joy of meeting again.
+> -- Charles Dickens
