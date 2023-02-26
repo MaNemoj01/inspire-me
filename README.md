@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Courage is the willingness to engage in a risk-taking behavior regardless of whether the consequences are unknown or possibly adverse.
-> -- Alfred Adler
+> Don't waste time on excuses. Just get it done.
+> -- Ralph Marston
