@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> If we are honest with ourselves, most of us will have to admit that we live out our lives in an ocean of fear.
-> -- Jon Kabat-Zinn
+> First comes the shy wish. Then you must have the heart to have the dream. Then, you work, and work.  
+> -- Estee Lauder
