@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Only he who has no use for the empire is fit to be entrusted with it.
-> -- Zhuangzi
+> A good master leads you to the true master within. Only that master, who is your own higher self, can adequately answer all questions.
+> -- Ming-Dao Deng
