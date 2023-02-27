@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> The way to get started is to quit talking and begin doing.
-> -- Walt Disney
+> The first step is to establish that something is possible; then probability will occur.
+> -- Elon Musk
