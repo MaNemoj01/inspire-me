@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> He will win who knows when to fight and when not to fight.
-> -- Sun Tzu
+> Everything great that has ever happened to humanity has begun as a single thought in someone's mind.
+> -- Yanni
