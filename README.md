@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> He suffers more than necessary, who suffers before it is necessary.  
-> -- Seneca
+> In nature there is no alienation. Everything belongs.
+> -- Ming-Dao Deng
