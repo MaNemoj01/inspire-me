@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> A good master leads you to the true master within. Only that master, who is your own higher self, can adequately answer all questions.
-> -- Ming-Dao Deng
+> No man is happy who does not think himself so.
+> -- Norman Vincent Peale
