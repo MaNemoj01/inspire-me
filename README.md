@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Dreams have only one owner at a time. That's why dreamers are lonely.
-> -- William Faulkner
+> Confuse them with your silence and amaze them with your actions.
+> -- Unknown
