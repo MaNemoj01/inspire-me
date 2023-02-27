@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Everything great that has ever happened to humanity has begun as a single thought in someone's mind.
-> -- Yanni
+> Dreams have only one owner at a time. That's why dreamers are lonely.
+> -- William Faulkner
