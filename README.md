@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Looking after my health today gives me a better hope for tomorrow. 
-> -- Anne Wilson Schaef
+> The only difference between success and failure is the ability to take action.
+> -- Alexander Graham Bell
