@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> It is better to be looked over than overlooked.
-> -- Mae West
+> Looking after my health today gives me a better hope for tomorrow. 
+> -- Anne Wilson Schaef
