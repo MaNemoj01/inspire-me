@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> If the happiness and prosperity of other people depend on you, you have nothing to fear anymore.
-> -- Robert Greene
+> What one does is what counts. Not what one had the intention of doing.
+> -- Pablo Picasso
