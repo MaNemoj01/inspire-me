@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Many people spend more time looking at their failures than focusing on their successes.
-> -- Lolly Daskal
+> It is better to be looked over than overlooked.
+> -- Mae West
