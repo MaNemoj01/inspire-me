@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> The best dreams happen when you're awake.
-> -- Cherie Gilderbloom
+> 20 percent of your activities will account for 80 percent of your results.
+> -- Brian Tracy
