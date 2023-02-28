@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Have the courage to follow your heart and intuition. They somehow know what you truly want to become.
-> -- Steve Jobs
+> The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge.
+> -- Stephen Hawking
