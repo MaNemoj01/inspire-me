@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> To lead an orchestra, you must turn your back on the crowd.
-> -- Aristotle
+> If you are going to achieve excellence in big things, you develop the habit in little matters.
+> -- Colin Powell
