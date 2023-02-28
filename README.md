@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> If you hang out with chickens, you're going to cluck and if you hang out with eagles, you're going to fly.
-> -- Steve Maraboli
+> Life is like a beautiful melody, only the lyrics are messed up.
+> -- Hans Christian Andersen
