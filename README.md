@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> If you are going to achieve excellence in big things, you develop the habit in little matters.
-> -- Colin Powell
+> Take care of your cents: dollars will take care of themselves.
+> -- Thomas Jefferson
