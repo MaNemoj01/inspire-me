@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Take care of your cents: dollars will take care of themselves.
+> Do you want to know who you are? Don't ask. Act! Action will delineate and define you.
 > -- Thomas Jefferson
