@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge.
-> -- Stephen Hawking
+> Look to the beauty of this day, miracles are all around you.
+> -- Mary Engelbreit
