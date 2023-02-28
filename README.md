@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Knowledge is a treasure, but practice is the key to it.
-> -- Lao Tzu
+> Realize deeply that the present moment is all you have. Make the NOW the primary focus of your life. 
+> -- Eckhart Tolle
