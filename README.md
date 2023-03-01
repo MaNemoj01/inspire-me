@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Life is not a problem to be solved, but a reality to be experienced.
-> -- Soren Kierkegaard
+> No one is useless in this world who lightens the burdens of another.
+> -- Charles Dickens
