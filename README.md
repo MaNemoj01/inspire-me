@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Each day your life grows a day shorter. Make every move count.
-> -- Ming-Dao Deng
+> Health is the greatest of all possessions.
+> -- Jonathan Swift
