@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> See what you're doing wrong, laugh at it, change and do better.
-> -- Spencer Johnson
+> I am not what happened to me, I am what I choose to become.
+> -- Carl Jung
