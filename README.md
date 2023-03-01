@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Knowing others is wisdom, knowing yourself is enlightenment.
-> -- Lao Tzu
+> Be regular and orderly in your life, so that you may be violent and original in your work.
+> -- Gustave Flaubert
