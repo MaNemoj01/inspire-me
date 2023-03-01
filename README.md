@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Health is the greatest of all possessions.
-> -- Jonathan Swift
+> Success is liking yourself, liking what you do, and liking how you do it.
+> -- Maya Angelou
