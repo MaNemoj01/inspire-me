@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Like it or not, this moment is all we really have to work with.
-> -- Jon Kabat-Zinn
+> The real measure of your wealth is how much you'd be worth if you lost all your money.
+> -- Unknown
