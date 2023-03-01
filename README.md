@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Life itself is the most wonderful fairy tale.
-> -- Hans Christian Andersen
+> Better to have, and not need, than to need, and not have.
+> -- Franz Kafka
