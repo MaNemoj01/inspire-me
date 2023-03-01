@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Success is liking yourself, liking what you do, and liking how you do it.
-> -- Maya Angelou
+> Like it or not, this moment is all we really have to work with.
+> -- Jon Kabat-Zinn
