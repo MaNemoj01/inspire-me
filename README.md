@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> It is not enough to win a war; it is more important to organize the peace.
-> -- Aristotle
+> Make improvements, not excuses. Seek respect, not attention.
+> -- Roy T. Bennett
