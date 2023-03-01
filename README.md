@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Do you want to know who you are? Don't ask. Act! Action will delineate and define you.
-> -- Thomas Jefferson
+> It is not enough to win a war; it is more important to organize the peace.
+> -- Aristotle
