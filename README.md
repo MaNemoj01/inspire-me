@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> The best revenge is to be unlike him who performed the injury.
-> -- Marcus Aurelius
+> Each day your life grows a day shorter. Make every move count.
+> -- Ming-Dao Deng
