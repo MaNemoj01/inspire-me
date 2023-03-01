@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> We win by helping each other win.
-> -- Jack Butcher
+> See what you're doing wrong, laugh at it, change and do better.
+> -- Spencer Johnson
