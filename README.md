@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Live in the sunshine, swim the sea, drink the wild air.
-> -- Ralph Waldo Emerson
+> Life is not a problem to be solved, but a reality to be experienced.
+> -- Soren Kierkegaard
