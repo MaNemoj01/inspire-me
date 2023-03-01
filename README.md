@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Loving thoughts and actions are clearly beneficial for our physical and mental health.
-> -- Dalai Lama
+> We are all self-made, but only the successful will admit it.
+> -- Earl Nightingale
