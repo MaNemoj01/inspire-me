@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Live the moment for the moment.
-> -- Michael Jordan
+> We suffer for the simple reason that suffering is biologically useful. It is nature's preferred agent for inspiring change.
+> -- Mark Manson
