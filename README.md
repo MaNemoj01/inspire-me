@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Never be afraid to raise your voice for honesty and truth and compassion against injustice and lying and greed.
-> -- William Faulkner
+> Focused, hard work is the real key to success.
+> -- John Carmack
