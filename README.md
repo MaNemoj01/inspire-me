@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Not all of us can do great things. But we can do small things with great love.
-> -- Mother Teresa
+> He who permits himself to tell a lie once, finds it much easier to do it the second time.
+> -- Thomas Jefferson
