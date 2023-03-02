@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> When it hurts - observe. Life is trying to teach you something.
-> -- Anita Krizzan
+> It's OK to have your eggs in one basket as long as you control what happens to that basket.
+> -- Elon Musk
