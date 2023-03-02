@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> While we may not be able to control all that happens to us, we can control what happens inside us.
-> -- Benjamin Franklin
+> Not all of us can do great things. But we can do small things with great love.
+> -- Mother Teresa
