@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Take interest and even delight in doing the small things well.
-> -- Jim Rohn
+> While we may not be able to control all that happens to us, we can control what happens inside us.
+> -- Benjamin Franklin
