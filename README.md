@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> The first step is to establish that something is possible; then probability will occur.
-> -- Elon Musk
+> Take interest and even delight in doing the small things well.
+> -- Jim Rohn
