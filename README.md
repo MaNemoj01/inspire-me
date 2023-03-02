@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Successful people tend to become more successful because they are always thinking about their successes.
-> -- Brian Tracy
+> What one does is what counts. Not what one had the intention of doing.
+> -- Pablo Picasso
