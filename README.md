@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> If you want to find the secrets of the universe, think in terms of energy, frequency and vibration. 
-> -- Nikola Tesla
+> Circumstances do not make the man, they reveal him.
+> -- James Allen
