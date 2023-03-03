@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Well done is better than well said.
-> -- Benjamin Franklin
+> Self-knowledge is the beginning of self-correction.
+> -- Norman Vincent Peale
