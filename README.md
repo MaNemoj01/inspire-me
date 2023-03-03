@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> The smallest act of kindness is worth more than the greatest intention.  
-> -- Kahlil Gibran
+> To be truly ignorant, be content with your own knowledge.
+> -- Zhuangzi
