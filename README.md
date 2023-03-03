@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Common sense is not so common. 
-> -- Voltaire
+> Leaders spend 5% of their time on the problem & 95% of their time on the solution. Get over it & crush it!
+> -- Tony Robbins
