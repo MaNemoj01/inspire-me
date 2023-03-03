@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Circumstances do not make the man, they reveal him.
-> -- James Allen
+> The smallest act of kindness is worth more than the greatest intention.  
+> -- Kahlil Gibran
