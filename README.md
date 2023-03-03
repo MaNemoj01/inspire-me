@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Life needs to be more than just solving problems every day. You need to wake up and be excited about the future.
-> -- Elon Musk
+> Adventure is worthwhile in itself.
+> -- Amelia Earhart
