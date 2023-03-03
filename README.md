@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Life is about choice. You can choose to be a victim or anything else you like to be.
-> -- Celestine Chua
+> The heart that gives, gathers.
+> -- Lao Tzu
