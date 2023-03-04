@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Success is going from failure to failure without losing your enthusiasm
-> -- Winston Churchill
+> Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor.
+> -- Thich Nhat Hanh
