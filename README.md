@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> The way to change others' minds is with affection, and not anger.
-> -- Dalai Lama
+> It is not how much we have, but how much we enjoy, that makes happiness.
+> -- Charles Spurgeon
