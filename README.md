@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Nothing is easier than fault finding.
-> -- Og Mandino
+> Freedom lies in being bold.
+> -- Robert Frost
