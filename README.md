@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> When you know what you want, and want it bad enough, you will find a way to get it.
-> -- Jim Rohn
+> The greatest deception men suffer is from their own opinions.
+> -- Leonardo da Vinci
