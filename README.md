@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Education breeds confidence. Confidence breeds hope. Hope breeds peace.
-> -- Confucius
+> Why fit in when you were born to stand out?
+> -- Dr. Seuss
