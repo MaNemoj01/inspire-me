@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Why fit in when you were born to stand out?
-> -- Dr. Seuss
+> Success is going from failure to failure without losing your enthusiasm
+> -- Winston Churchill
