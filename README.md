@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> All I can do is be me, whoever that is.
-> -- Bob Dylan
+> The truly rich men are the ones who have health, loved ones and a work they love.
+> -- Maxime Lagace
