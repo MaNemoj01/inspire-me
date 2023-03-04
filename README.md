@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> It always seems impossible until it's done.
-> -- Nelson Mandela
+> Be royal in your own fashion: act like a king to be treated like one.
+> -- Robert Greene
