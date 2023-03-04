@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Freedom lies in being bold.
-> -- Robert Frost
+> Life is a question and how we live it is our answer.
+> -- Gary Keller
