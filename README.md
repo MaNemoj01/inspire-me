@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor.
-> -- Thich Nhat Hanh
+> The older you get, the better you get. Unless you're a banana.
+> -- Betty White
