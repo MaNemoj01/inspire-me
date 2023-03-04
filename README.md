@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Normal is the average of deviance.
-> -- Rita Mae Brown
+> Once a decision was made, I didn't worry about it afterward.
+> -- Harry S. Truman
