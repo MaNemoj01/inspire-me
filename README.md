@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way.
-> -- Robert Kiyosaki
+> To plant a garden is to believe in tomorrow.  
+> -- Audrey Hepburn
