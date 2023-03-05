@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Take the attitude of a student. Never be too big to ask questions. Never know too much to learn something new.
-> -- Og Mandino
+> To travel is to be alive, but to get somewhere is to be dead.
+> -- Alan Watts
