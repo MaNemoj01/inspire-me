@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Create each day anew.
-> -- Morihei Ueshiba
+> Respect was invented to cover the empty place where love should be.
+> -- Leo Tolstoy
