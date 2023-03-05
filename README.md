@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> It is better to fail in originality than to succeed in imitation.
-> -- Herman Melville
+> When you are talented you do it whatever it is until your fingers bleed or your eyes are ready to fall out of your head.
+> -- Stephen King
