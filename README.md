@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Respect was invented to cover the empty place where love should be.
-> -- Leo Tolstoy
+> A Quitter never wins - and - a Winner never quits.
+> -- Napoleon Hill
