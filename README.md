@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> The salvation of the world lies in the human heart.
-> -- Vaclav Havel
+> If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.
+> -- Pema Chodron
