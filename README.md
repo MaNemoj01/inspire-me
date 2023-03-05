@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> To plant a garden is to believe in tomorrow.  
-> -- Audrey Hepburn
+> It is better to fail in originality than to succeed in imitation.
+> -- Herman Melville
