@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Nothing is easier than fault finding.
+> Always do your best. What you plant now, you will harvest later.
 > -- Og Mandino
