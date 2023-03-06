@@ -10,16 +10,19 @@ const dataPath = path.join(rootDir, './data/data.json');
 const dataContent = fs.readFileSync(dataPath);
 const parsedData = JSON.parse(dataContent)
 
-const updatedContent = `# Inspirational quote of the day
+const updatedContent = `
+<div align="center">
 
-<p align="center">
-    <img src="./data/photo.jpeg" alt="Beautiful nature photo" width="320" height="180">
-</p>
+# Inspirational quote of the day
 
-*Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
+<img src="./data/photo.jpeg" alt="Beautiful nature photo" width="320" height="180">
 
-> ${parsedData.inspirationOfDay.q}
-> -- ${parsedData.inspirationOfDay.a}
+<sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
+
+
+${parsedData.inspirationOfDay.h}
+
+</div>
 `
 
 fs.writeFileSync(readMePath, updatedContent)
