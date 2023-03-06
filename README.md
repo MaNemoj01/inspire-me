@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> What you are afraid of is never as bad as what you imagine. The fear you let build up in your mind is worse than the situation that actually exists.
-> -- Spencer Johnson
+> Welcome every morning with a smile. Look on the new day as another gift from your Creator, another golden opportunity.
+> -- Og Mandino
