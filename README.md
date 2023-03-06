@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> Every day passes whether you participate or not.
-> -- Ming-Dao Deng
+> I succeeded by saying what everyone else is thinking.
+> -- Joan Rivers
