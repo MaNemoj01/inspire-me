@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> When you are talented you do it whatever it is until your fingers bleed or your eyes are ready to fall out of your head.
-> -- Stephen King
+> The great use of life is to spend it for something that will outlast it.
+> -- William James
