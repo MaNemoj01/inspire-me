@@ -6,5 +6,5 @@
 
 *Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).*
 
-> It's not what you say out of your mouth that determines your life, it's what you whisper to yourself that has the most power!
-> -- Robert Kiyosaki
+> Don't hate the player. Change the game.
+> -- Steve Harvey
