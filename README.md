@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Do not use life to give life to death. Do not use death to bring death to life.&rdquo; &mdash; <footer>Zhuangzi</footer></blockquote>
+<blockquote>&ldquo;Time doesn't heal emotional pain, you need to learn how to let go.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
 
 </div>
