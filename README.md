@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Do you want to know who you are? Don't ask. Act! Action will delineate and define you.&rdquo; &mdash; <footer>Thomas Jefferson</footer></blockquote>
+<blockquote>&ldquo;Listen to what you know instead of what you fear.&rdquo; &mdash; <footer>Richard Bach</footer></blockquote>
 
 </div>
