@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Obstacles are those frightful things you see when you take your eyes off your goal.&rdquo; &mdash; <footer>Henry Ford</footer></blockquote>
+<blockquote>&ldquo;It doesn't matter how slow you go, as long as you don't stop.&rdquo; &mdash; <footer>Confucius</footer></blockquote>
 
 </div>
