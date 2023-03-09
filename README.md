@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Distant water does not put out a nearby fire.&rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
+<blockquote>&ldquo;A flower falls, even though we love it; and a weed grows, even though we do not love it.&rdquo; &mdash; <footer>Dogen</footer></blockquote>
 
 </div>
