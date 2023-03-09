@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It is easy to discover what another has discovered before.&rdquo; &mdash; <footer>Christopher Columbus</footer></blockquote>
+<blockquote>&ldquo;Enlightenment is intimacy with all things.&rdquo; &mdash; <footer>Dogen</footer></blockquote>
 
 </div>
