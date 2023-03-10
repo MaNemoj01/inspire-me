@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Where we fall are the stepping-stones for our journey.&rdquo; &mdash; <footer>Lolly Daskal</footer></blockquote>
+<blockquote>&ldquo;Success is good at any age, but the sooner you find it, the longer you will enjoy it.&rdquo; &mdash; <footer>Napoleon Hill</footer></blockquote>
 
 </div>
