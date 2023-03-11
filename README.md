@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;What's the point in being smart enough to read, if everything you read makes you dumb?&rdquo; &mdash; <footer>C. Sean McGee</footer></blockquote>
+<blockquote>&ldquo;If you see a get rich quick scheme, that's someone else trying to get rich off of you.&rdquo; &mdash; <footer>Naval Ravikant</footer></blockquote>
 
 </div>
