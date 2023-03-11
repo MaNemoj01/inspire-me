@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It's easy to be a critic, but being a doer requires effort, risk, and change.  &rdquo; &mdash; <footer>Wayne Dyer</footer></blockquote>
+<blockquote>&ldquo;Absence makes the heart grow fonder.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
 
 </div>
