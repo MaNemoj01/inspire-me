@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Your goals are the road maps that guide you and show you what is possible for your life.&rdquo; &mdash; <footer>Les Brown</footer></blockquote>
+<blockquote>&ldquo;There are as many opinions as there are experts.&rdquo; &mdash; <footer>Franklin D. Roosevelt</footer></blockquote>
 
 </div>
