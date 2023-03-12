@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you want to see things just as they are, then you yourself must practice just as you are.&rdquo; &mdash; <footer>Dogen</footer></blockquote>
+<blockquote>&ldquo;Don't bother people for help without first trying to solve the problem yourself.&rdquo; &mdash; <footer>Colin Powell</footer></blockquote>
 
 </div>
