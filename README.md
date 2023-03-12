@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The idea of ourselves is our escape from the fact of what we really are.&rdquo; &mdash; <footer>Jiddu Krishnamurti</footer></blockquote>
+<blockquote>&ldquo;Success is stumbling from failure to failure with no loss of enthusiasm.&rdquo; &mdash; <footer>Winston Churchill</footer></blockquote>
 
 </div>
