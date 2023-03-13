@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Maybe you are searching among the branches, for what only appears in the roots.&rdquo; &mdash; <footer>Rumi</footer></blockquote>
+<blockquote>&ldquo;The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting.&rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>
 
 </div>
