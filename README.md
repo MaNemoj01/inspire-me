@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The chief cause of failure and unhappiness is trading what you want most for what you want right now.&rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>
+<blockquote>&ldquo;Believe you can and you're halfway there.&rdquo; &mdash; <footer>Theodore Roosevelt</footer></blockquote>
 
 </div>
