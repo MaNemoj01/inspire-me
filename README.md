@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;All we have to decide is what to do with the time that is given to us.&rdquo; &mdash; <footer>J.R.R. Tolkien</footer></blockquote>
+<blockquote>&ldquo;In order to be irreplaceable one must always be different.&rdquo; &mdash; <footer>Coco Chanel</footer></blockquote>
 
 </div>
