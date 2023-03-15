@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;As soon as you truly commit to making something happen, the 'how' will reveal itself.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
+<blockquote>&ldquo;We can either add to our character each day, or we can fritter away our energies in distractions.&rdquo; &mdash; <footer>Ming-Dao Deng</footer></blockquote>
 
 </div>
