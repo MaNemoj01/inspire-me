@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;First say to yourself what you would be; and then do what you have to do.&rdquo; &mdash; <footer>Epictetus</footer></blockquote>
+<blockquote>&ldquo;It is better to light a single candle than to curse the darkness.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
 
 </div>
