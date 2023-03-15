@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Enjoy life. There's plenty of time to be dead.&rdquo; &mdash; <footer>Hans Christian Andersen</footer></blockquote>
+<blockquote>&ldquo;Everybody's life is either rewarding or an example.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
 
 </div>
