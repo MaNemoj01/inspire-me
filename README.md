@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Man should fear never beginning to live.&rdquo; &mdash; <footer>Marcus Aurelius</footer></blockquote>
+<blockquote>&ldquo;Don't let the noise of others' opinions drown out your own inner voice.&rdquo; &mdash; <footer>Steve Jobs</footer></blockquote>
 
 </div>
