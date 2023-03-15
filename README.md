@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Amateurs sit and wait for inspiration, the rest of us just get up and got to work.&rdquo; &mdash; <footer>Stephen King</footer></blockquote>
+<blockquote>&ldquo;First say to yourself what you would be; and then do what you have to do.&rdquo; &mdash; <footer>Epictetus</footer></blockquote>
 
 </div>
