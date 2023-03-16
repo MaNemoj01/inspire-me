@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Never do to others what you would not like them to do to you. &rdquo; &mdash; <footer>Confucius</footer></blockquote>
+<blockquote>&ldquo;To seek is to suffer. To seek nothing is bliss.&rdquo; &mdash; <footer>Bodhidharma</footer></blockquote>
 
 </div>
