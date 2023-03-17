@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Being ignorant is not so much a shame, as being unwilling to learn.&rdquo; &mdash; <footer>Benjamin Franklin</footer></blockquote>
+<blockquote>&ldquo;You can start changing our world for the better daily, no matter how small the action.&rdquo; &mdash; <footer>Nelson Mandela</footer></blockquote>
 
 </div>
