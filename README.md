@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Live your life as an exclamation rather than an explanation.&rdquo; &mdash; <footer>Isaac Newton</footer></blockquote>
+<blockquote>&ldquo;We can spend our whole lives escaping from the monsters of our minds.&rdquo; &mdash; <footer>Pema Chodron</footer></blockquote>
 
 </div>
