@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;People have the illusion that all over the world, all the time, all kinds of fantastic things are happening.&rdquo; &mdash; <footer>David Brinkley</footer></blockquote>
+<blockquote>&ldquo;Cherish forever what makes you unique, cuz you're really a yawn if it goes.&rdquo; &mdash; <footer>Bette Midler</footer></blockquote>
 
 </div>
