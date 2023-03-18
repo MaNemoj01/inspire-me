@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Failure is acceptable. Not trying is a whole different ball park.&rdquo; &mdash; <footer>Michael Jordan</footer></blockquote>
+<blockquote>&ldquo;What's right is what's left if you do everything else wrong.&rdquo; &mdash; <footer>Robin Williams</footer></blockquote>
 
 </div>
