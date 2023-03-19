@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;He who has overcome his fears will truly be free.&rdquo; &mdash; <footer>Aristotle</footer></blockquote>
+<blockquote>&ldquo;You're never given a dream without also being given the power to make it true.&rdquo; &mdash; <footer>Richard Bach</footer></blockquote>
 
 </div>
