@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The most difficult times for many of us are the ones we give ourselves.&rdquo; &mdash; <footer>Pema Chodron</footer></blockquote>
+<blockquote>&ldquo;It is easy to discover what another has discovered before.&rdquo; &mdash; <footer>Christopher Columbus</footer></blockquote>
 
 </div>
