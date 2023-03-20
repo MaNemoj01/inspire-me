@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Every moment of happiness requires a great amount of Ignorance&rdquo; &mdash; <footer>Honore de Balzac</footer></blockquote>
+<blockquote>&ldquo;Life is the art of drawing sufficient conclusions from insufficient premises.&rdquo; &mdash; <footer>Samuel Butler</footer></blockquote>
 
 </div>
