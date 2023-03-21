@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;What gets measured gets improved.&rdquo; &mdash; <footer>Robin Sharma</footer></blockquote>
+<blockquote>&ldquo;Care about what other people think and you will always be their prisoner.&rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>
 
 </div>
