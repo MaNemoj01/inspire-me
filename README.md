@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Happiness is not the absence of problems, it's the ability to deal with them.&rdquo; &mdash; <footer>Steve Maraboli</footer></blockquote>
+<blockquote>&ldquo;Identify your problems, but give your power and energy to solutions.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
 
 </div>
