@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;To injure an opponent is to injure yourself. To control aggression without inflicting injury is the Art of Peace.&rdquo; &mdash; <footer>Morihei Ueshiba</footer></blockquote>
+<blockquote>&ldquo;Always do your best. What you plant now, you will harvest later.&rdquo; &mdash; <footer>Og Mandino</footer></blockquote>
 
 </div>
