@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Nothing good ever comes of violence.&rdquo; &mdash; <footer>Martin Luther</footer></blockquote>
+<blockquote>&ldquo;You are never too old to become younger.&rdquo; &mdash; <footer>Mae West</footer></blockquote>
 
 </div>
