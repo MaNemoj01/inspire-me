@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;An empty head is not really empty; it is stuffed with rubbish. Hence the difficulty of forcing anything into an empty head.&rdquo; &mdash; <footer>Eric Hoffer</footer></blockquote>
+<blockquote>&ldquo;Great deeds are usually wrought at great risks.&rdquo; &mdash; <footer>Herodotus</footer></blockquote>
 
 </div>
