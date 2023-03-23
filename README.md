@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Courage is knowing what not to fear.&rdquo; &mdash; <footer>Plato</footer></blockquote>
+<blockquote>&ldquo;The scariest moment is always just before you start. After that, things can only get better.&rdquo; &mdash; <footer>Stephen King</footer></blockquote>
 
 </div>
