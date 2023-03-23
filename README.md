@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;There are no uninteresting things, only uninterested people.&rdquo; &mdash; <footer>Gilbert Chesterton</footer></blockquote>
+<blockquote>&ldquo;Being deeply loved by someone gives you strength, while loving someone deeply gives you courage. &rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>
 
 </div>
