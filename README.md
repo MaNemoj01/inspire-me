@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Listening well is as powerful as talking well, and is also as essential to true conversation.&rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
+<blockquote>&ldquo;If you want something new, you have to stop doing something old.&rdquo; &mdash; <footer>Peter Drucker</footer></blockquote>
 
 </div>
