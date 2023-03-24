@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Life isn't about finding yourself. Life is about creating yourself.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote>
+<blockquote>&ldquo;Be true to yourself, help others, make each day your masterpiece&rdquo; &mdash; <footer>John Wooden</footer></blockquote>
 
 </div>
