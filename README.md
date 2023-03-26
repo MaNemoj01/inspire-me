@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You don't get in life what you want; you get in life what you are.&rdquo; &mdash; <footer>Les Brown</footer></blockquote>
+<blockquote>&ldquo;Youth is happy because it has the ability to see beauty. Anyone who keeps the ability to see beauty never grows old. &rdquo; &mdash; <footer>Franz Kafka</footer></blockquote>
 
 </div>
