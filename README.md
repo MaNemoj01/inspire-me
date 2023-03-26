@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Fear can hold you prisoner. Hope can set you free.&rdquo; &mdash; <footer>Stephen King</footer></blockquote>
+<blockquote>&ldquo;What is a friend? A single soul dwelling in two bodies.&rdquo; &mdash; <footer>Aristotle</footer></blockquote>
 
 </div>
