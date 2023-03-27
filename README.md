@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Success is liking yourself, liking what you do, and liking how you do it.&rdquo; &mdash; <footer>Maya Angelou</footer></blockquote>
+<blockquote>&ldquo;The giving of love is an education in itself.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
 
 </div>
