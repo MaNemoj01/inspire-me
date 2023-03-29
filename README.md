@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Success is liking yourself, liking what you do, and liking how you do it.&rdquo; &mdash; <footer>Maya Angelou</footer></blockquote>
+<blockquote>&ldquo;There is no limit to the amount of good you can do if you don't care who gets the credit.&rdquo; &mdash; <footer>Ronald Reagan</footer></blockquote>
 
 </div>
