@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;To do two things at once is to do neither.&rdquo; &mdash; <footer>Publilius Syrus</footer></blockquote>
+<blockquote>&ldquo;Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice.&rdquo; &mdash; <footer>Naval Ravikant</footer></blockquote>
 
 </div>
