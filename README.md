@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;When uncomfortable, my instinct is not to avoid the discomfort but to become at peace with it.&rdquo; &mdash; <footer>Josh Waitzkin</footer></blockquote>
+<blockquote>&ldquo;Believe you can and you will be halfway there.&rdquo; &mdash; <footer>Lolly Daskal</footer></blockquote>
 
 </div>
