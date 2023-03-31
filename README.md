@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;In order to attain the impossible, one must attempt the absurd.&rdquo; &mdash; <footer>Miguel de Cervantes</footer></blockquote>
+<blockquote>&ldquo;You must learn to let go. Release the stress. You were never in control anyway.&rdquo; &mdash; <footer>Steve Maraboli</footer></blockquote>
 
 </div>
