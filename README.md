@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Men go to far greater lengths to avoid what they fear than to obtain what they desire.&rdquo; &mdash; <footer>Dan Brown</footer></blockquote>
+<blockquote>&ldquo;A man is but a product of his thoughts. What he thinks he becomes.&rdquo; &mdash; <footer>Mahatma Gandhi</footer></blockquote>
 
 </div>
