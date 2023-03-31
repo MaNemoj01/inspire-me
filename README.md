@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Wisdom is the oneness of mind that guides and permeates all things.&rdquo; &mdash; <footer>Heraclitus</footer></blockquote>
+<blockquote>&ldquo;To be great is to be misunderstood.&rdquo; &mdash; <footer>Ralph Waldo Emerson</footer></blockquote>
 
 </div>
