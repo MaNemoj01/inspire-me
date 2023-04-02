@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Success is the progressive realization of a worthy goal or ideal.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>
+<blockquote>&ldquo;What a book a devil's chaplain might write on the clumsy, wasteful, blundering, low, and horribly cruel work of nature!&rdquo; &mdash; <footer>Charles Darwin</footer></blockquote>
 
 </div>
