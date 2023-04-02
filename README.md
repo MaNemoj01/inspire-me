@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.&rdquo; &mdash; <footer>Og Mandino</footer></blockquote>
+<blockquote>&ldquo;Ponder and deliberate before you make a move.&rdquo; &mdash; <footer>Sun Tzu</footer></blockquote>
 
 </div>
