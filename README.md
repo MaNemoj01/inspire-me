@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Absence makes the heart grow fonder.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
+<blockquote>&ldquo;A woman unsatisfied must have luxuries. But a woman who loves a man would sleep on a board.&rdquo; &mdash; <footer>D. H. Lawrence</footer></blockquote>
 
 </div>
