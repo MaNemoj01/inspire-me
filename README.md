@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Even though you are on the right track - you will get run over if you just sit there.&rdquo; &mdash; <footer>Will Rogers</footer></blockquote>
+<blockquote>&ldquo;Happiness is a gift and the trick is not to expect it, but to delight in it when it comes.&rdquo; &mdash; <footer>Charles Dickens</footer></blockquote>
 
 </div>
