@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The less you talk about your shame, the more of it you have.&rdquo; &mdash; <footer>Mark Manson</footer></blockquote>
+<blockquote>&ldquo;I thought how unpleasant it is to be locked out; and I thought how it is worse, perhaps, to be locked in.&rdquo; &mdash; <footer>Virginia Woolf</footer></blockquote>
 
 </div>
