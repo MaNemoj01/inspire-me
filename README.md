@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A journey of a thousand miles begins with a single step.&rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>
+<blockquote>&ldquo;A successful man is one who can lay a firm foundation with the bricks others have thrown at him.  &rdquo; &mdash; <footer>David Brinkley</footer></blockquote>
 
 </div>
