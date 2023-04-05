@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;There is no greatness where there is not simplicity, goodness, and truth.&rdquo; &mdash; <footer>Leo Tolstoy</footer></blockquote>
+<blockquote>&ldquo;Discipline is the mark of intelligent living.&rdquo; &mdash; <footer>Sathya Sai Baba</footer></blockquote>
 
 </div>
