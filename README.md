@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Everyone has the right to make his own decisions, but none has the right to force his decision on others.&rdquo; &mdash; <footer>Ayn Rand</footer></blockquote>
+<blockquote>&ldquo;A lie can travel half way around the world while the truth is putting on its shoes.&rdquo; &mdash; <footer>Mark Twain</footer></blockquote>
 
 </div>
