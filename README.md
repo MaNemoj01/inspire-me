@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Do not take life too seriously. You will never get out of it alive.&rdquo; &mdash; <footer>Elbert Hubbard</footer></blockquote>
+<blockquote>&ldquo;It is passion that makes man live; wisdom makes one only last.&rdquo; &mdash; <footer>Nicolas Chamfort</footer></blockquote>
 
 </div>
