@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The best teacher is experience and not through someone's distorted point of view.&rdquo; &mdash; <footer>Jack Kerouac</footer></blockquote>
+<blockquote>&ldquo;An empty head is not really empty; it is stuffed with rubbish. Hence the difficulty of forcing anything into an empty head.&rdquo; &mdash; <footer>Eric Hoffer</footer></blockquote>
 
 </div>
