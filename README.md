@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The seasons do not push one another; neither do clouds race the wind across the sky. All things happen in their own good time.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>
+<blockquote>&ldquo;Always be a first rate version of yourself and not a second rate version of someone else.&rdquo; &mdash; <footer>Judy Garland</footer></blockquote>
 
 </div>
