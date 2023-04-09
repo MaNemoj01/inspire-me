@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Anything you may hold firmly in your imagination can be yours.&rdquo; &mdash; <footer>William James</footer></blockquote>
+<blockquote>&ldquo;Everyday you can take a tiny step in the right direction.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 
 </div>
