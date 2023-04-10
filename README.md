@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A rational person can find peace by cultivating indifference to things outside of their control.&rdquo; &mdash; <footer>Naval Ravikant</footer></blockquote>
+<blockquote>&ldquo;When people are free to do as they please, they usually imitate each other.&rdquo; &mdash; <footer>Eric Hoffer</footer></blockquote>
 
 </div>
