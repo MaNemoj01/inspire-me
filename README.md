@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Don't let the behavior of others destroy your inner peace.&rdquo; &mdash; <footer>Dalai Lama</footer></blockquote>
+<blockquote>&ldquo;The truly rich men are the ones who have health, loved ones and a work they love.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>
 
 </div>
