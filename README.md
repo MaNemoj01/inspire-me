@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Luck is a matter of preparation meeting opportunity.&rdquo; &mdash; <footer>Oprah Winfrey</footer></blockquote>
+<blockquote>&ldquo;Everyone you admire was once a beginner.&rdquo; &mdash; <footer>Jack Butcher</footer></blockquote>
 
 </div>
