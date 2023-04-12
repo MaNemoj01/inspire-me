@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It is hard to fail, but it is worse never to have tried to succeed.&rdquo; &mdash; <footer>Theodore Roosevelt</footer></blockquote>
+<blockquote>&ldquo;The only limits in your life are those that you set yourself.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
 
 </div>
