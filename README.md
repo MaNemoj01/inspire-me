@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Those who can make you believe absurdities can make you commit atrocities. &rdquo; &mdash; <footer>Voltaire</footer></blockquote>
+<blockquote>&ldquo;If you don't program yourself, life will program you.&rdquo; &mdash; <footer>Les Brown</footer></blockquote>
 
 </div>
