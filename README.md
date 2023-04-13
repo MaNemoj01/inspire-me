@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Presents are made for the pleasure of who gives them, not the merits of who receives them.&rdquo; &mdash; <footer>Carlos Ruiz Zafon</footer></blockquote>
+<blockquote>&ldquo;There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them.&rdquo; &mdash; <footer>Denis Waitley</footer></blockquote>
 
 </div>
