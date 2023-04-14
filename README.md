@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Forgive yourself for your faults and your mistakes and move on.&rdquo; &mdash; <footer>Les Brown</footer></blockquote>
+<blockquote>&ldquo;Winners never quit and quitters never win.&rdquo; &mdash; <footer>Vince Lombardi</footer></blockquote>
 
 </div>
