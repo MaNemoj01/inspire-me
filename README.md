@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Nothing we see or hear is perfect. But right there in the imperfection is perfect reality.&rdquo; &mdash; <footer>Shunryu Suzuki</footer></blockquote>
+<blockquote>&ldquo;Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>
 
 </div>
