@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The most important thing in communication is to hear what isn't being said.&rdquo; &mdash; <footer>Peter Drucker</footer></blockquote>
+<blockquote>&ldquo;When you are tempted to give up, your breakthrough is probably just around the corner.&rdquo; &mdash; <footer>Joyce Meyer</footer></blockquote>
 
 </div>
