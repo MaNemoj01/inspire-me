@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Your first and foremost job as a leader is to take charge of your own energy and then help to orchestrate the energy of those around you.&rdquo; &mdash; <footer>Peter Drucker</footer></blockquote>
+<blockquote>&ldquo;I believe that potential is unlimited - success depends on daring to act on dreams.   &rdquo; &mdash; <footer>Estee Lauder</footer></blockquote>
 
 </div>
