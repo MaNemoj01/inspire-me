@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;As mortals, we're ruled by conditions, not by ourselves.&rdquo; &mdash; <footer>Bodhidharma</footer></blockquote>
+<blockquote>&ldquo;Without the rain there would be no rainbow.&rdquo; &mdash; <footer>Gilbert Chesterton</footer></blockquote>
 
 </div>
