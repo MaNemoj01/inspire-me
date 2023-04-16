@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Real learning comes about when the competitive spirit has ceased.&rdquo; &mdash; <footer>Jiddu Krishnamurti</footer></blockquote>
+<blockquote>&ldquo;If your mind is empty, it is always ready for anything, it is open to everything.&rdquo; &mdash; <footer>Shunryu Suzuki</footer></blockquote>
 
 </div>
