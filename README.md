@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If I love myself I love you. If I love you I love myself.&rdquo; &mdash; <footer>Rumi</footer></blockquote>
+<blockquote>&ldquo;To perceive is to suffer.&rdquo; &mdash; <footer>Aristotle</footer></blockquote>
 
 </div>
