@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If your happiness depends on what somebody else does, I guess you do have a problem.&rdquo; &mdash; <footer>Richard Bach</footer></blockquote>
+<blockquote>&ldquo;Some of us learn from other people's mistakes and the rest of us have to be other people.  &rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>
 
 </div>
