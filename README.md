@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Either you choose to stay in the shallow end of the pool or you go out into the ocean.&rdquo; &mdash; <footer>Christopher Reeve</footer></blockquote>
+<blockquote>&ldquo;You can't climb the ladder of success with your hands in your pockets.&rdquo; &mdash; <footer>Arnold Schwarzenegger</footer></blockquote>
 
 </div>
