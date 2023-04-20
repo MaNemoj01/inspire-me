@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;When you love someone, you love the person as they are, and not as you'd like them to be.&rdquo; &mdash; <footer>Leo Tolstoy</footer></blockquote>
+<blockquote>&ldquo;Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
 
 </div>
