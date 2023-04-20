@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The salvation of the world lies in the human heart.&rdquo; &mdash; <footer>Vaclav Havel</footer></blockquote>
+<blockquote>&ldquo;The most difficult times for many of us are the ones we give ourselves.&rdquo; &mdash; <footer>Pema Chodron</footer></blockquote>
 
 </div>
