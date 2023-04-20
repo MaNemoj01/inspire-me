@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference.&rdquo; &mdash; <footer>Robert Frost</footer></blockquote>
+<blockquote>&ldquo;Great things are not accomplished by those who yield to trends and fads and popular opinion.&rdquo; &mdash; <footer>Jack Kerouac</footer></blockquote>
 
 </div>
