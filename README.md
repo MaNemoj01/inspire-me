@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Play your part in life, but never forget that it is only a role.&rdquo; &mdash; <footer>Paramahansa Yogananda</footer></blockquote>
+<blockquote>&ldquo;The quality of your life is determined by the quality of your thoughts.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 
 </div>
