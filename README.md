@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Life is trying things to see if they work.&rdquo; &mdash; <footer>Ray Bradbury</footer></blockquote>
+<blockquote>&ldquo;The prettiest eyes have cried the most.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 
 </div>
