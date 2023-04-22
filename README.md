@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Trusting our intuition often saves us from disaster. &rdquo; &mdash; <footer>Anne Wilson Schaef</footer></blockquote>
+<blockquote>&ldquo;It is easier to fight for one's principles than to live up to them. &rdquo; &mdash; <footer>Alfred Adler</footer></blockquote>
 
 </div>
