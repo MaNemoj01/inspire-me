@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;To be fully alive, fully human, and completely awake is to be continually thrown out of the nest.&rdquo; &mdash; <footer>Pema Chodron</footer></blockquote>
+<blockquote>&ldquo;The wisest men follow their own direction.&rdquo; &mdash; <footer>Euripides</footer></blockquote>
 
 </div>
