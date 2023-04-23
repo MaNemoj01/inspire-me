@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you truly love Nature, you will find beauty everywhere. &rdquo; &mdash; <footer>Vincent van Gogh</footer></blockquote>
+<blockquote>&ldquo;A Hero is an ordinary individual who finds the strength to persevere and endure in spite of overwhelming obstacles.&rdquo; &mdash; <footer>Christopher Reeve</footer></blockquote>
 
 </div>
