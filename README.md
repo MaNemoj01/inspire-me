@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Loss is nothing else but change and change is nature's delight.&rdquo; &mdash; <footer>Marcus Aurelius</footer></blockquote>
+<blockquote>&ldquo;Great ones are willing to get burned time and again as they sharpen their swords in the fire.&rdquo; &mdash; <footer>Josh Waitzkin</footer></blockquote>
 
 </div>
