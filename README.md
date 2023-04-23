@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The key to immortality is first living a life worth remembering. &rdquo; &mdash; <footer>Bruce Lee</footer></blockquote>
+<blockquote>&ldquo;Constantly think about how you could be doing things better.&rdquo; &mdash; <footer>Elon Musk</footer></blockquote>
 
 </div>
