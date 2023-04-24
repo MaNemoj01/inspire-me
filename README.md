@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Behind every beautiful thing, there's some kind of pain.&rdquo; &mdash; <footer>Bob Dylan</footer></blockquote>
+<blockquote>&ldquo;What's obvious to you isn't obvious to most people. Operate from this perspective and you'll help more people.&rdquo; &mdash; <footer>Jack Butcher</footer></blockquote>
 
 </div>
