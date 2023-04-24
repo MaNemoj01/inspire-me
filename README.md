@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;We build too many walls and not enough bridges.&rdquo; &mdash; <footer>Isaac Newton</footer></blockquote>
+<blockquote>&ldquo;Boldness makes even the smallest animal dangerous.&rdquo; &mdash; <footer>Robert Greene</footer></blockquote>
 
 </div>
