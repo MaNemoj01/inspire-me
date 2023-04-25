@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Never stand begging for that which you have the power to earn.&rdquo; &mdash; <footer>Miguel de Cervantes</footer></blockquote>
+<blockquote>&ldquo;I didn't get there by wishing for it or hoping for it, but by working for it.&rdquo; &mdash; <footer>Estee Lauder</footer></blockquote>
 
 </div>
