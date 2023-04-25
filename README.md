@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The meaning of life is to find your gift. The purpose of life is to give it away.&rdquo; &mdash; <footer>Pablo Picasso</footer></blockquote>
+<blockquote>&ldquo;Believe that life is worth living and your belief will help create the fact.&rdquo; &mdash; <footer>William James</footer></blockquote>
 
 </div>
