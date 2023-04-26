@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Your time is limited, so don't waste it living someone elses. life.&rdquo; &mdash; <footer>Steve Jobs</footer></blockquote>
+<blockquote>&ldquo;Whenever people agree with me I always feel I must be wrong.&rdquo; &mdash; <footer>Oscar Wilde</footer></blockquote>
 
 </div>
