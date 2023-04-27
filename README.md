@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;We must be free not because we claim freedom, but because we practice it.&rdquo; &mdash; <footer>William Faulkner</footer></blockquote>
+<blockquote>&ldquo;The content of your character is your choice. Day by day, what you choose, what you think and what you do is who you become.&rdquo; &mdash; <footer>Heraclitus</footer></blockquote>
 
 </div>
