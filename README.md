@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;He who can no longer pause to wonder and stand rapt in awe, is as good as dead; his eyes are closed. &rdquo; &mdash; <footer>Albert Einstein</footer></blockquote>
+<blockquote>&ldquo;You can have it all. You just can't have it all at once. &rdquo; &mdash; <footer>Oprah Winfrey</footer></blockquote>
 
 </div>
