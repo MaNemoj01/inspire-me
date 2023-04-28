@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If we are honest with ourselves, most of us will have to admit that we live out our lives in an ocean of fear.&rdquo; &mdash; <footer>Jon Kabat-Zinn</footer></blockquote>
+<blockquote>&ldquo;Definitions belong to the definers, not the defined.&rdquo; &mdash; <footer>Toni Morrison</footer></blockquote>
 
 </div>
