@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending.&rdquo; &mdash; <footer>Carl Bard</footer></blockquote>
+<blockquote>&ldquo;Success is not how high you have climbed, but how you make a positive difference to the world.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
 
 </div>
