@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;I discovered a long time ago that if I helped enough people get what they wanted, I would always get what I wanted and I would never have to worry.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
+<blockquote>&ldquo;Always do what is right. It will gratify half of mankind and astound the other.&rdquo; &mdash; <footer>Mark Twain</footer></blockquote>
 
 </div>
