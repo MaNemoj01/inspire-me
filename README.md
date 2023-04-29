@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Do not fight with pigs - you will be smeared in mud but the pig will like it.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote>
+<blockquote>&ldquo;I discovered a long time ago that if I helped enough people get what they wanted, I would always get what I wanted and I would never have to worry.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
 
 </div>
