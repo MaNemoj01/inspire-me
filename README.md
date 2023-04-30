@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Someone who points out your flaws to you is not necessarily your enemy. Someone who speaks of your virtues is not necessarily your friend.&rdquo; &mdash; <footer>Zen Proverb</footer></blockquote>
+<blockquote>&ldquo;Success is not what you do when you are on top.  Success is how high you bounce when you hit the bottom.&rdquo; &mdash; <footer>Sonia Ricotti</footer></blockquote>
 
 </div>
