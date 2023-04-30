@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Everything has beauty but not everyone sees it.&rdquo; &mdash; <footer>Confucius</footer></blockquote>
+<blockquote>&ldquo;I must also have a dark side if I am to be whole.&rdquo; &mdash; <footer>Carl Jung</footer></blockquote>
 
 </div>
