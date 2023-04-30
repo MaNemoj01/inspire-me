@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you want something then you lose everything. If you don't want anything then you already have everything.&rdquo; &mdash; <footer>Seungsahn</footer></blockquote>
+<blockquote>&ldquo;I was angered, for I had no shoes. Then I met a man who had no feet. &rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
 
 </div>
