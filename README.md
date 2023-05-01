@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Weeds are flowers too, once you get to know them.&rdquo; &mdash; <footer>A.A. Milne</footer></blockquote>
+<blockquote>&ldquo;A man sooner or later discovers that he is the master-gardener of his soul, the director of his life.&rdquo; &mdash; <footer>James Allen</footer></blockquote>
 
 </div>
