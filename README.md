@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.&rdquo; &mdash; <footer>Dale Carnegie</footer></blockquote>
+<blockquote>&ldquo;Don't waste your energy on being angry at something that somebody did six months ago or a year ago. It's over.&rdquo; &mdash; <footer>Joan Rivers</footer></blockquote>
 
 </div>
