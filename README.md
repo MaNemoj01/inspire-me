@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you don't have time to do it right, when will you have time to do it over?&rdquo; &mdash; <footer>John Wooden</footer></blockquote>
+<blockquote>&ldquo;No problem can be solved from the same level of consciousness that created it.&rdquo; &mdash; <footer>Albert Einstein</footer></blockquote>
 
 </div>
