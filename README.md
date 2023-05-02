@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;No problem can be solved from the same level of consciousness that created it.&rdquo; &mdash; <footer>Albert Einstein</footer></blockquote>
+<blockquote>&ldquo;Every man gotta right to decide his own destiny.&rdquo; &mdash; <footer>Bob Marley</footer></blockquote>
 
 </div>
