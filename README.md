@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Failure is an option here. If things are not failing, you are not innovating enough.&rdquo; &mdash; <footer>Elon Musk</footer></blockquote>
+<blockquote>&ldquo;At first dreams seem impossible, then improbable, then inevitable.&rdquo; &mdash; <footer>Christopher Reeve</footer></blockquote>
 
 </div>
