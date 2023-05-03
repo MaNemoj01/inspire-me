@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;When the mind is calm, how quickly, how smoothly, how beautifully you will perceive everything.&rdquo; &mdash; <footer>Paramahansa Yogananda</footer></blockquote>
+<blockquote>&ldquo;A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists.&rdquo; &mdash; <footer>Charles Dickens</footer></blockquote>
 
 </div>
