@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Men do not attract which they want but that which they are.&rdquo; &mdash; <footer>James Allen</footer></blockquote>
+<blockquote>&ldquo;Make improvements, not excuses. Seek respect, not attention.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
 
 </div>
