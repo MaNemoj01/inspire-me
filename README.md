@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Trying to define yourself is like trying to bite your own teeth.&rdquo; &mdash; <footer>Alan Watts</footer></blockquote>
+<blockquote>&ldquo;What you are afraid of is never as bad as what you imagine. The fear you let build up in your mind is worse than the situation that actually exists.&rdquo; &mdash; <footer>Spencer Johnson</footer></blockquote>
 
 </div>
