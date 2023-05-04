@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The world only exists in your eyes. You can make it as big or as small as you want.&rdquo; &mdash; <footer>F. Scott Fitzgerald</footer></blockquote>
+<blockquote>&ldquo;At the center of your being you have the answer; you know who you are and you know what you want.&rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>
 
 </div>
