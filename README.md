@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Discipline yourself, and others won't need to.&rdquo; &mdash; <footer>John Wooden</footer></blockquote>
+<blockquote>&ldquo;The first step is to establish that something is possible; then probability will occur.&rdquo; &mdash; <footer>Elon Musk</footer></blockquote>
 
 </div>
