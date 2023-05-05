@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Never be bored, and you will never be boring.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
+<blockquote>&ldquo;Do the difficult things while they are easy and do the great things while they are small.&rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>
 
 </div>
