@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;In the long run, the sharpest weapon of all is a kind and gentle spirit.&rdquo; &mdash; <footer>Anne Frank</footer></blockquote>
+<blockquote>&ldquo;Turn the pain into power.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 
 </div>
