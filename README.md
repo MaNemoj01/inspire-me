@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Always do your best. What you plant now, you will harvest later.&rdquo; &mdash; <footer>Og Mandino</footer></blockquote>
+<blockquote>&ldquo;Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard.&rdquo; &mdash; <footer>Colin Powell</footer></blockquote>
 
 </div>
