@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Quality is not an act, it is a habit.&rdquo; &mdash; <footer>Aristotle</footer></blockquote>
+<blockquote>&ldquo;The first step is to establish that something is possible; then probability will occur.&rdquo; &mdash; <footer>Elon Musk</footer></blockquote>
 
 </div>
