@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A real friend is one who walks in when the rest of the world walks out.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+<blockquote>&ldquo;Change is not a four letter word...but often your reaction to it is!&rdquo; &mdash; <footer>Jeffrey Gitomer</footer></blockquote>
 
 </div>
