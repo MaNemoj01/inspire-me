@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It is the nature of the wise to resist pleasures, but the foolish to be a slave to them.&rdquo; &mdash; <footer>Epictetus</footer></blockquote>
+<blockquote>&ldquo;What is a friend? A single soul dwelling in two bodies.&rdquo; &mdash; <footer>Aristotle</footer></blockquote>
 
 </div>
