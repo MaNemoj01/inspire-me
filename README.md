@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Rest in reason; move in passion.&rdquo; &mdash; <footer>Kahlil Gibran</footer></blockquote>
+<blockquote>&ldquo;Your heart is full of fertile seeds, waiting to sprout.&rdquo; &mdash; <footer>Morihei Ueshiba</footer></blockquote>
 
 </div>
