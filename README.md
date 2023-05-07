@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;To himself everyone is immortal; he may know that he is going to die, but he can never know he is dead.&rdquo; &mdash; <footer>Samuel Butler</footer></blockquote>
+<blockquote>&ldquo;The more something scares you, the more you should do it.&rdquo; &mdash; <footer>Mark Manson</footer></blockquote>
 
 </div>
