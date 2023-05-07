@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Your heart is full of fertile seeds, waiting to sprout.&rdquo; &mdash; <footer>Morihei Ueshiba</footer></blockquote>
+<blockquote>&ldquo;To himself everyone is immortal; he may know that he is going to die, but he can never know he is dead.&rdquo; &mdash; <footer>Samuel Butler</footer></blockquote>
 
 </div>
