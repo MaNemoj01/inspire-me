@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You cannot change your destination overnight but you can change your direction overnight.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>
+<blockquote>&ldquo;Every day may not be good, but there's something good in every day.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 
 </div>
