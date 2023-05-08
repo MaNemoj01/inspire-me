@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you read a lot of books, you're considered well-read. But if you watch a lot of TV, you're not considered well-viewed.&rdquo; &mdash; <footer>Lily Tomlin</footer></blockquote>
+<blockquote>&ldquo;In a world that is constantly changing, it is to our advantage to learn how to adapt and enjoy something better.&rdquo; &mdash; <footer>Spencer Johnson</footer></blockquote>
 
 </div>
