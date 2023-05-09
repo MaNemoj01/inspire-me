@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The soul is neither born, and nor does it die.&rdquo; &mdash; <footer>Bhagavad Gita</footer></blockquote>
+<blockquote>&ldquo;Human beings can alter their lives by altering their attitudes of mind.&rdquo; &mdash; <footer>William James</footer></blockquote>
 
 </div>
