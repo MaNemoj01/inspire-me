@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Human beings can alter their lives by altering their attitudes of mind.&rdquo; &mdash; <footer>William James</footer></blockquote>
+<blockquote>&ldquo;Only when one allows themself the right to die, do they then give yourself the permission to live.&rdquo; &mdash; <footer>C. Sean McGee</footer></blockquote>
 
 </div>
