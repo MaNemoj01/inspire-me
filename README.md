@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Courage Is a Love Affair with the Unknown&rdquo; &mdash; <footer>Osho</footer></blockquote>
+<blockquote>&ldquo;Do not pray for an easy life, pray for the strength to endure a difficult one.  &rdquo; &mdash; <footer>Bruce Lee</footer></blockquote>
 
 </div>
