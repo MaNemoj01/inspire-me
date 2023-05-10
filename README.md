@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Great things are not accomplished by those who yield to trends and fads and popular opinion.&rdquo; &mdash; <footer>Jack Kerouac</footer></blockquote>
+<blockquote>&ldquo;Life is essentially an endless series of problems. The solution to one problem is merely the creation of another.&rdquo; &mdash; <footer>Mark Manson</footer></blockquote>
 
 </div>
