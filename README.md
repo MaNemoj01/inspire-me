@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The greatest discovery of all time is that a person can change their future by merely changing their attitude.&rdquo; &mdash; <footer>Oprah Winfrey</footer></blockquote>
+<blockquote>&ldquo;When you're the only sane person, you look like the only insane person.&rdquo; &mdash; <footer>Criss Jami</footer></blockquote>
 
 </div>
