@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;There is no greater agony than bearing an untold story inside you.&rdquo; &mdash; <footer>Maya Angelou</footer></blockquote>
+<blockquote>&ldquo;The eyes of others our prisons; their thoughts our cages.&rdquo; &mdash; <footer>Virginia Woolf</footer></blockquote>
 
 </div>
