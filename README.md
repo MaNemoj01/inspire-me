@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Never settle for the crumbs of life.&rdquo; &mdash; <footer>Og Mandino</footer></blockquote>
+<blockquote>&ldquo;Never allow someone to be your priority while allowing yourself to be their option.&rdquo; &mdash; <footer>Mark Twain</footer></blockquote>
 
 </div>
