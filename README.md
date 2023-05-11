@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;For your life to be great, your faith must be bigger than your fear.&rdquo; &mdash; <footer>Robin Sharma</footer></blockquote>
+<blockquote>&ldquo;When your intuition is strong, follow it.&rdquo; &mdash; <footer>Lolly Daskal</footer></blockquote>
 
 </div>
