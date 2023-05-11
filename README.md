@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Tragedy is a tool for the living to gain wisdom, not a guide by which to live.&rdquo; &mdash; <footer>Robert F. Kennedy</footer></blockquote>
+<blockquote>&ldquo;Courage is found in unlikely places.&rdquo; &mdash; <footer>J.R.R. Tolkien</footer></blockquote>
 
 </div>
