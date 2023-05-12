@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A pessimist is one who makes difficulties of his opportunities and an optimist is one who makes opportunities of his difficulties.&rdquo; &mdash; <footer>Harry S. Truman</footer></blockquote>
+<blockquote>&ldquo;There is an essence of when you are fearless, you become more creative.&rdquo; &mdash; <footer>Gurbaksh Chahal</footer></blockquote>
 
 </div>
