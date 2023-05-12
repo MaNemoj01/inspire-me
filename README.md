@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A tiger doesn't lose sleep over the opinion of sheep.&rdquo; &mdash; <footer>Shahir Zag</footer></blockquote>
+<blockquote>&ldquo;Without education, we are in a horrible and deadly danger of taking educated people seriously.&rdquo; &mdash; <footer>Gilbert Chesterton</footer></blockquote>
 
 </div>
