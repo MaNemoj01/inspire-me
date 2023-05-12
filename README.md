@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It is your attitude, not your aptitude, that determines your altitude.&rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>
+<blockquote>&ldquo;Humans and prosperity never endure side by side for long.&rdquo; &mdash; <footer>Herodotus</footer></blockquote>
 
 </div>
