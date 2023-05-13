@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;What people say, what people do, and what they say they do are entirely different things. &rdquo; &mdash; <footer>Margaret Mead</footer></blockquote>
+<blockquote>&ldquo;Difficulties strengthen the mind, as labor does the body.  &rdquo; &mdash; <footer>Seneca</footer></blockquote>
 
 </div>
