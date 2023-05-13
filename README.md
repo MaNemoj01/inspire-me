@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Difficulties strengthen the mind, as labor does the body.  &rdquo; &mdash; <footer>Seneca</footer></blockquote>
+<blockquote>&ldquo;Failure is acceptable. Not trying is a whole different ball park.&rdquo; &mdash; <footer>Michael Jordan</footer></blockquote>
 
 </div>
