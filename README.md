@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Nothing important is learned; it is simply remembered.&rdquo; &mdash; <footer>Carlos Ruiz Zafon</footer></blockquote>
+<blockquote>&ldquo;When you judge another, you do not define them, you define yourself&rdquo; &mdash; <footer>Wayne Dyer</footer></blockquote>
 
 </div>
