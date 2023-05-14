@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;There are only two ways to live your life. One is as if nothing is a miracle. The other is as if everything is a miracle.&rdquo; &mdash; <footer>Albert Einstein</footer></blockquote>
+<blockquote>&ldquo;Every time you are tempted to react in the same old way, ask if you want to be a prisoner of the past or a pioneer of the future.&rdquo; &mdash; <footer>Deepak Chopra</footer></blockquote>
 
 </div>
