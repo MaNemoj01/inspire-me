@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;No matter what happens, always be yourself.&rdquo; &mdash; <footer>Dale Carnegie</footer></blockquote>
+<blockquote>&ldquo;What one does is what counts. Not what one had the intention of doing.&rdquo; &mdash; <footer>Pablo Picasso</footer></blockquote>
 
 </div>
