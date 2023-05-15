@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Focused, hard work is the real key to success.&rdquo; &mdash; <footer>John Carmack</footer></blockquote>
+<blockquote>&ldquo;Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.&rdquo; &mdash; <footer>Thomas Edison</footer></blockquote>
 
 </div>
