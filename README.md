@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;We have a duty to maintain the light of consciousness to make sure it continues into the future.&rdquo; &mdash; <footer>Elon Musk</footer></blockquote>
+<blockquote>&ldquo;To know your Enemy, you must become your Enemy.&rdquo; &mdash; <footer>Sun Tzu</footer></blockquote>
 
 </div>
