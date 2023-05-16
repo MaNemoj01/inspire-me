@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you want something then you lose everything. If you don't want anything then you already have everything.&rdquo; &mdash; <footer>Seungsahn</footer></blockquote>
+<blockquote>&ldquo;The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way.&rdquo; &mdash; <footer>Robert Kiyosaki</footer></blockquote>
 
 </div>
