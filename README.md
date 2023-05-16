@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The essence of the Way is detachment.&rdquo; &mdash; <footer>Bodhidharma</footer></blockquote>
+<blockquote>&ldquo;If you want something then you lose everything. If you don't want anything then you already have everything.&rdquo; &mdash; <footer>Seungsahn</footer></blockquote>
 
 </div>
