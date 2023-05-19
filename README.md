@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Relax. Nothing is under control.&rdquo; &mdash; <footer>Adi Da Samraj</footer></blockquote>
+<blockquote>&ldquo;When reading, only read. When eating, only eat. When thinking, only think.&rdquo; &mdash; <footer>Seungsahn</footer></blockquote>
 
 </div>
