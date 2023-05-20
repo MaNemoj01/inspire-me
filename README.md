@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Be confident, not certain.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
+<blockquote>&ldquo;Self-knowledge is the beginning of self-correction.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
 
 </div>
