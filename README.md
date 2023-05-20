@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Embody what you teach, and teach only what you have embodied.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>
+<blockquote>&ldquo;Life has more imagination than we carry in our dreams.&rdquo; &mdash; <footer>Christopher Columbus</footer></blockquote>
 
 </div>
