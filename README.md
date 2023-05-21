@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It takes a very long time to become young.&rdquo; &mdash; <footer>Pablo Picasso</footer></blockquote>
+<blockquote>&ldquo;Money poisons you when you've got it, and starves you when you haven't.&rdquo; &mdash; <footer>D. H. Lawrence</footer></blockquote>
 
 </div>
