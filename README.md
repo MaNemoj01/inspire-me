@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You use a glass mirror to see your face; you use works of art to see your soul.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote>
+<blockquote>&ldquo;Change is hardest at the beginning, messiest in the middle and best at the end.&rdquo; &mdash; <footer>Robin Sharma</footer></blockquote>
 
 </div>
