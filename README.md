@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It is your attitude, not your aptitude, that determines your altitude.&rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>
+<blockquote>&ldquo;Courage Is a Love Affair with the Unknown&rdquo; &mdash; <footer>Osho</footer></blockquote>
 
 </div>
