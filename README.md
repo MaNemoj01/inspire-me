@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;There is nothing quite so tragic as a young cynic.&rdquo; &mdash; <footer>Maya Angelou</footer></blockquote>
+<blockquote>&ldquo;An intelligence test sometimes shows a man how smart he would have been not to have taken it.&rdquo; &mdash; <footer>Laurence J. Peter</footer></blockquote>
 
 </div>
