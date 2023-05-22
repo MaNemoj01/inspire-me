@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;People who say it cannot be done should not interrupt those who are doing it.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote>
+<blockquote>&ldquo;People spend too much time doing and not enough time thinking about what they should be doing.&rdquo; &mdash; <footer>Naval Ravikant</footer></blockquote>
 
 </div>
