@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Be as simple as you can be; you will be astonished to see how uncomplicated and happy your life can become.&rdquo; &mdash; <footer>Paramahansa Yogananda</footer></blockquote>
+<blockquote>&ldquo;Always keep your eyes open. Keep watching. Because whatever you see can inspire you.&rdquo; &mdash; <footer>Grace Coddington</footer></blockquote>
 
 </div>
