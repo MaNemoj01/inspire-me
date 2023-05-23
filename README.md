@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Knowledge is learning something everyday. Wisdom is letting go of something everyday.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+<blockquote>&ldquo;The mind can calculate, but the spirit yearns, and the heart wants what the heart wants.&rdquo; &mdash; <footer>Stephen King</footer></blockquote>
 
 </div>
