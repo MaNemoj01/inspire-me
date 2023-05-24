@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Procrastination is attitude's natural assassin. There's nothing so fatiguing as an uncompleted task.&rdquo; &mdash; <footer>William James</footer></blockquote>
+<blockquote>&ldquo;Scared people want comfort and certainty so they avoid failure. People living fully seek challenges because this is where they feel alive.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>
 
 </div>
