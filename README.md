@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;No matter who you are, we're creatures of habit. The better your habits are, the better they will be in pressure situations.&rdquo; &mdash; <footer>Wayne Gretzky</footer></blockquote>
+<blockquote>&ldquo;If you focus on results and finding shortcuts, you'll get impatient. If you focus on the process and doing the right thing, you'll be unstoppable.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>
 
 </div>
