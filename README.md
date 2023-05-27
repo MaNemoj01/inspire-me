@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Every night before going to sleep, we must ask ourselves: what weakness did I overcome today? What virtue did I acquire?&rdquo; &mdash; <footer>Seneca</footer></blockquote>
+<blockquote>&ldquo;Don't explain your philosophy. Embody it.&rdquo; &mdash; <footer>Epictetus</footer></blockquote>
 
 </div>
