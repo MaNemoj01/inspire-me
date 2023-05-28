@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;I have not failed. I've just found 10,000 ways that won't work.&rdquo; &mdash; <footer>Thomas Edison</footer></blockquote>
+<blockquote>&ldquo;The biggest adventure you can ever take is to live the life of your dreams. &rdquo; &mdash; <footer>Oprah Winfrey</footer></blockquote>
 
 </div>
