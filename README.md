@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Life doesn't get easier or more forgiving, we get stronger and more resilient.&rdquo; &mdash; <footer>Steve Maraboli</footer></blockquote>
+<blockquote>&ldquo;To be of use to the world is the only way to be happy.&rdquo; &mdash; <footer>Hans Christian Andersen</footer></blockquote>
 
 </div>
