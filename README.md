@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;There are few reasons for telling the truth, but for lying the number is infinite.&rdquo; &mdash; <footer>Carlos Ruiz Zafon</footer></blockquote>
+<blockquote>&ldquo;Don't shortchange yourself when it comes to investing in your own better future.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>
 
 </div>
