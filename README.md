@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Thinking will not overcome fear but action will. &rdquo; &mdash; <footer>W. Clement Stone</footer></blockquote>
+<blockquote>&ldquo;Perpetual optimism is a force multiplier.&rdquo; &mdash; <footer>Colin Powell</footer></blockquote>
 
 </div>
