@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Wisdom consists not so much in knowing what to do in the ultimate as knowing what to do next.&rdquo; &mdash; <footer>Herbert Hoover</footer></blockquote>
+<blockquote>&ldquo;Don't let them drag you down by rumors. Just go with what you believe in.&rdquo; &mdash; <footer>Michael Jordan</footer></blockquote>
 
 </div>
