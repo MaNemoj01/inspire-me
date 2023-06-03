@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If it's not broken, tinker with it till you find out how it works.&rdquo; &mdash; <footer>Bob Proctor</footer></blockquote>
+<blockquote>&ldquo;High thoughts must have high language.&rdquo; &mdash; <footer>Aristophanes</footer></blockquote>
 
 </div>
