@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Don't concern yourself with the money. Be of service. Build. Work. Dream. Create.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>
+<blockquote>&ldquo;Where you are right now doesn't have to determine where you'll end up.&rdquo; &mdash; <footer>Barack Obama</footer></blockquote>
 
 </div>
