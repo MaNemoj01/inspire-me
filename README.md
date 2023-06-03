@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;There is only one way to happiness and that is to cease worrying about things which are beyond the power or our will.&rdquo; &mdash; <footer>Epictetus</footer></blockquote>
+<blockquote>&ldquo;When you are able to employ your will always for constructive purposes, you become the controller of your destiny.&rdquo; &mdash; <footer>Paramahansa Yogananda</footer></blockquote>
 
 </div>
