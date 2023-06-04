@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Man must use what he has, not hope for what is not.&rdquo; &mdash; <footer>G.I. Gurdjieff</footer></blockquote>
+<blockquote>&ldquo;Unless a man is master of his soul, all other kinds of mastery amount to little.&rdquo; &mdash; <footer>Theodore Roosevelt</footer></blockquote>
 
 </div>
