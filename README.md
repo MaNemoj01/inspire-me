@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic. &rdquo; &mdash; <footer>Charles Swindoll</footer></blockquote>
+<blockquote>&ldquo;Successful people tend to become more successful because they are always thinking about their successes.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
 
 </div>
