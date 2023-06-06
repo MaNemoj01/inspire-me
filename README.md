@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Forget mistakes. Forget failure. Forget everything except what you are going to do now and do it. Today is your lucky day!&rdquo; &mdash; <footer>Og Mandino</footer></blockquote>
+<blockquote>&ldquo;The content of your character is your choice. Day by day, what you choose, what you think and what you do is who you become.&rdquo; &mdash; <footer>Heraclitus</footer></blockquote>
 
 </div>
