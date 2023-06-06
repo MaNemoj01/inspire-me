@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Most great people have achieved their greatest success just one step beyond their greatest failure.&rdquo; &mdash; <footer>Napoleon Hill</footer></blockquote>
+<blockquote>&ldquo;Thinking is the hardest work there is. That is why so few people engage in it.&rdquo; &mdash; <footer>Robert Kiyosaki</footer></blockquote>
 
 </div>
