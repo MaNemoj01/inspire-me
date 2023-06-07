@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It's OK to have your eggs in one basket as long as you control what happens to that basket.&rdquo; &mdash; <footer>Elon Musk</footer></blockquote>
+<blockquote>&ldquo;Constantly think about how you could be doing things better.&rdquo; &mdash; <footer>Elon Musk</footer></blockquote>
 
 </div>
