@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;I was angered, for I had no shoes. Then I met a man who had no feet. &rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
+<blockquote>&ldquo;Unless you change how you are, you will always have what you got.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>
 
 </div>
