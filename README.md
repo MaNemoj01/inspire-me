@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The time is now, the place is here. Stay in the present.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>
+<blockquote>&ldquo;Peaceful is the one who expects nothing.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>
 
 </div>
