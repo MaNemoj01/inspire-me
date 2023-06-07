@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Constantly think about how you could be doing things better.&rdquo; &mdash; <footer>Elon Musk</footer></blockquote>
+<blockquote>&ldquo;Rather than waste time and energy worrying, use that time and energy to constructively deal with whatever is causing the worry.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
 
 </div>
