@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Life is growth. If we stop growing, technically and spiritually, we are as good as dead.&rdquo; &mdash; <footer>Morihei Ueshiba</footer></blockquote>
+<blockquote>&ldquo;I was angered, for I had no shoes. Then I met a man who had no feet. &rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
 
 </div>
