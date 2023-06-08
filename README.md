@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Don't be afraid to go slowly. Be afraid of stopping.&rdquo; &mdash; <footer>Zen Proverb</footer></blockquote>
+<blockquote>&ldquo;There is only one thing in the world worse than being talked about, and that is not being talked about. &rdquo; &mdash; <footer>Oscar Wilde</footer></blockquote>
 
 </div>
