@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Find something you love and do it better than everyone else.&rdquo; &mdash; <footer>Gurbaksh Chahal</footer></blockquote>
+<blockquote>&ldquo;One loses many laughs by not laughing at oneself.&rdquo; &mdash; <footer>Mary Engelbreit</footer></blockquote>
 
 </div>
