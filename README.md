@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;How many times do you have to get hit over the head until you figure out who's hitting you?&rdquo; &mdash; <footer>Harry S. Truman</footer></blockquote>
+<blockquote>&ldquo;From error to error one discovers the entire truth.&rdquo; &mdash; <footer>Sigmund Freud</footer></blockquote>
 
 </div>
