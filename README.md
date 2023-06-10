@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Good things aren't supposed to just fall into your lap.&rdquo; &mdash; <footer>Audrey Hepburn</footer></blockquote>
+<blockquote>&ldquo;Heaven is right where you are standing.&rdquo; &mdash; <footer>Morihei Ueshiba</footer></blockquote>
 
 </div>
