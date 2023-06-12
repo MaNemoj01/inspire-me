@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A change is brought about because ordinary people do extraordinary things.&rdquo; &mdash; <footer>Barack Obama</footer></blockquote>
+<blockquote>&ldquo;No matter what happens in life, never lose sight of who you are.&rdquo; &mdash; <footer>Yanni</footer></blockquote>
 
 </div>
