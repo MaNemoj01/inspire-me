@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Those who bring sunshine into the lives of others cannot keep it from themselves.&rdquo; &mdash; <footer>James Matthew Barrie</footer></blockquote>
+<blockquote>&ldquo;Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.&rdquo; &mdash; <footer>Ayn Rand</footer></blockquote>
 
 </div>
