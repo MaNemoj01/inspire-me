@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Throughout this life, you can never be certain of living long enough to take another breath.&rdquo; &mdash; <footer>Huang Po</footer></blockquote>
+<blockquote>&ldquo;Show kindness but never expect it. Show authenticity but never expect it. Only the wise are indifferent to things they can't control.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>
 
 </div>
