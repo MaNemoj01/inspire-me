@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;In order to control myself I must first accept myself by going with and not against my nature.&rdquo; &mdash; <footer>Bruce Lee</footer></blockquote>
+<blockquote>&ldquo;People acting together as a group can accomplish things which no individual acting alone could ever hope to bring about.&rdquo; &mdash; <footer>Franklin D. Roosevelt</footer></blockquote>
 
 </div>
