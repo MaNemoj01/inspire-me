@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;What one does is what counts. Not what one had the intention of doing.&rdquo; &mdash; <footer>Pablo Picasso</footer></blockquote>
+<blockquote>&ldquo;Let us rather run the risk of wearing out than rusting out.&rdquo; &mdash; <footer>Theodore Roosevelt</footer></blockquote>
 
 </div>
