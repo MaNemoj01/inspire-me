@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Believe in your infinite potential. Your only limitations are those you set upon yourself.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
+<blockquote>&ldquo;The most important single ingredient in the formula of success is knowing how to get along with people.&rdquo; &mdash; <footer>Theodore Roosevelt</footer></blockquote>
 
 </div>
