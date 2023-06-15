@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The biggest mistake we could ever make in our lives is to think we work for anybody but ourselves.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
+<blockquote>&ldquo;Some of your greatest lessons come from your darkest moments.&rdquo; &mdash; <footer>Roger Lee</footer></blockquote>
 
 </div>
