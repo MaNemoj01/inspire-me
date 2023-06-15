@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;To handle yourself, use your head; to handle others, use your heart.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
+<blockquote>&ldquo;One small positive thought can change your whole day.&rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>
 
 </div>
