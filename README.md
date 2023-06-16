@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Study logic and math, because once you've mastered them, you won't fear any book.&rdquo; &mdash; <footer>Naval Ravikant</footer></blockquote>
+<blockquote>&ldquo;You must either modify your dreams or magnify your skills.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>
 
 </div>
