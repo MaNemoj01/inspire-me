@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you don't find the time, if you don't do the work, you don't get the results.&rdquo; &mdash; <footer>Arnold Schwarzenegger</footer></blockquote>
+<blockquote>&ldquo;Do the difficult things while they are easy and do the great things while they are small.&rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>
 
 </div>
