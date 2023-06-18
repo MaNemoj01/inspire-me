@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Teachers open the door. You enter by yourself. &rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
+<blockquote>&ldquo;Fear, uncertainty, and discomfort are your compasses toward growth.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
 
 </div>
