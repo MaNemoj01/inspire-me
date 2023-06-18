@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;No great discovery was ever made without a bold guess. &rdquo; &mdash; <footer>Isaac Newton</footer></blockquote>
+<blockquote>&ldquo;Educating the mind without educating the heart is no education at all.&rdquo; &mdash; <footer>Aristotle</footer></blockquote>
 
 </div>
