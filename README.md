@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Talk to someone about themselves and they'll listen for hours.&rdquo; &mdash; <footer>Dale Carnegie</footer></blockquote>
+<blockquote>&ldquo;The more you are focused on time - past and future - the more you miss the Now, the most precious thing there is.&rdquo; &mdash; <footer>Eckhart Tolle</footer></blockquote>
 
 </div>
