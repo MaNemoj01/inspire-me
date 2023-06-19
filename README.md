@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;When you repeat a mistake, it is not a mistake anymore: it is a decision.&rdquo; &mdash; <footer>Paulo Coelho</footer></blockquote>
+<blockquote>&ldquo;Our attitude toward life determines life's attitude towards us.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>
 
 </div>
