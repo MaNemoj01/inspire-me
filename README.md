@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You will never do anything in this world without courage. It is the greatest quality of the mind next to honor.&rdquo; &mdash; <footer>James Allen</footer></blockquote>
+<blockquote>&ldquo;A real decision is measured by the fact that you've taken a new action. If there's no action, you haven't truly decided.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
 
 </div>
