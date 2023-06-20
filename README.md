@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;For changes to be of any true value, they've got to be lasting and consistent.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
+<blockquote>&ldquo;We will outstretch the hand if you unclench your fist.&rdquo; &mdash; <footer>Barack Obama</footer></blockquote>
 
 </div>
