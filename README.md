@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Failure is feedback. Learn from it and move on.&rdquo; &mdash; <footer>Jack Butcher</footer></blockquote>
+<blockquote>&ldquo;The positive thinker sees the invisible, feels the intangible, and achieves the impossible.&rdquo; &mdash; <footer>Winston Churchill</footer></blockquote>
 
 </div>
