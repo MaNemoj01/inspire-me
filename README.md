@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It is not that we have too little time to do all the things we need to do , it is that we feel the need to do too many things in the time we have.&rdquo; &mdash; <footer>Gary Keller</footer></blockquote>
+<blockquote>&ldquo;Forget yesterday - it has already forgotten you. Don't sweat tomorrow - you haven't even met. Instead, open your eyes and your heart to a truly precious gift - today.&rdquo; &mdash; <footer>Steve Maraboli</footer></blockquote>
 
 </div>
