@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along. &rdquo; &mdash; <footer>Paramahansa Yogananda</footer></blockquote>
+<blockquote>&ldquo;When asked, how do you write? I invariably answer, one word at a time.&rdquo; &mdash; <footer>Stephen King</footer></blockquote>
 
 </div>
