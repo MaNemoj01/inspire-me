@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The man who asks a question is a fool for a minute, the man who does not ask is a fool for life.&rdquo; &mdash; <footer>Confucius</footer></blockquote>
+<blockquote>&ldquo;A creative man is motivated by the desire to achieve, not by the desire to beat others.&rdquo; &mdash; <footer>Ayn Rand</footer></blockquote>
 
 </div>
