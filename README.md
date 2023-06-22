@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It is dangerous to be right in matters on which the established authorities are wrong.&rdquo; &mdash; <footer>Voltaire</footer></blockquote>
+<blockquote>&ldquo;Given the choice between the experience of pain and nothing, I would choose pain.&rdquo; &mdash; <footer>William Faulkner</footer></blockquote>
 
 </div>
