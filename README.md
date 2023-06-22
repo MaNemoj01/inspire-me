@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The more you are motivated by Love, The more Fearless & Free your action will be.&rdquo; &mdash; <footer>Dalai Lama</footer></blockquote>
+<blockquote>&ldquo;Follow the man who seeks the truth; run from the man who has found it.&rdquo; &mdash; <footer>Vaclav Havel</footer></blockquote>
 
 </div>
