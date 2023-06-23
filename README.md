@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Live calmly. The time will come when the flowers bloom by themselves.&rdquo; &mdash; <footer>Zen Proverb</footer></blockquote>
+<blockquote>&ldquo;It is easier to fight for one's principles than to live up to them. &rdquo; &mdash; <footer>Alfred Adler</footer></blockquote>
 
 </div>
