@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;True knowledge exists in knowing that you know nothing.&rdquo; &mdash; <footer>Socrates</footer></blockquote>
+<blockquote>&ldquo;We are all born ignorant, but one must work hard to remain stupid.&rdquo; &mdash; <footer>Benjamin Franklin</footer></blockquote>
 
 </div>
