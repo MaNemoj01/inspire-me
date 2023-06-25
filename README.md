@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;What most people need to learn in life is how to love people and use things instead of using people and loving things.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+<blockquote>&ldquo;To seek greatness is the only righteous vengeance.&rdquo; &mdash; <footer>Criss Jami</footer></blockquote>
 
 </div>
