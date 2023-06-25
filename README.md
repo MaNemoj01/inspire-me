@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Knowledge isn't power until it is applied.&rdquo; &mdash; <footer>Dale Carnegie</footer></blockquote>
+<blockquote>&ldquo;Over time, loneliness gets inside you and doesn't go away.&rdquo; &mdash; <footer>Carlos Ruiz Zafon</footer></blockquote>
 
 </div>
