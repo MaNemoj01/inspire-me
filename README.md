@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Most people achieved their greatest success one step beyond what looked like their greatest failure.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
+<blockquote>&ldquo;When the world pushes you to your knees, you're in the perfect position to pray.&rdquo; &mdash; <footer>Rumi</footer></blockquote>
 
 </div>
