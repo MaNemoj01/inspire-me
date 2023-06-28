@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It's easier to go down a hill than up it but the view is much better at the top.&rdquo; &mdash; <footer>Henry Ward Beecher</footer></blockquote>
+<blockquote>&ldquo;There is no limitations except those we create for ourselves.&rdquo; &mdash; <footer>Lolly Daskal</footer></blockquote>
 
 </div>
