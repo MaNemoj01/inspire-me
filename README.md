@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The businessman's tool is value.&rdquo; &mdash; <footer>Ayn Rand</footer></blockquote>
+<blockquote>&ldquo;No one has ever become poor by giving.&rdquo; &mdash; <footer>Anne Frank</footer></blockquote>
 
 </div>
