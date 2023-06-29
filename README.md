@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you think adventure is dangerous, try routine; it is lethal.&rdquo; &mdash; <footer>Paulo Coelho</footer></blockquote>
+<blockquote>&ldquo;In the beginner's mind there are many possibilities, but in the expert's mind there are few.&rdquo; &mdash; <footer>Shunryu Suzuki</footer></blockquote>
 
 </div>
