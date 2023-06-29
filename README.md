@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Dreams provide nourishment for the soul, just as a meal does for the body.&rdquo; &mdash; <footer>Paulo Coelho</footer></blockquote>
+<blockquote>&ldquo;Many people spend more time looking at their failures than focusing on their successes.&rdquo; &mdash; <footer>Lolly Daskal</footer></blockquote>
 
 </div>
