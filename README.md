@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Anything you may hold firmly in your imagination can be yours.&rdquo; &mdash; <footer>William James</footer></blockquote>
+<blockquote>&ldquo;Embrace the life you have and stop wishing that you could be someone else.&rdquo; &mdash; <footer>Joyce Meyer</footer></blockquote>
 
 </div>
