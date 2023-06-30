@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Why fit in when you were born to stand out?&rdquo; &mdash; <footer>Dr. Seuss</footer></blockquote>
+<blockquote>&ldquo;When you consider things like the stars, our affairs don't seem to matter very much, do they?&rdquo; &mdash; <footer>Virginia Woolf</footer></blockquote>
 
 </div>
