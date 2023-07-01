@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Happiness cannot be traveled to, owned, earned, worn or consumed.&rdquo; &mdash; <footer>Denis Waitley</footer></blockquote>
+<blockquote>&ldquo;There are two kinds of perfect people: those who are dead, and those who have not been born yet.&rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
 
 </div>
