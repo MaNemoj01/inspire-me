@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Better the cottage where one is merry than the palace where one weeps.&rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
+<blockquote>&ldquo;The reward of suffering is experience.&rdquo; &mdash; <footer>Harry S. Truman</footer></blockquote>
 
 </div>
