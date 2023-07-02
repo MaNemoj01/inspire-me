@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Amateurs sit and wait for inspiration, the rest of us just get up and got to work.&rdquo; &mdash; <footer>Stephen King</footer></blockquote>
+<blockquote>&ldquo;Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight.&rdquo; &mdash; <footer>Benjamin Franklin</footer></blockquote>
 
 </div>
