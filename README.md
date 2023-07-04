@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Chase your passion, not your pension. &rdquo; &mdash; <footer>Denis Waitley</footer></blockquote>
+<blockquote>&ldquo;Great deeds are usually wrought at great risks.&rdquo; &mdash; <footer>Herodotus</footer></blockquote>
 
 </div>
