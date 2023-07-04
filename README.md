@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;One always begins to forgive a place as soon as it's left behind.&rdquo; &mdash; <footer>Charles Dickens</footer></blockquote>
+<blockquote>&ldquo;Winning isn't always championships.&rdquo; &mdash; <footer>Michael Jordan</footer></blockquote>
 
 </div>
