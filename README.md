@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Don't live the same year 75 times and call it a life.&rdquo; &mdash; <footer>Robin Sharma</footer></blockquote>
+<blockquote>&ldquo;Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
 
 </div>
