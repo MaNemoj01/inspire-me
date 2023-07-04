@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Whatever your mind can conceive and believe, it can achieve.&rdquo; &mdash; <footer>Napoleon Hill</footer></blockquote>
+<blockquote>&ldquo;Don't live the same year 75 times and call it a life.&rdquo; &mdash; <footer>Robin Sharma</footer></blockquote>
 
 </div>
