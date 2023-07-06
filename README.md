@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult.  &rdquo; &mdash; <footer>Seneca</footer></blockquote>
+<blockquote>&ldquo;Action is the foundational key to all success.&rdquo; &mdash; <footer>Pablo Picasso</footer></blockquote>
 
 </div>
