@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Do good by stealth, and blush to find it fame.&rdquo; &mdash; <footer>Alexander Pope</footer></blockquote>
+<blockquote>&ldquo;Knowing your own darkness is the best method for dealing with the darknesses of other people.&rdquo; &mdash; <footer>Carl Jung</footer></blockquote>
 
 </div>
