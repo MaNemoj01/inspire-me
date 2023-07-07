@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;I think self-awareness is probably the most important thing towards being a champion. &rdquo; &mdash; <footer>Billie Jean King</footer></blockquote>
+<blockquote>&ldquo;If you cling to a certain thought with dynamic will power, it finally assumes a tangible outward form.&rdquo; &mdash; <footer>Paramahansa Yogananda</footer></blockquote>
 
 </div>
