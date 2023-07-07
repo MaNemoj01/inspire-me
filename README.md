@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Thinking is difficult, that's why most people judge.&rdquo; &mdash; <footer>Carl Jung</footer></blockquote>
+<blockquote>&ldquo;You will have bad times, but they will always wake you up to the stuff you weren't paying attention to.&rdquo; &mdash; <footer>Robin Williams</footer></blockquote>
 
 </div>
