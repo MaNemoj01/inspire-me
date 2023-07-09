@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Making money isn't hard in itself... What's hard is to earn it doing something worth devoting one's life to.&rdquo; &mdash; <footer>Carlos Ruiz Zafon</footer></blockquote>
+<blockquote>&ldquo;Everyone faces challenges in life. It's a matter of how you learn to overcome them and using them to your advantage.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
 
 </div>
