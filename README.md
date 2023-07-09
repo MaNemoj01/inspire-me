@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Knowing is not enough, we must apply. Willing is not enough, we must do.&rdquo; &mdash; <footer>Johann Wolfgang von Goethe</footer></blockquote>
+<blockquote>&ldquo;If you always do what you've always done, you'll always get what you've always got. &rdquo; &mdash; <footer>Henry Ford</footer></blockquote>
 
 </div>
