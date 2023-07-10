@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;There is no self-discovery without pain and loss.&rdquo; &mdash; <footer>Anita Krizzan</footer></blockquote>
+<blockquote>&ldquo;Concentrated power has always been the enemy of liberty.&rdquo; &mdash; <footer>Ronald Reagan</footer></blockquote>
 
 </div>
