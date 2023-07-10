@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It doesn't matter how slow you go, as long as you don't stop.&rdquo; &mdash; <footer>Confucius</footer></blockquote>
+<blockquote>&ldquo;Judge a man by his questions rather than his answers.&rdquo; &mdash; <footer>Voltaire</footer></blockquote>
 
 </div>
