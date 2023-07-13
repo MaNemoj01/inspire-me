@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You will have bad times, but they will always wake you up to the stuff you weren't paying attention to.&rdquo; &mdash; <footer>Robin Williams</footer></blockquote>
+<blockquote>&ldquo;Only by acceptance of the past, can you alter it.&rdquo; &mdash; <footer>T.S. Eliot</footer></blockquote>
 
 </div>
