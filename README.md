@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Live as if you were to die tomorrow. Learn as if you were to live forever.&rdquo; &mdash; <footer>Mahatma Gandhi</footer></blockquote>
+<blockquote>&ldquo;Stay away from people who makes you feel like you are wasting their time.&rdquo; &mdash; <footer>Paulo Coelho</footer></blockquote>
 
 </div>
