@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You can't get to a place that you don't believe exists.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+<blockquote>&ldquo;Accept responsibility for your life. Know that it is you who will get you where you want to go, no one else.&rdquo; &mdash; <footer>Les Brown</footer></blockquote>
 
 </div>
