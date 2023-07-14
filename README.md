@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Setting goals is the first step in turning the invisible into the visible.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
+<blockquote>&ldquo;Genius is the ability to act rightly without precedent - the power to do the right thing the first time.&rdquo; &mdash; <footer>Elbert Hubbard</footer></blockquote>
 
 </div>
