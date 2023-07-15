@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Your mind is infinite, it's your doubts that are limiting.&rdquo; &mdash; <footer>Robert Kiyosaki</footer></blockquote>
+<blockquote>&ldquo;I wasn't brave, I just didn't have time to be scared.&rdquo; &mdash; <footer>Amelia Earhart</footer></blockquote>
 
 </div>
