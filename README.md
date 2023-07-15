@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Happiness is the absence of the striving for happiness.&rdquo; &mdash; <footer>Zhuangzi</footer></blockquote>
+<blockquote>&ldquo;Imagination is the true magic carpet.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
 
 </div>
