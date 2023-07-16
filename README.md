@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The more rejection you get, the better you are, the more you've learned, the closer you are to your outcome.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
+<blockquote>&ldquo;Abundance of knowledge does not teach men to be wise.&rdquo; &mdash; <footer>Heraclitus</footer></blockquote>
 
 </div>
