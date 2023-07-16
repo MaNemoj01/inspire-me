@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Find something you love and do it better than everyone else.&rdquo; &mdash; <footer>Gurbaksh Chahal</footer></blockquote>
+<blockquote>&ldquo;Life is about not knowing and then doing something anyway.&rdquo; &mdash; <footer>Mark Manson</footer></blockquote>
 
 </div>
