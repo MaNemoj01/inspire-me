@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It matters not what someone is born, but what they grow to be.&rdquo; &mdash; <footer>Albus Dumbledore</footer></blockquote>
+<blockquote>&ldquo;Relax. Nothing is under control.&rdquo; &mdash; <footer>Adi Da Samraj</footer></blockquote>
 
 </div>
