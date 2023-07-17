@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Life is a long lesson in humility. &rdquo; &mdash; <footer>James Matthew Barrie</footer></blockquote>
+<blockquote>&ldquo;Your world is a living expression of how you are using and have used your mind.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>
 
 </div>
