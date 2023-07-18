@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The hardest arithmetic to master is that which enables us to count our blessings.&rdquo; &mdash; <footer>Eric Hoffer</footer></blockquote>
+<blockquote>&ldquo;Sometimes you have to travel a long way to find what is near.&rdquo; &mdash; <footer>Paulo Coelho</footer></blockquote>
 
 </div>
