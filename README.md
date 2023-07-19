@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;In all chaos there is a cosmos, in all disorder a secret order.&rdquo; &mdash; <footer>Carl Jung</footer></blockquote>
+<blockquote>&ldquo;Anger exceeding limits causes fear and excessive kindness eliminates respect.&rdquo; &mdash; <footer>Euripides</footer></blockquote>
 
 </div>
