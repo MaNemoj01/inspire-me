@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Always try to be a little kinder than necessary.&rdquo; &mdash; <footer>James Matthew Barrie</footer></blockquote>
+<blockquote>&ldquo;Trust is built and maintained by many small actions over time.&rdquo; &mdash; <footer>Lolly Daskal</footer></blockquote>
 
 </div>
