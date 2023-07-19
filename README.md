@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Without the confidence, nothing can be accomplished.&rdquo; &mdash; <footer>Sathya Sai Baba</footer></blockquote>
+<blockquote>&ldquo;All leaders are readers.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>
 
 </div>
