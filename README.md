@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If there's a definition of freedom, I think it's this: living life on your terms.&rdquo; &mdash; <footer>Kamal Ravikant</footer></blockquote>
+<blockquote>&ldquo;Always try to be a little kinder than necessary.&rdquo; &mdash; <footer>James Matthew Barrie</footer></blockquote>
 
 </div>
