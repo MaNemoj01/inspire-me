@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;I can never decide whether my dreams are the result of my thoughts or my thoughts the result of my dreams.&rdquo; &mdash; <footer>D. H. Lawrence</footer></blockquote>
+<blockquote>&ldquo;Life is 10% what happens to you and 90% how you react to it. &rdquo; &mdash; <footer>Charles Swindoll</footer></blockquote>
 
 </div>
