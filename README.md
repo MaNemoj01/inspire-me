@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Great minds discuss ideas. Average minds discuss events. Small minds discuss people.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
+<blockquote>&ldquo;Even if you're sure you can win, be careful that you can live with what you lose.&rdquo; &mdash; <footer>Gary Keller</footer></blockquote>
 
 </div>
