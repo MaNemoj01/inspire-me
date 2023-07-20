@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You can't build a reputation on what you are going to do. &rdquo; &mdash; <footer>Henry Ford</footer></blockquote>
+<blockquote>&ldquo;The Truth is realized in an instant; the Act is practiced step by step.&rdquo; &mdash; <footer>Seungsahn</footer></blockquote>
 
 </div>
