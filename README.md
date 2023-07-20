@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Your greatest asset is your earning ability. Your greatest resource is your time.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
+<blockquote>&ldquo;The only time you run out of chances is when you stop taking them.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 
 </div>
