@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Poetry is written with tears, fiction with blood, and history with invisible ink.&rdquo; &mdash; <footer>Carlos Ruiz Zafon</footer></blockquote>
+<blockquote>&ldquo;The world doesn't owe you anything. It was here first.&rdquo; &mdash; <footer>Mark Twain</footer></blockquote>
 
 </div>
