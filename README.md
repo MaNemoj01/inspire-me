@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;First comes the shy wish. Then you must have the heart to have the dream. Then, you work, and work.  &rdquo; &mdash; <footer>Estee Lauder</footer></blockquote>
+<blockquote>&ldquo;See what you're doing wrong, laugh at it, change and do better.&rdquo; &mdash; <footer>Spencer Johnson</footer></blockquote>
 
 </div>
