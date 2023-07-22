@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The meaning of life is to find your gift. The purpose of life is to give it away.&rdquo; &mdash; <footer>Pablo Picasso</footer></blockquote>
+<blockquote>&ldquo;It's always to soon to quit!&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
 
 </div>
