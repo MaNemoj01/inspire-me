@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Passion creates, addiction consumes.&rdquo; &mdash; <footer>Gabor Mate</footer></blockquote>
+<blockquote>&ldquo;It is better to fail in originality than to succeed in imitation.&rdquo; &mdash; <footer>Herman Melville</footer></blockquote>
 
 </div>
