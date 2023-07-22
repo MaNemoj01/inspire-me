@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;When you believe in a thing, believe in it all the way, implicitly and unquestionable.&rdquo; &mdash; <footer>Walt Disney</footer></blockquote>
+<blockquote>&ldquo;I think it's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better.&rdquo; &mdash; <footer>Elon Musk</footer></blockquote>
 
 </div>
