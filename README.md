@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A wise man makes his own decisions, but an ignorant man mindlessly follows the crowd.&rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
+<blockquote>&ldquo;If you care about someone enough, you'll always be there for them no matter what.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
 
 </div>
