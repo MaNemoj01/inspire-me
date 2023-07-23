@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It's always to soon to quit!&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
+<blockquote>&ldquo;The constant assertion of belief is an indication of fear.&rdquo; &mdash; <footer>Jiddu Krishnamurti</footer></blockquote>
 
 </div>
