@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Without education, we are in a horrible and deadly danger of taking educated people seriously.&rdquo; &mdash; <footer>Gilbert Chesterton</footer></blockquote>
+<blockquote>&ldquo;My guiding principle is this: Guilt is never to be doubted. &rdquo; &mdash; <footer>Franz Kafka</footer></blockquote>
 
 </div>
