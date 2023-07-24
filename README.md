@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The more you lose yourself in something bigger than yourself, the more energy you will have.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
+<blockquote>&ldquo;Believe you can and you will be halfway there.&rdquo; &mdash; <footer>Lolly Daskal</footer></blockquote>
 
 </div>
