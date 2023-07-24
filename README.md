@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You can tell more about a person by what he says about others than you can by what others say about him.&rdquo; &mdash; <footer>Audrey Hepburn</footer></blockquote>
+<blockquote>&ldquo;Do one thing every day that scares you.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
 
 </div>
