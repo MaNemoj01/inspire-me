@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Do one thing every day that scares you.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
+<blockquote>&ldquo;We don't stumble accidentally into an amazing life. It takes decision, a commitment to consistently work on ourselves.&rdquo; &mdash; <footer>Kamal Ravikant</footer></blockquote>
 
 </div>
