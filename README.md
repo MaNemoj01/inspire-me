@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;When asked, how do you write? I invariably answer, one word at a time.&rdquo; &mdash; <footer>Stephen King</footer></blockquote>
+<blockquote>&ldquo;All know that the drop merges into the ocean, but few know that the ocean merges into the drop.&rdquo; &mdash; <footer>Kabir</footer></blockquote>
 
 </div>
