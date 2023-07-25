@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Let each man exercise the art he knows.&rdquo; &mdash; <footer>Aristophanes</footer></blockquote>
+<blockquote>&ldquo;Knowing is not enough, we must apply. Willing is not enough, we must do.  &rdquo; &mdash; <footer>Bruce Lee</footer></blockquote>
 
 </div>
