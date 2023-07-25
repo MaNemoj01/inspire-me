@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Don't let the silly little dramas of each day get you down. For you are here to do great things.&rdquo; &mdash; <footer>Ralph Marston</footer></blockquote>
+<blockquote>&ldquo;Getting over a painful experience is much like crossing monkey bars. You have to let go at some point in order to move forward.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 
 </div>
