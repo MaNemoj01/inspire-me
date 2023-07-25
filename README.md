@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you think adventure is dangerous, try routine; it is lethal.&rdquo; &mdash; <footer>Paulo Coelho</footer></blockquote>
+<blockquote>&ldquo;Focus on how far you have come in life rather than looking at the accomplishments of others.&rdquo; &mdash; <footer>Lolly Daskal</footer></blockquote>
 
 </div>
