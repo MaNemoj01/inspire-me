@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Being In The Present Means Tuning Out Distractions And Paying Attention To What Is Important, Now.&rdquo; &mdash; <footer>Spencer Johnson</footer></blockquote>
+<blockquote>&ldquo;Let each man exercise the art he knows.&rdquo; &mdash; <footer>Aristophanes</footer></blockquote>
 
 </div>
