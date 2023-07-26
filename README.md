@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Beauty is not in the face; beauty is a light in the heart.&rdquo; &mdash; <footer>Kahlil Gibran</footer></blockquote>
+<blockquote>&ldquo;Scared people want comfort and certainty so they avoid failure. People living fully seek challenges because this is where they feel alive.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>
 
 </div>
