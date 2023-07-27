@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;When the time is gone, you can never get it back.&rdquo; &mdash; <footer>Stephen King</footer></blockquote>
+<blockquote>&ldquo;We suffer for the simple reason that suffering is biologically useful. It is nature's preferred agent for inspiring change.&rdquo; &mdash; <footer>Mark Manson</footer></blockquote>
 
 </div>
