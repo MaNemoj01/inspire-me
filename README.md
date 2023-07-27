@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Find your Light; They can't love you if they can't see you.&rdquo; &mdash; <footer>Bette Midler</footer></blockquote>
+<blockquote>&ldquo;Every saint has a past, and every sinner has a future.&rdquo; &mdash; <footer>Oscar Wilde</footer></blockquote>
 
 </div>
