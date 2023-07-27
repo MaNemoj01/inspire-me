@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;No man is more cheated than the selfish man.&rdquo; &mdash; <footer>Henry Ward Beecher</footer></blockquote>
+<blockquote>&ldquo;Given the choice between the experience of pain and nothing, I would choose pain.&rdquo; &mdash; <footer>William Faulkner</footer></blockquote>
 
 </div>
