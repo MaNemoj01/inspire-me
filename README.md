@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A good teacher opens the door for you, but you must enter the room by yourself.&rdquo; &mdash; <footer>Zen Proverb</footer></blockquote>
+<blockquote>&ldquo;Keep smiling, because life is a beautiful thing and there's so much to smile about.&rdquo; &mdash; <footer>Marilyn Monroe</footer></blockquote>
 
 </div>
