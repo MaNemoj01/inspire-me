@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Keep smiling, because life is a beautiful thing and there's so much to smile about.&rdquo; &mdash; <footer>Marilyn Monroe</footer></blockquote>
+<blockquote>&ldquo;We can know only that we know nothing. And that is the highest degree of human wisdom.&rdquo; &mdash; <footer>Leo Tolstoy</footer></blockquote>
 
 </div>
