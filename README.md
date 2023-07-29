@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You can start changing our world for the better daily, no matter how small the action.&rdquo; &mdash; <footer>Nelson Mandela</footer></blockquote>
+<blockquote>&ldquo;No tree, it is said, can grow to heaven unless its roots reach down to hell.&rdquo; &mdash; <footer>Carl Jung</footer></blockquote>
 
 </div>
