@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;As soon as you trust yourself, you will know how to live.&rdquo; &mdash; <footer>Johann Wolfgang von Goethe</footer></blockquote>
+<blockquote>&ldquo;The dream is free, but the hustle is sold separately.&rdquo; &mdash; <footer>Steve Harvey</footer></blockquote>
 
 </div>
