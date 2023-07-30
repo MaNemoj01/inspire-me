@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you practiced for the day, then you have won. If you were lazy for the day, then you have lost.&rdquo; &mdash; <footer>Ming-Dao Deng</footer></blockquote>
+<blockquote>&ldquo;What would you do if you weren't afraid?&rdquo; &mdash; <footer>Spencer Johnson</footer></blockquote>
 
 </div>
