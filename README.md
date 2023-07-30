@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;What would you do if you weren't afraid?&rdquo; &mdash; <footer>Spencer Johnson</footer></blockquote>
+<blockquote>&ldquo;No matter what happens in life, never lose sight of who you are.&rdquo; &mdash; <footer>Yanni</footer></blockquote>
 
 </div>
