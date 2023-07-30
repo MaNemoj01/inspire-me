@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Stop being tormented by everyone else's reaction to you.&rdquo; &mdash; <footer>Joyce Meyer</footer></blockquote>
+<blockquote>&ldquo;I never said it would be easy, I only said it would be worth it.&rdquo; &mdash; <footer>Mae West</footer></blockquote>
 
 </div>
