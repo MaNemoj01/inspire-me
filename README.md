@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Because a thing seems difficult for you, do not think it impossible.&rdquo; &mdash; <footer>Marcus Aurelius</footer></blockquote>
+<blockquote>&ldquo;Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it.&rdquo; &mdash; <footer>James Matthew Barrie</footer></blockquote>
 
 </div>
