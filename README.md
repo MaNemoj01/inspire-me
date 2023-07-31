@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Judge your success by what you had to give up in order to get it.&rdquo; &mdash; <footer>Dalai Lama</footer></blockquote>
+<blockquote>&ldquo;Shoot for the moon, because even if you miss, you'll land among the stars.&rdquo; &mdash; <footer>Les Brown</footer></blockquote>
 
 </div>
