@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Know your gifts and share them.&rdquo; &mdash; <footer>Les Brown</footer></blockquote>
+<blockquote>&ldquo;Because a thing seems difficult for you, do not think it impossible.&rdquo; &mdash; <footer>Marcus Aurelius</footer></blockquote>
 
 </div>
