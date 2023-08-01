@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Common sense is not so common. &rdquo; &mdash; <footer>Voltaire</footer></blockquote>
+<blockquote>&ldquo;Success is not to be pursued, it is to be attracted by the person you become.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>
 
 </div>
