@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Yesterday is the past, tomorrow is the future, today is a gift - that's why it's called the present.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote>
+<blockquote>&ldquo;You just can't beat the person who never gives up. &rdquo; &mdash; <footer>Babe Ruth</footer></blockquote>
 
 </div>
