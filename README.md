@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;One loyal friend is worth ten thousand relatives.&rdquo; &mdash; <footer>Euripides</footer></blockquote>
+<blockquote>&ldquo;Your problem isn't the problem. Your reaction is the problem.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 
 </div>
