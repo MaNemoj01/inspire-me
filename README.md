@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Some of your greatest lessons come from your darkest moments.&rdquo; &mdash; <footer>Roger Lee</footer></blockquote>
+<blockquote>&ldquo;Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
 
 </div>
