@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you set your goals ridiculously high and its a failure, you will fail above everyone elses success.&rdquo; &mdash; <footer>James Cameron</footer></blockquote>
+<blockquote>&ldquo;Short cuts make long delays.&rdquo; &mdash; <footer>J.R.R. Tolkien</footer></blockquote>
 
 </div>
