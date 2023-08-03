@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Nothing has any power over me other than that which I give it through my conscious thoughts.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
+<blockquote>&ldquo;If we have no peace, it is because we have forgotten that we belong to each other.&rdquo; &mdash; <footer>Mother Teresa</footer></blockquote>
 
 </div>
