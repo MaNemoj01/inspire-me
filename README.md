@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Sad thing is, you can still love someone and be wrong for them.&rdquo; &mdash; <footer>Elvis Presley</footer></blockquote>
+<blockquote>&ldquo;Study logic and math, because once you've mastered them, you won't fear any book.&rdquo; &mdash; <footer>Naval Ravikant</footer></blockquote>
 
 </div>
