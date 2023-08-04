@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Numbing the pain for a while will only make it worse when you finally feel it.&rdquo; &mdash; <footer>Albus Dumbledore</footer></blockquote>
+<blockquote>&ldquo;Every moment of happiness requires a great amount of Ignorance&rdquo; &mdash; <footer>Honore de Balzac</footer></blockquote>
 
 </div>
