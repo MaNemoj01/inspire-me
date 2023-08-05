@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Abundance of knowledge does not teach men to be wise.&rdquo; &mdash; <footer>Heraclitus</footer></blockquote>
+<blockquote>&ldquo;The greatest discovery of all time is that a person can change their future by merely changing their attitude.&rdquo; &mdash; <footer>Oprah Winfrey</footer></blockquote>
 
 </div>
