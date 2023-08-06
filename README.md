@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it.&rdquo; &mdash; <footer>Rumi</footer></blockquote>
+<blockquote>&ldquo;What the mind can conceive and believe, and the heart desire, you can achieve.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
 
 </div>
