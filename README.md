@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;One always begins to forgive a place as soon as it's left behind.&rdquo; &mdash; <footer>Charles Dickens</footer></blockquote>
+<blockquote>&ldquo;The man who does not value himself, cannot value anything or anyone.&rdquo; &mdash; <footer>Ayn Rand</footer></blockquote>
 
 </div>
