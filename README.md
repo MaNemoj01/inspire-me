@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;I alone cannot change the world, but I can cast a stone across the waters to create many ripples.&rdquo; &mdash; <footer>Mother Teresa</footer></blockquote>
+<blockquote>&ldquo;If your happiness depends on what somebody else does, I guess you do have a problem.&rdquo; &mdash; <footer>Richard Bach</footer></blockquote>
 
 </div>
