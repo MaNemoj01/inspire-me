@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The only limits in our life are those we impose on ourselves.&rdquo; &mdash; <footer>Bob Proctor</footer></blockquote>
+<blockquote>&ldquo;To be truly ignorant, be content with your own knowledge.&rdquo; &mdash; <footer>Zhuangzi</footer></blockquote>
 
 </div>
