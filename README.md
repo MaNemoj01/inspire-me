@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Respect is earned by effort not age, all things age without effort.&rdquo; &mdash; <footer>C. Sean McGee</footer></blockquote>
+<blockquote>&ldquo;Happiness comes when you believe in what you are doing, know what you are doing, and love what you are doing.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
 
 </div>
