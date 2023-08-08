@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Let the beauty of what you love be what you do.&rdquo; &mdash; <footer>Rumi</footer></blockquote>
+<blockquote>&ldquo;True prayer has no set form.&rdquo; &mdash; <footer>Morihei Ueshiba</footer></blockquote>
 
 </div>
