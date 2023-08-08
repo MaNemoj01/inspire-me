@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You're braver than you believe, and stronger than you seem, and smarter than you think.&rdquo; &mdash; <footer>A.A. Milne</footer></blockquote>
+<blockquote>&ldquo;If you don't know where you're going, you will probably end up somewhere else.&rdquo; &mdash; <footer>Laurence J. Peter</footer></blockquote>
 
 </div>
