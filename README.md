@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The busy man is never wise and the wise man is never busy.&rdquo; &mdash; <footer>Lin Yutang</footer></blockquote>
+<blockquote>&ldquo;From morning till night, we should never rely on a single thing.&rdquo; &mdash; <footer>Huang Po</footer></blockquote>
 
 </div>
