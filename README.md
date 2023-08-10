@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You cannot push anyone up a ladder unless he is willing to climb a little himself.&rdquo; &mdash; <footer>Andrew Carnegie</footer></blockquote>
+<blockquote>&ldquo;A real friend is one who walks in when the rest of the world walks out.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 
 </div>
