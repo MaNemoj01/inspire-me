@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Believe in one thing too much and you have no room for new ideas.  &rdquo; &mdash; <footer>Ray Bradbury</footer></blockquote>
+<blockquote>&ldquo;You cannot push anyone up a ladder unless he is willing to climb a little himself.&rdquo; &mdash; <footer>Andrew Carnegie</footer></blockquote>
 
 </div>
