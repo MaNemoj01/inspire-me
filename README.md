@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The Only Thing That Is Constant Is Change&rdquo; &mdash; <footer>Heraclitus</footer></blockquote>
+<blockquote>&ldquo;Either you choose to stay in the shallow end of the pool or you go out into the ocean.&rdquo; &mdash; <footer>Christopher Reeve</footer></blockquote>
 
 </div>
