@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It is amazing what you can accomplish if you do not care who gets the credit.&rdquo; &mdash; <footer>Harry S. Truman</footer></blockquote>
+<blockquote>&ldquo;Failure is just information and an opportunity to change your course.&rdquo; &mdash; <footer>Oprah Winfrey</footer></blockquote>
 
 </div>
