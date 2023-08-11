@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You can't have anything worthwhile without difficulties.&rdquo; &mdash; <footer>Harry S. Truman</footer></blockquote>
+<blockquote>&ldquo;Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present.&rdquo; &mdash; <footer>Joan Rivers</footer></blockquote>
 
 </div>
