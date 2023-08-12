@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Begin now to be what you will be hereafter.&rdquo; &mdash; <footer>St. Jerome</footer></blockquote>
+<blockquote>&ldquo;An un-examined life is not worth living.&rdquo; &mdash; <footer>Socrates</footer></blockquote>
 
 </div>
