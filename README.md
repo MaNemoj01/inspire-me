@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Stop comparing yourself to others and focus on your own improvement.&rdquo; &mdash; <footer>Lolly Daskal</footer></blockquote>
+<blockquote>&ldquo;Those who realize their folly are not true fools.&rdquo; &mdash; <footer>Zhuangzi</footer></blockquote>
 
 </div>
