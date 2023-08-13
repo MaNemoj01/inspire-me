@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The outer conditions of a person's life will always be found to reflect their inner beliefs.&rdquo; &mdash; <footer>James Allen</footer></blockquote>
+<blockquote>&ldquo;People do not decide their futures, they decide their habits and their habits decide their futures.&rdquo; &mdash; <footer>Gary Keller</footer></blockquote>
 
 </div>
