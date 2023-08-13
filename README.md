@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man.&rdquo; &mdash; <footer>Mark Twain</footer></blockquote>
+<blockquote>&ldquo;Insanity: doing the same thing over and over again and expecting different results.&rdquo; &mdash; <footer>Albert Einstein</footer></blockquote>
 
 </div>
