@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Do what you feel in your heart to be right - for you'll be criticized anyway.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
+<blockquote>&ldquo;If you don't know where you're going, you will probably end up somewhere else.&rdquo; &mdash; <footer>Laurence J. Peter</footer></blockquote>
 
 </div>
