@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The single most powerful asset we all have is our mind.&rdquo; &mdash; <footer>Robert Kiyosaki</footer></blockquote>
+<blockquote>&ldquo;Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
 
 </div>
