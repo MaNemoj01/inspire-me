@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Everything around us is made up of energy. To attract positive things in your life, start by giving off positive energy.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
+<blockquote>&ldquo;The biggest challenge after success is shutting up about it.&rdquo; &mdash; <footer>Criss Jami</footer></blockquote>
 
 </div>
