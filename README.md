@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Reality is nothing but a collective hunch.&rdquo; &mdash; <footer>Lily Tomlin</footer></blockquote>
+<blockquote>&ldquo;It is ignorance that causes most mistakes.&rdquo; &mdash; <footer>Harry S. Truman</footer></blockquote>
 
 </div>
