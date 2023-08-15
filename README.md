@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;We are all in the gutter, but some of us are looking at the stars. &rdquo; &mdash; <footer>Oscar Wilde</footer></blockquote>
+<blockquote>&ldquo;Keep smiling, because life is a beautiful thing and there's so much to smile about.&rdquo; &mdash; <footer>Marilyn Monroe</footer></blockquote>
 
 </div>
