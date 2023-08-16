@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;There are no uninteresting things, only uninterested people.&rdquo; &mdash; <footer>Gilbert Chesterton</footer></blockquote>
+<blockquote>&ldquo;Meditate. It won't be fun but it will surface what you need to deal with.&rdquo; &mdash; <footer>Naval Ravikant</footer></blockquote>
 
 </div>
