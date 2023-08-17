@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The only defense against the world is a thorough knowledge of it.&rdquo; &mdash; <footer>John Locke</footer></blockquote>
+<blockquote>&ldquo;Opportunity comes when you continually push forward.&rdquo; &mdash; <footer>Sonia Ricotti</footer></blockquote>
 
 </div>
