@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Originality is the fine art of remembering what you hear but forgetting where you heard it. &rdquo; &mdash; <footer>Laurence J. Peter</footer></blockquote>
+<blockquote>&ldquo;The measure of who we are is what we do with what we have.&rdquo; &mdash; <footer>Vince Lombardi</footer></blockquote>
 
 </div>
