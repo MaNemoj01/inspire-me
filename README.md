@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It's the possibility of having a dream come true that makes life interesting.&rdquo; &mdash; <footer>Paulo Coelho</footer></blockquote>
+<blockquote>&ldquo;If you cling to a certain thought with dynamic will power, it finally assumes a tangible outward form.&rdquo; &mdash; <footer>Paramahansa Yogananda</footer></blockquote>
 
 </div>
