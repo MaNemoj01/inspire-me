@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose.&rdquo; &mdash; <footer>Steve Jobs</footer></blockquote>
+<blockquote>&ldquo;Character is doing what you don't want to do but know you should do.&rdquo; &mdash; <footer>Joyce Meyer</footer></blockquote>
 
 </div>
