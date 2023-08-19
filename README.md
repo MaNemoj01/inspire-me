@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Time is more valuable than money. You can get more money, but you cannot get more time.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>
+<blockquote>&ldquo;Failure will never overtake me if my determination to succeed is strong enough.&rdquo; &mdash; <footer>Og Mandino</footer></blockquote>
 
 </div>
