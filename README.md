@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Your vision will become clear only when you can look into your own heart.&rdquo; &mdash; <footer>Lolly Daskal</footer></blockquote>
+<blockquote>&ldquo;Is it really possible to tell someone else what one feels?&rdquo; &mdash; <footer>Leo Tolstoy</footer></blockquote>
 
 </div>
