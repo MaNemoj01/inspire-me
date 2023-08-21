@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Fools resist. The wise embrace.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>
+<blockquote>&ldquo;All our dreams can come true, if we have the courage to pursue them.&rdquo; &mdash; <footer>Walt Disney</footer></blockquote>
 
 </div>
