@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The wiser you get, the less you care to look like a fool.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>
+<blockquote>&ldquo;The health of nations is more important than the wealth of nations.&rdquo; &mdash; <footer>Will Rogers</footer></blockquote>
 
 </div>
