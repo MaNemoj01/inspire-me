@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;All problems are interpersonal relationship problems.&rdquo; &mdash; <footer>Alfred Adler</footer></blockquote>
+<blockquote>&ldquo;Ask no questions, and you'll be told no lies.&rdquo; &mdash; <footer>Charles Dickens</footer></blockquote>
 
 </div>
