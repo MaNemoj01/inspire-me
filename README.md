@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You become a worrier by practicing worry. You become free of worry by practicing the opposite.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
+<blockquote>&ldquo;As a man thinketh in his heart, so shall he be.&rdquo; &mdash; <footer>James Allen</footer></blockquote>
 
 </div>
