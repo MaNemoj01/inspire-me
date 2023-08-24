@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;We are all faced with a series of great opportunities brilliantly disguised as impossible situations. &rdquo; &mdash; <footer>Charles Swindoll</footer></blockquote>
+<blockquote>&ldquo;There is no greatness where there is not simplicity, goodness, and truth.&rdquo; &mdash; <footer>Leo Tolstoy</footer></blockquote>
 
 </div>
