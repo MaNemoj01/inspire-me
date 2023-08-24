@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;He who knows best knows how little he knows.&rdquo; &mdash; <footer>Thomas Jefferson</footer></blockquote>
+<blockquote>&ldquo;The world would go on even without you. Don't take yourself so seriously.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
 
 </div>
