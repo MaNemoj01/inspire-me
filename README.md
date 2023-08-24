@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Success comes from knowing that you did your best to become the best that you are capable of becoming.&rdquo; &mdash; <footer>John Wooden</footer></blockquote>
+<blockquote>&ldquo;You must either modify your dreams or magnify your skills.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>
 
 </div>
