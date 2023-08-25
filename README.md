@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Closing your eyes and listening to silence is self-care.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>
+<blockquote>&ldquo;Success on the outside means nothing unless you also have success within.&rdquo; &mdash; <footer>Robin Sharma</footer></blockquote>
 
 </div>
