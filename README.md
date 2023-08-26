@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The tragedy of life doesn't lie in not reaching your goal. The tragedy lies in having no goals to reach.&rdquo; &mdash; <footer>Benjamin Mays</footer></blockquote>
+<blockquote>&ldquo;The more you feed your mind with positive thoughts, the more you can attract great things into your life.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
 
 </div>
