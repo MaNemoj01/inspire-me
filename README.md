@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Your conscience is the measure of the honesty of your selfishness. Listen to it carefully.&rdquo; &mdash; <footer>Richard Bach</footer></blockquote>
+<blockquote>&ldquo;The tragedy of life doesn't lie in not reaching your goal. The tragedy lies in having no goals to reach.&rdquo; &mdash; <footer>Benjamin Mays</footer></blockquote>
 
 </div>
