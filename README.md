@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;There is no absolute success in the world, only constant progress.&rdquo; &mdash; <footer>Jonathan Swift</footer></blockquote>
+<blockquote>&ldquo;Life can only be understood backwards; but it must be lived forwards.&rdquo; &mdash; <footer>Soren Kierkegaard</footer></blockquote>
 
 </div>
