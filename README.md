@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;There is no limit to the amount of good you can do if you don't care who gets the credit.&rdquo; &mdash; <footer>Ronald Reagan</footer></blockquote>
+<blockquote>&ldquo;Focus is a matter of deciding what things you're not going to do.&rdquo; &mdash; <footer>John Carmack</footer></blockquote>
 
 </div>
