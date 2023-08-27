@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;No amount of regretting can change the past, and no amount of worrying can change the future.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
+<blockquote>&ldquo;What we call the beginning is often the end. And to make an end is to make a beginning. The end is where we start from.&rdquo; &mdash; <footer>T.S. Eliot</footer></blockquote>
 
 </div>
