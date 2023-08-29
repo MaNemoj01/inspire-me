@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Never allow a person to tell you no who doesn't have the power to say yes.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
+<blockquote>&ldquo;Well done is better than well said.&rdquo; &mdash; <footer>Benjamin Franklin</footer></blockquote>
 
 </div>
