@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Silence is sometimes the best answer.&rdquo; &mdash; <footer>Dalai Lama</footer></blockquote>
+<blockquote>&ldquo;I admire those who do good and expect nothing in return.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
 
 </div>
