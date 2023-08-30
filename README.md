@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you quit once it becomes a habit.&rdquo; &mdash; <footer>Michael Jordan</footer></blockquote>
+<blockquote>&ldquo;The older you get the stronger the wind gets - and it's always in your face.&rdquo; &mdash; <footer>Pablo Picasso</footer></blockquote>
 
 </div>
