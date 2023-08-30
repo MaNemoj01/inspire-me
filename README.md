@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The first step toward getting somewhere is to decide that you are not going to stay where you are.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+<blockquote>&ldquo;Just throw away all thoughts of imaginary things, and stand firm in that which you are.&rdquo; &mdash; <footer>Kabir</footer></blockquote>
 
 </div>
