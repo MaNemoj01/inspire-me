@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The older you get the stronger the wind gets - and it's always in your face.&rdquo; &mdash; <footer>Pablo Picasso</footer></blockquote>
+<blockquote>&ldquo;In any moment of decision, the best thing you can do is the right thing. The worst thing you can do is nothing.&rdquo; &mdash; <footer>Theodore Roosevelt</footer></blockquote>
 
 </div>
