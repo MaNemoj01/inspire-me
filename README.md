@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Progress comes to those who train and train; reliance on secret techniques will get you nowhere.&rdquo; &mdash; <footer>Morihei Ueshiba</footer></blockquote>
+<blockquote>&ldquo;No one can confidently say that he will still be living tomorrow.&rdquo; &mdash; <footer>Euripides</footer></blockquote>
 
 </div>
