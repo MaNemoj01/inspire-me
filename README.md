@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;We can spend our whole lives escaping from the monsters of our minds.&rdquo; &mdash; <footer>Pema Chodron</footer></blockquote>
+<blockquote>&ldquo;Happiness is not a goal...it's a by-product of a life well lived.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
 
 </div>
