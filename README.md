@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It is what we make out of what we have, not what we are given, that separates one person from another.&rdquo; &mdash; <footer>Nelson Mandela</footer></blockquote>
+<blockquote>&ldquo;Don't wait for the right opportunity: create it.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote>
 
 </div>
