@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The world is changed by your example, not by your opinion.&rdquo; &mdash; <footer>Paulo Coelho</footer></blockquote>
+<blockquote>&ldquo;Arise, slay thy enemies, enjoy a prosperous kingdom.&rdquo; &mdash; <footer>Bhagavad Gita</footer></blockquote>
 
 </div>
