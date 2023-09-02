@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Society is composed of two great classes those who have more dinners than appetite, and those who have more appetite than dinners.&rdquo; &mdash; <footer>Nicolas Chamfort</footer></blockquote>
+<blockquote>&ldquo;Never give up work. Work gives you meaning and purpose and life is empty without it.&rdquo; &mdash; <footer>Stephen Hawking</footer></blockquote>
 
 </div>
