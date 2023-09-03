@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is.&rdquo; &mdash; <footer>Nicolas Chamfort</footer></blockquote>
+<blockquote>&ldquo;The outer conditions of a person's life will always be found to reflect their inner beliefs.&rdquo; &mdash; <footer>James Allen</footer></blockquote>
 
 </div>
