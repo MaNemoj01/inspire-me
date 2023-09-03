@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Make yourself so useful to other people, that they think you are irreplaceable.&rdquo; &mdash; <footer>Og Mandino</footer></blockquote>
+<blockquote>&ldquo;To create more positive results in your life, replace 'if only' with 'next time'.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
 
 </div>
