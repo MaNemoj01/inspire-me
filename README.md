@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Muddy water is best cleared by leaving it alone.&rdquo; &mdash; <footer>Alan Watts</footer></blockquote>
+<blockquote>&ldquo;Wisdom is doing now what you are going to be happy with later on.&rdquo; &mdash; <footer>Joyce Meyer</footer></blockquote>
 
 </div>
