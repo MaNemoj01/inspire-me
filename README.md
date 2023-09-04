@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Don't seek, don't search, don't ask, don't knock, don't demand - relax.&rdquo; &mdash; <footer>Osho</footer></blockquote>
+<blockquote>&ldquo;Help others achieve their dreams and you will achieve yours.&rdquo; &mdash; <footer>Les Brown</footer></blockquote>
 
 </div>
