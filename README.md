@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.&rdquo; &mdash; <footer>Winston Churchill</footer></blockquote>
+<blockquote>&ldquo;Respect other people's feelings. It might mean nothing to you, but it could mean everything to them.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
 
 </div>
