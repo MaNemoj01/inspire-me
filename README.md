@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The hard path is often the right one. The river teaches more than the shore.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>
+<blockquote>&ldquo;A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.&rdquo; &mdash; <footer>Winston Churchill</footer></blockquote>
 
 </div>
