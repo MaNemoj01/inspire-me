@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;We will outstretch the hand if you unclench your fist.&rdquo; &mdash; <footer>Barack Obama</footer></blockquote>
+<blockquote>&ldquo;Whatever your heart clings to and confides in, that is really your God.&rdquo; &mdash; <footer>Martin Luther</footer></blockquote>
 
 </div>
