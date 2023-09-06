@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Truth will always be truth, regardless of lack of understanding, disbelief or ignorance. &rdquo; &mdash; <footer>W. Clement Stone</footer></blockquote>
+<blockquote>&ldquo;You'll see it when you believe it. &rdquo; &mdash; <footer>Wayne Dyer</footer></blockquote>
 
 </div>
