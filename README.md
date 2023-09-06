@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A man sees in the world what he carries in his heart.&rdquo; &mdash; <footer>Johann Wolfgang von Goethe</footer></blockquote>
+<blockquote>&ldquo;Failure is a prerequisite for great success. If you want success faster, double your rate of failure.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
 
 </div>
