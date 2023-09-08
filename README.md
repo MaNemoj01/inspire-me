@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;I don't ever give up. I'd have to be dead or completely incapacitated.&rdquo; &mdash; <footer>Elon Musk</footer></blockquote>
+<blockquote>&ldquo;The big secret in life is that there is no big secret. Whatever your goal, you can get there if you're willing to work.&rdquo; &mdash; <footer>Oprah Winfrey</footer></blockquote>
 
 </div>
