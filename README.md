@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If ever you feel like an animal among men, be a lion.&rdquo; &mdash; <footer>Criss Jami</footer></blockquote>
+<blockquote>&ldquo;You are not the drop in the ocean, but the ocean in the drop.&rdquo; &mdash; <footer>Deepak Chopra</footer></blockquote>
 
 </div>
