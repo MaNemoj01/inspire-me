@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The most courageous act is still to think for yourself. Aloud.&rdquo; &mdash; <footer>Coco Chanel</footer></blockquote>
+<blockquote>&ldquo;You can have it all. You just can't have it all at once. &rdquo; &mdash; <footer>Oprah Winfrey</footer></blockquote>
 
 </div>
