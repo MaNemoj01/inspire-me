@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Sometimes success isn't about making the right decision, it's more about making some decision.&rdquo; &mdash; <footer>Robin Sharma</footer></blockquote>
+<blockquote>&ldquo;It is useless to meet revenge with revenge; it will heal nothing.&rdquo; &mdash; <footer>J.R.R. Tolkien</footer></blockquote>
 
 </div>
