@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Peace is not something you wish for; It's something you make, something you do, something you are, and something you give away.&rdquo; &mdash; <footer>John Lennon</footer></blockquote>
+<blockquote>&ldquo;Every day do something that will inch you closer to a better tomorrow.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 
 </div>
