@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Leave the beaten track behind occasionally and dive into the woods. Every time you do you will be certain to find something you have never seen before.&rdquo; &mdash; <footer>Alexander Graham Bell</footer></blockquote>
+<blockquote>&ldquo;Peace is not something you wish for; It's something you make, something you do, something you are, and something you give away.&rdquo; &mdash; <footer>John Lennon</footer></blockquote>
 
 </div>
