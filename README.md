@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Change begets change. Nothing propagates so fast.&rdquo; &mdash; <footer>Charles Dickens</footer></blockquote>
+<blockquote>&ldquo;If you're not failing every now and again, it's a sign you're not doing anything very innovative.&rdquo; &mdash; <footer>Woody Allen</footer></blockquote>
 
 </div>
