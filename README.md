@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The best teacher is experience and not through someone's distorted point of view.&rdquo; &mdash; <footer>Jack Kerouac</footer></blockquote>
+<blockquote>&ldquo;Leave the beaten track behind occasionally and dive into the woods. Every time you do you will be certain to find something you have never seen before.&rdquo; &mdash; <footer>Alexander Graham Bell</footer></blockquote>
 
 </div>
