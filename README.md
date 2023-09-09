@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Stop acting so small. You are the universe in ecstatic motion.&rdquo; &mdash; <footer>Rumi</footer></blockquote>
+<blockquote>&ldquo;You live by what you thrill to, and there's the end of it.&rdquo; &mdash; <footer>D. H. Lawrence</footer></blockquote>
 
 </div>
