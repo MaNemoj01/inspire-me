@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Live in the sunshine, swim the sea, drink the wild air.&rdquo; &mdash; <footer>Ralph Waldo Emerson</footer></blockquote>
+<blockquote>&ldquo;The more we value things, the less we value ourselves.  &rdquo; &mdash; <footer>Bruce Lee</footer></blockquote>
 
 </div>
