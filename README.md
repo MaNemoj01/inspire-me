@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You have to accept whatever comes, and the only important thing is that you meet it with the best you have to give.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
+<blockquote>&ldquo;No need to hurry. No need to sparkle. No need to be anybody but oneself.&rdquo; &mdash; <footer>Virginia Woolf</footer></blockquote>
 
 </div>
