@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Don't try to be young. Just open your mind. Stay interested in stuff.&rdquo; &mdash; <footer>Betty White</footer></blockquote>
+<blockquote>&ldquo;You win more from losing than winning.&rdquo; &mdash; <footer>Morgan Wootten</footer></blockquote>
 
 </div>
