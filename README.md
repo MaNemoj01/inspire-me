@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Be brave to stand for what you believe in even if you stand alone.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
+<blockquote>&ldquo;It is amazing what you can accomplish if you do not care who gets the credit.&rdquo; &mdash; <footer>Harry S. Truman</footer></blockquote>
 
 </div>
