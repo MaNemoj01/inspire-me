@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Thinking is a habit, and like any other habit, it can be changed; it just takes effort and repetition.&rdquo; &mdash; <footer>John Eliot</footer></blockquote>
+<blockquote>&ldquo;Happiness depends upon ourselves.&rdquo; &mdash; <footer>Aristotle</footer></blockquote>
 
 </div>
