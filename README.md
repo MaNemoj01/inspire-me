@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Wherever you are, it's the place you need to be.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>
+<blockquote>&ldquo;Talk sense to a fool and he calls you foolish.&rdquo; &mdash; <footer>Euripides</footer></blockquote>
 
 </div>
