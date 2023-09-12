@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;There is only one way to happiness and that is to cease worrying about things which are beyond the power or our will.&rdquo; &mdash; <footer>Epictetus</footer></blockquote>
+<blockquote>&ldquo;Unless a man is master of his soul, all other kinds of mastery amount to little.&rdquo; &mdash; <footer>Theodore Roosevelt</footer></blockquote>
 
 </div>
