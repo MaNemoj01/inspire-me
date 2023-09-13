@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;One of the oldest human needs is having someone to wonder where you are when you don't come home at night. &rdquo; &mdash; <footer>Margaret Mead</footer></blockquote>
+<blockquote>&ldquo;Winning isn't everything, but wanting to win is.&rdquo; &mdash; <footer>Vince Lombardi</footer></blockquote>
 
 </div>
