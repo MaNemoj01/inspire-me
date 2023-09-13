@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;There is no path to Happiness. Happiness is the path.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>
+<blockquote>&ldquo;Life is a process. We are a process. The universe is a process.&rdquo; &mdash; <footer>Anne Wilson Schaef</footer></blockquote>
 
 </div>
