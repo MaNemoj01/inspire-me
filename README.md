@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The real measure of your wealth is how much you'd be worth if you lost all your money.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+<blockquote>&ldquo;When you are totally at peace with yourself, nothing can shake you.&rdquo; &mdash; <footer>Deepam Chaterjee</footer></blockquote>
 
 </div>
