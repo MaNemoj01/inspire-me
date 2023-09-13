@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Winning isn't everything, but wanting to win is.&rdquo; &mdash; <footer>Vince Lombardi</footer></blockquote>
+<blockquote>&ldquo;Normality is a paved road: It's comfortable to walk, but no flowers grow on it.&rdquo; &mdash; <footer>Vincent van Gogh</footer></blockquote>
 
 </div>
