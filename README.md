@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;We will now discuss in a little more detail the Struggle for Existence.&rdquo; &mdash; <footer>Charles Darwin</footer></blockquote>
+<blockquote>&ldquo;The sweetest pleasure arises from difficulties overcome.&rdquo; &mdash; <footer>Publilius Syrus</footer></blockquote>
 
 </div>
