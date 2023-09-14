@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
+<blockquote>&ldquo;The most important thing in communication is to hear what isn't being said.&rdquo; &mdash; <footer>Peter Drucker</footer></blockquote>
 
 </div>
