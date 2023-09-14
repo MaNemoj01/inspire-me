@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;To love means loving the unlovable.&rdquo; &mdash; <footer>Gilbert Chesterton</footer></blockquote>
+<blockquote>&ldquo;Expect the best, plan for the worst, and prepare to be surprised. &rdquo; &mdash; <footer>Denis Waitley</footer></blockquote>
 
 </div>
