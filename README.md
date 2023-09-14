@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on.&rdquo; &mdash; <footer>Steve Maraboli</footer></blockquote>
+<blockquote>&ldquo;We cannot change anything unless we accept it.&rdquo; &mdash; <footer>Carl Jung</footer></blockquote>
 
 </div>
