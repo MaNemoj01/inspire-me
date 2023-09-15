@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A wise man can learn more from a foolish question than a fool can learn from a wise answer.  &rdquo; &mdash; <footer>Bruce Lee</footer></blockquote>
+<blockquote>&ldquo;The best of us sometimes eat our words.  &rdquo; &mdash; <footer>Albus Dumbledore</footer></blockquote>
 
 </div>
