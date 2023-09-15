@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Doing what you love is the cornerstone of having abundance in your life. &rdquo; &mdash; <footer>Wayne Dyer</footer></blockquote>
+<blockquote>&ldquo;If we have no peace, it is because we have forgotten that we belong to each other.&rdquo; &mdash; <footer>Mother Teresa</footer></blockquote>
 
 </div>
