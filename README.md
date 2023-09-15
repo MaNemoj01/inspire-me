@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Everyone wants to go to Heaven, but no one wants to die.&rdquo; &mdash; <footer>Robert Kiyosaki</footer></blockquote>
+<blockquote>&ldquo;Doing what you love is the cornerstone of having abundance in your life. &rdquo; &mdash; <footer>Wayne Dyer</footer></blockquote>
 
 </div>
