@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;We will outstretch the hand if you unclench your fist.&rdquo; &mdash; <footer>Barack Obama</footer></blockquote>
+<blockquote>&ldquo;Work harder on yourself than you do on your job.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>
 
 </div>
