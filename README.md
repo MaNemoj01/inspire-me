@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Don't spend time beating on a wall, hoping to transform it into a door.&rdquo; &mdash; <footer>Coco Chanel</footer></blockquote>
+<blockquote>&ldquo;Life is much more successfully looked at from a single window.&rdquo; &mdash; <footer>F. Scott Fitzgerald</footer></blockquote>
 
 </div>
