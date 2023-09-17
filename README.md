@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Ripe fruit falls by itself - but it doesn't fall in your mouth. &rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
+<blockquote>&ldquo;To accomplish big things, I am convinced you must first dream big dreams.&rdquo; &mdash; <footer>Conrad Hilton</footer></blockquote>
 
 </div>
