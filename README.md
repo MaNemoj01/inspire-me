@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;To accomplish big things, I am convinced you must first dream big dreams.&rdquo; &mdash; <footer>Conrad Hilton</footer></blockquote>
+<blockquote>&ldquo;The consequences of today are determined by the actions of the past. To change your future, alter your decisions today.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 
 </div>
