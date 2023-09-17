@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A little impatience will spoil great plans.&rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
+<blockquote>&ldquo;Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, 'What's in it for me?'&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
 
 </div>
