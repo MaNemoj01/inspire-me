@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Fear, uncertainty, and discomfort are your compasses toward growth.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
+<blockquote>&ldquo;Don't be afraid of enemies who attack you. Be afraid of the friends who flatter you.&rdquo; &mdash; <footer>Dale Carnegie</footer></blockquote>
 
 </div>
