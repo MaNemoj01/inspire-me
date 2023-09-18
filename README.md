@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It's better to stand by someone's side than by yourself.&rdquo; &mdash; <footer>Jack London</footer></blockquote>
+<blockquote>&ldquo;Don't blame others. it won't make you a better person.&rdquo; &mdash; <footer>Lolly Daskal</footer></blockquote>
 
 </div>
