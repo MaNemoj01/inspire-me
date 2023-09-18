@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you don't like something, change it. If you can't change it, change your attitude.&rdquo; &mdash; <footer>Maya Angelou</footer></blockquote>
+<blockquote>&ldquo;Words can only have a positive effect on others if and when they are ready to listen.&rdquo; &mdash; <footer>Christopher Reeve</footer></blockquote>
 
 </div>
