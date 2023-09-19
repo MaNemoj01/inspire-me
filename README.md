@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;I would rather die on my feet than live on my knees.&rdquo; &mdash; <footer>Euripides</footer></blockquote>
+<blockquote>&ldquo;It is better to offer no excuse than a bad one. &rdquo; &mdash; <footer>George Washington</footer></blockquote>
 
 </div>
