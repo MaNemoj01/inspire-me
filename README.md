@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Fear not the path of Truth for the lack of People walking on it.&rdquo; &mdash; <footer>Robert F. Kennedy</footer></blockquote>
+<blockquote>&ldquo;Live as if you were to die tomorrow. Learn as if you were to live forever.&rdquo; &mdash; <footer>Mahatma Gandhi</footer></blockquote>
 
 </div>
