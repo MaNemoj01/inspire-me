@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Our heart is a treasury; if you pour out all its wealth at once, you are bankrupt.&rdquo; &mdash; <footer>Honore de Balzac</footer></blockquote>
+<blockquote>&ldquo;To raise your consciousness, surround yourself with people of higher consciousness.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
 
 </div>
