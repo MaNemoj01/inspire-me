@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Be kind whenever possible. It is always possible.&rdquo; &mdash; <footer>Dalai Lama</footer></blockquote>
+<blockquote>&ldquo;Don't set your own goals by what other people make important.&rdquo; &mdash; <footer>Lolly Daskal</footer></blockquote>
 
 </div>
