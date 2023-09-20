@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;To raise your consciousness, surround yourself with people of higher consciousness.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
+<blockquote>&ldquo;I'm an optimist by choice not by stupidity.&rdquo; &mdash; <footer>Yanni</footer></blockquote>
 
 </div>
