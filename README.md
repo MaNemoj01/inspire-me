@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Observe things as they are and don't pay attention to other people.&rdquo; &mdash; <footer>Huang Po</footer></blockquote>
+<blockquote>&ldquo;Be happy in the moment, that's enough. Each moment is all we need, not more.&rdquo; &mdash; <footer>Mother Teresa</footer></blockquote>
 
 </div>
