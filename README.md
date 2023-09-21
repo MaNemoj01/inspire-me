@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Mistake is a mistake only if you make it twice.&rdquo; &mdash; <footer>Robin Sharma</footer></blockquote>
+<blockquote>&ldquo;Observe things as they are and don't pay attention to other people.&rdquo; &mdash; <footer>Huang Po</footer></blockquote>
 
 </div>
