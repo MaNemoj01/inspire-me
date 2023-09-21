@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You don't need anybody to tell you who you are or what you are. You are what you are!&rdquo; &mdash; <footer>John Lennon</footer></blockquote>
+<blockquote>&ldquo;We ordinary people must forge our own beauty.&rdquo; &mdash; <footer>Kenji Miyazawa</footer></blockquote>
 
 </div>
