@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Life is simply what our feelings do to us.&rdquo; &mdash; <footer>Honore de Balzac</footer></blockquote>
+<blockquote>&ldquo;20 percent of your activities will account for 80 percent of your results.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
 
 </div>
