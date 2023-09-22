@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you want to be successful, you have to jump, there's no way around it.&rdquo; &mdash; <footer>Steve Harvey</footer></blockquote>
+<blockquote>&ldquo;I put my heart and soul into my work, and I have lost my mind in the process.&rdquo; &mdash; <footer>Vincent van Gogh</footer></blockquote>
 
 </div>
