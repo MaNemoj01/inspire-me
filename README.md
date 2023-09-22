@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You can easily judge the character of a man by how he treats those who can do nothing for him.&rdquo; &mdash; <footer>Johann Wolfgang von Goethe</footer></blockquote>
+<blockquote>&ldquo;If you want peace, accept. If you want suffering, expect.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>
 
 </div>
