@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;In youth we run into difficulties. In old age difficulties run into us. &rdquo; &mdash; <footer>Beverly Sills</footer></blockquote>
+<blockquote>&ldquo;Life is a gift. Never forget to enjoy and bask in every moment you are in.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
 
 </div>
