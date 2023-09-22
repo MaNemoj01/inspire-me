@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you want peace, accept. If you want suffering, expect.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>
+<blockquote>&ldquo;An ounce of performance is worth pounds of promises.&rdquo; &mdash; <footer>Mae West</footer></blockquote>
 
 </div>
