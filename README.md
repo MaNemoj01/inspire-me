@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A bird does not sing because it has an answer. It sings because it has a song.&rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
+<blockquote>&ldquo;Sometimes it is harder to deprive oneself of a pain than of a pleasure.&rdquo; &mdash; <footer>F. Scott Fitzgerald</footer></blockquote>
 
 </div>
