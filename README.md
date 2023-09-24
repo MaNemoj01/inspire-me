@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The only problem we really have is we think we're not supposed to have problems! Problems call us to higher level- - face & solve them now!&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
+<blockquote>&ldquo;A random act of kindness, no matter how small, can make a tremendous impact on someone else's life.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
 
 </div>
