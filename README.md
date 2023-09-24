@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You have within you right now, everything you need to deal with whatever the world can throw at you.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
+<blockquote>&ldquo;The glow of one warm thought is to me worth more than money.&rdquo; &mdash; <footer>Thomas Jefferson</footer></blockquote>
 
 </div>
