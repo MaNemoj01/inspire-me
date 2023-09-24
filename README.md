@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The present moment dies every moment to become the past , is reborn every moment into the future. All experience is now. Now never ends.&rdquo; &mdash; <footer>Deepak Chopra</footer></blockquote>
+<blockquote>&ldquo;The secret of life isn't what happens to you, but what you do with what happens to you.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
 
 </div>
