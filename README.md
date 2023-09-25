@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The guest will judge better of a feast than the cook.&rdquo; &mdash; <footer>Aristotle</footer></blockquote>
+<blockquote>&ldquo;If you are patient in one moment of anger, you will escape a hundred days of sorrow. &rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
 
 </div>
