@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The world makes way for the man who knows where he is going.&rdquo; &mdash; <footer>Ralph Waldo Emerson</footer></blockquote>
+<blockquote>&ldquo;Our greatest glory is not in never falling, but in rising every time we fall. &rdquo; &mdash; <footer>Confucius</footer></blockquote>
 
 </div>
