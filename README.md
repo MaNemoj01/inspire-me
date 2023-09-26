@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;He who loses wealth loses much; he who loses a friend loses more; but he that loses his courage loses all.&rdquo; &mdash; <footer>Miguel de Cervantes</footer></blockquote>
+<blockquote>&ldquo;Life is simply what our feelings do to us.&rdquo; &mdash; <footer>Honore de Balzac</footer></blockquote>
 
 </div>
