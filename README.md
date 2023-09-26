@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A man has to learn that he cannot command things but that he can command himself; that he cannot coerce the wills of others but that he can mold and master his own will.&rdquo; &mdash; <footer>James Allen</footer></blockquote>
+<blockquote>&ldquo;Nothing you do is going to matter that much in the long run. Don't take yourself so seriously.&rdquo; &mdash; <footer>Naval Ravikant</footer></blockquote>
 
 </div>
