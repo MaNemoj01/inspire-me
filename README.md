@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You play the hand you're dealt. I think the game's worthwhile.  &rdquo; &mdash; <footer>Christopher Reeve</footer></blockquote>
+<blockquote>&ldquo;What's right is what's left if you do everything else wrong.&rdquo; &mdash; <footer>Robin Williams</footer></blockquote>
 
 </div>
