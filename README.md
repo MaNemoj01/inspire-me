@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Excellence is not a skill. It is an attitude. &rdquo; &mdash; <footer>Ralph Marston</footer></blockquote>
+<blockquote>&ldquo;If you do the work you get rewarded. There are no shortcuts in life.&rdquo; &mdash; <footer>Michael Jordan</footer></blockquote>
 
 </div>
