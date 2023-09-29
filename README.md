@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;I thought how unpleasant it is to be locked out; and I thought how it is worse, perhaps, to be locked in.&rdquo; &mdash; <footer>Virginia Woolf</footer></blockquote>
+<blockquote>&ldquo;In order to control myself I must first accept myself by going with and not against my nature.&rdquo; &mdash; <footer>Bruce Lee</footer></blockquote>
 
 </div>
