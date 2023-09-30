@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;When you have to make a choice and don't make it, that is in itself a choice.&rdquo; &mdash; <footer>William James</footer></blockquote>
+<blockquote>&ldquo;The quality, not the longevity, of one's life is what is important.&rdquo; &mdash; <footer>Martin Luther King, Jr.</footer></blockquote>
 
 </div>
