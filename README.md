@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;One loyal friend is worth ten thousand relatives.&rdquo; &mdash; <footer>Euripides</footer></blockquote>
+<blockquote>&ldquo;Success is a poor teacher.&rdquo; &mdash; <footer>Robert Kiyosaki</footer></blockquote>
 
 </div>
