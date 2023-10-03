@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It only takes a split second to smile and forget, yet to someone that needed it, it can last a lifetime.&rdquo; &mdash; <footer>Steve Maraboli</footer></blockquote>
+<blockquote>&ldquo;Each of us is a unique strand in the intricate web of life and here to make a contribution.&rdquo; &mdash; <footer>Deepak Chopra</footer></blockquote>
 
 </div>
