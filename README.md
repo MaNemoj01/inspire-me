@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Fool me once, shame on you; fool me twice, shame on me. &rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
+<blockquote>&ldquo;It is not as important how we start, but how we finish.&rdquo; &mdash; <footer>Joyce Meyer</footer></blockquote>
 
 </div>
