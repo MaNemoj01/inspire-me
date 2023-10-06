@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Adults are just children who earn money.&rdquo; &mdash; <footer>Kenneth Branagh</footer></blockquote>
+<blockquote>&ldquo;The more something threatens your identity, the more you will avoid it.&rdquo; &mdash; <footer>Mark Manson</footer></blockquote>
 
 </div>
