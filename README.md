@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Many answers to what you seek don't lie 'out there'. If you look inwards, you'll find the answer has been in you all along.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
+<blockquote>&ldquo;A pessimist is one who makes difficulties of his opportunities and an optimist is one who makes opportunities of his difficulties.&rdquo; &mdash; <footer>Harry S. Truman</footer></blockquote>
 
 </div>
