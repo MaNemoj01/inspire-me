@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Failure is simply the opportunity to begin again, this time more intelligently.&rdquo; &mdash; <footer>Henry Ford</footer></blockquote>
+<blockquote>&ldquo;The world is a puzzle; no need to make sense out of it.&rdquo; &mdash; <footer>Socrates</footer></blockquote>
 
 </div>
