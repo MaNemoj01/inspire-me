@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The world is a puzzle; no need to make sense out of it.&rdquo; &mdash; <footer>Socrates</footer></blockquote>
+<blockquote>&ldquo;A dream doesn't become reality through magic it takes sweat, determination and hard work.&rdquo; &mdash; <footer>Colin Powell</footer></blockquote>
 
 </div>
