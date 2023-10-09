@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;To affect the quality of the day, that is the highest of arts.&rdquo; &mdash; <footer>Henry David Thoreau</footer></blockquote>
+<blockquote>&ldquo;Your dream has to be bigger than your fear.&rdquo; &mdash; <footer>Steve Harvey</footer></blockquote>
 
 </div>
