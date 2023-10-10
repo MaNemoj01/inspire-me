@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you think you can do a thing or think you can't do a thing, you're right.&rdquo; &mdash; <footer>Henry Ford</footer></blockquote>
+<blockquote>&ldquo;Awaken. Take heed, do not squander your life.&rdquo; &mdash; <footer>Dogen</footer></blockquote>
 
 </div>
