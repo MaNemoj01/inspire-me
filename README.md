@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;To forget the whole world is easy; to make the whole world forget you is hard.&rdquo; &mdash; <footer>Zhuangzi</footer></blockquote>
+<blockquote>&ldquo;Nothing is impossible. The word itself says 'I'm possible!'&rdquo; &mdash; <footer>Audrey Hepburn</footer></blockquote>
 
 </div>
