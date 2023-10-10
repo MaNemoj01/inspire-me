@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Prefer to be defeated in the presence of the wise than to excel among fools.&rdquo; &mdash; <footer>Dogen</footer></blockquote>
+<blockquote>&ldquo;Life is like playing the violin in public and learning the instrument as one goes on.&rdquo; &mdash; <footer>Samuel Butler</footer></blockquote>
 
 </div>
