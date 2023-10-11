@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Courage is knowing what not to fear.&rdquo; &mdash; <footer>Plato</footer></blockquote>
+<blockquote>&ldquo;Life belongs to the living, and he who lives must be prepared for changes.&rdquo; &mdash; <footer>Johann Wolfgang von Goethe</footer></blockquote>
 
 </div>
