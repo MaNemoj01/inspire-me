@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Often in the real world, it's not the smart that get ahead, but the bold.&rdquo; &mdash; <footer>Robert Kiyosaki</footer></blockquote>
+<blockquote>&ldquo;Just trust that everything is unfolding the way it is supposed to. Don't resist... Great things are waiting for you around the corner.&rdquo; &mdash; <footer>Sonia Ricotti</footer></blockquote>
 
 </div>
