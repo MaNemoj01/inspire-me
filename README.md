@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It is better to change an opinion than to persist in a wrong one.&rdquo; &mdash; <footer>Socrates</footer></blockquote>
+<blockquote>&ldquo;The farther backward you can look, the farther forward you are likely to see.&rdquo; &mdash; <footer>Winston Churchill</footer></blockquote>
 
 </div>
