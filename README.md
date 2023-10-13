@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;One loses many laughs by not laughing at oneself.&rdquo; &mdash; <footer>Mary Engelbreit</footer></blockquote>
+<blockquote>&ldquo;The finish line is just the beginning of a whole new race.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 
 </div>
