@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The farther backward you can look, the farther forward you are likely to see.&rdquo; &mdash; <footer>Winston Churchill</footer></blockquote>
+<blockquote>&ldquo;See what you're doing wrong, laugh at it, change and do better.&rdquo; &mdash; <footer>Spencer Johnson</footer></blockquote>
 
 </div>
