@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Extraordinary results happen only when you give the best you have to become the best you can be at your most important work.&rdquo; &mdash; <footer>Gary Keller</footer></blockquote>
+<blockquote>&ldquo;Kindness is a language which the deaf can hear and the blind can see.&rdquo; &mdash; <footer>Mark Twain</footer></blockquote>
 
 </div>
