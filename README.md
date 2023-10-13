@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The more perfect a person is on the outside, the more demons they have on the inside.&rdquo; &mdash; <footer>Sigmund Freud</footer></blockquote>
+<blockquote>&ldquo;Our attitude toward life determines life's attitude towards us.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>
 
 </div>
