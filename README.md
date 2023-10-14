@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;We live only now. Everything else is either passed or is unknown.&rdquo; &mdash; <footer>Marcus Aurelius</footer></blockquote>
+<blockquote>&ldquo;Don't just sit there. Do something. The answers will follow.&rdquo; &mdash; <footer>Mark Manson</footer></blockquote>
 
 </div>
