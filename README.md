@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;I'm not afraid of death, but I'm in no hurry to die.&rdquo; &mdash; <footer>Stephen Hawking</footer></blockquote>
+<blockquote>&ldquo;Generosity is giving more than you can, and pride is taking less than you need.&rdquo; &mdash; <footer>Kahlil Gibran</footer></blockquote>
 
 </div>
