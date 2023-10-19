@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Believe that life is worth living and your belief will help create the fact.&rdquo; &mdash; <footer>William James</footer></blockquote>
+<blockquote>&ldquo;There is no fear for one whose mind is not filled with desires.&rdquo; &mdash; <footer>Buddha</footer></blockquote>
 
 </div>
