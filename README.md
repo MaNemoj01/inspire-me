@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you done it, it ain't bragging.&rdquo; &mdash; <footer>Walt Whitman</footer></blockquote>
+<blockquote>&ldquo;Those who are possessed by nothing possess everything.&rdquo; &mdash; <footer>Morihei Ueshiba</footer></blockquote>
 
 </div>
