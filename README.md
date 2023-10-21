@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Successful people ask better questions, and as a result, they get better answers.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
+<blockquote>&ldquo;Friendship is like money, easier made than kept.&rdquo; &mdash; <footer>Samuel Butler</footer></blockquote>
 
 </div>
