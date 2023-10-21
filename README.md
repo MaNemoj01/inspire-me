@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Friendship is like money, easier made than kept.&rdquo; &mdash; <footer>Samuel Butler</footer></blockquote>
+<blockquote>&ldquo;Anything worth doing is worth doing slowly.&rdquo; &mdash; <footer>Mae West</footer></blockquote>
 
 </div>
