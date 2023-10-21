@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;I dream my painting and I paint my dream.&rdquo; &mdash; <footer>Vincent van Gogh</footer></blockquote>
+<blockquote>&ldquo;Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured.&rdquo; &mdash; <footer>Mark Twain</footer></blockquote>
 
 </div>
