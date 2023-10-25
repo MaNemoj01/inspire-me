@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Many roads lead to the path, but basically there are only two: reason and practice. &rdquo; &mdash; <footer>Bodhidharma</footer></blockquote>
+<blockquote>&ldquo;Success is not how high you have climbed, but how you make a positive difference to the world.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
 
 </div>
