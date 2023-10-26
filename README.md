@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Any idea, plan, or purpose may be placed in the mind through repetition of thought.&rdquo; &mdash; <footer>Napoleon Hill</footer></blockquote>
+<blockquote>&ldquo;We can change our lives. We can do, have, and be exactly what we wish.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
 
 </div>
