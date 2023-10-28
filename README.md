@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The first rule of handling conflict is don't hang around people who are constantly engaging in conflict.&rdquo; &mdash; <footer>Naval Ravikant</footer></blockquote>
+<blockquote>&ldquo;All that we see or seem is but a dream within a dream.&rdquo; &mdash; <footer>Edgar Allan Poe</footer></blockquote>
 
 </div>
