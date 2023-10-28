@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Every traveler has a home of his own, and he learns to appreciate it the more from his wandering.&rdquo; &mdash; <footer>Charles Dickens</footer></blockquote>
+<blockquote>&ldquo;Sometimes good things fall apart so better things can fall together.&rdquo; &mdash; <footer>Marilyn Monroe</footer></blockquote>
 
 </div>
