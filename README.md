@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Do not be awe struck by other people and try to copy them. Nobody can be you as efficiently as you can.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
+<blockquote>&ldquo;The healthiest response to life is joy.&rdquo; &mdash; <footer>Deepak Chopra</footer></blockquote>
 
 </div>
