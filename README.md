@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Real loss is only possible when you love something more than you love yourself.&rdquo; &mdash; <footer>Robin Williams</footer></blockquote>
+<blockquote>&ldquo;To forget the whole world is easy; to make the whole world forget you is hard.&rdquo; &mdash; <footer>Zhuangzi</footer></blockquote>
 
 </div>
