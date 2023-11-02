@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The harder you work, the harder it is to surrender.&rdquo; &mdash; <footer>Vince Lombardi</footer></blockquote>
+<blockquote>&ldquo;Dreams provide nourishment for the soul, just as a meal does for the body.&rdquo; &mdash; <footer>Paulo Coelho</footer></blockquote>
 
 </div>
