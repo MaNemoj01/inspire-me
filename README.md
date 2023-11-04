@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Help others achieve their dreams and you will achieve yours.&rdquo; &mdash; <footer>Les Brown</footer></blockquote>
+<blockquote>&ldquo;It's the unknown we fear when we look upon death and darkness, nothing more.&rdquo; &mdash; <footer>Albus Dumbledore</footer></blockquote>
 
 </div>
