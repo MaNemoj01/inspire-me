@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Make peace within, and there will be no one who can overcome you. And no one you will wish to overcome.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>
+<blockquote>&ldquo;Many roads lead to the path, but basically there are only two: reason and practice. &rdquo; &mdash; <footer>Bodhidharma</footer></blockquote>
 
 </div>
