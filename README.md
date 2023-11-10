@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Change is hardest at the beginning, messiest in the middle and best at the end.&rdquo; &mdash; <footer>Robin Sharma</footer></blockquote>
+<blockquote>&ldquo;Love the life you live, live the life you love.&rdquo; &mdash; <footer>Bob Marley</footer></blockquote>
 
 </div>
