@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Learn to use your emotions to think, not think with your emotions.&rdquo; &mdash; <footer>Robert Kiyosaki</footer></blockquote>
+<blockquote>&ldquo;Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us.&rdquo; &mdash; <footer>Richard Bach</footer></blockquote>
 
 </div>
