@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;My instinct is always to seek out challenges as opposed to avoiding them.&rdquo; &mdash; <footer>Josh Waitzkin</footer></blockquote>
+<blockquote>&ldquo;Art, like morality, consists of drawing the line somewhere.&rdquo; &mdash; <footer>Gilbert Chesterton</footer></blockquote>
 
 </div>
