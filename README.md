@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Make no small plans for they have no power to stir the soul.&rdquo; &mdash; <footer>Niccolo Machiavelli</footer></blockquote>
+<blockquote>&ldquo;What is planted in each person's soul will sprout.  &rdquo; &mdash; <footer>Rumi</footer></blockquote>
 
 </div>
