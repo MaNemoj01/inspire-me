@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Never argue with stupid people, they will drag you down to their level and then beat you with experience.&rdquo; &mdash; <footer>Mark Twain</footer></blockquote>
+<blockquote>&ldquo;Only one thing is ever guaranteed, that is that you will definitely not achieve the goal if you don't take the shot.&rdquo; &mdash; <footer>Wayne Gretzky</footer></blockquote>
 
 </div>
