@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you put yourself in a position where you have to stretch outside your comfort zone, then you are forced to expand your consciousness.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+<blockquote>&ldquo;A mountain never yields to the wind no matter how strong it is.&rdquo; &mdash; <footer>Zen Proverb</footer></blockquote>
 
 </div>
