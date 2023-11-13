@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day.&rdquo; &mdash; <footer>Paulo Coelho</footer></blockquote>
+<blockquote>&ldquo;No man will make a great leader who wants to do it all himself or to get all the credit for doing it.&rdquo; &mdash; <footer>Andrew Carnegie</footer></blockquote>
 
 </div>
