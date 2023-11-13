@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It ain't where you start in life, it's where you end up, and what you did along the way.&rdquo; &mdash; <footer>Colin Powell</footer></blockquote>
+<blockquote>&ldquo;Don't let them drag you down by rumors. Just go with what you believe in.&rdquo; &mdash; <footer>Michael Jordan</footer></blockquote>
 
 </div>
