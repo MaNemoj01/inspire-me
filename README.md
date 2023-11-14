@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A leader leads by example, not by force.&rdquo; &mdash; <footer>Sun Tzu</footer></blockquote>
+<blockquote>&ldquo;No kind action ever stops with itself. One kind action leads to another. Good example is followed.&rdquo; &mdash; <footer>Amelia Earhart</footer></blockquote>
 
 </div>
