@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Creativity is the greatest rebellion in existence.&rdquo; &mdash; <footer>Osho</footer></blockquote>
+<blockquote>&ldquo;A leader leads by example, not by force.&rdquo; &mdash; <footer>Sun Tzu</footer></blockquote>
 
 </div>
