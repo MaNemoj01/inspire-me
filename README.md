@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Don't change your mind just because people are offended; change your mind if you're wrong.&rdquo; &mdash; <footer>Criss Jami</footer></blockquote>
+<blockquote>&ldquo;Every moment you get is a gift. Spend it on things that matter. Don't spend it by dwelling on unhappy things.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
 
 </div>
