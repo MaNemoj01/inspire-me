@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Inspire yourself to be great. Being good isn't good enough.&rdquo; &mdash; <footer>Gurbaksh Chahal</footer></blockquote>
+<blockquote>&ldquo;Scared people want comfort and certainty so they avoid failure. People living fully seek challenges because this is where they feel alive.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>
 
 </div>
