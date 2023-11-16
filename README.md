@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Nothing can dim the light which shines from within.&rdquo; &mdash; <footer>Maya Angelou</footer></blockquote>
+<blockquote>&ldquo;Success is the progressive realization of a worthy goal or ideal.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>
 
 </div>
