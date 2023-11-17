@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Instead of worrying about what you cannot control, shift your energy to what you can create.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
+<blockquote>&ldquo;No matter how qualified or deserving we are, we will never reach a better life until we can imagine it for ourselves and allow ourselves to have it.&rdquo; &mdash; <footer>Richard Bach</footer></blockquote>
 
 </div>
