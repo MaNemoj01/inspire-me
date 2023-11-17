@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Lust, anger and greed are the three gates to self-destructive hell.&rdquo; &mdash; <footer>Bhagavad Gita</footer></blockquote>
+<blockquote>&ldquo;Until you make the unconscious conscious, it will direct your life and you will call it fate.&rdquo; &mdash; <footer>Carl Jung</footer></blockquote>
 
 </div>
