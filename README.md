@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you spend too much time thinking about a thing, you'll never get it done. &rdquo; &mdash; <footer>Bruce Lee</footer></blockquote>
+<blockquote>&ldquo;Never buy a thing you do not want, because it is cheap, it will be dear to you.&rdquo; &mdash; <footer>Thomas Jefferson</footer></blockquote>
 
 </div>
