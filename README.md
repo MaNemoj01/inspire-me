@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Rivers know this: there is no hurry. We shall get there some day.&rdquo; &mdash; <footer>A.A. Milne</footer></blockquote>
+<blockquote>&ldquo;An intelligence test sometimes shows a man how smart he would have been not to have taken it.&rdquo; &mdash; <footer>Laurence J. Peter</footer></blockquote>
 
 </div>
