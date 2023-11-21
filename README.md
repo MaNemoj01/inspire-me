@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Opportunity often comes disguised in the form of misfortune or temporary defeat.&rdquo; &mdash; <footer>Napoleon Hill</footer></blockquote>
+<blockquote>&ldquo;Real learning comes about when the competitive spirit has ceased.&rdquo; &mdash; <footer>Jiddu Krishnamurti</footer></blockquote>
 
 </div>
