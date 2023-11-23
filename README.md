@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Where words fail, music speaks.&rdquo; &mdash; <footer>Hans Christian Andersen</footer></blockquote>
+<blockquote>&ldquo;Real learning comes about when the competitive spirit has ceased.&rdquo; &mdash; <footer>Jiddu Krishnamurti</footer></blockquote>
 
 </div>
