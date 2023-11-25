@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;We ordinary people must forge our own beauty.&rdquo; &mdash; <footer>Kenji Miyazawa</footer></blockquote>
+<blockquote>&ldquo;A hero is an ordinary person doing things in an extra ordinary way.&rdquo; &mdash; <footer>Christopher Reeve</footer></blockquote>
 
 </div>
