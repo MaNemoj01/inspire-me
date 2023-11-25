@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A hero is an ordinary person doing things in an extra ordinary way.&rdquo; &mdash; <footer>Christopher Reeve</footer></blockquote>
+<blockquote>&ldquo;The secret of life isn't what happens to you, but what you do with what happens to you.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
 
 </div>
