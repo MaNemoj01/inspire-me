@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The present moment dies every moment to become the past , is reborn every moment into the future. All experience is now. Now never ends.&rdquo; &mdash; <footer>Deepak Chopra</footer></blockquote>
+<blockquote>&ldquo;Never buy a thing you do not want, because it is cheap, it will be dear to you.&rdquo; &mdash; <footer>Thomas Jefferson</footer></blockquote>
 
 </div>
