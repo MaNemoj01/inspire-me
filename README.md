@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Change yourself and you have done your part in changing the world.&rdquo; &mdash; <footer>Paramahansa Yogananda</footer></blockquote>
+<blockquote>&ldquo;The saddest aspect of life is that there is no one on earth whose happiness is such that he won't sometimes wish he were dead rather than alive.&rdquo; &mdash; <footer>Herodotus</footer></blockquote>
 
 </div>
