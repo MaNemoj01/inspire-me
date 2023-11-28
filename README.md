@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you care about someone enough, you'll always be there for them no matter what.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
+<blockquote>&ldquo;The quality, not the longevity, of one's life is what is important.&rdquo; &mdash; <footer>Martin Luther King, Jr.</footer></blockquote>
 
 </div>
