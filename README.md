@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Just as true humor is laughter at oneself, true humanity is knowledge of oneself.&rdquo; &mdash; <footer>Alan Watts</footer></blockquote>
+<blockquote>&ldquo;Unless a man is master of his soul, all other kinds of mastery amount to little.&rdquo; &mdash; <footer>Theodore Roosevelt</footer></blockquote>
 
 </div>
