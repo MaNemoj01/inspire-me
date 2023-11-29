@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you've made a mistake, it's better just to laugh at it.&rdquo; &mdash; <footer>Zen Proverb</footer></blockquote>
+<blockquote>&ldquo;Just as true humor is laughter at oneself, true humanity is knowledge of oneself.&rdquo; &mdash; <footer>Alan Watts</footer></blockquote>
 
 </div>
