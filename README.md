@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A day wasted on others is not wasted on one's self.&rdquo; &mdash; <footer>Charles Dickens</footer></blockquote>
+<blockquote>&ldquo;You know the more one does the more one can do.&rdquo; &mdash; <footer>Amelia Earhart</footer></blockquote>
 
 </div>
