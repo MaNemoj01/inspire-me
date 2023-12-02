@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;We must cultivate our garden. &rdquo; &mdash; <footer>Voltaire</footer></blockquote>
+<blockquote>&ldquo;If you want to make God laugh, tell him about your plans. &rdquo; &mdash; <footer>Woody Allen</footer></blockquote>
 
 </div>
