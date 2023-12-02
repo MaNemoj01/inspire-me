@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you're not making mistakes, then you're not doing anything.&rdquo; &mdash; <footer>John Wooden</footer></blockquote>
+<blockquote>&ldquo;There is no right or wrong, only a series of possibilities that shift with each thought, feeling, and action that you experience.&rdquo; &mdash; <footer>Deepak Chopra</footer></blockquote>
 
 </div>
