@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It's better to stand by someone's side than by yourself.&rdquo; &mdash; <footer>Jack London</footer></blockquote>
+<blockquote>&ldquo;Unless someone truly has the power to say no, they never truly have the power to say yes.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>
 
 </div>
