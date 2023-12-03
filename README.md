@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Exceptional thinkers ignore their critics and go about their business making history.&rdquo; &mdash; <footer>John Eliot</footer></blockquote>
+<blockquote>&ldquo;The secret of life isn't what happens to you, but what you do with what happens to you.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
 
 </div>
