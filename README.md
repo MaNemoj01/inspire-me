@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You are what you believe in. You become that which you believe you can become.&rdquo; &mdash; <footer>Bhagavad Gita</footer></blockquote>
+<blockquote>&ldquo;A hero is an ordinary person doing things in an extra ordinary way.&rdquo; &mdash; <footer>Christopher Reeve</footer></blockquote>
 
 </div>
