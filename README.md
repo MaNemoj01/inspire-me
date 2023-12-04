@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The only thing new in the world is the history you do not know.&rdquo; &mdash; <footer>Harry S. Truman</footer></blockquote>
+<blockquote>&ldquo;Man invented language to satisfy his deep need to complain.&rdquo; &mdash; <footer>Lily Tomlin</footer></blockquote>
 
 </div>
