@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Every drop in the ocean counts. &rdquo; &mdash; <footer>Yoko Ono</footer></blockquote>
+<blockquote>&ldquo;The single biggest problem in communication is the illusion that it has taken place.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote>
 
 </div>
