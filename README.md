@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Trust, like the soul, never returns once it is gone.&rdquo; &mdash; <footer>Publilius Syrus</footer></blockquote>
+<blockquote>&ldquo;It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult.  &rdquo; &mdash; <footer>Seneca</footer></blockquote>
 
 </div>
