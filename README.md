@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The greatest doer must also be a great dreamer.&rdquo; &mdash; <footer>Theodore Roosevelt</footer></blockquote>
+<blockquote>&ldquo;Do not fight with pigs - you will be smeared in mud but the pig will like it.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote>
 
 </div>
