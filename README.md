@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Never waste a minute of your precious life thinking about people you don't like.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
+<blockquote>&ldquo;Be happy in the moment, that's enough. Each moment is all we need, not more.&rdquo; &mdash; <footer>Mother Teresa</footer></blockquote>
 
 </div>
