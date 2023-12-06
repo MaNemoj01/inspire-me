@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Many of life's failures are people who did not realize how close they were to success when they gave up.&rdquo; &mdash; <footer>Thomas Edison</footer></blockquote>
+<blockquote>&ldquo;Little minds have little worries, big minds have no time for worries.&rdquo; &mdash; <footer>Ralph Waldo Emerson</footer></blockquote>
 
 </div>
