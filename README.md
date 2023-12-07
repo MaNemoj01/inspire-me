@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It doesn't matter where you are coming from. All that matters is where you are going. &rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
+<blockquote>&ldquo;To affect the quality of the day, that is the highest of arts.&rdquo; &mdash; <footer>Henry David Thoreau</footer></blockquote>
 
 </div>
