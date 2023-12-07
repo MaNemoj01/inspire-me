@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;As you love yourself, life loves you back.&rdquo; &mdash; <footer>Kamal Ravikant</footer></blockquote>
+<blockquote>&ldquo;The power of human thought grows exponentially with the number of minds that share that thought.&rdquo; &mdash; <footer>Dan Brown</footer></blockquote>
 
 </div>
