@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The only man who never makes mistakes is the man who never does anything.&rdquo; &mdash; <footer>Theodore Roosevelt</footer></blockquote>
+<blockquote>&ldquo;There are no secrets to success. It is the result of preparation, hard work, and learning from failure.&rdquo; &mdash; <footer>Colin Powell</footer></blockquote>
 
 </div>
