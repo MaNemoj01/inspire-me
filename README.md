@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Success is not what you do when you are on top.  Success is how high you bounce when you hit the bottom.&rdquo; &mdash; <footer>Sonia Ricotti</footer></blockquote>
+<blockquote>&ldquo;A man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled.&rdquo; &mdash; <footer>Andrew Carnegie</footer></blockquote>
 
 </div>
