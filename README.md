@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously.&rdquo; &mdash; <footer>Steve Maraboli</footer></blockquote>
+<blockquote>&ldquo;Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny.&rdquo; &mdash; <footer>Steve Maraboli</footer></blockquote>
 
 </div>
