@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Those who dream by day are cognizant of many things which escape those who dream only by night.&rdquo; &mdash; <footer>Vincent van Gogh</footer></blockquote>
+<blockquote>&ldquo;If you love life, don't waste time, for time is what life is made up of. &rdquo; &mdash; <footer>Bruce Lee</footer></blockquote>
 
 </div>
