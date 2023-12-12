@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;One small positive thought can change your whole day.&rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>
+<blockquote>&ldquo;If you let your head get too big, it'll break your neck.&rdquo; &mdash; <footer>Elvis Presley</footer></blockquote>
 
 </div>
