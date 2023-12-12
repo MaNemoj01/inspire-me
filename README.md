@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The search for happiness is one of the chief sources of unhappiness.&rdquo; &mdash; <footer>Eric Hoffer</footer></blockquote>
+<blockquote>&ldquo;You have to make time, even for something as universal as staring at the stars.&rdquo; &mdash; <footer>W.P. Kinsella</footer></blockquote>
 
 </div>
