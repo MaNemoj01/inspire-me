@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Any idea, plan, or purpose may be placed in the mind through repetition of thought.&rdquo; &mdash; <footer>Napoleon Hill</footer></blockquote>
+<blockquote>&ldquo;Success is stumbling from failure to failure with no loss of enthusiasm.&rdquo; &mdash; <footer>Winston Churchill</footer></blockquote>
 
 </div>
