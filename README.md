@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;When people are free to do as they please, they usually imitate each other.&rdquo; &mdash; <footer>Eric Hoffer</footer></blockquote>
+<blockquote>&ldquo;The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way.&rdquo; &mdash; <footer>Robert Kiyosaki</footer></blockquote>
 
 </div>
