@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Falling down is not failure. Failure comes when you stay where you have fallen.&rdquo; &mdash; <footer>Socrates</footer></blockquote>
+<blockquote>&ldquo;Even if our home burns down we can rebuild it. But the things that we got for nothing, we can never replace.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>
 
 </div>
