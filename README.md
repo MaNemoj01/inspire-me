@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The road to success and the road to failure are almost exactly the same.&rdquo; &mdash; <footer>Colin R. Davis</footer></blockquote>
+<blockquote>&ldquo;Falling down is not failure. Failure comes when you stay where you have fallen.&rdquo; &mdash; <footer>Socrates</footer></blockquote>
 
 </div>
