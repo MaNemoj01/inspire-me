@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;What you do today can improve all your tomorrows.&rdquo; &mdash; <footer>Ralph Marston</footer></blockquote>
+<blockquote>&ldquo;There is no path to Peace. Peace is the path.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>
 
 </div>
