@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Do all things with love.&rdquo; &mdash; <footer>Og Mandino</footer></blockquote>
+<blockquote>&ldquo;If you're really truthful with yourself, it's a wonderful guidance.  &rdquo; &mdash; <footer>Charlie Chaplin</footer></blockquote>
 
 </div>
