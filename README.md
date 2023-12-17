@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A man who cannot tolerate small misfortunes can never accomplish great things.&rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
+<blockquote>&ldquo;Life reflects your own thoughts back to you.&rdquo; &mdash; <footer>Napoleon Hill</footer></blockquote>
 
 </div>
