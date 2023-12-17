@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Life reflects your own thoughts back to you.&rdquo; &mdash; <footer>Napoleon Hill</footer></blockquote>
+<blockquote>&ldquo;Love yourself with the same intensity you would use to pull yourself up if you were hanging off a cliff.&rdquo; &mdash; <footer>Kamal Ravikant</footer></blockquote>
 
 </div>
