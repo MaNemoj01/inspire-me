@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;He that can have patience can have what he will.&rdquo; &mdash; <footer>Benjamin Franklin</footer></blockquote>
+<blockquote>&ldquo;You use a glass mirror to see your face; you use works of art to see your soul.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote>
 
 </div>
