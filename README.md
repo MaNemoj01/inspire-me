@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The most important thing in communication is to hear what isn't being said.&rdquo; &mdash; <footer>Peter Drucker</footer></blockquote>
+<blockquote>&ldquo;The only people without problems are those in cemeteries.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
 
 </div>
