@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Be content with what you have, rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you.&rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>
+<blockquote>&ldquo;You know you are on the road to success if you would do your job and not be paid for it.&rdquo; &mdash; <footer>Oprah Winfrey</footer></blockquote>
 
 </div>
