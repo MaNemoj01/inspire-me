@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Great things are not accomplished by those who yield to trends and fads and popular opinion.&rdquo; &mdash; <footer>Jack Kerouac</footer></blockquote>
+<blockquote>&ldquo;No one can hurt you without your consent.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
 
 </div>
