@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Being wrong opens us up to the possibility of change.&rdquo; &mdash; <footer>Mark Manson</footer></blockquote>
+<blockquote>&ldquo;It's not about what it is, it's about what it can become.&rdquo; &mdash; <footer>Dr. Seuss</footer></blockquote>
 
 </div>
