@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It's not about what it is, it's about what it can become.&rdquo; &mdash; <footer>Dr. Seuss</footer></blockquote>
+<blockquote>&ldquo;When you have to make a choice and don't make it, that is in itself a choice.&rdquo; &mdash; <footer>William James</footer></blockquote>
 
 </div>
