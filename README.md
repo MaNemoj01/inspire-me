@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Shoot for the moon, because even if you miss, you'll land among the stars.&rdquo; &mdash; <footer>Les Brown</footer></blockquote>
+<blockquote>&ldquo;When the fish is caught we pay no more attention to the trap.&rdquo; &mdash; <footer>Huang Po</footer></blockquote>
 
 </div>
