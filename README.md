@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;He is not a lover who does not love forever.&rdquo; &mdash; <footer>Euripides</footer></blockquote>
+<blockquote>&ldquo;He is richest who is content with the least, for content is the wealth of nature.&rdquo; &mdash; <footer>Socrates</footer></blockquote>
 
 </div>
