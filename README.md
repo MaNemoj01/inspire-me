@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Generosity is giving more than you can, and pride is taking less than you need.&rdquo; &mdash; <footer>Kahlil Gibran</footer></blockquote>
+<blockquote>&ldquo;The deeper the truth in a creative work, the longer it will live.  &rdquo; &mdash; <footer>Charlie Chaplin</footer></blockquote>
 
 </div>
