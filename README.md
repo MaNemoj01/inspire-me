@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Where ever you are, you are one with the clouds and one with the sun and the stars you see. You are one with everything.&rdquo; &mdash; <footer>Shunryu Suzuki</footer></blockquote>
+<blockquote>&ldquo;Generosity is giving more than you can, and pride is taking less than you need.&rdquo; &mdash; <footer>Kahlil Gibran</footer></blockquote>
 
 </div>
