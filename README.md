@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Either get busy living or get busy dying.&rdquo; &mdash; <footer>Stephen King</footer></blockquote>
+<blockquote>&ldquo;If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest.&rdquo; &mdash; <footer>Seungsahn</footer></blockquote>
 
 </div>
