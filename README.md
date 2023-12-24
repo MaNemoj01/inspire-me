@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You must learn to let go. Release the stress. You were never in control anyway.&rdquo; &mdash; <footer>Steve Maraboli</footer></blockquote>
+<blockquote>&ldquo;If you see someone without a smile give them one of yours.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 
 </div>
