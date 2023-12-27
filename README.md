@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Be careful the environment you choose for it will shape you; be careful the friends you choose for you will become like them.&rdquo; &mdash; <footer>W. Clement Stone</footer></blockquote>
+<blockquote>&ldquo;In a world of change, the learners shall inherit the earth, while the learned shall find themselves perfectly suited for a world that no longer exists.&rdquo; &mdash; <footer>Eric Hoffer</footer></blockquote>
 
 </div>
