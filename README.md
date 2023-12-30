@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Against the assault of laughter nothing can stand.&rdquo; &mdash; <footer>Mark Twain</footer></blockquote>
+<blockquote>&ldquo;Fools read fast. Geniuses reread.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>
 
 </div>
