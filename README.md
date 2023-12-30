@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;What the mind can conceive and believe, and the heart desire, you can achieve.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
+<blockquote>&ldquo;Confidence breeds beauty.  &rdquo; &mdash; <footer>Estee Lauder</footer></blockquote>
 
 </div>
