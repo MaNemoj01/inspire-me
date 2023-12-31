@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Never let the things you can't do stop you from doing what you can.&rdquo; &mdash; <footer>Ronald Reagan</footer></blockquote>
+<blockquote>&ldquo;Begin at once to live, and count each separate day as a separate life.  &rdquo; &mdash; <footer>Seneca</footer></blockquote>
 
 </div>
