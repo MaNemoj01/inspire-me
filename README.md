@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You'll see it when you believe it. &rdquo; &mdash; <footer>Wayne Dyer</footer></blockquote>
+<blockquote>&ldquo;Your only obligation in any lifetime is to be true to yourself.&rdquo; &mdash; <footer>Richard Bach</footer></blockquote>
 
 </div>
