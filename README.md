@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Yesterday is but today's memory, tomorrow is today's dream.&rdquo; &mdash; <footer>Kahlil Gibran</footer></blockquote>
+<blockquote>&ldquo;You can't wait for inspiration. You have to go after it with a club. &rdquo; &mdash; <footer>Jack London</footer></blockquote>
 
 </div>
