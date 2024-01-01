@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Abundance of knowledge does not teach men to be wise.&rdquo; &mdash; <footer>Heraclitus</footer></blockquote>
+<blockquote>&ldquo;I never dwell on what happened. You can't change it. Move forward.&rdquo; &mdash; <footer>Joan Rivers</footer></blockquote>
 
 </div>
