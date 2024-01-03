@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It is the power of thought that gives man power over nature.&rdquo; &mdash; <footer>Hans Christian Andersen</footer></blockquote>
+<blockquote>&ldquo;I have never in my life learned anything from any man who agreed with me.&rdquo; &mdash; <footer>Dudley Field Malone</footer></blockquote>
 
 </div>
