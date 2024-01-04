@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Constantly seek criticism. A well thought out critique of whatever you're doing is as valuable as gold.&rdquo; &mdash; <footer>Elon Musk</footer></blockquote>
+<blockquote>&ldquo;A journey of a thousand miles begins with a single step.&rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>
 
 </div>
