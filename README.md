@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Observe things as they are and don't pay attention to other people.&rdquo; &mdash; <footer>Huang Po</footer></blockquote>
+<blockquote>&ldquo;When something is important enough, you do it even if the odds are not in your favor.&rdquo; &mdash; <footer>Elon Musk</footer></blockquote>
 
 </div>
