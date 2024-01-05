@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The best way to find yourself is to lose yourself in the service of others.&rdquo; &mdash; <footer>Mahatma Gandhi</footer></blockquote>
+<blockquote>&ldquo;Circumstances do not make the man, they reveal him.&rdquo; &mdash; <footer>James Allen</footer></blockquote>
 
 </div>
