@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Everything is created twice, first in the mind and then in reality.&rdquo; &mdash; <footer>Robin Sharma</footer></blockquote>
+<blockquote>&ldquo;What's obvious to you isn't obvious to most people. Operate from this perspective and you'll help more people.&rdquo; &mdash; <footer>Jack Butcher</footer></blockquote>
 
 </div>
