@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Your world is a living expression of how you are using and have used your mind.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>
+<blockquote>&ldquo;Most people achieved their greatest success one step beyond what looked like their greatest failure.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
 
 </div>
