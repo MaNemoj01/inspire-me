@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to focus.&rdquo; &mdash; <footer>Alexander Graham Bell</footer></blockquote>
+<blockquote>&ldquo;You'll never find rainbows if you're looking down.  &rdquo; &mdash; <footer>Charlie Chaplin</footer></blockquote>
 
 </div>
