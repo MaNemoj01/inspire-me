@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Truth will always be truth, regardless of lack of understanding, disbelief or ignorance. &rdquo; &mdash; <footer>W. Clement Stone</footer></blockquote>
+<blockquote>&ldquo;Follow your instincts. That is where true wisdom manifests itself.&rdquo; &mdash; <footer>Oprah Winfrey</footer></blockquote>
 
 </div>
