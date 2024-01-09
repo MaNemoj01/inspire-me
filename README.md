@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Everybody needs a passion. That's what keeps life interesting.&rdquo; &mdash; <footer>Betty White</footer></blockquote>
+<blockquote>&ldquo;Never let the things you can't do stop you from doing what you can.&rdquo; &mdash; <footer>Ronald Reagan</footer></blockquote>
 
 </div>
