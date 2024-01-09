@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You are free, and that is why you are lost.&rdquo; &mdash; <footer>Franz Kafka</footer></blockquote>
+<blockquote>&ldquo;Believe in one thing too much and you have no room for new ideas.  &rdquo; &mdash; <footer>Ray Bradbury</footer></blockquote>
 
 </div>
