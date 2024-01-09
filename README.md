@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Greatness comes from living with purpose and passion.&rdquo; &mdash; <footer>Ralph Marston</footer></blockquote>
+<blockquote>&ldquo;Here and now...breathe and relax...in battle and in life.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>
 
 </div>
