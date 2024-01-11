@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The educated differ from the uneducated as much as the living differ from the dead.&rdquo; &mdash; <footer>Aristotle</footer></blockquote>
+<blockquote>&ldquo;Character is destiny.&rdquo; &mdash; <footer>Heraclitus</footer></blockquote>
 
 </div>
