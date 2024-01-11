@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It's not what happens to you, but how you react to it that matters.&rdquo; &mdash; <footer>Epictetus</footer></blockquote>
+<blockquote>&ldquo;Don't ever save anything for a special occasion. Being alive is the special occasion.&rdquo; &mdash; <footer>Mary Engelbreit</footer></blockquote>
 
 </div>
