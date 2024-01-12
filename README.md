@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The man who does not value himself, cannot value anything or anyone.&rdquo; &mdash; <footer>Ayn Rand</footer></blockquote>
+<blockquote>&ldquo;There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return.&rdquo; &mdash; <footer>Nelson Mandela</footer></blockquote>
 
 </div>
