@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Do not ignore the passion that burns in you. Spend time to discover your gift.&rdquo; &mdash; <footer>Steve Harvey</footer></blockquote>
+<blockquote>&ldquo;Forget safety. Live where you fear to live.&rdquo; &mdash; <footer>Rumi</footer></blockquote>
 
 </div>
