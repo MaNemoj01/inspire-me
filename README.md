@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Challenge yourself to find the good and beautiful thing inside of everyone.&rdquo; &mdash; <footer>Mark Manson</footer></blockquote>
+<blockquote>&ldquo;We need never be ashamed of our tears.&rdquo; &mdash; <footer>Charles Dickens</footer></blockquote>
 
 </div>
