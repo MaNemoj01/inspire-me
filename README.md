@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;People seldom do what they believe in. They do what is convenient, then repent.&rdquo; &mdash; <footer>Bob Dylan</footer></blockquote>
+<blockquote>&ldquo;Engage in those actions and thoughts that nurture the good qualities you want to have.&rdquo; &mdash; <footer>Paramahansa Yogananda</footer></blockquote>
 
 </div>
