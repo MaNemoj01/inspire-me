@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Never feel shame for trying and failing, for he who has never failed is he who has never tried.&rdquo; &mdash; <footer>Og Mandino</footer></blockquote>
+<blockquote>&ldquo;Faith means believing the unbelievable.&rdquo; &mdash; <footer>Gilbert Chesterton</footer></blockquote>
 
 </div>
