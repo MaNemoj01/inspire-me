@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A gentleman accepts the responsibility of his actions and bears the burden of their consequences.&rdquo; &mdash; <footer>William Faulkner</footer></blockquote>
+<blockquote>&ldquo;If you want to be sad, no one in the world can make you happy. But if you make up your mind to be happy, no one and nothing on earth can take that happiness from you.&rdquo; &mdash; <footer>Paramahansa Yogananda</footer></blockquote>
 
 </div>
