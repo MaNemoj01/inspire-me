@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Some people dream of success, while others wake up and work hard at it.&rdquo; &mdash; <footer>Napoleon Hill</footer></blockquote>
+<blockquote>&ldquo;The less people know, the more stubbornly they know it.&rdquo; &mdash; <footer>Osho</footer></blockquote>
 
 </div>
