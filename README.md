@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You are the average of the five people you spend most time with.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>
+<blockquote>&ldquo;You do not read a book for the book's sake, but for your own.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>
 
 </div>
