@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;He who is not contented with what he has, would not be contented with what he would like to have.&rdquo; &mdash; <footer>Socrates</footer></blockquote>
+<blockquote>&ldquo;Our life is what our thoughts make it. A man will find that as he alters his thoughts toward things and other people, things and other people will alter towards him.&rdquo; &mdash; <footer>James Allen</footer></blockquote>
 
 </div>
