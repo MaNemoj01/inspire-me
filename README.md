@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If I cannot do great things. I can do small things in a great way.&rdquo; &mdash; <footer>Martin Luther King, Jr.</footer></blockquote>
+<blockquote>&ldquo;I know not all that may be coming, but be it what it will, I'll go to it laughing.&rdquo; &mdash; <footer>Herman Melville</footer></blockquote>
 
 </div>
