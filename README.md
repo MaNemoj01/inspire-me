@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Most people spend more time and energy going around problems than in trying to solve them. &rdquo; &mdash; <footer>Henry Ford</footer></blockquote>
+<blockquote>&ldquo;For every effect there is a root cause. Find and address the root cause rather than try to fix the effect, as there is no end to the latter.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
 
 </div>
