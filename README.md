@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Work is always an antidote to depression.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
+<blockquote>&ldquo;We live only now. Everything else is either passed or is unknown.&rdquo; &mdash; <footer>Marcus Aurelius</footer></blockquote>
 
 </div>
