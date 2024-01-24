@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you run you stand a chance of losing, but if you don't run you've already lost.&rdquo; &mdash; <footer>Barack Obama</footer></blockquote>
+<blockquote>&ldquo;If you can't explain it simply, you don't understand it well enough.&rdquo; &mdash; <footer>Albert Einstein</footer></blockquote>
 
 </div>
