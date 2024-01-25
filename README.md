@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Life is simply what our feelings do to us.&rdquo; &mdash; <footer>Honore de Balzac</footer></blockquote>
+<blockquote>&ldquo;Mistakes are always forgivable, if one has the courage to admit them. &rdquo; &mdash; <footer>Bruce Lee</footer></blockquote>
 
 </div>
