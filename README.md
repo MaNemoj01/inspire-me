@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;I take the position that I'm always to some degree wrong, and the aspiration is to be less wrong.&rdquo; &mdash; <footer>Elon Musk</footer></blockquote>
+<blockquote>&ldquo;Think how really precious is the time you have to spend, whether it's at work or with your family. Every minute should be enjoyed and savored.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>
 
 </div>
