@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Happiness can be found, even in the darkest of times, if one only remembers to turn on the light.&rdquo; &mdash; <footer>Albus Dumbledore</footer></blockquote>
+<blockquote>&ldquo;As a man thinketh in his heart, so shall he be.&rdquo; &mdash; <footer>James Allen</footer></blockquote>
 
 </div>
