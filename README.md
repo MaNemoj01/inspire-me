@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A wise man can learn more from a foolish question than a fool can learn from a wise answer.  &rdquo; &mdash; <footer>Bruce Lee</footer></blockquote>
+<blockquote>&ldquo;Don't worry about being successful, but work toward being significant and the success will naturally follow.&rdquo; &mdash; <footer>Oprah Winfrey</footer></blockquote>
 
 </div>
