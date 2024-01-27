@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Sometimes it is harder to deprive oneself of a pain than of a pleasure.&rdquo; &mdash; <footer>F. Scott Fitzgerald</footer></blockquote>
+<blockquote>&ldquo;Happiness is not a goal...it's a by-product of a life well lived.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
 
 </div>
