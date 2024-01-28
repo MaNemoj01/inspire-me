@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;When people are free to do as they please, they usually imitate each other.&rdquo; &mdash; <footer>Eric Hoffer</footer></blockquote>
+<blockquote>&ldquo;Chase your passion, not your pension. &rdquo; &mdash; <footer>Denis Waitley</footer></blockquote>
 
 </div>
