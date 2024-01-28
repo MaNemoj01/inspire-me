@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful.  &rdquo; &mdash; <footer>Estee Lauder</footer></blockquote>
+<blockquote>&ldquo;I discovered a long time ago that if I helped enough people get what they wanted, I would always get what I wanted and I would never have to worry.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
 
 </div>
