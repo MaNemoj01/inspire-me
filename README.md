@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The man who does not value himself, cannot value anything or anyone.&rdquo; &mdash; <footer>Ayn Rand</footer></blockquote>
+<blockquote>&ldquo;If you are ever the smartest person in the room, you are in the wrong room.&rdquo; &mdash; <footer>C. Sean McGee</footer></blockquote>
 
 </div>
