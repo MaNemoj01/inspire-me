@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Nature is pleased with simplicity. And nature is no dummy.&rdquo; &mdash; <footer>Isaac Newton</footer></blockquote>
+<blockquote>&ldquo;Take into account that great love and great achievements involve great risk.&rdquo; &mdash; <footer>Dalai Lama</footer></blockquote>
 
 </div>
