@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The health of nations is more important than the wealth of nations.&rdquo; &mdash; <footer>Will Rogers</footer></blockquote>
+<blockquote>&ldquo;The nearer a man comes to a calm mind, the closer he is to strength.&rdquo; &mdash; <footer>Marcus Aurelius</footer></blockquote>
 
 </div>
