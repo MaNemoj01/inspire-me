@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Whatever satisfies the soul is truth.&rdquo; &mdash; <footer>Walt Whitman</footer></blockquote>
+<blockquote>&ldquo;The giving of love is an education in itself.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
 
 </div>
