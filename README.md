@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The traveler sees what he sees. The tourist sees what he has come to see.&rdquo; &mdash; <footer>Gilbert Chesterton</footer></blockquote>
+<blockquote>&ldquo;I never said it would be easy, I only said it would be worth it.&rdquo; &mdash; <footer>Mae West</footer></blockquote>
 
 </div>
