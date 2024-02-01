@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A lot of people have gone further than they thought they could because someone else thought they could.&rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>
+<blockquote>&ldquo;To find yourself, think for yourself.&rdquo; &mdash; <footer>Socrates</footer></blockquote>
 
 </div>
