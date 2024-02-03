@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The secret of happiness is not in doing what you like but in liking what you have to do.&rdquo; &mdash; <footer>Sathya Sai Baba</footer></blockquote>
+<blockquote>&ldquo;Don't give up on your dreams, or your dreams will give up on you.&rdquo; &mdash; <footer>John Wooden</footer></blockquote>
 
 </div>
