@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;I didn't get there by wishing for it or hoping for it, but by working for it.&rdquo; &mdash; <footer>Estee Lauder</footer></blockquote>
+<blockquote>&ldquo;Find your Light; They can't love you if they can't see you.&rdquo; &mdash; <footer>Bette Midler</footer></blockquote>
 
 </div>
