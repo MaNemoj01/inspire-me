@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It's very important to like the people you work with, otherwise life and your job is gonna be quite miserable.&rdquo; &mdash; <footer>Elon Musk</footer></blockquote>
+<blockquote>&ldquo;May you find grace as you surrender to life. May you find happiness, as you stop seeking it.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>
 
 </div>
