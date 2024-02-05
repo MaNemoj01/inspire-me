@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The primary cause of unhappiness is never the situation but your thoughts about it.&rdquo; &mdash; <footer>Eckhart Tolle</footer></blockquote>
+<blockquote>&ldquo;Sometimes you put walls up not to keep people out, but to see who cares enough to break them down.&rdquo; &mdash; <footer>Socrates</footer></blockquote>
 
 </div>
