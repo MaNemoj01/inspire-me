@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;I don't walk away from things that I think are unfinished.&rdquo; &mdash; <footer>Arnold Schwarzenegger</footer></blockquote>
+<blockquote>&ldquo;People don't care how much you know until they know how much you care.&rdquo; &mdash; <footer>Theodore Roosevelt</footer></blockquote>
 
 </div>
