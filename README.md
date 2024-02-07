@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Let us always meet each other with smile, for the smile is the beginning of love.&rdquo; &mdash; <footer>Mother Teresa</footer></blockquote>
+<blockquote>&ldquo;While we may not be able to control all that happens to us, we can control what happens inside us.&rdquo; &mdash; <footer>Benjamin Franklin</footer></blockquote>
 
 </div>
