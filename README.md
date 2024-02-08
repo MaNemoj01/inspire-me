@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;All human wisdom is contained in these two words - Wait and Hope&rdquo; &mdash; <footer>Alexandre Dumas</footer></blockquote>
+<blockquote>&ldquo;Time is a game played beautifully by children.&rdquo; &mdash; <footer>Heraclitus</footer></blockquote>
 
 </div>
