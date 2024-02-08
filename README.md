@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.&rdquo; &mdash; <footer>Helen Keller</footer></blockquote>
+<blockquote>&ldquo;To live outside the law, you must be honest. &rdquo; &mdash; <footer>Bob Dylan</footer></blockquote>
 
 </div>
