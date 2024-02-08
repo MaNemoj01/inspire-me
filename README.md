@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The key to success is to focus our conscious mind on things we desire not things we fear. &rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
+<blockquote>&ldquo;Success in any endeavor depends on the degree to which it is an expression of your true self. &rdquo; &mdash; <footer>Ralph Marston</footer></blockquote>
 
 </div>
