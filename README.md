@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Never do things others can do and will do if there are things others cannot do or will not do.&rdquo; &mdash; <footer>Amelia Earhart</footer></blockquote>
+<blockquote>&ldquo;Note that this journey is uniquely yours, no one elses. So the path has to be your own.&rdquo; &mdash; <footer>Jon Kabat-Zinn</footer></blockquote>
 
 </div>
