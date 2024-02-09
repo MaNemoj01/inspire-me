@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It is very obvious that we are not influenced by 'facts' but by our interpretation of the facts.&rdquo; &mdash; <footer>Alfred Adler</footer></blockquote>
+<blockquote>&ldquo;For your life to be great, your faith must be bigger than your fear.&rdquo; &mdash; <footer>Robin Sharma</footer></blockquote>
 
 </div>
