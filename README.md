@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;By the practice of meditation, you will find that you are carrying within your heart a portable paradise.&rdquo; &mdash; <footer>Paramahansa Yogananda</footer></blockquote>
+<blockquote>&ldquo;Never do things others can do and will do if there are things others cannot do or will not do.&rdquo; &mdash; <footer>Amelia Earhart</footer></blockquote>
 
 </div>
