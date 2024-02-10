@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Reading should be a pleasure, not a chore.&rdquo; &mdash; <footer>Joan Rivers</footer></blockquote>
+<blockquote>&ldquo;Don't look back - you're not going that way.&rdquo; &mdash; <footer>Mary Engelbreit</footer></blockquote>
 
 </div>
