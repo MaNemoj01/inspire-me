@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road.&rdquo; &mdash; <footer>Henry Ward Beecher</footer></blockquote>
+<blockquote>&ldquo;If someone betrays you once, it's their fault; if they betray you twice, it's your fault.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
 
 </div>
