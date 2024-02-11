@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You must either modify your dreams or magnify your skills.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>
+<blockquote>&ldquo;Within every desire is the mechanics of its fulfillment.&rdquo; &mdash; <footer>Deepak Chopra</footer></blockquote>
 
 </div>
