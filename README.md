@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Only when you can be extremely pliable and soft can you be extremely hard and strong.&rdquo; &mdash; <footer>Zen Proverb</footer></blockquote>
+<blockquote>&ldquo;Truth is like most opinions - best unexpressed.&rdquo; &mdash; <footer>Kenneth Branagh</footer></blockquote>
 
 </div>
