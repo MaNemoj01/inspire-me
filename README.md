@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Life can be wonderful if you're not afraid of it.&rdquo; &mdash; <footer>Charlie Chaplin</footer></blockquote>
+<blockquote>&ldquo;Difficult and meaningful will always bring more satisfaction than easy and meaningless.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>
 
 </div>
