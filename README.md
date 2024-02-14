@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You cannot control the behavior of others, but you can always choose how you respond to it.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
+<blockquote>&ldquo;Why compare yourself with others? No one in the entire world can do a better job of being you than you.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 
 </div>
