@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The meaning of life is just to be alive. It is so plain and so obvious and so simple.&rdquo; &mdash; <footer>Alan Watts</footer></blockquote>
+<blockquote>&ldquo;Whatever you do,strive to do it so well that no man living and no man dead and no man yet to be born could do it any better.&rdquo; &mdash; <footer>Benjamin Mays</footer></blockquote>
 
 </div>
