@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The face is the mirror of the mind, and eyes without speaking confess the secrets of the heart. &rdquo; &mdash; <footer>St. Jerome</footer></blockquote>
+<blockquote>&ldquo;The wise speak only of what they know.&rdquo; &mdash; <footer>J.R.R. Tolkien</footer></blockquote>
 
 </div>
