@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Stuff your eyes with wonder... live as if you'd drop dead in ten seconds. See the world. It's more fantastic than any dream made or paid for in factories.&rdquo; &mdash; <footer>Ray Bradbury</footer></blockquote>
+<blockquote>&ldquo;The spirit is beyond destruction. No one can bring an end to spirit which is everlasting.&rdquo; &mdash; <footer>Bhagavad Gita</footer></blockquote>
 
 </div>
