@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Ability is a poor man's wealth.&rdquo; &mdash; <footer>John Wooden</footer></blockquote>
+<blockquote>&ldquo;You must find the place inside yourself where nothing is impossible.&rdquo; &mdash; <footer>Deepak Chopra</footer></blockquote>
 
 </div>
