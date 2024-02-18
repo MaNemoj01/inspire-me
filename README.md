@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;When at last you are come to the ocean of happiness, do not go back thirsty.&rdquo; &mdash; <footer>Kabir</footer></blockquote>
+<blockquote>&ldquo;Do not look upon this world with fear and loathing. Bravely face whatever the gods offer.&rdquo; &mdash; <footer>Morihei Ueshiba</footer></blockquote>
 
 </div>
