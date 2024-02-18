@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Success in any endeavor depends on the degree to which it is an expression of your true self. &rdquo; &mdash; <footer>Ralph Marston</footer></blockquote>
+<blockquote>&ldquo;Would you rather learn to deal with the truth now than be forced to do so later on?&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
 
 </div>
