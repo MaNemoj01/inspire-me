@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Investing in yourself is the best investment you will ever make.&rdquo; &mdash; <footer>Robin Sharma</footer></blockquote>
+<blockquote>&ldquo;Mastering others is strength, mastering yourself is true power.&rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>
 
 </div>
