@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years.&rdquo; &mdash; <footer>Richard Bach</footer></blockquote>
+<blockquote>&ldquo;It is under the greatest adversity that there exists the greatest potential for doing good, both for oneself and others.&rdquo; &mdash; <footer>Dalai Lama</footer></blockquote>
 
 </div>
