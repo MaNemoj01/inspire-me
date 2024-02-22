@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Happiness is only real, when shared.&rdquo; &mdash; <footer>Christopher McCandless</footer></blockquote>
+<blockquote>&ldquo;Fears are nothing more than a state of mind.&rdquo; &mdash; <footer>Napoleon Hill</footer></blockquote>
 
 </div>
