@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If there is a book that you want to read, but it hasn't been written yet, then you must write it.&rdquo; &mdash; <footer>Toni Morrison</footer></blockquote>
+<blockquote>&ldquo;Tragedy is a tool for the living to gain wisdom, not a guide by which to live.&rdquo; &mdash; <footer>Robert F. Kennedy</footer></blockquote>
 
 </div>
