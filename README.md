@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty.&rdquo; &mdash; <footer>Winston Churchill</footer></blockquote>
+<blockquote>&ldquo;From error to error one discovers the entire truth.&rdquo; &mdash; <footer>Sigmund Freud</footer></blockquote>
 
 </div>
