@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Nothing is really work unless you would rather be doing something else. &rdquo; &mdash; <footer>James Matthew Barrie</footer></blockquote>
+<blockquote>&ldquo;We cannot always do great things in life, but we can do small things with great love.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>
 
 </div>
