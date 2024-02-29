@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Most of us will do anything to avoid facing ourselves.&rdquo; &mdash; <footer>Lolly Daskal</footer></blockquote>
+<blockquote>&ldquo;Be brave to stand for what you believe in even if you stand alone.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
 
 </div>
