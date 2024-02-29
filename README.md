@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;One of the first signs of the beginning of understanding is the wish to die. &rdquo; &mdash; <footer>Franz Kafka</footer></blockquote>
+<blockquote>&ldquo;We love the things we love for what they are.&rdquo; &mdash; <footer>Robert Frost</footer></blockquote>
 
 </div>
