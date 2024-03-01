@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Life belongs to the living, and he who lives must be prepared for changes.&rdquo; &mdash; <footer>Johann Wolfgang von Goethe</footer></blockquote>
+<blockquote>&ldquo;We know nothing of tomorrow, our business is to be good and happy today.&rdquo; &mdash; <footer>Sydney Smith</footer></blockquote>
 
 </div>
