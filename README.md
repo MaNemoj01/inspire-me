@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The big thing is to make a winning effort. I'm not obsessed with wins.&rdquo; &mdash; <footer>Morgan Wootten</footer></blockquote>
+<blockquote>&ldquo;You drown not by falling into a river, but by staying submerged in it.&rdquo; &mdash; <footer>Paulo Coelho</footer></blockquote>
 
 </div>
