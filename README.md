@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Don't waste your energy on being angry at something that somebody did six months ago or a year ago. It's over.&rdquo; &mdash; <footer>Joan Rivers</footer></blockquote>
+<blockquote>&ldquo;Be thankful for what you have; you'll end up having more. If you concentrate on what you don't have, you will never, ever have enough. &rdquo; &mdash; <footer>Oprah Winfrey</footer></blockquote>
 
 </div>
