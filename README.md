@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Freedom is the open window through which pours the sunlight of the human spirit and human dignity.&rdquo; &mdash; <footer>Herbert Hoover</footer></blockquote>
+<blockquote>&ldquo;What would life be if we had no courage to attempt anything? &rdquo; &mdash; <footer>Vincent van Gogh</footer></blockquote>
 
 </div>
