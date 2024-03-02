@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Excuses are the lies you convince yourself are true to avoid proving you are worthy of the gift you were given.&rdquo; &mdash; <footer>Steve Harvey</footer></blockquote>
+<blockquote>&ldquo;If you do not change direction, you may end up where you are heading.&rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>
 
 </div>
