@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It's the unknown we fear when we look upon death and darkness, nothing more.&rdquo; &mdash; <footer>Albus Dumbledore</footer></blockquote>
+<blockquote>&ldquo;An inventor is a man who asks Why? of the universe and lets nothing stand between the answer and his mind.&rdquo; &mdash; <footer>Ayn Rand</footer></blockquote>
 
 </div>
