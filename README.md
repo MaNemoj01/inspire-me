@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;What would life be if we had no courage to attempt anything? &rdquo; &mdash; <footer>Vincent van Gogh</footer></blockquote>
+<blockquote>&ldquo;Success is a poor teacher.&rdquo; &mdash; <footer>Robert Kiyosaki</footer></blockquote>
 
 </div>
