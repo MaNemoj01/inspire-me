@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Patience is not the ability to wait but the ability to keep a good attitude while waiting.&rdquo; &mdash; <footer>Joyce Meyer</footer></blockquote>
+<blockquote>&ldquo;Success is achieved and maintained by those who try and keep trying. &rdquo; &mdash; <footer>W. Clement Stone</footer></blockquote>
 
 </div>
