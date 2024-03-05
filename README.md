@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you do not tell the truth about yourself you cannot tell it about other people.&rdquo; &mdash; <footer>Virginia Woolf</footer></blockquote>
+<blockquote>&ldquo;The first principle of success is desire.&rdquo; &mdash; <footer>Robert Collier</footer></blockquote>
 
 </div>
