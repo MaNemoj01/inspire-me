@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Respect was invented to cover the empty place where love should be.&rdquo; &mdash; <footer>Leo Tolstoy</footer></blockquote>
+<blockquote>&ldquo;The world is open for play, everything and everybody is mockable in a wonderful way.&rdquo; &mdash; <footer>Robin Williams</footer></blockquote>
 
 </div>
