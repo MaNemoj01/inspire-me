@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A tiny change today brings a dramatically different tomorrow.&rdquo; &mdash; <footer>Richard Bach</footer></blockquote>
+<blockquote>&ldquo;The divine is not something high above us. It is in heaven, it is in earth, it is inside us.&rdquo; &mdash; <footer>Morihei Ueshiba</footer></blockquote>
 
 </div>
