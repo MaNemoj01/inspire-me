@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Trust is the foundation of great leadership.&rdquo; &mdash; <footer>Lolly Daskal</footer></blockquote>
+<blockquote>&ldquo;Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love. &rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>
 
 </div>
