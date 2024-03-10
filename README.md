@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Time and health are two precious assets that we don't recognize and appreciate until they have been depleted. &rdquo; &mdash; <footer>Denis Waitley</footer></blockquote>
+<blockquote>&ldquo;Youth ages, immaturity is outgrown, ignorance can be educated, and drunkenness sobered, but stupid lasts forever.&rdquo; &mdash; <footer>Aristophanes</footer></blockquote>
 
 </div>
