@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Stop comparing yourself to others and focus on your own improvement.&rdquo; &mdash; <footer>Lolly Daskal</footer></blockquote>
+<blockquote>&ldquo;I was wise enough to never grow up while fooling most people into believing I had. &rdquo; &mdash; <footer>Margaret Mead</footer></blockquote>
 
 </div>
