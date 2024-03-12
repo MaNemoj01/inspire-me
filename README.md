@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Sometimes you put walls up not to keep people out, but to see who cares enough to break them down.&rdquo; &mdash; <footer>Socrates</footer></blockquote>
+<blockquote>&ldquo;People with clear, written goals, accomplish far more in a shorter period of time than people without them could ever imagine.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
 
 </div>
