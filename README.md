@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Live and act within the limit of your knowledge and keep expanding it to the limit of your life.&rdquo; &mdash; <footer>Ayn Rand</footer></blockquote>
+<blockquote>&ldquo;Fear is a natural reaction to moving closer to the truth.&rdquo; &mdash; <footer>Pema Chodron</footer></blockquote>
 
 </div>
