@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;As long as a human being worries about when he will die, and what he has that is his, all of his works are zero.&rdquo; &mdash; <footer>Kabir</footer></blockquote>
+<blockquote>&ldquo;In order to control myself I must first accept myself by going with and not against my nature.&rdquo; &mdash; <footer>Bruce Lee</footer></blockquote>
 
 </div>
