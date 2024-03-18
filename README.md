@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;When you consider things like the stars, our affairs don't seem to matter very much, do they?&rdquo; &mdash; <footer>Virginia Woolf</footer></blockquote>
+<blockquote>&ldquo;Remember that the best relationship is one in which your love for each other exceeds your need for each other.&rdquo; &mdash; <footer>Dalai Lama</footer></blockquote>
 
 </div>
