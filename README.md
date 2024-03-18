@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;He that can have patience can have what he will.&rdquo; &mdash; <footer>Benjamin Franklin</footer></blockquote>
+<blockquote>&ldquo;Once you choose hope, anything's possible.&rdquo; &mdash; <footer>Christopher Reeve</footer></blockquote>
 
 </div>
