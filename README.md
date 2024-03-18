@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Half the world is composed of people who have something to say and can't, and the other half who have nothing to say and keep on saying it.&rdquo; &mdash; <footer>Robert Frost</footer></blockquote>
+<blockquote>&ldquo;Realistic people do not accomplish extraordinary things.&rdquo; &mdash; <footer>John Eliot</footer></blockquote>
 
 </div>
