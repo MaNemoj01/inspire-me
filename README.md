@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;We can't help everyone, but everyone can help someone.&rdquo; &mdash; <footer>Ronald Reagan</footer></blockquote>
+<blockquote>&ldquo;If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.&rdquo; &mdash; <footer>Barack Obama</footer></blockquote>
 
 </div>
