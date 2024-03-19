@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Your gift is something that you can do innately better than anything else.&rdquo; &mdash; <footer>Steve Harvey</footer></blockquote>
+<blockquote>&ldquo;The longer we dwell on our misfortunes, the greater is their power to harm us.&rdquo; &mdash; <footer>Voltaire</footer></blockquote>
 
 </div>
