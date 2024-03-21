@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Evil is whatever distracts. &rdquo; &mdash; <footer>Franz Kafka</footer></blockquote>
+<blockquote>&ldquo;Catch, then, O catch the transient hour; Improve each moment as it flies! &rdquo; &mdash; <footer>St. Jerome</footer></blockquote>
 
 </div>
