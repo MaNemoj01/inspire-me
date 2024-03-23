@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Listening well is as powerful as talking well, and is also as essential to true conversation.&rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
+<blockquote>&ldquo;Acknowledging the good that you already have in your life is the foundation for all abundance.&rdquo; &mdash; <footer>Eckhart Tolle</footer></blockquote>
 
 </div>
