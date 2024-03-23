@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Acknowledging the good that you already have in your life is the foundation for all abundance.&rdquo; &mdash; <footer>Eckhart Tolle</footer></blockquote>
+<blockquote>&ldquo;Don't let what you cannot do interfere with what you can do.&rdquo; &mdash; <footer>John Wooden</footer></blockquote>
 
 </div>
