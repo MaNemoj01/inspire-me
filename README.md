@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Be strong. Be confident. Be the star of your own life.&rdquo; &mdash; <footer>Estee Lauder</footer></blockquote>
+<blockquote>&ldquo;If you're afraid to die, you're afraid to live. You can't have one without the other.&rdquo; &mdash; <footer>Rita Mae Brown</footer></blockquote>
 
 </div>
