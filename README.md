@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;We need a backbone, not a wishbone.&rdquo; &mdash; <footer>Joyce Meyer</footer></blockquote>
+<blockquote>&ldquo;It's your life; you don't need someone's permission to live the life you want. Be brave to live from your heart.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
 
 </div>
