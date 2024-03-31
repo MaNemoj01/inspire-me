@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Fear does not have any special power unless you empower it by submitting to it.&rdquo; &mdash; <footer>Les Brown</footer></blockquote>
+<blockquote>&ldquo;Don't be afraid that you do not know something. Be afraid of not learning about it.&rdquo; &mdash; <footer>Zen Proverb</footer></blockquote>
 
 </div>
