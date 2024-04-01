@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Everything that is made beautiful and fair and lovely is made for the eye of one who sees.&rdquo; &mdash; <footer>Rumi</footer></blockquote>
+<blockquote>&ldquo;Showing off is the fool's idea of glory. &rdquo; &mdash; <footer>Bruce Lee</footer></blockquote>
 
 </div>
