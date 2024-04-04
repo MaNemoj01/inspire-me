@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;He is richest who is content with the least, for content is the wealth of nature.&rdquo; &mdash; <footer>Socrates</footer></blockquote>
+<blockquote>&ldquo;Do not think you will necessarily be aware of your own enlightenment.&rdquo; &mdash; <footer>Dogen</footer></blockquote>
 
 </div>
