@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;I do not exist to impress the world. I exist to live my life in a way that will make me happy.&rdquo; &mdash; <footer>Richard Bach</footer></blockquote>
+<blockquote>&ldquo;Do not follow the ideas of others, but learn to listen to the voice within yourself.&rdquo; &mdash; <footer>Dogen</footer></blockquote>
 
 </div>
