@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The people who are crazy enough to think they can change the world are the ones who do.&rdquo; &mdash; <footer>Steve Jobs</footer></blockquote>
+<blockquote>&ldquo;If you realize that you're the problem, then you can change yourself, learn something and grow wiser. Don't blame other people for your problems.&rdquo; &mdash; <footer>Robert Kiyosaki</footer></blockquote>
 
 </div>
