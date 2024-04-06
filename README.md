@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;There's no scarcity of opportunity to make a living at what you love. There is only a scarcity of resolve to make it happen.&rdquo; &mdash; <footer>Wayne Dyer</footer></blockquote>
+<blockquote>&ldquo;You already have every characteristic necessary for success if you recognize, claim, develop and use them.&rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>
 
 </div>
