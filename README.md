@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;We can see through others only when we can see through ourselves.&rdquo; &mdash; <footer>Bruce Lee</footer></blockquote>
+<blockquote>&ldquo;We cannot always do great things in life, but we can do small things with great love.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>
 
 </div>
