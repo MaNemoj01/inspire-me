@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The pursuit of mastery bears gifts. &rdquo; &mdash; <footer>Gary Keller</footer></blockquote>
+<blockquote>&ldquo;Don't let the fear of losing be greater than the excitement of winning.&rdquo; &mdash; <footer>Robert Kiyosaki</footer></blockquote>
 
 </div>
