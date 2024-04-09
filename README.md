@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge.&rdquo; &mdash; <footer>Stephen Hawking</footer></blockquote>
+<blockquote>&ldquo;Sometimes good things fall apart so better things can fall together.&rdquo; &mdash; <footer>Marilyn Monroe</footer></blockquote>
 
 </div>
