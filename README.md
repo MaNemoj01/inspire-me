@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Pursue what catches your heart, not what catches your eyes.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
+<blockquote>&ldquo;Live in each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourself to the influence of the earth.&rdquo; &mdash; <footer>Henry David Thoreau</footer></blockquote>
 
 </div>
