@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The friend is the man who knows all about you, and still likes you.&rdquo; &mdash; <footer>Elbert Hubbard</footer></blockquote>
+<blockquote>&ldquo;What do we live for, if it is not to make life less difficult for each other?&rdquo; &mdash; <footer>George Eliot</footer></blockquote>
 
 </div>
