@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The quieter you become, the more you are able to hear.&rdquo; &mdash; <footer>Rumi</footer></blockquote>
+<blockquote>&ldquo;Challenge yourself to find the good and beautiful thing inside of everyone.&rdquo; &mdash; <footer>Mark Manson</footer></blockquote>
 
 </div>
