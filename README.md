@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Your dream has to be bigger than your fear.&rdquo; &mdash; <footer>Steve Harvey</footer></blockquote>
+<blockquote>&ldquo;There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something tomorrow. &rdquo; &mdash; <footer>Orison Swett Marden</footer></blockquote>
 
 </div>
