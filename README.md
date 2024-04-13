@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The best dreams happen when you're awake.&rdquo; &mdash; <footer>Cherie Gilderbloom</footer></blockquote>
+<blockquote>&ldquo;Cry. Forgive. Learn. Move on. Let your tears water the seeds of your future happiness.&rdquo; &mdash; <footer>Steve Maraboli</footer></blockquote>
 
 </div>
