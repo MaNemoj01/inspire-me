@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The future belongs to those who learn more skills and combine them in creative ways.&rdquo; &mdash; <footer>Robert Greene</footer></blockquote>
+<blockquote>&ldquo;Great acts are made up of small deeds.&rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>
 
 </div>
