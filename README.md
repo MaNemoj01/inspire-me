@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The biggest adventure is what lies ahead.&rdquo; &mdash; <footer>J.R.R. Tolkien</footer></blockquote>
+<blockquote>&ldquo;TEAMWORK: the fuel that allows common people attain uncommon results.&rdquo; &mdash; <footer>Andrew Carnegie</footer></blockquote>
 
 </div>
