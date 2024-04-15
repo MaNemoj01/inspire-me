@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;All religions, arts and sciences are branches of the same tree. &rdquo; &mdash; <footer>Albert Einstein</footer></blockquote>
+<blockquote>&ldquo;Some people dream of success, while others wake up and work hard at it.&rdquo; &mdash; <footer>Napoleon Hill</footer></blockquote>
 
 </div>
