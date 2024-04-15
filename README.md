@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You don't have to move mountains. You'll change the world simply by being a warm, kind-hearted human being.&rdquo; &mdash; <footer>Anita Krizzan</footer></blockquote>
+<blockquote>&ldquo;The Only Thing That Is Constant Is Change&rdquo; &mdash; <footer>Heraclitus</footer></blockquote>
 
 </div>
