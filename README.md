@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Never give up work. Work gives you meaning and purpose and life is empty without it.&rdquo; &mdash; <footer>Stephen Hawking</footer></blockquote>
+<blockquote>&ldquo;The goal is not to show how great you are to others, but how vulnerable you are to yourself.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>
 
 </div>
