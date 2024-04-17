@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting.&rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>
+<blockquote>&ldquo;Life is either a daring adventure, or it is nothing.&rdquo; &mdash; <footer>Helen Keller</footer></blockquote>
 
 </div>
