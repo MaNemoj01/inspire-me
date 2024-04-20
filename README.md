@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;As you think, you travel, and as you love, you attract.&rdquo; &mdash; <footer>James Allen</footer></blockquote>
+<blockquote>&ldquo;There is nothing like looking if you want to find something.&rdquo; &mdash; <footer>J.R.R. Tolkien</footer></blockquote>
 
 </div>
