@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The only reason to be alive is to enjoy it.&rdquo; &mdash; <footer>Rita Mae Brown</footer></blockquote>
+<blockquote>&ldquo;Where your talents and the needs of the world cross, there lies your vocation.&rdquo; &mdash; <footer>Aristotle</footer></blockquote>
 
 </div>
