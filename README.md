@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Do not allow your inner doubts to keep you from achieving what you can do.&rdquo; &mdash; <footer>Lolly Daskal</footer></blockquote>
+<blockquote>&ldquo;The thing about smart people is that they seem like crazy people to dumb people.&rdquo; &mdash; <footer>Stephen Hawking</footer></blockquote>
 
 </div>
