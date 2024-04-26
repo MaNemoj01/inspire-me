@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Charms strike the sight, but merit wins the soul.&rdquo; &mdash; <footer>Alexander Pope</footer></blockquote>
+<blockquote>&ldquo;The difference between impossible and possible is a willing heart.&rdquo; &mdash; <footer>Lolly Daskal</footer></blockquote>
 
 </div>
