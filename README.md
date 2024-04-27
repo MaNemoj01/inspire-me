@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Speak when you are angry - and you'll make the best speech you'll ever regret.&rdquo; &mdash; <footer>Laurence J. Peter</footer></blockquote>
+<blockquote>&ldquo;Failure is not fatal, but failure to change might be.&rdquo; &mdash; <footer>John Wooden</footer></blockquote>
 
 </div>
