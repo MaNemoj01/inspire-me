@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It's always to soon to quit!&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
+<blockquote>&ldquo;Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted.&rdquo; &mdash; <footer>Robert Collier</footer></blockquote>
 
 </div>
