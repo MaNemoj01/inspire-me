@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Men trust their ears less than their eyes.&rdquo; &mdash; <footer>Herodotus</footer></blockquote>
+<blockquote>&ldquo;Where there's life, there's hope.&rdquo; &mdash; <footer>Stephen Hawking</footer></blockquote>
 
 </div>
