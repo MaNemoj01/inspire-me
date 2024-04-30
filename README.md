@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;I try more and more to be myself, caring relatively little whether people approve or disapprove.&rdquo; &mdash; <footer>Vincent van Gogh</footer></blockquote>
+<blockquote>&ldquo;Work as though you would live forever, and live as though you would die today. Go another mile.&rdquo; &mdash; <footer>Og Mandino</footer></blockquote>
 
 </div>
