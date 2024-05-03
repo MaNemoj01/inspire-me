@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Confidence is not a guarantee of success, but a pattern of thinking that will improve your likelihood of success, a tenacious search for ways to make things work.&rdquo; &mdash; <footer>John Eliot</footer></blockquote>
+<blockquote>&ldquo;A man, as a general rule, owes very little to what he is born with - a man is what he makes of himself.&rdquo; &mdash; <footer>Alexander Graham Bell</footer></blockquote>
 
 </div>
