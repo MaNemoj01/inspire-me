@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The future belongs to those who believe in the beauty of their dreams.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
+<blockquote>&ldquo;It's your road, and yours alone, others may walk it with you, but no one can walk it for you.&rdquo; &mdash; <footer>Rumi</footer></blockquote>
 
 </div>
