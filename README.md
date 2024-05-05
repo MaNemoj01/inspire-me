@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Sometimes it is more important to discover what one cannot do, than what one can do.&rdquo; &mdash; <footer>Lin Yutang</footer></blockquote>
+<blockquote>&ldquo;Just try to be the best you can be; never cease trying to be the best you can be. That's in your power.&rdquo; &mdash; <footer>John Wooden</footer></blockquote>
 
 </div>
