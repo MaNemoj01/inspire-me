@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Just try to be the best you can be; never cease trying to be the best you can be. That's in your power.&rdquo; &mdash; <footer>John Wooden</footer></blockquote>
+<blockquote>&ldquo;Let us rather run the risk of wearing out than rusting out.&rdquo; &mdash; <footer>Theodore Roosevelt</footer></blockquote>
 
 </div>
