@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Don't change your mind just because people are offended; change your mind if you're wrong.&rdquo; &mdash; <footer>Criss Jami</footer></blockquote>
+<blockquote>&ldquo;You become a worrier by practicing worry. You become free of worry by practicing the opposite.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
 
 </div>
