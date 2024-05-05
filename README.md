@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Passion is energy. Feel the power that comes from focusing on what excites you. &rdquo; &mdash; <footer>Oprah Winfrey</footer></blockquote>
+<blockquote>&ldquo;The only problem we really have is we think we're not supposed to have problems! Problems call us to higher level- - face & solve them now!&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
 
 </div>
