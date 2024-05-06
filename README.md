@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The only reason to be alive is to enjoy it.&rdquo; &mdash; <footer>Rita Mae Brown</footer></blockquote>
+<blockquote>&ldquo;Success is built sequentially. It's one thing at a time.&rdquo; &mdash; <footer>Gary Keller</footer></blockquote>
 
 </div>
