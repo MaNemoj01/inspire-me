@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;When you rise in the morning, form a resolution to make the day a happy one for a fellow creature.&rdquo; &mdash; <footer>Sydney Smith</footer></blockquote>
+<blockquote>&ldquo;We're kept from our goal not by obstacles, but by a clear path to a lesser goal.&rdquo; &mdash; <footer>Bhagavad Gita</footer></blockquote>
 
 </div>
