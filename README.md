@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Stop wasting time defending your problems and work on addressing them instead.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
+<blockquote>&ldquo;We must be free not because we claim freedom, but because we practice it.&rdquo; &mdash; <footer>William Faulkner</footer></blockquote>
 
 </div>
