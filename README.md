@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Things cannot forever go downward. There are limits to everything—even the cold, and the darkness, and the wind, and the dying.&rdquo; &mdash; <footer>Ming-Dao Deng</footer></blockquote>
+<blockquote>&ldquo;Stop wasting time defending your problems and work on addressing them instead.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
 
 </div>
