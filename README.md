@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you try, you might get exactly what you want. If you don't, you don't.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+<blockquote>&ldquo;The best way out is always through.&rdquo; &mdash; <footer>Robert Frost</footer></blockquote>
 
 </div>
