@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The truly rich men are the ones who have health, loved ones and a work they love.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>
+<blockquote>&ldquo;Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through.&rdquo; &mdash; <footer>Jonathan Swift</footer></blockquote>
 
 </div>
