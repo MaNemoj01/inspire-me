@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Play your part in life, but never forget that it is only a role.&rdquo; &mdash; <footer>Paramahansa Yogananda</footer></blockquote>
+<blockquote>&ldquo;The roots of education are bitter, but the fruit is sweet.&rdquo; &mdash; <footer>Aristotle</footer></blockquote>
 
 </div>
