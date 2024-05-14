@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It does not do to dwell on dreams and forget to live, remember that.&rdquo; &mdash; <footer>Albus Dumbledore</footer></blockquote>
+<blockquote>&ldquo;As you grow older you will discover that you have two hands. One for helping yourself, the other for helping others.&rdquo; &mdash; <footer>Audrey Hepburn</footer></blockquote>
 
 </div>
