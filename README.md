@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you cling to a certain thought with dynamic will power, it finally assumes a tangible outward form.&rdquo; &mdash; <footer>Paramahansa Yogananda</footer></blockquote>
+<blockquote>&ldquo;I can think of nothing less pleasurable than a life devoted to pleasure.&rdquo; &mdash; <footer>John D. Rockefeller</footer></blockquote>
 
 </div>
