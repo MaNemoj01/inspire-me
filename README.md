@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Excellence is not an exception, it is a prevailing attitude.&rdquo; &mdash; <footer>Colin Powell</footer></blockquote>
+<blockquote>&ldquo;Open your eyes and look within. Are you satisfied with the life you're living?&rdquo; &mdash; <footer>Bob Marley</footer></blockquote>
 
 </div>
