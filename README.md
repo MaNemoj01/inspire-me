@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Smell the cheese often so you know when it is getting old.&rdquo; &mdash; <footer>Spencer Johnson</footer></blockquote>
+<blockquote>&ldquo;Often in the real world, it's not the smart that get ahead, but the bold.&rdquo; &mdash; <footer>Robert Kiyosaki</footer></blockquote>
 
 </div>
