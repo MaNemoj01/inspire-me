@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Ponder and deliberate before you make a move.&rdquo; &mdash; <footer>Sun Tzu</footer></blockquote>
+<blockquote>&ldquo;Man suffers only because he takes seriously what the gods made for fun.&rdquo; &mdash; <footer>Alan Watts</footer></blockquote>
 
 </div>
