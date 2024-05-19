@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you want others to be happy, practice compassion. If you want to be happy, practice compassion.&rdquo; &mdash; <footer>Dalai Lama</footer></blockquote>
+<blockquote>&ldquo;it's important to make sure that we're talking with each other in a way that heals, not in a way that wounds.&rdquo; &mdash; <footer>Barack Obama</footer></blockquote>
 
 </div>
