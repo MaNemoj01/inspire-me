@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you correct your mind, the rest of your life will fall into place.&rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>
+<blockquote>&ldquo;Thinking is the hardest work there is, which is probably the reason why so few engage in it.&rdquo; &mdash; <footer>Henry Ford</footer></blockquote>
 
 </div>
