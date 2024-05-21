@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;What the eye doesn't see and the mind doesn't know, doesn't exist.&rdquo; &mdash; <footer>D. H. Lawrence</footer></blockquote>
+<blockquote>&ldquo;The greatest step towards a life of simplicity is to learn to let go.&rdquo; &mdash; <footer>Steve Maraboli</footer></blockquote>
 
 </div>
