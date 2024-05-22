@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A fear-oriented man is always calculating, planning, arranging, safeguarding. His whole life is lost in this way.&rdquo; &mdash; <footer>Osho</footer></blockquote>
+<blockquote>&ldquo;Before you embark on a journey of revenge, dig two graves. &rdquo; &mdash; <footer>Confucius</footer></blockquote>
 
 </div>
