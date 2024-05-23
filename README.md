@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;I am always doing that which I can not do, in order that I may learn how to do it.&rdquo; &mdash; <footer>Pablo Picasso</footer></blockquote>
+<blockquote>&ldquo;We can know only that we know nothing. And that is the highest degree of human wisdom.&rdquo; &mdash; <footer>Leo Tolstoy</footer></blockquote>
 
 </div>
