@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.&rdquo; &mdash; <footer>Sun Tzu</footer></blockquote>
+<blockquote>&ldquo;Your best life will not be found in comfort. It will be found in fighting for what you believe in.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>
 
 </div>
