@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You're always free to change your mind and choose a different future, or a different past.&rdquo; &mdash; <footer>Richard Bach</footer></blockquote>
+<blockquote>&ldquo;The soul should always stand ajar, ready to welcome the ecstatic experience.&rdquo; &mdash; <footer>Emily Dickinson</footer></blockquote>
 
 </div>
