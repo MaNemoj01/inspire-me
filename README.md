@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Your heart is full of fertile seeds, waiting to sprout.&rdquo; &mdash; <footer>Morihei Ueshiba</footer></blockquote>
+<blockquote>&ldquo;To achieve, you need thought. You have to know what you are doing and that's real power.&rdquo; &mdash; <footer>Ayn Rand</footer></blockquote>
 
 </div>
