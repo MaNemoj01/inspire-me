@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Don't blame others. it won't make you a better person.&rdquo; &mdash; <footer>Lolly Daskal</footer></blockquote>
+<blockquote>&ldquo;Leaders think and talk about solutions. Followers think and talk about the problems.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
 
 </div>
