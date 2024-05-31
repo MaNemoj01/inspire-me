@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Some of the greater things in life are unseen; that's why you close your eyes when you kiss, cry, or dream.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+<blockquote>&ldquo;He who permits himself to tell a lie once, finds it much easier to do it the second time.&rdquo; &mdash; <footer>Thomas Jefferson</footer></blockquote>
 
 </div>
