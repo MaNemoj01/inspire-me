@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Whatever your mind can conceive and believe, it can achieve.&rdquo; &mdash; <footer>Napoleon Hill</footer></blockquote>
+<blockquote>&ldquo;Some people feel the rain. Others just get wet. &rdquo; &mdash; <footer>Bob Dylan</footer></blockquote>
 
 </div>
