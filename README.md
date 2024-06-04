@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If the only prayer you ever say in your entire life is thank you, it will be enough.&rdquo; &mdash; <footer>Meister Eckhart</footer></blockquote>
+<blockquote>&ldquo;Hope is important because it can make the present moment less difficult to bear. If we believe that tomorrow will be better, we can bear a hardship today.&rdquo; &mdash; <footer>Thich Nhat Hanh</footer></blockquote>
 
 </div>
