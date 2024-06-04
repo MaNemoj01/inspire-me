@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It is literally true that you can succeed best and quickest by helping others succeed.&rdquo; &mdash; <footer>Napoleon Hill</footer></blockquote>
+<blockquote>&ldquo;Don't Let Yesterday Take Up Too Much Of Today.&rdquo; &mdash; <footer>Will Rogers</footer></blockquote>
 
 </div>
