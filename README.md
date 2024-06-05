@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The things I carry are my thoughts. That's it. They are the only weight. My thoughts determine whether I am free and light or burdened.&rdquo; &mdash; <footer>Kamal Ravikant</footer></blockquote>
+<blockquote>&ldquo;The more reasons you have for achieving your goal, the more determined you will become.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
 
 </div>
