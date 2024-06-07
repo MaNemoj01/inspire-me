@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Do not look for approval except for the consciousness of doing your best.&rdquo; &mdash; <footer>Andrew Carnegie</footer></blockquote>
+<blockquote>&ldquo;Make your stand today. On this spot. On this day.&rdquo; &mdash; <footer>Ming-Dao Deng</footer></blockquote>
 
 </div>
