@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Imagination is the true magic carpet.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
+<blockquote>&ldquo;Our heart is a treasury; if you pour out all its wealth at once, you are bankrupt.&rdquo; &mdash; <footer>Honore de Balzac</footer></blockquote>
 
 </div>
