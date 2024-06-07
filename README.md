@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;People should pursue what they're passionate about. That will make them happier than pretty much anything else.&rdquo; &mdash; <footer>Elon Musk</footer></blockquote>
+<blockquote>&ldquo;If you truly expect something to be difficult, it will be.&rdquo; &mdash; <footer>Peter A. Cohen</footer></blockquote>
 
 </div>
