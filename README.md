@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Don't set your own goals by what other people make important.&rdquo; &mdash; <footer>Lolly Daskal</footer></blockquote>
+<blockquote>&ldquo;If everyone is moving forward together, then success takes care of itself.&rdquo; &mdash; <footer>Henry Ford</footer></blockquote>
 
 </div>
