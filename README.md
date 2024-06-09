@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;We think too much and feel too little.&rdquo; &mdash; <footer>Charlie Chaplin</footer></blockquote>
+<blockquote>&ldquo;Life is love and love is life.&rdquo; &mdash; <footer>Elvis Presley</footer></blockquote>
 
 </div>
