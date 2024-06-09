@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Your chances of success in any undertaking can always be measured by your belief in yourself.&rdquo; &mdash; <footer>Robert Collier</footer></blockquote>
+<blockquote>&ldquo;Always do what is right. It will gratify half of mankind and astound the other.&rdquo; &mdash; <footer>Mark Twain</footer></blockquote>
 
 </div>
