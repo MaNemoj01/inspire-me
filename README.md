@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;To the world you may be one person; but to one person you may be the world.&rdquo; &mdash; <footer>Dr. Seuss</footer></blockquote>
+<blockquote>&ldquo;There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return.&rdquo; &mdash; <footer>Nelson Mandela</footer></blockquote>
 
 </div>
