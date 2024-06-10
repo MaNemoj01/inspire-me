@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The heart wants what it wants. There's no logic. &rdquo; &mdash; <footer>Woody Allen</footer></blockquote>
+<blockquote>&ldquo;Actions are the seeds of fate. Deeds grow into destiny.&rdquo; &mdash; <footer>Harry S. Truman</footer></blockquote>
 
 </div>
