@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Where there is no struggle, there is no strength. &rdquo; &mdash; <footer>Oprah Winfrey</footer></blockquote>
+<blockquote>&ldquo;Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability.&rdquo; &mdash; <footer>John Wooden</footer></blockquote>
 
 </div>
