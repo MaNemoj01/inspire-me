@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Most of the evil in this world is done by people with good intentions.&rdquo; &mdash; <footer>T.S. Eliot</footer></blockquote>
+<blockquote>&ldquo;Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases.&rdquo; &mdash; <footer>Sathya Sai Baba</footer></blockquote>
 
 </div>
