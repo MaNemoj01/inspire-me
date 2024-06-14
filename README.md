@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The hard path is often the right one. The river teaches more than the shore.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>
+<blockquote>&ldquo;If you genuinely want something, don't wait for it - teach yourself.&rdquo; &mdash; <footer>Gurbaksh Chahal</footer></blockquote>
 
 </div>
