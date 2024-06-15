@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Peace is the result of retraining your mind to process life as it is, rather than as you think it should be.  &rdquo; &mdash; <footer>Wayne Dyer</footer></blockquote>
+<blockquote>&ldquo;It is in changing that we find purpose.&rdquo; &mdash; <footer>Heraclitus</footer></blockquote>
 
 </div>
