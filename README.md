@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It's not what you've got; it's what you do that makes the difference.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
+<blockquote>&ldquo;Thinking will not overcome fear but action will. &rdquo; &mdash; <footer>W. Clement Stone</footer></blockquote>
 
 </div>
