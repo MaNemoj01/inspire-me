@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;One of the really tough things is figuring out what questions to ask. Once you figure out the question, then the answer is relatively easy.&rdquo; &mdash; <footer>Elon Musk</footer></blockquote>
+<blockquote>&ldquo;The goal of an artist is to create the definitive work that cannot be surpassed.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote>
 
 </div>
