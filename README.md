@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The question isn't who is going to let me; it's who is going to stop me.&rdquo; &mdash; <footer>Ayn Rand</footer></blockquote>
+<blockquote>&ldquo;Successful people appreciate where they have come from, but they don't let their past set the tone for their future.&rdquo; &mdash; <footer>Steve Harvey</footer></blockquote>
 
 </div>
