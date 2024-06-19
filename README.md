@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The question is not what you look at, but what you see.&rdquo; &mdash; <footer>Henry David Thoreau</footer></blockquote>
+<blockquote>&ldquo;Patience is a bitter plant, but its fruit is sweet.&rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
 
 </div>
