@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Respect other people's feelings. It might mean nothing to you, but it could mean everything to them.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
+<blockquote>&ldquo;The two most important days in your life are the day you are born and the day you find out why.&rdquo; &mdash; <footer>Mark Twain</footer></blockquote>
 
 </div>
