@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Sometimes letting things go is an act of far greater power than defending or hanging on.&rdquo; &mdash; <footer>Eckhart Tolle</footer></blockquote>
+<blockquote>&ldquo;Only by attracting the best people will you accomplish great deeds.&rdquo; &mdash; <footer>Colin Powell</footer></blockquote>
 
 </div>
