@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You may forget with whom you laughed, but you will never forget with whom you wept.  &rdquo; &mdash; <footer>Kahlil Gibran</footer></blockquote>
+<blockquote>&ldquo;Few things are more deceptive than memories.&rdquo; &mdash; <footer>Carlos Ruiz Zafon</footer></blockquote>
 
 </div>
