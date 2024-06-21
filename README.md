@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Trust thyself: every heart vibrates to that iron string.&rdquo; &mdash; <footer>Ralph Waldo Emerson</footer></blockquote>
+<blockquote>&ldquo;Wheels of justice grind slow but grind fine.&rdquo; &mdash; <footer>Sun Tzu</footer></blockquote>
 
 </div>
