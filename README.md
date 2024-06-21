@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;All I can do is be me, whoever that is.&rdquo; &mdash; <footer>Bob Dylan</footer></blockquote>
+<blockquote>&ldquo;The successful warrior is the average man, with laser-like focus.&rdquo; &mdash; <footer>Bruce Lee</footer></blockquote>
 
 </div>
