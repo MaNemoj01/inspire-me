@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If there were no God, there would be no atheists.&rdquo; &mdash; <footer>Gilbert Chesterton</footer></blockquote>
+<blockquote>&ldquo;The only person you should try to be better than is the person you were yesterday.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
 
 </div>
