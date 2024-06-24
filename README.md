@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Make peace within, and there will be no one who can overcome you. And no one you will wish to overcome.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>
+<blockquote>&ldquo;It's the little things done consistently over time, straight from your heart, that have the greatest impact.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 
 </div>
