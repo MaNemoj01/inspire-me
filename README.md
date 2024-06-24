@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;I believe that potential is unlimited - success depends on daring to act on dreams.   &rdquo; &mdash; <footer>Estee Lauder</footer></blockquote>
+<blockquote>&ldquo;Life begins where fear ends.&rdquo; &mdash; <footer>Osho</footer></blockquote>
 
 </div>
