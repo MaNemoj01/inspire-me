@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;We can have more than we've got because we can become more than we are.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>
+<blockquote>&ldquo;The four P's to success are pressure, persistence, perseverance, and prayer.&rdquo; &mdash; <footer>Steve Harvey</footer></blockquote>
 
 </div>
