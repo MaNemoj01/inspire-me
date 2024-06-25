@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It's very strange that the people you love are often the people you're most cruel to.&rdquo; &mdash; <footer>Kenneth Branagh</footer></blockquote>
+<blockquote>&ldquo;Only one thing is ever guaranteed, that is that you will definitely not achieve the goal if you don't take the shot.&rdquo; &mdash; <footer>Wayne Gretzky</footer></blockquote>
 
 </div>
