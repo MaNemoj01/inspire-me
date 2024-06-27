@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.&rdquo; &mdash; <footer>Barack Obama</footer></blockquote>
+<blockquote>&ldquo;Discipline yourself, and others won't need to.&rdquo; &mdash; <footer>John Wooden</footer></blockquote>
 
 </div>
