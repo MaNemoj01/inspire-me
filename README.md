@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The traveler sees what he sees. The tourist sees what he has come to see.&rdquo; &mdash; <footer>Gilbert Chesterton</footer></blockquote>
+<blockquote>&ldquo;Confidence is contagious. So is lack of confidence.&rdquo; &mdash; <footer>Vince Lombardi</footer></blockquote>
 
 </div>
