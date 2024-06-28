@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;There are two things a person should never be angry at, what they can help, and what they cannot.&rdquo; &mdash; <footer>Plato</footer></blockquote>
+<blockquote>&ldquo;The more acquaintances you have, the less you know them.&rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
 
 </div>
