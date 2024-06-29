@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You don't need a weatherman to know which way the wind blows.&rdquo; &mdash; <footer>Bob Dylan</footer></blockquote>
+<blockquote>&ldquo;There is no failure except in no longer trying. There is no defeat except from within, no insurmountable barrier except our own inherent weakness of purpose.&rdquo; &mdash; <footer>Elbert Hubbard</footer></blockquote>
 
 </div>
