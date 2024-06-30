@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Be - don't try to become &rdquo; &mdash; <footer>Osho</footer></blockquote>
+<blockquote>&ldquo;Maybe you are searching among the branches, for what only appears in the roots.&rdquo; &mdash; <footer>Rumi</footer></blockquote>
 
 </div>
