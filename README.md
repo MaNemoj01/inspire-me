@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;When we have our body and mind in order, everything else will exist in the right place, in the right way.&rdquo; &mdash; <footer>Shunryu Suzuki</footer></blockquote>
+<blockquote>&ldquo;There is peace even in the storm.&rdquo; &mdash; <footer>Vincent van Gogh</footer></blockquote>
 
 </div>
