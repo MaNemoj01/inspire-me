@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Take responsibility of your own happiness, never put it in other people's hands.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
+<blockquote>&ldquo;Life has the name of life, but in reality it is death.&rdquo; &mdash; <footer>Heraclitus</footer></blockquote>
 
 </div>
