@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Over time, loneliness gets inside you and doesn't go away.&rdquo; &mdash; <footer>Carlos Ruiz Zafon</footer></blockquote>
+<blockquote>&ldquo;Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
 
 </div>
