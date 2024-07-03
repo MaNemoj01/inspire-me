@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Animals don't hate, and we're supposed to be better than them.&rdquo; &mdash; <footer>Elvis Presley</footer></blockquote>
+<blockquote>&ldquo;Fear is your worst enemy. Risk is your best friend.&rdquo; &mdash; <footer>Gurbaksh Chahal</footer></blockquote>
 
 </div>
