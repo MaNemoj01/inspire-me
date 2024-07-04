@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You don't need anybody to tell you who you are or what you are. You are what you are!&rdquo; &mdash; <footer>John Lennon</footer></blockquote>
+<blockquote>&ldquo;Fool me once, shame on you; fool me twice, shame on me. &rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
 
 </div>
