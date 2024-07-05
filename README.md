@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;I never said it would be easy, I only said it would be worth it.&rdquo; &mdash; <footer>Mae West</footer></blockquote>
+<blockquote>&ldquo;It is not how much we have, but how much we enjoy, that makes happiness.&rdquo; &mdash; <footer>Charles Spurgeon</footer></blockquote>
 
 </div>
