@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;For the things we have to learn before we can do them, we learn by doing them.&rdquo; &mdash; <footer>Aristotle</footer></blockquote>
+<blockquote>&ldquo;Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions.&rdquo; &mdash; <footer>Criss Jami</footer></blockquote>
 
 </div>
