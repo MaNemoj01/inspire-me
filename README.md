@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A good stance and posture reflect a proper state of mind.&rdquo; &mdash; <footer>Morihei Ueshiba</footer></blockquote>
+<blockquote>&ldquo;Remember, today is the tomorrow you worried about yesterday.&rdquo; &mdash; <footer>Dale Carnegie</footer></blockquote>
 
 </div>
