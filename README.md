@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Life is like a beautiful melody, only the lyrics are messed up.&rdquo; &mdash; <footer>Hans Christian Andersen</footer></blockquote>
+<blockquote>&ldquo;Great things are not done by impulse, but by a series of small things brought together.&rdquo; &mdash; <footer>Vincent van Gogh</footer></blockquote>
 
 </div>
