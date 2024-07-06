@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Character is the result of two things: mental attitude and the way we spend our time.&rdquo; &mdash; <footer>Elbert Hubbard</footer></blockquote>
+<blockquote>&ldquo;The most important thing is to enjoy your life, to be happy, it's all that matters.&rdquo; &mdash; <footer>Audrey Hepburn</footer></blockquote>
 
 </div>
