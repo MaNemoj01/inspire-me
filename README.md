@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Keep your eyes on the stars, but remember to keep your feet on the ground.&rdquo; &mdash; <footer>Theodore Roosevelt</footer></blockquote>
+<blockquote>&ldquo;Do not bite at the bait of pleasure, till you know there is no hook beneath it.&rdquo; &mdash; <footer>Thomas Jefferson</footer></blockquote>
 
 </div>
