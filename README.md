@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Every limit is a beginning as well as an ending.&rdquo; &mdash; <footer>George Eliot</footer></blockquote>
+<blockquote>&ldquo;There is peace even in the storm.&rdquo; &mdash; <footer>Vincent van Gogh</footer></blockquote>
 
 </div>
