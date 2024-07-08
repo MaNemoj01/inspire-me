@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The divine is not something high above us. It is in heaven, it is in earth, it is inside us.&rdquo; &mdash; <footer>Morihei Ueshiba</footer></blockquote>
+<blockquote>&ldquo;Strive for excellence, not perfection, because we don't live in a perfect world.&rdquo; &mdash; <footer>Joyce Meyer</footer></blockquote>
 
 </div>
