@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;What you get by achieving your goals is not as important as what you become by achieving your goals.&rdquo; &mdash; <footer>Henry David Thoreau</footer></blockquote>
+<blockquote>&ldquo;There are no second chances in life, except to feel remorse.&rdquo; &mdash; <footer>Carlos Ruiz Zafon</footer></blockquote>
 
 </div>
