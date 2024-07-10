@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You can only be afraid of what you think you know.&rdquo; &mdash; <footer>Jiddu Krishnamurti</footer></blockquote>
+<blockquote>&ldquo;It is safer to search in the maze than to remain in a cheeseless situation.&rdquo; &mdash; <footer>Spencer Johnson</footer></blockquote>
 
 </div>
