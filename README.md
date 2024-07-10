@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;When you're curious, you find lots of interesting things to do.&rdquo; &mdash; <footer>Walt Disney</footer></blockquote>
+<blockquote>&ldquo;Men are anxious to improve their circumstances but are unwilling to improve themselves; they therefore remain bound.&rdquo; &mdash; <footer>James Allen</footer></blockquote>
 
 </div>
