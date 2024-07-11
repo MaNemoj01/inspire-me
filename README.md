@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It's not how much we give but how much love we put into giving.&rdquo; &mdash; <footer>Mother Teresa</footer></blockquote>
+<blockquote>&ldquo;Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful.  &rdquo; &mdash; <footer>Estee Lauder</footer></blockquote>
 
 </div>
