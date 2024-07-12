@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.&rdquo; &mdash; <footer>Kahlil Gibran</footer></blockquote>
+<blockquote>&ldquo;Success is the sum of small efforts, repeated day in and day out.&rdquo; &mdash; <footer>Robert Collier</footer></blockquote>
 
 </div>
