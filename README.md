@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;What's right is what's left if you do everything else wrong.&rdquo; &mdash; <footer>Robin Williams</footer></blockquote>
+<blockquote>&ldquo;The fear of death is more to be feared, than death itself.&rdquo; &mdash; <footer>Publilius Syrus</footer></blockquote>
 
 </div>
