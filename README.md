@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you are lucky enough to find love, remember it is there and don't throw it away.&rdquo; &mdash; <footer>Stephen Hawking</footer></blockquote>
+<blockquote>&ldquo;A man who dares to waste one hour of time has not discovered the value of life.&rdquo; &mdash; <footer>Charles Darwin</footer></blockquote>
 
 </div>
