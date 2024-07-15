@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Action may not always bring happiness, but there is no happiness without action.&rdquo; &mdash; <footer>William James</footer></blockquote>
+<blockquote>&ldquo;When you move beyond your fear, you feel free.&rdquo; &mdash; <footer>Spencer Johnson</footer></blockquote>
 
 </div>
