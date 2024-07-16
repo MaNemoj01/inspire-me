@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The important thing is not what one is born with but what use one makes of that equipment.&rdquo; &mdash; <footer>Alfred Adler</footer></blockquote>
+<blockquote>&ldquo;The more you feed your mind with positive thoughts, the more you can attract great things into your life.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
 
 </div>
