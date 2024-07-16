@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Truth is like the sun. You can shut it out for a time, but it ain't going away.&rdquo; &mdash; <footer>Elvis Presley</footer></blockquote>
+<blockquote>&ldquo;Anger begins with folly, and ends with repentance. &rdquo; &mdash; <footer>Beverly Sills</footer></blockquote>
 
 </div>
