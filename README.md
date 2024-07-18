@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose.&rdquo; &mdash; <footer>Ming-Dao Deng</footer></blockquote>
+<blockquote>&ldquo;When you know what you want, and you want it bad enough, you will find a way to get it.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>
 
 </div>
