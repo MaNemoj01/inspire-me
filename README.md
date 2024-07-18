@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Those who are easily shocked should be shocked more often.&rdquo; &mdash; <footer>Mae West</footer></blockquote>
+<blockquote>&ldquo;Insanity is relative. It depends on who has who locked in what cage.  &rdquo; &mdash; <footer>Ray Bradbury</footer></blockquote>
 
 </div>
