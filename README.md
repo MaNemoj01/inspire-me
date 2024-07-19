@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Stop being a prisoner of your past. Become the architect of your future.&rdquo; &mdash; <footer>Robin Sharma</footer></blockquote>
+<blockquote>&ldquo;Fallacies do not cease to be fallacies because they become fashions.&rdquo; &mdash; <footer>Gilbert Chesterton</footer></blockquote>
 
 </div>
