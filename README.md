@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest.&rdquo; &mdash; <footer>Seungsahn</footer></blockquote>
+<blockquote>&ldquo;Do not look for a sanctuary in anyone except your self.&rdquo; &mdash; <footer>Buddha</footer></blockquote>
 
 </div>
