@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;People think you're crazy if you talk about things they don't understand.&rdquo; &mdash; <footer>Elvis Presley</footer></blockquote>
+<blockquote>&ldquo;The golden opportunity you are seeking is within yourself.&rdquo; &mdash; <footer>Mary Engelbreit</footer></blockquote>
 
 </div>
