@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Decide whether or not the goal is worth the risks involved. If it is, stop worrying.&rdquo; &mdash; <footer>Amelia Earhart</footer></blockquote>
+<blockquote>&ldquo;Fear is your worst enemy. Risk is your best friend.&rdquo; &mdash; <footer>Gurbaksh Chahal</footer></blockquote>
 
 </div>
