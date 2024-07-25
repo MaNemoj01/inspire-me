@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Appear weak when you are strong, and strong when you are weak.&rdquo; &mdash; <footer>Sun Tzu</footer></blockquote>
+<blockquote>&ldquo;Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through.&rdquo; &mdash; <footer>Jonathan Swift</footer></blockquote>
 
 </div>
