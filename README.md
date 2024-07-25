@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Every defeat, every heartbreak every loss, contains its own seed, its own lesson on how to improve your performance the next time.&rdquo; &mdash; <footer>Og Mandino</footer></blockquote>
+<blockquote>&ldquo;Don't seek, don't avoid, don't expect. Take what comes and be happy.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>
 
 </div>
