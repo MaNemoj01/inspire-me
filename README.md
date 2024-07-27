@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Better to light a candle than to curse the darkness. &rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
+<blockquote>&ldquo;The only thing we have to fear is fear itself.&rdquo; &mdash; <footer>Franklin D. Roosevelt</footer></blockquote>
 
 </div>
