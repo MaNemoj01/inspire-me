@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The quality of your life is determined by the quality of questions you ask.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
+<blockquote>&ldquo;Change the changeable, accept the unchangeable, and remove yourself from the unacceptable. &rdquo; &mdash; <footer>Denis Waitley</footer></blockquote>
 
 </div>
