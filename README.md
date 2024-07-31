@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It's your life-but only if you make it so.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
+<blockquote>&ldquo;The ones who are crazy enough to think they can change the world, are the ones that do.&rdquo; &mdash; <footer>Steve Jobs</footer></blockquote>
 
 </div>
