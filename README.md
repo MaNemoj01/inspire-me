@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You can avoid reality, but you cannot avoid the consequences of avoiding reality.&rdquo; &mdash; <footer>Ayn Rand</footer></blockquote>
+<blockquote>&ldquo;I cannot make my days longer so I strive to make them better.&rdquo; &mdash; <footer>Henry David Thoreau</footer></blockquote>
 
 </div>
