@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You win more from losing than winning.&rdquo; &mdash; <footer>Morgan Wootten</footer></blockquote>
+<blockquote>&ldquo;Nothing brings down walls as surely as acceptance.&rdquo; &mdash; <footer>Deepak Chopra</footer></blockquote>
 
 </div>
