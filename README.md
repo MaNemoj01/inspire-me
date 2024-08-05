@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Pleasure in the job puts perfection in the work.&rdquo; &mdash; <footer>Aristotle</footer></blockquote>
+<blockquote>&ldquo;The weak can never forgive. Forgiveness is the attribute of the strong.&rdquo; &mdash; <footer>Mahatma Gandhi</footer></blockquote>
 
 </div>
