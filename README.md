@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;I would rather die on my feet than live on my knees.&rdquo; &mdash; <footer>Euripides</footer></blockquote>
+<blockquote>&ldquo;Whatever satisfies the soul is truth.&rdquo; &mdash; <footer>Walt Whitman</footer></blockquote>
 
 </div>
