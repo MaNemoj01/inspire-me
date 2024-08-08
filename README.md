@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years.&rdquo; &mdash; <footer>Richard Bach</footer></blockquote>
+<blockquote>&ldquo;Either you run the day or the day runs you.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>
 
 </div>
