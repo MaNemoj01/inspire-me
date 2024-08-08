@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;When I let go of what I am, I become what I might be.&rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>
+<blockquote>&ldquo;Change will not come if we wait for some other person, or if we wait for some other time.&rdquo; &mdash; <footer>Barack Obama</footer></blockquote>
 
 </div>
