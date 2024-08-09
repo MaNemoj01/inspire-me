@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;To share your weakness is to make yourself vulnerable; to make yourself vulnerable is to show your strength.&rdquo; &mdash; <footer>Criss Jami</footer></blockquote>
+<blockquote>&ldquo;Wherever there is danger, there lurks opportunity; wherever there is opportunity, there lurks danger. The two are inseparable.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>
 
 </div>
