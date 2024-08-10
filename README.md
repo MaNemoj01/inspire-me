@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Men are anxious to improve their circumstances but are unwilling to improve themselves; they therefore remain bound.&rdquo; &mdash; <footer>James Allen</footer></blockquote>
+<blockquote>&ldquo;The more one judges, the less one loves.&rdquo; &mdash; <footer>Honore de Balzac</footer></blockquote>
 
 </div>
