@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Think how really precious is the time you have to spend, whether it's at work or with your family. Every minute should be enjoyed and savored.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>
+<blockquote>&ldquo;You may be one person in this world, but to one person you may mean the world.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 
 </div>
