@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Muddy water is best cleared by leaving it alone.&rdquo; &mdash; <footer>Alan Watts</footer></blockquote>
+<blockquote>&ldquo;Remember to look up at the stars and not down at your feet.&rdquo; &mdash; <footer>Stephen Hawking</footer></blockquote>
 
 </div>
