@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Be happy now, without reason - or you never will be at all.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>
+<blockquote>&ldquo;Mind is the creator of everything. You should therefore guide it to create only good.&rdquo; &mdash; <footer>Paramahansa Yogananda</footer></blockquote>
 
 </div>
