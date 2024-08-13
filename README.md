@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The fact of the matter is that there will be nothing learned from any challenge in which we don't try our hardest.&rdquo; &mdash; <footer>Josh Waitzkin</footer></blockquote>
+<blockquote>&ldquo;I can live without money, but I cannot live without love.&rdquo; &mdash; <footer>Judy Garland</footer></blockquote>
 
 </div>
