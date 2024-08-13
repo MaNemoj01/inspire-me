@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It's easy to be a critic, but being a doer requires effort, risk, and change.  &rdquo; &mdash; <footer>Wayne Dyer</footer></blockquote>
+<blockquote>&ldquo;Ideas do not reach perfection in a day, no matter how much study is put upon them.&rdquo; &mdash; <footer>Alexander Graham Bell</footer></blockquote>
 
 </div>
