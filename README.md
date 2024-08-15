@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Keep your face to the sunshine and you cannot see the shadows.&rdquo; &mdash; <footer>Helen Keller</footer></blockquote>
+<blockquote>&ldquo;Never take your position for granted and never let any favors you receive go to your head.&rdquo; &mdash; <footer>Robert Greene</footer></blockquote>
 
 </div>
