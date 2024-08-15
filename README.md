@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Trust is built and maintained by many small actions over time.&rdquo; &mdash; <footer>Lolly Daskal</footer></blockquote>
+<blockquote>&ldquo;In matters of style, swim with the current; in matters of principle, stand like a rock.&rdquo; &mdash; <footer>Thomas Jefferson</footer></blockquote>
 
 </div>
