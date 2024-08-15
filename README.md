@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It's not what you pay a man, but what he costs you that counts.&rdquo; &mdash; <footer>Will Rogers</footer></blockquote>
+<blockquote>&ldquo;It is far easier to start something than it is to finish it.&rdquo; &mdash; <footer>Amelia Earhart</footer></blockquote>
 
 </div>
