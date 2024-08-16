@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Everyone must choose one of two pains: The pain of discipline or the pain of regret.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>
+<blockquote>&ldquo;It's better to have a short life that is full of what you like doing, than a long life spent in a miserable way.&rdquo; &mdash; <footer>Alan Watts</footer></blockquote>
 
 </div>
