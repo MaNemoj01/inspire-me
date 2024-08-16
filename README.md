@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;People should pursue what they're passionate about. That will make them happier than pretty much anything else.&rdquo; &mdash; <footer>Elon Musk</footer></blockquote>
+<blockquote>&ldquo;Friendship takes time and energy if it's going to work.&rdquo; &mdash; <footer>Betty White</footer></blockquote>
 
 </div>
