@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Men are equal; it is not birth but virtue that makes the difference.&rdquo; &mdash; <footer>Voltaire</footer></blockquote>
+<blockquote>&ldquo;Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.&rdquo; &mdash; <footer>Thomas Edison</footer></blockquote>
 
 </div>
