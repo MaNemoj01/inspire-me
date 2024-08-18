@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;We have to walk in a way that we only print peace and serenity on the Earth. Walk as if you are kissing the Earth with your feet.&rdquo; &mdash; <footer>Thich Nhat Hanh</footer></blockquote>
+<blockquote>&ldquo;Wherever you are, it's the place you need to be.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>
 
 </div>
