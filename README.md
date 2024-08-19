@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;So long as we are being remembered, we remain alive.&rdquo; &mdash; <footer>Carlos Ruiz Zafon</footer></blockquote>
+<blockquote>&ldquo;No one returns from a long journey the same person they were before.&rdquo; &mdash; <footer>Zen Proverb</footer></blockquote>
 
 </div>
