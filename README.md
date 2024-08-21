@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;When you lose your desire for things that do not matter, you will be free.&rdquo; &mdash; <footer>Morihei Ueshiba</footer></blockquote>
+<blockquote>&ldquo;To judge a man by his weakest link or deed is like judging the power of the ocean by one wave.&rdquo; &mdash; <footer>Elvis Presley</footer></blockquote>
 
 </div>
