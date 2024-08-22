@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Thought is so cunning, so clever, that it distorts everything for its own convenience.&rdquo; &mdash; <footer>Jiddu Krishnamurti</footer></blockquote>
+<blockquote>&ldquo;There is nothing more truly artistic than to love people.&rdquo; &mdash; <footer>Vincent van Gogh</footer></blockquote>
 
 </div>
