@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Some people find fault like there is a reward for it.  &rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>
+<blockquote>&ldquo;Life is from the inside out. When you shift on the inside, life shifts on the outside.&rdquo; &mdash; <footer>Kamal Ravikant</footer></blockquote>
 
 </div>
