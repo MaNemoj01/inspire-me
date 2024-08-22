@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Time is a game played beautifully by children.&rdquo; &mdash; <footer>Heraclitus</footer></blockquote>
+<blockquote>&ldquo;The world makes way for the man who knows where he is going.&rdquo; &mdash; <footer>Ralph Waldo Emerson</footer></blockquote>
 
 </div>
