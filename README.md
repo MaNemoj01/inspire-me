@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A creative man is motivated by the desire to achieve, not by the desire to beat others.&rdquo; &mdash; <footer>Ayn Rand</footer></blockquote>
+<blockquote>&ldquo;If it is not right, do not do it, if it is not true, do not say it.&rdquo; &mdash; <footer>Marcus Aurelius</footer></blockquote>
 
 </div>
