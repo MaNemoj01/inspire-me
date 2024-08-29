@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Death is not an ending. It is a transformation.&rdquo; &mdash; <footer>Ming-Dao Deng</footer></blockquote>
+<blockquote>&ldquo;A creative man is motivated by the desire to achieve, not by the desire to beat others.&rdquo; &mdash; <footer>Ayn Rand</footer></blockquote>
 
 </div>
