@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Some people don't like change, but you need to embrace change if the alternative is disaster.&rdquo; &mdash; <footer>Elon Musk</footer></blockquote>
+<blockquote>&ldquo;Keep smiling, because life is a beautiful thing and there's so much to smile about.&rdquo; &mdash; <footer>Marilyn Monroe</footer></blockquote>
 
 </div>
