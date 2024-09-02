@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The measure of wisdom is how calm you are when facing any given situation.&rdquo; &mdash; <footer>Naval Ravikant</footer></blockquote>
+<blockquote>&ldquo;We are all faced with a series of great opportunities brilliantly disguised as impossible situations. &rdquo; &mdash; <footer>Charles Swindoll</footer></blockquote>
 
 </div>
