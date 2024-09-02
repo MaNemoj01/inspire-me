@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The cost of leadership is self-interest.&rdquo; &mdash; <footer>Simon Sinek</footer></blockquote>
+<blockquote>&ldquo;Life would be tragic if it weren't funny.&rdquo; &mdash; <footer>Stephen Hawking</footer></blockquote>
 
 </div>
