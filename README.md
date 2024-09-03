@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.&rdquo; &mdash; <footer>Buddha</footer></blockquote>
+<blockquote>&ldquo;Many a man has failed because he had his wishbone where his backbone should have been.&rdquo; &mdash; <footer>Ronald Reagan</footer></blockquote>
 
 </div>
