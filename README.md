@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water.&rdquo; &mdash; <footer>Buddha</footer></blockquote>
+<blockquote>&ldquo;Trust is built and maintained by many small actions over time.&rdquo; &mdash; <footer>Lolly Daskal</footer></blockquote>
 
 </div>
