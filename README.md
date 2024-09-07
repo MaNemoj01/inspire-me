@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A bird does not sing because it has an answer. It sings because it has a song.&rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
+<blockquote>&ldquo;Everything that irritates us about others.&rdquo; &mdash; <footer>Carl Jung</footer></blockquote>
 
 </div>
