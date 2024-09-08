@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Each of us is a unique strand in the intricate web of life and here to make a contribution.&rdquo; &mdash; <footer>Deepak Chopra</footer></blockquote>
+<blockquote>&ldquo;Hope itself is like a star- not to be seen in the sunshine of prosperity, and only to be discovered in the night of adversity.&rdquo; &mdash; <footer>Charles Spurgeon</footer></blockquote>
 
 </div>
