@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies.&rdquo; &mdash; <footer>Emily Dickinson</footer></blockquote>
+<blockquote>&ldquo;I am not absentminded. It is the presence of mind that makes me unaware of everything else.&rdquo; &mdash; <footer>Gilbert Chesterton</footer></blockquote>
 
 </div>
