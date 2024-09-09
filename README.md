@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;People think about what they don't want and attract more of the same.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+<blockquote>&ldquo;Pleasure can be supported by an illusion; but happiness rests upon truth. &rdquo; &mdash; <footer>Nicolas Chamfort</footer></blockquote>
 
 </div>
