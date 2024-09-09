@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;I have lost friends, some by death...others by sheer inability to cross the street.&rdquo; &mdash; <footer>Virginia Woolf</footer></blockquote>
+<blockquote>&ldquo;The more you extend kindness to yourself, the more it will become your automatic response to others.&rdquo; &mdash; <footer>Wayne Dyer</footer></blockquote>
 
 </div>
