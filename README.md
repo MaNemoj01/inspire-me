@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Happiness is pretty simple: someone to love, something to do, something to look forward to.&rdquo; &mdash; <footer>Rita Mae Brown</footer></blockquote>
+<blockquote>&ldquo;Happiness is a choice, not a result. Nothing will make you happy until you choose to be happy.&rdquo; &mdash; <footer>Ralph Marston</footer></blockquote>
 
 </div>
