@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;We are born from a quiet sleep, and we die to a calm awakening&rdquo; &mdash; <footer>Zhuangzi</footer></blockquote>
+<blockquote>&ldquo;Life is too short to waste your time on people who don't respect, appreciate, and value you.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
 
 </div>
