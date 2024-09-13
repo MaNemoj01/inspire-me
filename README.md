@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Don't let what you cannot do interfere with what you can do.&rdquo; &mdash; <footer>John Wooden</footer></blockquote>
+<blockquote>&ldquo;Never take your position for granted and never let any favors you receive go to your head.&rdquo; &mdash; <footer>Robert Greene</footer></blockquote>
 
 </div>
