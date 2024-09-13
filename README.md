@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;No amount of regretting can change the past, and no amount of worrying can change the future.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
+<blockquote>&ldquo;Always be a first rate version of yourself and not a second rate version of someone else.&rdquo; &mdash; <footer>Judy Garland</footer></blockquote>
 
 </div>
