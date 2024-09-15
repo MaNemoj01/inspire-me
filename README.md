@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Choose a job you love, and you will never have to work a day in your life. &rdquo; &mdash; <footer>Confucius</footer></blockquote>
+<blockquote>&ldquo;Words are clothes that thoughts wear&rdquo; &mdash; <footer>Samuel Butler</footer></blockquote>
 
 </div>
