@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Believe you can and you're halfway there.&rdquo; &mdash; <footer>Theodore Roosevelt</footer></blockquote>
+<blockquote>&ldquo;We are most nearly ourselves when we achieve the seriousness of the child at play.&rdquo; &mdash; <footer>Heraclitus</footer></blockquote>
 
 </div>
