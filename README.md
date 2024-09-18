@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you want to turn a vision into reality, you have to give 100% and never stop believing in your dream.&rdquo; &mdash; <footer>Arnold Schwarzenegger</footer></blockquote>
+<blockquote>&ldquo;A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.&rdquo; &mdash; <footer>Winston Churchill</footer></blockquote>
 
 </div>
