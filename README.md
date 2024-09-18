@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;There are no uninteresting things, only uninterested people.&rdquo; &mdash; <footer>Gilbert Chesterton</footer></blockquote>
+<blockquote>&ldquo;Don't be afraid that you do not know something. Be afraid of not learning about it.&rdquo; &mdash; <footer>Zen Proverb</footer></blockquote>
 
 </div>
