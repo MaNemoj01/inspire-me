@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The ladder of success is best climbed by stepping on the rungs of opportunity.&rdquo; &mdash; <footer>Ayn Rand</footer></blockquote>
+<blockquote>&ldquo;If you do not get the chills when you set your goal you're not setting big enough goals.&rdquo; &mdash; <footer>Bob Proctor</footer></blockquote>
 
 </div>
