@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;To lose your temper is only useful once a year.&rdquo; &mdash; <footer>Colin R. Davis</footer></blockquote>
+<blockquote>&ldquo;There are no uninteresting things, only uninterested people.&rdquo; &mdash; <footer>Gilbert Chesterton</footer></blockquote>
 
 </div>
