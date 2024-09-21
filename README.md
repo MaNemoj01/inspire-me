@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to.&rdquo; &mdash; <footer>Kahlil Gibran</footer></blockquote>
+<blockquote>&ldquo;When you get up in the morning, you have two choices - either to be happy or to be unhappy. Just choose to be happy.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
 
 </div>
