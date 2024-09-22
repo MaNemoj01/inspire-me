@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Common sense is not so common. &rdquo; &mdash; <footer>Voltaire</footer></blockquote>
+<blockquote>&ldquo;A man sooner or later discovers that he is the master-gardener of his soul, the director of his life.&rdquo; &mdash; <footer>James Allen</footer></blockquote>
 
 </div>
