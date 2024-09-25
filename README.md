@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The essence of the Way is detachment.&rdquo; &mdash; <footer>Bodhidharma</footer></blockquote>
+<blockquote>&ldquo;Charms strike the sight, but merit wins the soul.&rdquo; &mdash; <footer>Alexander Pope</footer></blockquote>
 
 </div>
