@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Life is either a daring adventure, or nothing.&rdquo; &mdash; <footer>Helen Keller</footer></blockquote>
+<blockquote>&ldquo;Nourish the mind like you would your body. The mind cannot survive on junk food.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
 
 </div>
