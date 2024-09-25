@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Charms strike the sight, but merit wins the soul.&rdquo; &mdash; <footer>Alexander Pope</footer></blockquote>
+<blockquote>&ldquo;Life is either a daring adventure, or nothing.&rdquo; &mdash; <footer>Helen Keller</footer></blockquote>
 
 </div>
