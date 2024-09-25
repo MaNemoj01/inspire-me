@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Nourish the mind like you would your body. The mind cannot survive on junk food.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
+<blockquote>&ldquo;Reality is the leading cause of stress among those in touch with it.&rdquo; &mdash; <footer>Lily Tomlin</footer></blockquote>
 
 </div>
