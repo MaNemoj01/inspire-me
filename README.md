@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;When you win, say nothing, when you lose say less.&rdquo; &mdash; <footer>Wayne Gretzky</footer></blockquote>
+<blockquote>&ldquo;The best dreams happen when you're awake.&rdquo; &mdash; <footer>Cherie Gilderbloom</footer></blockquote>
 
 </div>
