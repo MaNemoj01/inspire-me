@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The meaning of life is just to be alive. It is so plain and so obvious and so simple.&rdquo; &mdash; <footer>Alan Watts</footer></blockquote>
+<blockquote>&ldquo;People don't care how much you know until they know how much you care.&rdquo; &mdash; <footer>Theodore Roosevelt</footer></blockquote>
 
 </div>
