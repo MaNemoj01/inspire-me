@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Even though you are on the right track - you will get run over if you just sit there.&rdquo; &mdash; <footer>Will Rogers</footer></blockquote>
+<blockquote>&ldquo;Would you rather learn to deal with the truth now than be forced to do so later on?&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
 
 </div>
