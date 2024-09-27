@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Where there's life, there's hope.&rdquo; &mdash; <footer>Stephen Hawking</footer></blockquote>
+<blockquote>&ldquo;If you do not change direction, you may end up where you are heading.&rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>
 
 </div>
