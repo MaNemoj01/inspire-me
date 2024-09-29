@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Good luck is opportunity meeting preparedness.&rdquo; &mdash; <footer>Deepak Chopra</footer></blockquote>
+<blockquote>&ldquo;If you're brave enough to say goodbye, life will reward you with a new hello.&rdquo; &mdash; <footer>Paulo Coelho</footer></blockquote>
 
 </div>
