@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Just living is not enough... one must have sunshine, freedom, and a little flower. &rdquo; &mdash; <footer>Hans Christian Andersen</footer></blockquote>
+<blockquote>&ldquo;Never feel shame for trying and failing, for he who has never failed is he who has never tried.&rdquo; &mdash; <footer>Og Mandino</footer></blockquote>
 
 </div>
