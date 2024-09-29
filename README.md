@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If the plan doesn't work, change the plan, but never the goal.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+<blockquote>&ldquo;Throw me to the wolves and I will return leading the pack.  &rdquo; &mdash; <footer>Seneca</footer></blockquote>
 
 </div>
