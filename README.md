@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;No matter how much preparation we do, in the real tests of our lives, we'll be in unfamiliar terrain.&rdquo; &mdash; <footer>Josh Waitzkin</footer></blockquote>
+<blockquote>&ldquo;Every moment is a fresh beginning.&rdquo; &mdash; <footer>T.S. Eliot</footer></blockquote>
 
 </div>
