@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Do what you feel in your heart to be right - for you'll be criticized anyway.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
+<blockquote>&ldquo;The wisdom of life consists in the elimination of the nonessentials.&rdquo; &mdash; <footer>Lin Yutang</footer></blockquote>
 
 </div>
