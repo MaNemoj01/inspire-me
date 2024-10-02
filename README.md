@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;I know not all that may be coming, but be it what it will, I'll go to it laughing.&rdquo; &mdash; <footer>Herman Melville</footer></blockquote>
+<blockquote>&ldquo;To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking.&rdquo; &mdash; <footer>Johann Wolfgang von Goethe</footer></blockquote>
 
 </div>
