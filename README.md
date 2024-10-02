@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Everything has its beauty, but not everyone sees it. &rdquo; &mdash; <footer>Confucius</footer></blockquote>
+<blockquote>&ldquo;Death is not an ending. It is a transformation.&rdquo; &mdash; <footer>Ming-Dao Deng</footer></blockquote>
 
 </div>
