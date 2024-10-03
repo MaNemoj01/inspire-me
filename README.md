@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Treat every moment as your last. It is not preparation for something else.&rdquo; &mdash; <footer>Shunryu Suzuki</footer></blockquote>
+<blockquote>&ldquo;Truth is not something outside to be discovered, it is something inside to be realized.&rdquo; &mdash; <footer>Osho</footer></blockquote>
 
 </div>
