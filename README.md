@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Even though you are on the right track - you will get run over if you just sit there.&rdquo; &mdash; <footer>Will Rogers</footer></blockquote>
+<blockquote>&ldquo;Conscience is a dog that does not stop us from passing but that we cannot prevent from barking.&rdquo; &mdash; <footer>Nicolas Chamfort</footer></blockquote>
 
 </div>
