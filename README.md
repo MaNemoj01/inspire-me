@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;I begin with an idea and then it becomes something else.&rdquo; &mdash; <footer>Pablo Picasso</footer></blockquote>
+<blockquote>&ldquo;Silence is the great teacher and to learn its lessons you must pay attention to it.&rdquo; &mdash; <footer>Deepak Chopra</footer></blockquote>
 
 </div>
