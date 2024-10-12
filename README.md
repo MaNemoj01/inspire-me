@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;First say to yourself what you would be; and then do what you have to do.&rdquo; &mdash; <footer>Epictetus</footer></blockquote>
+<blockquote>&ldquo;He who is not contented with what he has, would not be contented with what he would like to have.&rdquo; &mdash; <footer>Socrates</footer></blockquote>
 
 </div>
