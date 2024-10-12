@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;All that we see or seem is but a dream within a dream.&rdquo; &mdash; <footer>Edgar Allan Poe</footer></blockquote>
+<blockquote>&ldquo;Yesterday is gone. Tomorrow has not yet come. We have only today.&rdquo; &mdash; <footer>Mother Teresa</footer></blockquote>
 
 </div>
