@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You must be willing to do what others won't do, to have what others won't have.&rdquo; &mdash; <footer>Les Brown</footer></blockquote>
+<blockquote>&ldquo;The finish line is just the beginning of a whole new race.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 
 </div>
