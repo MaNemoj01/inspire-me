@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Happiness is a quality of the soul...not a function of one's material circumstances.&rdquo; &mdash; <footer>Aristotle</footer></blockquote>
+<blockquote>&ldquo;A person who does not read is no better than one cannot read.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>
 
 </div>
