@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;When reading, only read. When eating, only eat. When thinking, only think.&rdquo; &mdash; <footer>Seungsahn</footer></blockquote>
+<blockquote>&ldquo;Believe nothing you hear, and only one half that you see.&rdquo; &mdash; <footer>Edgar Allan Poe</footer></blockquote>
 
 </div>
