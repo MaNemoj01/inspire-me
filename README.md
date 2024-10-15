@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Hope means hoping when everything seems hopeless.&rdquo; &mdash; <footer>Gilbert Chesterton</footer></blockquote>
+<blockquote>&ldquo;Every blessing ignored becomes a curse.&rdquo; &mdash; <footer>Paulo Coelho</footer></blockquote>
 
 </div>
