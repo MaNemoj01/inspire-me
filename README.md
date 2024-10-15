@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The healthiest response to life is joy.&rdquo; &mdash; <footer>Deepak Chopra</footer></blockquote>
+<blockquote>&ldquo;Absorb what is useful, discard what is not, add what is uniquely your own.&rdquo; &mdash; <footer>Bruce Lee</footer></blockquote>
 
 </div>
