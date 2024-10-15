@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Learning is a gift, even when pain is your teacher.&rdquo; &mdash; <footer>Michael Jordan</footer></blockquote>
+<blockquote>&ldquo;The healthiest response to life is joy.&rdquo; &mdash; <footer>Deepak Chopra</footer></blockquote>
 
 </div>
