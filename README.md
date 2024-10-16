@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;True wealth is of the heart, not of the purse.&rdquo; &mdash; <footer>Og Mandino</footer></blockquote>
+<blockquote>&ldquo;If you are ever the smartest person in the room, you are in the wrong room.&rdquo; &mdash; <footer>C. Sean McGee</footer></blockquote>
 
 </div>
