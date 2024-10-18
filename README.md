@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts. &rdquo; &mdash; <footer>Paramahansa Yogananda</footer></blockquote>
+<blockquote>&ldquo;If you can't, you must. If you must, you can.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
 
 </div>
