@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Trusting our intuition often saves us from disaster. &rdquo; &mdash; <footer>Anne Wilson Schaef</footer></blockquote>
+<blockquote>&ldquo;He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has.&rdquo; &mdash; <footer>Epictetus</footer></blockquote>
 
 </div>
