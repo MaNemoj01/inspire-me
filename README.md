@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Even a hare will bite when it is cornered. &rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
+<blockquote>&ldquo;Our attitude toward life determines life's attitude towards us.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>
 
 </div>
