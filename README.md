@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;No amount of regretting can change the past, and no amount of worrying can change the future.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
+<blockquote>&ldquo;Why change? Everyone has his own style. When you have found it, you should stick to it.&rdquo; &mdash; <footer>Audrey Hepburn</footer></blockquote>
 
 </div>
