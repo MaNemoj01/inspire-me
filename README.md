@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;In three words I can sum up everything I've learned about life: it goes on.&rdquo; &mdash; <footer>Robert Frost</footer></blockquote>
+<blockquote>&ldquo;The opposite of courage in our society is not cowardice... it is conformity.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>
 
 </div>
