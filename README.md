@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If I can pay the bills, I'm happy.&rdquo; &mdash; <footer>Morgan Wootten</footer></blockquote>
+<blockquote>&ldquo;Argue for your limitations and sure enough, they're yours.&rdquo; &mdash; <footer>Richard Bach</footer></blockquote>
 
 </div>
