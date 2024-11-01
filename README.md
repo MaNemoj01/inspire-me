@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Chop your own wood and it will warm you twice. &rdquo; &mdash; <footer>Henry Ford</footer></blockquote>
+<blockquote>&ldquo;An inventor is a man who asks Why? of the universe and lets nothing stand between the answer and his mind.&rdquo; &mdash; <footer>Ayn Rand</footer></blockquote>
 
 </div>
