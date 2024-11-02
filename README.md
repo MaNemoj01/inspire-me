@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It's what you do in the present that will redeem the past and thereby change the future.&rdquo; &mdash; <footer>Paulo Coelho</footer></blockquote>
+<blockquote>&ldquo;For the things we have to learn before we can do them, we learn by doing them.&rdquo; &mdash; <footer>Aristotle</footer></blockquote>
 
 </div>
