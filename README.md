@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;For the things we have to learn before we can do them, we learn by doing them.&rdquo; &mdash; <footer>Aristotle</footer></blockquote>
+<blockquote>&ldquo;The idea of ourselves is our escape from the fact of what we really are.&rdquo; &mdash; <footer>Jiddu Krishnamurti</footer></blockquote>
 
 </div>
