@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Pursue what catches your heart, not what catches your eyes.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
+<blockquote>&ldquo;It's better to have a short life that is full of what you like doing, than a long life spent in a miserable way.&rdquo; &mdash; <footer>Alan Watts</footer></blockquote>
 
 </div>
