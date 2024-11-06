@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Your only obligation in any lifetime is to be true to yourself.&rdquo; &mdash; <footer>Richard Bach</footer></blockquote>
+<blockquote>&ldquo;A simple rule in dealing with those who are hard to get along with is to remember that this person is striving to assert his superiority; and you must deal with him from that point of view.&rdquo; &mdash; <footer>Alfred Adler</footer></blockquote>
 
 </div>
