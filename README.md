@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The quality of your life is determined by the quality of your thoughts.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+<blockquote>&ldquo;Success is getting what you want. Happiness is wanting what you get.&rdquo; &mdash; <footer>Andrew Carnegie</footer></blockquote>
 
 </div>
