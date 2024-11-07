@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Disobedience is the true foundation of liberty. The obedient must be slaves.&rdquo; &mdash; <footer>Henry David Thoreau</footer></blockquote>
+<blockquote>&ldquo;Do not believe that you will reach your destination without leaving the shore. &rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
 
 </div>
