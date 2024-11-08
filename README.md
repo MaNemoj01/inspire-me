@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;What a book a devil's chaplain might write on the clumsy, wasteful, blundering, low, and horribly cruel work of nature!&rdquo; &mdash; <footer>Charles Darwin</footer></blockquote>
+<blockquote>&ldquo;Confuse them with your silence and amaze them with your actions.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 
 </div>
