@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;I'd rather welcome change than cling to the past.&rdquo; &mdash; <footer>Robert Kiyosaki</footer></blockquote>
+<blockquote>&ldquo;Life is a traveling to the edge of knowledge, then a leap taken.&rdquo; &mdash; <footer>D. H. Lawrence</footer></blockquote>
 
 </div>
