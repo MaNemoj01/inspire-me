@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves.&rdquo; &mdash; <footer>Steve Maraboli</footer></blockquote>
+<blockquote>&ldquo;No great mind has ever existed without a touch of madness.&rdquo; &mdash; <footer>Aristotle</footer></blockquote>
 
 </div>
