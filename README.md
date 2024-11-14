@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Courage is not having the strength to go on; it is going on when you don't have the strength.&rdquo; &mdash; <footer>Theodore Roosevelt</footer></blockquote>
+<blockquote>&ldquo;Keep your face to the sunshine and you cannot see the shadows.&rdquo; &mdash; <footer>Helen Keller</footer></blockquote>
 
 </div>
