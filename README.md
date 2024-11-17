@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Forget mistakes. Forget failure. Forget everything except what you are going to do now and do it. Today is your lucky day!&rdquo; &mdash; <footer>Og Mandino</footer></blockquote>
+<blockquote>&ldquo;Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree. &rdquo; &mdash; <footer>Martin Luther</footer></blockquote>
 
 </div>
