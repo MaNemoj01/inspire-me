@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Happiness can be found, even in the darkest of times, if one only remembers to turn on the light.&rdquo; &mdash; <footer>Albus Dumbledore</footer></blockquote>
+<blockquote>&ldquo;The search for happiness is one of the chief sources of unhappiness.&rdquo; &mdash; <footer>Eric Hoffer</footer></blockquote>
 
 </div>
