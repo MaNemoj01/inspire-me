@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Surround yourself with only people who are going to lift you higher. &rdquo; &mdash; <footer>Oprah Winfrey</footer></blockquote>
+<blockquote>&ldquo;They who have conquered doubt and fear have conquered failure.&rdquo; &mdash; <footer>James Allen</footer></blockquote>
 
 </div>
