@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;They who have conquered doubt and fear have conquered failure.&rdquo; &mdash; <footer>James Allen</footer></blockquote>
+<blockquote>&ldquo;You cannot find peace avoiding life.&rdquo; &mdash; <footer>Virginia Woolf</footer></blockquote>
 
 </div>
