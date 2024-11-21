@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Even if you're sure you can win, be careful that you can live with what you lose.&rdquo; &mdash; <footer>Gary Keller</footer></blockquote>
+<blockquote>&ldquo;Don't listen to the person who has the answers; listen to the person who has the questions.&rdquo; &mdash; <footer>Albert Einstein</footer></blockquote>
 
 </div>
