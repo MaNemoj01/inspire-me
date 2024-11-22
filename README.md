@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The greatest work that kindness does to others is that it makes them kind themselves.&rdquo; &mdash; <footer>Amelia Earhart</footer></blockquote>
+<blockquote>&ldquo;If you focus on success, you'll have stress. But if you pursue excellence, success will be guaranteed.&rdquo; &mdash; <footer>Deepak Chopra</footer></blockquote>
 
 </div>
