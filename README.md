@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It is easier to fight for one's principles than to live up to them. &rdquo; &mdash; <footer>Alfred Adler</footer></blockquote>
+<blockquote>&ldquo;The time is now, the place is here. Stay in the present.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>
 
 </div>
