@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If I have seen further than others, it is by standing upon the shoulders of giants.&rdquo; &mdash; <footer>Isaac Newton</footer></blockquote>
+<blockquote>&ldquo;Success is not to be pursued, it is to be attracted by the person you become.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>
 
 </div>
