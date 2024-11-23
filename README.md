@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you don't read the newspaper, you're uninformed. If you read the newspaper, you're misinformed.&rdquo; &mdash; <footer>Mark Twain</footer></blockquote>
+<blockquote>&ldquo;You have within you right now, everything you need to deal with whatever the world can throw at you.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
 
 </div>
