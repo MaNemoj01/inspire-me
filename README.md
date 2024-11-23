@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Anyone who wants to achieve a dream must stay strong, focused and steady.&rdquo; &mdash; <footer>Estee Lauder</footer></blockquote>
+<blockquote>&ldquo;Life becomes easier and more beautiful when we can see the good in other people.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
 
 </div>
