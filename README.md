@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;When the world pushes you to your knees, you're in the perfect position to pray.&rdquo; &mdash; <footer>Rumi</footer></blockquote>
+<blockquote>&ldquo;If you don't read the newspaper, you're uninformed. If you read the newspaper, you're misinformed.&rdquo; &mdash; <footer>Mark Twain</footer></blockquote>
 
 </div>
