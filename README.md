@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Adventure is worthwhile in itself.&rdquo; &mdash; <footer>Amelia Earhart</footer></blockquote>
+<blockquote>&ldquo;Always seek out the seed of triumph in every adversity.&rdquo; &mdash; <footer>Og Mandino</footer></blockquote>
 
 </div>
