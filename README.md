@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Do not look for a sanctuary in anyone except your self.&rdquo; &mdash; <footer>Buddha</footer></blockquote>
+<blockquote>&ldquo;Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat.&rdquo; &mdash; <footer>Sun Tzu</footer></blockquote>
 
 </div>
