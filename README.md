@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.&rdquo; &mdash; <footer>Dale Carnegie</footer></blockquote>
+<blockquote>&ldquo;The great use of life is to spend it for something that will outlast it.&rdquo; &mdash; <footer>William James</footer></blockquote>
 
 </div>
