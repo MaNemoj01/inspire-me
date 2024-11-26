@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Art, like morality, consists of drawing the line somewhere.&rdquo; &mdash; <footer>Gilbert Chesterton</footer></blockquote>
+<blockquote>&ldquo;Very little is needed to make a happy life; it is all within yourself, in your way of thinking.&rdquo; &mdash; <footer>Marcus Aurelius</footer></blockquote>
 
 </div>
