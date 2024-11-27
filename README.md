@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It is the power of the mind to be unconquerable.&rdquo; &mdash; <footer>Seneca</footer></blockquote>
+<blockquote>&ldquo;A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.&rdquo; &mdash; <footer>Winston Churchill</footer></blockquote>
 
 </div>
