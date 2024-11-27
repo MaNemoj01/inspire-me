@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Do one thing every day that scares you.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
+<blockquote>&ldquo;They say love is the best investment; the more you give, the more you get in return.&rdquo; &mdash; <footer>Audrey Hepburn</footer></blockquote>
 
 </div>
