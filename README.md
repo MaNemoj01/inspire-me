@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A dream you dream alone is only a dream. A dream you dream together is reality.&rdquo; &mdash; <footer>Yoko Ono</footer></blockquote>
+<blockquote>&ldquo;One beam, no matter how big, cannot support an entire house on its own.&rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
 
 </div>
