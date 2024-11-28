@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you try, you might get exactly what you want. If you don't, you don't.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+<blockquote>&ldquo;In matters of style, swim with the current; in matters of principle, stand like a rock.&rdquo; &mdash; <footer>Thomas Jefferson</footer></blockquote>
 
 </div>
