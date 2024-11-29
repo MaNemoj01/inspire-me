@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;We are all here for some special reason.&rdquo; &mdash; <footer>Robin Sharma</footer></blockquote>
+<blockquote>&ldquo;Winners are not people who never fail, but people who never quit.&rdquo; &mdash; <footer>Arnold Schwarzenegger</footer></blockquote>
 
 </div>
