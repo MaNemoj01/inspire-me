@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;We are born from a quiet sleep, and we die to a calm awakening&rdquo; &mdash; <footer>Zhuangzi</footer></blockquote>
+<blockquote>&ldquo;You win more from losing than winning.&rdquo; &mdash; <footer>Morgan Wootten</footer></blockquote>
 
 </div>
