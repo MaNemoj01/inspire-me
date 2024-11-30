@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A self that goes on changing is a self that goes on living.&rdquo; &mdash; <footer>Virginia Woolf</footer></blockquote>
+<blockquote>&ldquo;Judgments prevent us from seeing the good that lies beyond appearances.  &rdquo; &mdash; <footer>Wayne Dyer</footer></blockquote>
 
 </div>
