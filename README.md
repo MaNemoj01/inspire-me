@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Our happiness depends on the habit of mind we cultivate.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
+<blockquote>&ldquo;You do not read a book for the book's sake, but for your own.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>
 
 </div>
