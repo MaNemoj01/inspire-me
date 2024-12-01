@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Anyone who wants to achieve a dream must stay strong, focused and steady.&rdquo; &mdash; <footer>Estee Lauder</footer></blockquote>
+<blockquote>&ldquo;In the midst of chaos, there is also opportunity.&rdquo; &mdash; <footer>Sun Tzu</footer></blockquote>
 
 </div>
