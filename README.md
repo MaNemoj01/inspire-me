@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;To wish you were someone else is to waste the person you are.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+<blockquote>&ldquo;Power is not what we do but what we do not - hasty and unwise actions that we repeat every day and which ultimately bring us into trouble.&rdquo; &mdash; <footer>Robert Greene</footer></blockquote>
 
 </div>
