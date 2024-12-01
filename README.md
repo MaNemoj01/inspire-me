@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Power is not what we do but what we do not - hasty and unwise actions that we repeat every day and which ultimately bring us into trouble.&rdquo; &mdash; <footer>Robert Greene</footer></blockquote>
+<blockquote>&ldquo;Remember, hope is a good thing, maybe the best of things.&rdquo; &mdash; <footer>Stephen King</footer></blockquote>
 
 </div>
