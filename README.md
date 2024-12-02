@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A golden cage is still just a cage.&rdquo; &mdash; <footer>Anita Krizzan</footer></blockquote>
+<blockquote>&ldquo;There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them.&rdquo; &mdash; <footer>Denis Waitley</footer></blockquote>
 
 </div>
