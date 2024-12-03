@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Don't let what you cannot do interfere with what you can do.&rdquo; &mdash; <footer>John Wooden</footer></blockquote>
+<blockquote>&ldquo;Life is what happens to you while you're busy making other plans.&rdquo; &mdash; <footer>John Lennon</footer></blockquote>
 
 </div>
