@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;There is little success where there is little laughter.&rdquo; &mdash; <footer>Andrew Carnegie</footer></blockquote>
+<blockquote>&ldquo;Never lose hope. Storms make people stronger and never last forever.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
 
 </div>
