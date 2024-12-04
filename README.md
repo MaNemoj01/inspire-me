@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;An ounce of performance is worth pounds of promises.&rdquo; &mdash; <footer>Mae West</footer></blockquote>
+<blockquote>&ldquo;No man becomes rich unless he enriches others.&rdquo; &mdash; <footer>Andrew Carnegie</footer></blockquote>
 
 </div>
