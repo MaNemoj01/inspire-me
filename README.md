@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Don't be afraid to stand for what you believe in, even if that means standing alone.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+<blockquote>&ldquo;Nothing is too high for a man to reach, but he must climb with care and confidence&rdquo; &mdash; <footer>Hans Christian Andersen</footer></blockquote>
 
 </div>
