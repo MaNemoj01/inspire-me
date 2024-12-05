@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;No man becomes rich unless he enriches others.&rdquo; &mdash; <footer>Andrew Carnegie</footer></blockquote>
+<blockquote>&ldquo;Have the fearless attitude of a hero and the loving heart of a child.&rdquo; &mdash; <footer>Soyen Shaku</footer></blockquote>
 
 </div>
