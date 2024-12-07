@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Coming together is a beginning, staying together is progress, and working together is success. &rdquo; &mdash; <footer>Henry Ford</footer></blockquote>
+<blockquote>&ldquo;Open your eyes and look within. Are you satisfied with the life you're living?&rdquo; &mdash; <footer>Bob Marley</footer></blockquote>
 
 </div>
