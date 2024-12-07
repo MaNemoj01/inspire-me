@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The whole problem with the world is the fools and fanatics are always so sure of themselves, and wiser people are full of doubts.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote>
+<blockquote>&ldquo;If you only knew the magnificence of the 3, 6, and 9, then you would have a key to the universe.&rdquo; &mdash; <footer>Nikola Tesla</footer></blockquote>
 
 </div>
