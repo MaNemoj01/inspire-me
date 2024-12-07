@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you don't like something, change it. If you can't change it, change your attitude.&rdquo; &mdash; <footer>Maya Angelou</footer></blockquote>
+<blockquote>&ldquo;Employ your time in improving yourself by other men's writings, so that you shall gain easily what others have labored hard for.&rdquo; &mdash; <footer>Socrates</footer></blockquote>
 
 </div>
