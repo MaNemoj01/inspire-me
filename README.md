@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Don't wish it were easier, wish you were better.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>
+<blockquote>&ldquo;Most people fail in life not because they aim too high and miss, but because they aim too low and hit.&rdquo; &mdash; <footer>Les Brown</footer></blockquote>
 
 </div>
