@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote>
+<blockquote>&ldquo;Fiction is the truth inside the lie.&rdquo; &mdash; <footer>Stephen King</footer></blockquote>
 
 </div>
