@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Anyone who wants to achieve a dream must stay strong, focused and steady.&rdquo; &mdash; <footer>Estee Lauder</footer></blockquote>
+<blockquote>&ldquo;Seek not the good in external things;seek it in yourselves.&rdquo; &mdash; <footer>Epictetus</footer></blockquote>
 
 </div>
