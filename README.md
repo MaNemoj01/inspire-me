@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Life is not just the passing of time. Life is the collection of experiences and their intensity.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>
+<blockquote>&ldquo;If you do what you've always done, you'll get what you've always gotten.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
 
 </div>
