@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;There are two ways of seeing: with the body and with the soul. The body's sight can sometimes forget, but the soul remembers forever.&rdquo; &mdash; <footer>Alexandre Dumas</footer></blockquote>
+<blockquote>&ldquo;If you focus on results and finding shortcuts, you'll get impatient. If you focus on the process and doing the right thing, you'll be unstoppable.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>
 
 </div>
