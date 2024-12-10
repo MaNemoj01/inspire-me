@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has.&rdquo; &mdash; <footer>Margaret Mead</footer></blockquote>
+<blockquote>&ldquo;Work out your own salvation. Do not depend on others.&rdquo; &mdash; <footer>Buddha</footer></blockquote>
 
 </div>
