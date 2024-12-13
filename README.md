@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Wherever you are, and whatever you do, be in love.&rdquo; &mdash; <footer>Rumi</footer></blockquote>
+<blockquote>&ldquo;Believe in your infinite potential. Your only limitations are those you set upon yourself.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
 
 </div>
