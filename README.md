@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Force has no place where there is need of skill. &rdquo; &mdash; <footer>Herodotus</footer></blockquote>
+<blockquote>&ldquo;Get busy living, or get busy dying.&rdquo; &mdash; <footer>Stephen King</footer></blockquote>
 
 </div>
