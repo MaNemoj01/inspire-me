@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Gratitude is the fairest blossom which springs from the soul.&rdquo; &mdash; <footer>Henry Ward Beecher</footer></blockquote>
+<blockquote>&ldquo;Success is like reaching an important birthday and finding you're exactly the same.&rdquo; &mdash; <footer>Audrey Hepburn</footer></blockquote>
 
 </div>
