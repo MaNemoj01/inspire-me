@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Each path to knowledge involves different rules and these rules are not interchangeable.&rdquo; &mdash; <footer>Barack Obama</footer></blockquote>
+<blockquote>&ldquo;We will now discuss in a little more detail the Struggle for Existence.&rdquo; &mdash; <footer>Charles Darwin</footer></blockquote>
 
 </div>
