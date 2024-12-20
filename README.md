@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Failure is the key to success; each mistake teaches us something.&rdquo; &mdash; <footer>Morihei Ueshiba</footer></blockquote>
+<blockquote>&ldquo;A thing must be loved before it is lovable.&rdquo; &mdash; <footer>Gilbert Chesterton</footer></blockquote>
 
 </div>
