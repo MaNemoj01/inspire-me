@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You have power over your mind - not outside events. Realize this, and you will find strength.&rdquo; &mdash; <footer>Marcus Aurelius</footer></blockquote>
+<blockquote>&ldquo;Success is getting what you want, happiness is wanting what you get.&rdquo; &mdash; <footer>W.P. Kinsella</footer></blockquote>
 
 </div>
