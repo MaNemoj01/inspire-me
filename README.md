@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Never be bored, and you will never be boring.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
+<blockquote>&ldquo;Don't let the noise of others opinions drown out your inner voice.&rdquo; &mdash; <footer>Steve Jobs</footer></blockquote>
 
 </div>
