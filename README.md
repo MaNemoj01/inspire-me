@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Everything that irritates us about others.&rdquo; &mdash; <footer>Carl Jung</footer></blockquote>
+<blockquote>&ldquo;We may not be responsible for the world that created our minds, but we can take responsibility for the mind with which we create our world.&rdquo; &mdash; <footer>Gabor Mate</footer></blockquote>
 
 </div>
