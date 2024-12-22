@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Love and compassion are necessities, not luxuries. Without them, humanity cannot survive.&rdquo; &mdash; <footer>Dalai Lama</footer></blockquote>
+<blockquote>&ldquo;He who cannot be a good follower cannot be a good leader.&rdquo; &mdash; <footer>Aristotle</footer></blockquote>
 
 </div>
