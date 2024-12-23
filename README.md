@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The most important things are the hardest to say.&rdquo; &mdash; <footer>Stephen King</footer></blockquote>
+<blockquote>&ldquo;Comedy = tragedy + time.&rdquo; &mdash; <footer>Carol Burnett</footer></blockquote>
 
 </div>
