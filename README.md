@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Unless a man is master of his soul, all other kinds of mastery amount to little.&rdquo; &mdash; <footer>Theodore Roosevelt</footer></blockquote>
+<blockquote>&ldquo;Success is the child of drudgery and perseverance. It cannot be coaxed or bribed; pay the price and it is yours. &rdquo; &mdash; <footer>Orison Swett Marden</footer></blockquote>
 
 </div>
