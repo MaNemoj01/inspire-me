@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Everyone must choose one of two pains: The pain of discipline or the pain of regret.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>
+<blockquote>&ldquo;To lead an orchestra, you must turn your back on the crowd.&rdquo; &mdash; <footer>Aristotle</footer></blockquote>
 
 </div>
