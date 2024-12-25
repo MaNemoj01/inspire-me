@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;No one has ever become poor by giving.&rdquo; &mdash; <footer>Anne Frank</footer></blockquote>
+<blockquote>&ldquo;Life is like a wheel. Sooner or later, it always comes around to where you started again.&rdquo; &mdash; <footer>Stephen King</footer></blockquote>
 
 </div>
