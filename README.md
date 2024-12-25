@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you can handle rejection, you'll learn to get everything you want.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
+<blockquote>&ldquo;If it is not right, do not do it, if it is not true, do not say it.&rdquo; &mdash; <footer>Marcus Aurelius</footer></blockquote>
 
 </div>
