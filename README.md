@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;No matter how smart we may think we are, no matter how committed we are to our truth, we can lose our way.&rdquo; &mdash; <footer>Kamal Ravikant</footer></blockquote>
+<blockquote>&ldquo;Against the assault of laughter nothing can stand.&rdquo; &mdash; <footer>Mark Twain</footer></blockquote>
 
 </div>
