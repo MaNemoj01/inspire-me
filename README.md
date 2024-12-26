@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;All that we see or seem is but a dream within a dream.&rdquo; &mdash; <footer>Edgar Allan Poe</footer></blockquote>
+<blockquote>&ldquo;There are no contests in the Art of Peace. A true warrior is invincible because he or she contests with nothing.&rdquo; &mdash; <footer>Morihei Ueshiba</footer></blockquote>
 
 </div>
