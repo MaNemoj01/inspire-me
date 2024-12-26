@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Throw your heart over the bar and your body will follow.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
+<blockquote>&ldquo;No matter how smart we may think we are, no matter how committed we are to our truth, we can lose our way.&rdquo; &mdash; <footer>Kamal Ravikant</footer></blockquote>
 
 </div>
