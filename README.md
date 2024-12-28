@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You make your own luck if you stay at it long enough.&rdquo; &mdash; <footer>Naval Ravikant</footer></blockquote>
+<blockquote>&ldquo;It's better to stand by someone's side than by yourself.&rdquo; &mdash; <footer>Jack London</footer></blockquote>
 
 </div>
