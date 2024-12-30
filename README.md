@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Show kindness but never expect it. Show authenticity but never expect it. Only the wise are indifferent to things they can't control.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>
+<blockquote>&ldquo;The greater the impact you want to make, the greater your influence needs to be.&rdquo; &mdash; <footer>Lolly Daskal</footer></blockquote>
 
 </div>
