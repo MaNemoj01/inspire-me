@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Not everything that weighs you down is yours to carry.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+<blockquote>&ldquo;Never take your position for granted and never let any favors you receive go to your head.&rdquo; &mdash; <footer>Robert Greene</footer></blockquote>
 
 </div>
