@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;When we strive to become better than we are, everything around us becomes better, too.&rdquo; &mdash; <footer>Paulo Coelho</footer></blockquote>
+<blockquote>&ldquo;I'd rather welcome change than cling to the past.&rdquo; &mdash; <footer>Robert Kiyosaki</footer></blockquote>
 
 </div>
