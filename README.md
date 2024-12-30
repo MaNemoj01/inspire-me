@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;We build too many walls and not enough bridges.&rdquo; &mdash; <footer>Isaac Newton</footer></blockquote>
+<blockquote>&ldquo;To forgive means pardoning the unpardonable.&rdquo; &mdash; <footer>Gilbert Chesterton</footer></blockquote>
 
 </div>
