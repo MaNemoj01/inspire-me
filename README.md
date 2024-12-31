@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A liar knows that he is a liar, but one who speaks mere portions of truth in order to deceive is a craftsman of destruction.&rdquo; &mdash; <footer>Criss Jami</footer></blockquote>
+<blockquote>&ldquo;Distant water does not put out a nearby fire.&rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
 
 </div>
