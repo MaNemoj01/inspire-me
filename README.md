@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Prefer to be defeated in the presence of the wise than to excel among fools.&rdquo; &mdash; <footer>Dogen</footer></blockquote>
+<blockquote>&ldquo;Growth is in a series of mistakes. That's the only way you learn.&rdquo; &mdash; <footer>Steve Harvey</footer></blockquote>
 
 </div>
