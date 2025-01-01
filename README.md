@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you want to keep your memories, you first have to live them.&rdquo; &mdash; <footer>Bob Dylan</footer></blockquote>
+<blockquote>&ldquo;Today is the oldest you've ever been, and the youngest you'll ever be again.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
 
 </div>
