@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Don't let the behavior of others destroy your inner peace.&rdquo; &mdash; <footer>Dalai Lama</footer></blockquote>
+<blockquote>&ldquo;The road to success and the road to failure are almost exactly the same.&rdquo; &mdash; <footer>Colin R. Davis</footer></blockquote>
 
 </div>
