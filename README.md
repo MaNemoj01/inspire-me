@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A needle is not sharp at both ends. &rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
+<blockquote>&ldquo;All you need is passion. If you have a passion for something, you'll create the talent.&rdquo; &mdash; <footer>Yanni</footer></blockquote>
 
 </div>
