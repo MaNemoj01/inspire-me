@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;All you need is passion. If you have a passion for something, you'll create the talent.&rdquo; &mdash; <footer>Yanni</footer></blockquote>
+<blockquote>&ldquo;What we know is a drop, what we don't know is an ocean. &rdquo; &mdash; <footer>Isaac Newton</footer></blockquote>
 
 </div>
