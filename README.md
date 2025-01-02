@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The happiness of your life depends upon the quality of your thoughts; therefore guard accordingly.&rdquo; &mdash; <footer>Marcus Aurelius</footer></blockquote>
+<blockquote>&ldquo;Anything you may hold firmly in your imagination can be yours.&rdquo; &mdash; <footer>William James</footer></blockquote>
 
 </div>
