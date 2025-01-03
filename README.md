@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If life were predictable it would cease to be life, and be without flavor.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
+<blockquote>&ldquo;There is no self-discovery without pain and loss.&rdquo; &mdash; <footer>Anita Krizzan</footer></blockquote>
 
 </div>
