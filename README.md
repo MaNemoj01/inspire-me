@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Success is the progressive realization of a worthy goal or ideal.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>
+<blockquote>&ldquo;Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations.&rdquo; &mdash; <footer>Alfred Adler</footer></blockquote>
 
 </div>
