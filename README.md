@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A moving door hinge never corrodes. Flowing water never grows stagnant.&rdquo; &mdash; <footer>Ming-Dao Deng</footer></blockquote>
+<blockquote>&ldquo;Love doesn't need reason. It speaks from the irrational wisdom of the heart.&rdquo; &mdash; <footer>Deepak Chopra</footer></blockquote>
 
 </div>
