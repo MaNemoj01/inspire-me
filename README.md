@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Love doesn't need reason. It speaks from the irrational wisdom of the heart.&rdquo; &mdash; <footer>Deepak Chopra</footer></blockquote>
+<blockquote>&ldquo;It will never rain roses: when we want to have more roses, we must plant more roses.&rdquo; &mdash; <footer>George Eliot</footer></blockquote>
 
 </div>
