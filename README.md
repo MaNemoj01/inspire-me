@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The guest will judge better of a feast than the cook.&rdquo; &mdash; <footer>Aristotle</footer></blockquote>
+<blockquote>&ldquo;Laziness may appear attractive, but work gives satisfaction.&rdquo; &mdash; <footer>Anne Frank</footer></blockquote>
 
 </div>
