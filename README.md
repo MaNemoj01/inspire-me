@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Genius, in truth, means little more than the faculty of perceiving in an unhabitual way.&rdquo; &mdash; <footer>William James</footer></blockquote>
+<blockquote>&ldquo;It ain't where you start in life, it's where you end up, and what you did along the way.&rdquo; &mdash; <footer>Colin Powell</footer></blockquote>
 
 </div>
