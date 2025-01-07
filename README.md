@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Know the rules well, so you can break them effectively.&rdquo; &mdash; <footer>Dalai Lama</footer></blockquote>
+<blockquote>&ldquo;You cannot control the behavior of others, but you can always choose how you respond to it.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
 
 </div>
