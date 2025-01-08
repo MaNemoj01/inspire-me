@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Most people spend more time and energy going around problems than in trying to solve them. &rdquo; &mdash; <footer>Henry Ford</footer></blockquote>
+<blockquote>&ldquo;Numbing the pain for a while will only make it worse when you finally feel it.&rdquo; &mdash; <footer>Albus Dumbledore</footer></blockquote>
 
 </div>
