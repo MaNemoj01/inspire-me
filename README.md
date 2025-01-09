@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The first half of life is devoted to forming a healthy ego, the second half is going inward and letting go of it.&rdquo; &mdash; <footer>Carl Jung</footer></blockquote>
+<blockquote>&ldquo;Nothing can survive without food. Everything we consume acts either to heal us or to poison us.&rdquo; &mdash; <footer>Thich Nhat Hanh</footer></blockquote>
 
 </div>
