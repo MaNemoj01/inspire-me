@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;All that a man achieves and all that he fails to achieve is the direct result of his own thoughts.&rdquo; &mdash; <footer>James Allen</footer></blockquote>
+<blockquote>&ldquo;Common sense is not so common. &rdquo; &mdash; <footer>Voltaire</footer></blockquote>
 
 </div>
