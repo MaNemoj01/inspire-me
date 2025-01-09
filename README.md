@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The best thing to hold onto in life is each other.&rdquo; &mdash; <footer>Audrey Hepburn</footer></blockquote>
+<blockquote>&ldquo;Old age is like everything else. To make a success of it, you've got to start young.&rdquo; &mdash; <footer>Theodore Roosevelt</footer></blockquote>
 
 </div>
