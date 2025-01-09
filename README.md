@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Numbing the pain for a while will only make it worse when you finally feel it.&rdquo; &mdash; <footer>Albus Dumbledore</footer></blockquote>
+<blockquote>&ldquo;To himself everyone is immortal; he may know that he is going to die, but he can never know he is dead.&rdquo; &mdash; <footer>Samuel Butler</footer></blockquote>
 
 </div>
