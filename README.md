@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Life is a succession of lessons, which must be lived to be understood.&rdquo; &mdash; <footer>Ralph Waldo Emerson</footer></blockquote>
+<blockquote>&ldquo;Today is the oldest you've ever been, and the youngest you'll ever be again.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
 
 </div>
