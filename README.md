@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Adversity is the tempering of one's mettle. Without it, we cannot know any true meaning in our accomplishments.&rdquo; &mdash; <footer>Ming-Dao Deng</footer></blockquote>
+<blockquote>&ldquo;If you don't like something change it. If you can't change it, change your attitude about it. Don't complain.&rdquo; &mdash; <footer>Maya Angelou</footer></blockquote>
 
 </div>
