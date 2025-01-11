@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;We are always complaining that our days are few, and acting as though there would be no end of them.  &rdquo; &mdash; <footer>Seneca</footer></blockquote>
+<blockquote>&ldquo;Sometimes adversity is what you need to face in order to become successful.&rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>
 
 </div>
