@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You know the more one does the more one can do.&rdquo; &mdash; <footer>Amelia Earhart</footer></blockquote>
+<blockquote>&ldquo;If you don't like something, change it. If you can't change it, change your attitude.&rdquo; &mdash; <footer>Maya Angelou</footer></blockquote>
 
 </div>
