@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;There is an essence of when you are fearless, you become more creative.&rdquo; &mdash; <footer>Gurbaksh Chahal</footer></blockquote>
+<blockquote>&ldquo;It is those who concentrate on but one thing at a time who advance in this world.&rdquo; &mdash; <footer>Gary Keller</footer></blockquote>
 
 </div>
