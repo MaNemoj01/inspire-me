@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Open your mind before your mouth.&rdquo; &mdash; <footer>Aristophanes</footer></blockquote>
+<blockquote>&ldquo;Intelligent men are cruel. Stupid men are monstrously cruel.&rdquo; &mdash; <footer>Jack London</footer></blockquote>
 
 </div>
