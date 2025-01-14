@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Management is doing things right; leadership is doing the right things.&rdquo; &mdash; <footer>Peter Drucker</footer></blockquote>
+<blockquote>&ldquo;If you want to know what God thinks about money just look at the people He gives it to.&rdquo; &mdash; <footer>Alexander Pope</footer></blockquote>
 
 </div>
