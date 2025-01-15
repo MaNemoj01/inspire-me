@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Each time we don't say what we wanna say, we're dying.&rdquo; &mdash; <footer>Yoko Ono</footer></blockquote>
+<blockquote>&ldquo;The source of a true smile is an awakened mind.&rdquo; &mdash; <footer>Thich Nhat Hanh</footer></blockquote>
 
 </div>
