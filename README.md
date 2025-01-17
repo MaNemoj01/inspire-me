@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Genius is one percent inspiration and ninety-nine percent perspiration.&rdquo; &mdash; <footer>Thomas Edison</footer></blockquote>
+<blockquote>&ldquo;If you want to be happy, do not dwell in the past, do not worry about the future, focus on living fully in the present.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
 
 </div>
