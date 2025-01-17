@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Better to have, and not need, than to need, and not have.&rdquo; &mdash; <footer>Franz Kafka</footer></blockquote>
+<blockquote>&ldquo;The sun shines upon good and bad alike.&rdquo; &mdash; <footer>Hans Christian Andersen</footer></blockquote>
 
 </div>
