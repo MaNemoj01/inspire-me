@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Having lots of money while not having inner peace is like dying of thirst while bathing in the ocean.&rdquo; &mdash; <footer>Paramahansa Yogananda</footer></blockquote>
+<blockquote>&ldquo;A gentleman is one who puts more into the world than he takes out.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote>
 
 </div>
