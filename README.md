@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The moment you stop to think about whether you love someone, you've already stopped loving that person forever.&rdquo; &mdash; <footer>Carlos Ruiz Zafon</footer></blockquote>
+<blockquote>&ldquo;Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy.&rdquo; &mdash; <footer>Thich Nhat Hanh</footer></blockquote>
 
 </div>
