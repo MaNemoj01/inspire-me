@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;From morning till night, we should never rely on a single thing.&rdquo; &mdash; <footer>Huang Po</footer></blockquote>
+<blockquote>&ldquo;Work for something because it is good, not just because it stands a chance to succeed.&rdquo; &mdash; <footer>Vaclav Havel</footer></blockquote>
 
 </div>
