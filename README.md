@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Men are disturbed not by things, but by the view which they take of them.&rdquo; &mdash; <footer>Epictetus</footer></blockquote>
+<blockquote>&ldquo;It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.&rdquo; &mdash; <footer>Albus Dumbledore</footer></blockquote>
 
 </div>
