@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Trusting our intuition often saves us from disaster. &rdquo; &mdash; <footer>Anne Wilson Schaef</footer></blockquote>
+<blockquote>&ldquo;Men are disturbed not by things, but by the view which they take of them.&rdquo; &mdash; <footer>Epictetus</footer></blockquote>
 
 </div>
