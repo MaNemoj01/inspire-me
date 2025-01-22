@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Why do you stay in prison when the door is so wide open?&rdquo; &mdash; <footer>Rumi</footer></blockquote>
+<blockquote>&ldquo;If everyone is moving forward together, then success takes care of itself.&rdquo; &mdash; <footer>Henry Ford</footer></blockquote>
 
 </div>
