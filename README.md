@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime.&rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>
+<blockquote>&ldquo;People don't realize that now is all there ever is; there is no past or future except as memory or anticipation in your mind.&rdquo; &mdash; <footer>Eckhart Tolle</footer></blockquote>
 
 </div>
