@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Nothing gives one person so much advantage over another as to remain always cool and unruffled under all circumstances.&rdquo; &mdash; <footer>Thomas Jefferson</footer></blockquote>
+<blockquote>&ldquo;Most great people have achieved their greatest success just one step beyond their greatest failure.&rdquo; &mdash; <footer>Napoleon Hill</footer></blockquote>
 
 </div>
