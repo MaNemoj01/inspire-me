@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Don't waste time on excuses. Just get it done.&rdquo; &mdash; <footer>Ralph Marston</footer></blockquote>
+<blockquote>&ldquo;You don't have to control your thoughts; you just have to stop letting them control you.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>
 
 </div>
