@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Happiness comes when you believe in what you are doing, know what you are doing, and love what you are doing.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
+<blockquote>&ldquo;Winners don't Quit. That's why they Win.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 
 </div>
