@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has.&rdquo; &mdash; <footer>Margaret Mead</footer></blockquote>
+<blockquote>&ldquo;When something is important enough, you do it even if the odds are not in your favor.&rdquo; &mdash; <footer>Elon Musk</footer></blockquote>
 
 </div>
