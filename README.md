@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Remember we're all in this alone.&rdquo; &mdash; <footer>Lily Tomlin</footer></blockquote>
+<blockquote>&ldquo;Failing is another stepping stone to greatness.&rdquo; &mdash; <footer>Oprah Winfrey</footer></blockquote>
 
 </div>
