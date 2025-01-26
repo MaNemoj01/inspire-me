@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The only thing more frustrating than slanderers is those foolish enough to listen to them.&rdquo; &mdash; <footer>Criss Jami</footer></blockquote>
+<blockquote>&ldquo;I do not exist to impress the world. I exist to live my life in a way that will make me happy.&rdquo; &mdash; <footer>Richard Bach</footer></blockquote>
 
 </div>
