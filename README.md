@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The way out is in.&rdquo; &mdash; <footer>Thich Nhat Hanh</footer></blockquote>
+<blockquote>&ldquo;Who you are is defined by what you're willing to struggle for.&rdquo; &mdash; <footer>Mark Manson</footer></blockquote>
 
 </div>
