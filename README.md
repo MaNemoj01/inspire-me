@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The wise man reads both books and life itself.&rdquo; &mdash; <footer>Lin Yutang</footer></blockquote>
+<blockquote>&ldquo;The smallest of actions is always better than the noblest of intentions.&rdquo; &mdash; <footer>Robin Sharma</footer></blockquote>
 
 </div>
