@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Throw me to the wolves and I will return leading the pack.  &rdquo; &mdash; <footer>Seneca</footer></blockquote>
+<blockquote>&ldquo;The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers.&rdquo; &mdash; <footer>Amelia Earhart</footer></blockquote>
 
 </div>
