@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Often in the real world, it's not the smart that get ahead, but the bold.&rdquo; &mdash; <footer>Robert Kiyosaki</footer></blockquote>
+<blockquote>&ldquo;If ever you feel like an animal among men, be a lion.&rdquo; &mdash; <footer>Criss Jami</footer></blockquote>
 
 </div>
