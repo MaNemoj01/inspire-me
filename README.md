@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Continuous effort - not strength or intelligence - is the key to unlocking our potential.&rdquo; &mdash; <footer>Winston Churchill</footer></blockquote>
+<blockquote>&ldquo;Presents are made for the pleasure of who gives them, not the merits of who receives them.&rdquo; &mdash; <footer>Carlos Ruiz Zafon</footer></blockquote>
 
 </div>
