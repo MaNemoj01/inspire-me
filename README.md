@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Where we fall are the stepping-stones for our journey.&rdquo; &mdash; <footer>Lolly Daskal</footer></blockquote>
+<blockquote>&ldquo;Where words fail, music speaks.&rdquo; &mdash; <footer>Hans Christian Andersen</footer></blockquote>
 
 </div>
