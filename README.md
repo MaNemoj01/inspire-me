@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You don't know who is important to you until you actually lose them.&rdquo; &mdash; <footer>Mahatma Gandhi</footer></blockquote>
+<blockquote>&ldquo;For every effect there is a root cause. Find and address the root cause rather than try to fix the effect, as there is no end to the latter.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
 
 </div>
