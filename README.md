@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It is better to fail in originality than to succeed in imitation.&rdquo; &mdash; <footer>Herman Melville</footer></blockquote>
+<blockquote>&ldquo;Where we fall are the stepping-stones for our journey.&rdquo; &mdash; <footer>Lolly Daskal</footer></blockquote>
 
 </div>
