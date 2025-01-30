@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The only thing we have to fear is fear itself.&rdquo; &mdash; <footer>Franklin D. Roosevelt</footer></blockquote>
+<blockquote>&ldquo;Avoiding failure is to avoid progress.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 
 </div>
