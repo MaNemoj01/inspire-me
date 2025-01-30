@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Go and do the things you can't. That is how you get to do them.&rdquo; &mdash; <footer>Pablo Picasso</footer></blockquote>
+<blockquote>&ldquo;They who have conquered doubt and fear have conquered failure.&rdquo; &mdash; <footer>James Allen</footer></blockquote>
 
 </div>
