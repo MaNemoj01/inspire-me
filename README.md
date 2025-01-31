@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;How you think is as important as as what you think.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+<blockquote>&ldquo;The greater the impact you want to make, the greater your influence needs to be.&rdquo; &mdash; <footer>Lolly Daskal</footer></blockquote>
 
 </div>
