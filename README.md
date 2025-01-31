@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Procrastination is one of the most common and deadliest of diseases and its toll on success and happiness is heavy.&rdquo; &mdash; <footer>Wayne Gretzky</footer></blockquote>
+<blockquote>&ldquo;How you think is as important as as what you think.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 
 </div>
