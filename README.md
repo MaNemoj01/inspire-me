@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;I would rather be hated for who I am than loved for who I'm not.  &rdquo; &mdash; <footer>Wayne Dyer</footer></blockquote>
+<blockquote>&ldquo;Your problem isn't the problem. Your reaction is the problem.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 
 </div>
