@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The cost of leadership is self-interest.&rdquo; &mdash; <footer>Simon Sinek</footer></blockquote>
+<blockquote>&ldquo;I'm not afraid of death, but I'm in no hurry to die.&rdquo; &mdash; <footer>Stephen Hawking</footer></blockquote>
 
 </div>
