@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;When a man is penalized for honesty he learns to lie.&rdquo; &mdash; <footer>Criss Jami</footer></blockquote>
+<blockquote>&ldquo;The single biggest problem in communication is the illusion that it has taken place.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote>
 
 </div>
