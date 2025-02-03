@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The wisest men follow their own direction.&rdquo; &mdash; <footer>Euripides</footer></blockquote>
+<blockquote>&ldquo;Others can stop you temporarily - you are the only one who can do it permanently.&rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>
 
 </div>
