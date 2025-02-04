@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Life begins where fear ends.&rdquo; &mdash; <footer>Osho</footer></blockquote>
+<blockquote>&ldquo;In spite of everything, I shall rise again.&rdquo; &mdash; <footer>Vincent van Gogh</footer></blockquote>
 
 </div>
