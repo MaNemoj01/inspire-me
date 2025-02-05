@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Don't let making a living prevent you from making a life.&rdquo; &mdash; <footer>John Wooden</footer></blockquote>
+<blockquote>&ldquo;What gets measured gets improved.&rdquo; &mdash; <footer>Robin Sharma</footer></blockquote>
 
 </div>
