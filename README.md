@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;No grand idea was ever born in a conference, but a lot of foolish ideas have died there.&rdquo; &mdash; <footer>F. Scott Fitzgerald</footer></blockquote>
+<blockquote>&ldquo;If you find you are not valued and appreciated, then shift your attention to places where you will be valued and appreciated.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
 
 </div>
