@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;We turn not older with years but newer every day.&rdquo; &mdash; <footer>Emily Dickinson</footer></blockquote>
+<blockquote>&ldquo;We're kept from our goal not by obstacles, but by a clear path to a lesser goal.&rdquo; &mdash; <footer>Bhagavad Gita</footer></blockquote>
 
 </div>
