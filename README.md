@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;There are no secrets to success. It is the result of preparation, hard work, learning from failure.&rdquo; &mdash; <footer>Colin Powell</footer></blockquote>
+<blockquote>&ldquo;I know of only one duty, and that is to love.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote>
 
 </div>
