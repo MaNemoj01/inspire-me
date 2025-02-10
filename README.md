@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Until you make the unconscious conscious, it will direct your life and you will call it fate.&rdquo; &mdash; <footer>Carl Jung</footer></blockquote>
+<blockquote>&ldquo;The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
 
 </div>
