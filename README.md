@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Man is made by his belief. As he believes, so he is.&rdquo; &mdash; <footer>Bhagavad Gita</footer></blockquote>
+<blockquote>&ldquo;The only lost cause is one we give up on before we enter the struggle.&rdquo; &mdash; <footer>Vaclav Havel</footer></blockquote>
 
 </div>
