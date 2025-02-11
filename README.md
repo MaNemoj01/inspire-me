@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;When the world pushes you to your knees, you're in the perfect position to pray.&rdquo; &mdash; <footer>Rumi</footer></blockquote>
+<blockquote>&ldquo;Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you.&rdquo; &mdash; <footer>Richard Bach</footer></blockquote>
 
 </div>
