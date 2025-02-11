@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Only put off until tomorrow what you are willing to die having left undone.&rdquo; &mdash; <footer>Pablo Picasso</footer></blockquote>
+<blockquote>&ldquo;What people say, what people do, and what they say they do are entirely different things. &rdquo; &mdash; <footer>Margaret Mead</footer></blockquote>
 
 </div>
