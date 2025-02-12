@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You only live once, but if you do it right, once is enough.&rdquo; &mdash; <footer>Mae West</footer></blockquote>
+<blockquote>&ldquo;The moment you stop to think about whether you love someone, you've already stopped loving that person forever.&rdquo; &mdash; <footer>Carlos Ruiz Zafon</footer></blockquote>
 
 </div>
