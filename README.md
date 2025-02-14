@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Either write something worth reading or do something worth writing.&rdquo; &mdash; <footer>Benjamin Franklin</footer></blockquote>
+<blockquote>&ldquo;If you genuinely want something, don't wait for it - teach yourself.&rdquo; &mdash; <footer>Gurbaksh Chahal</footer></blockquote>
 
 </div>
