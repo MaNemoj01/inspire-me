@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Courage is the willingness to engage in a risk-taking behavior regardless of whether the consequences are unknown or possibly adverse.&rdquo; &mdash; <footer>Alfred Adler</footer></blockquote>
+<blockquote>&ldquo;To be of use to the world is the only way to be happy.&rdquo; &mdash; <footer>Hans Christian Andersen</footer></blockquote>
 
 </div>
