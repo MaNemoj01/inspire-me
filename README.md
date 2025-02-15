@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Believe in one thing too much and you have no room for new ideas.  &rdquo; &mdash; <footer>Ray Bradbury</footer></blockquote>
+<blockquote>&ldquo;Pursue what catches your heart, not what catches your eyes.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
 
 </div>
