@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you build the guts to do something, anything, then you better save enough to face the consequences.&rdquo; &mdash; <footer>Criss Jami</footer></blockquote>
+<blockquote>&ldquo;One of the most difficult things is not to change society - but to change yourself.&rdquo; &mdash; <footer>Nelson Mandela</footer></blockquote>
 
 </div>
