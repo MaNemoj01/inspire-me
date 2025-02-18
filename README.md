@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking.&rdquo; &mdash; <footer>Johann Wolfgang von Goethe</footer></blockquote>
+<blockquote>&ldquo;Stand up to your obstacles and do something about them. You'll find they haven't half the strength you think they have.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
 
 </div>
