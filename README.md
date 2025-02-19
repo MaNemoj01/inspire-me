@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Success is getting what you want. Happiness is wanting what you get.&rdquo; &mdash; <footer>Andrew Carnegie</footer></blockquote>
+<blockquote>&ldquo;A zen master's life is one continuous mistake.&rdquo; &mdash; <footer>Dogen</footer></blockquote>
 
 </div>
