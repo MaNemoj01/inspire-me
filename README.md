@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Do not go where the path may lead, go instead where there is no path and leave a trail.&rdquo; &mdash; <footer>Ralph Waldo Emerson</footer></blockquote>
+<blockquote>&ldquo;Time doesn't heal emotional pain, you need to learn how to let go.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
 
 </div>
