@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Here is the test to find whether your mission on earth is finished. If you're alive, it isn't.&rdquo; &mdash; <footer>Richard Bach</footer></blockquote>
+<blockquote>&ldquo;Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results.&rdquo; &mdash; <footer>Peter Drucker</footer></blockquote>
 
 </div>
