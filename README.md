@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You make your own luck if you stay at it long enough.&rdquo; &mdash; <footer>Naval Ravikant</footer></blockquote>
+<blockquote>&ldquo;A day wasted on others is not wasted on one's self.&rdquo; &mdash; <footer>Charles Dickens</footer></blockquote>
 
 </div>
