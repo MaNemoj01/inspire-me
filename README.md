@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The first principle of success is desire.&rdquo; &mdash; <footer>Robert Collier</footer></blockquote>
+<blockquote>&ldquo;Take care of your cents: dollars will take care of themselves.&rdquo; &mdash; <footer>Thomas Jefferson</footer></blockquote>
 
 </div>
