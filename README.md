@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Whoever is happy will make others happy too.&rdquo; &mdash; <footer>Anne Frank</footer></blockquote>
+<blockquote>&ldquo;The greatest doer must also be a great dreamer.&rdquo; &mdash; <footer>Theodore Roosevelt</footer></blockquote>
 
 </div>
