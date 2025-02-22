@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You can never cross the ocean unless you have the courage to lose sight of the shore.&rdquo; &mdash; <footer>Christopher Columbus</footer></blockquote>
+<blockquote>&ldquo;To affect the quality of the day, that is the highest of arts.&rdquo; &mdash; <footer>Henry David Thoreau</footer></blockquote>
 
 </div>
