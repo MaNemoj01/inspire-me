@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Older men declare war. But it is youth that must fight and die.&rdquo; &mdash; <footer>Herbert Hoover</footer></blockquote>
+<blockquote>&ldquo;It is our choices that show what we truly are, far more than our abilities.&rdquo; &mdash; <footer>Albus Dumbledore</footer></blockquote>
 
 </div>
