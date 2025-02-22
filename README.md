@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You came empty handed, and you will leave empty handed.&rdquo; &mdash; <footer>Bhagavad Gita</footer></blockquote>
+<blockquote>&ldquo;To lead the people, walk behind them.&rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>
 
 </div>
