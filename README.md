@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you want something then you lose everything. If you don't want anything then you already have everything.&rdquo; &mdash; <footer>Seungsahn</footer></blockquote>
+<blockquote>&ldquo;Speak when you are angry - and you'll make the best speech you'll ever regret.&rdquo; &mdash; <footer>Laurence J. Peter</footer></blockquote>
 
 </div>
