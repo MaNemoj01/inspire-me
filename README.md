@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Reading should be a pleasure, not a chore.&rdquo; &mdash; <footer>Joan Rivers</footer></blockquote>
+<blockquote>&ldquo;It doesn't matter what you do, only how well you do it.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>
 
 </div>
