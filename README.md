@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Where does a thought go when it's forgotten?&rdquo; &mdash; <footer>Sigmund Freud</footer></blockquote>
+<blockquote>&ldquo;Be not glad at the misfortune of another, though he may be your enemy. &rdquo; &mdash; <footer>George Washington</footer></blockquote>
 
 </div>
