@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Be not glad at the misfortune of another, though he may be your enemy. &rdquo; &mdash; <footer>George Washington</footer></blockquote>
+<blockquote>&ldquo;You use a glass mirror to see your face; you use works of art to see your soul.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote>
 
 </div>
