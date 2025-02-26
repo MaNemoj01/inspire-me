@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Wake up and smile! Wake up and be grateful!&rdquo; &mdash; <footer>Steve Harvey</footer></blockquote>
+<blockquote>&ldquo;The ego wants to go fast. The soul needs to go slow.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>
 
 </div>
