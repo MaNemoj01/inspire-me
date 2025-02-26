@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You don't have to control your thoughts; you just have to stop letting them control you.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>
+<blockquote>&ldquo;You may delay, but time will not.&rdquo; &mdash; <footer>Benjamin Franklin</footer></blockquote>
 
 </div>
