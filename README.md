@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Only by attracting the best people will you accomplish great deeds.&rdquo; &mdash; <footer>Colin Powell</footer></blockquote>
+<blockquote>&ldquo;As long as a human being worries about when he will die, and what he has that is his, all of his works are zero.&rdquo; &mdash; <footer>Kabir</footer></blockquote>
 
 </div>
