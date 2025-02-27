@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The heart that gives, gathers.&rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>
+<blockquote>&ldquo;There can be no deep disappointment where there is not deep love.&rdquo; &mdash; <footer>Martin Luther King, Jr.</footer></blockquote>
 
 </div>
