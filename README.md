@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Life is like stepping onto a boat which is about to sail out to sea and sink.&rdquo; &mdash; <footer>Shunryu Suzuki</footer></blockquote>
+<blockquote>&ldquo;All that a man achieves and all that he fails to achieve is the direct result of his own thoughts.&rdquo; &mdash; <footer>James Allen</footer></blockquote>
 
 </div>
