@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The future is no more uncertain than the present.&rdquo; &mdash; <footer>Walt Whitman</footer></blockquote>
+<blockquote>&ldquo;Inner peace is when you realize that, in the end, nothing matters.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>
 
 </div>
