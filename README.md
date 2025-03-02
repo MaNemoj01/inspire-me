@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Just get out and do it. You will be very, very glad that you did.&rdquo; &mdash; <footer>Christopher McCandless</footer></blockquote>
+<blockquote>&ldquo;A leader is one who knows the way, goes the way, and shows the way.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 
 </div>
