@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;How people treat you is their karma; how you react is yours. &rdquo; &mdash; <footer>Wayne Dyer</footer></blockquote>
+<blockquote>&ldquo;It's better to dance than to march through life.&rdquo; &mdash; <footer>Yoko Ono</footer></blockquote>
 
 </div>
