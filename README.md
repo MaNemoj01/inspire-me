@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Turn off your mind, relax, and float downstream.&rdquo; &mdash; <footer>John Lennon</footer></blockquote>
+<blockquote>&ldquo;Not why the addiction but why the pain.&rdquo; &mdash; <footer>Gabor Mate</footer></blockquote>
 
 </div>
