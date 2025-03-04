@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It's not the men in your life that matters, it's the life in your men.&rdquo; &mdash; <footer>Mae West</footer></blockquote>
+<blockquote>&ldquo;Nothing is really work unless you would rather be doing something else. &rdquo; &mdash; <footer>James Matthew Barrie</footer></blockquote>
 
 </div>
