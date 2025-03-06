@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Your imagination is your preview of life's coming attractions.&rdquo; &mdash; <footer>Albert Einstein</footer></blockquote>
+<blockquote>&ldquo;He who cheats the earth will be cheated by the earth.&rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
 
 </div>
