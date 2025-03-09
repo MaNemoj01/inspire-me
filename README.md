@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Difficulties strengthen the mind, as labor does the body.  &rdquo; &mdash; <footer>Seneca</footer></blockquote>
+<blockquote>&ldquo;It takes half your life before you discover life is a do-it-yourself project.&rdquo; &mdash; <footer>Napoleon Hill</footer></blockquote>
 
 </div>
