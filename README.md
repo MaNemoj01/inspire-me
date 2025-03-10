@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;I am thankful to all who said no to me. It is because of them that I'm doing it myself.&rdquo; &mdash; <footer>Albert Einstein</footer></blockquote>
+<blockquote>&ldquo;Boldness makes even the smallest animal dangerous.&rdquo; &mdash; <footer>Robert Greene</footer></blockquote>
 
 </div>
