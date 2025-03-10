@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;What lies behind us and what lies before us are tiny matters compared to what lies within us.&rdquo; &mdash; <footer>Ralph Waldo Emerson</footer></blockquote>
+<blockquote>&ldquo;The primary point of this existence is to live, and all living things move and grow.&rdquo; &mdash; <footer>Ming-Dao Deng</footer></blockquote>
 
 </div>
