@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you always do what you've always done, you'll always get what you've always got. &rdquo; &mdash; <footer>Henry Ford</footer></blockquote>
+<blockquote>&ldquo;The trouble with the rat race is that even if you win, you're still a rat.&rdquo; &mdash; <footer>Lily Tomlin</footer></blockquote>
 
 </div>
