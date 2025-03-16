@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Life must be a constant education; one must learn everything, from speaking to dying.&rdquo; &mdash; <footer>Gustave Flaubert</footer></blockquote>
+<blockquote>&ldquo;Wealth is the product of man's capacity to think.&rdquo; &mdash; <footer>Ayn Rand</footer></blockquote>
 
 </div>
