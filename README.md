@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Unless someone truly has the power to say no, they never truly have the power to say yes.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>
+<blockquote>&ldquo;Darkness must pass. A new day will come. And when the sun shines, it will shine out the clearer.&rdquo; &mdash; <footer>J.R.R. Tolkien</footer></blockquote>
 
 </div>
