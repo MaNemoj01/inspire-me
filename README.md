@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Before you speak, ask yourself, is it kind, is it necessary, is it true, does it improve the silence?&rdquo; &mdash; <footer>Sathya Sai Baba</footer></blockquote>
+<blockquote>&ldquo;It does not matter how slowly you go so long as you do not stop.&rdquo; &mdash; <footer>Confucius</footer></blockquote>
 
 </div>
