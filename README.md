@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;To seek is to suffer. To seek nothing is bliss.&rdquo; &mdash; <footer>Bodhidharma</footer></blockquote>
+<blockquote>&ldquo;It is truth that liberates, not your effort to be free.&rdquo; &mdash; <footer>Jiddu Krishnamurti</footer></blockquote>
 
 </div>
