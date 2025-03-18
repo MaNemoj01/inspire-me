@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Don't let the noise of others opinions drown out your inner voice.&rdquo; &mdash; <footer>Steve Jobs</footer></blockquote>
+<blockquote>&ldquo;Don't be afraid of missing opportunities. Behind every failure is an opportunity somebody wishes they had missed.&rdquo; &mdash; <footer>Lily Tomlin</footer></blockquote>
 
 </div>
