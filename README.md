@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Those who seek the easy way do not seek the true way.&rdquo; &mdash; <footer>Dogen</footer></blockquote>
+<blockquote>&ldquo;So long as we are being remembered, we remain alive.&rdquo; &mdash; <footer>Carlos Ruiz Zafon</footer></blockquote>
 
 </div>
