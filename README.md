@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Have a heart that never hardens, and a temper that never tires, and a touch that never hurts.&rdquo; &mdash; <footer>Charles Dickens</footer></blockquote>
+<blockquote>&ldquo;If a thing is worth doing, it is worth doing badly.&rdquo; &mdash; <footer>Gilbert Chesterton</footer></blockquote>
 
 </div>
