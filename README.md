@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Your problem isn't the problem. Your reaction is the problem.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+<blockquote>&ldquo;Loyalty and friendship are the most precious possessions a man can have.&rdquo; &mdash; <footer>Herbert Hoover</footer></blockquote>
 
 </div>
