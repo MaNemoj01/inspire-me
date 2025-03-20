@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;What is planted in each person's soul will sprout.  &rdquo; &mdash; <footer>Rumi</footer></blockquote>
+<blockquote>&ldquo;The Art of Peace begins with you.&rdquo; &mdash; <footer>Morihei Ueshiba</footer></blockquote>
 
 </div>
