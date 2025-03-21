@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The two most important days in your life are the day you are born and the day you find out why.&rdquo; &mdash; <footer>Mark Twain</footer></blockquote>
+<blockquote>&ldquo;Enjoy life. There's plenty of time to be dead.&rdquo; &mdash; <footer>Hans Christian Andersen</footer></blockquote>
 
 </div>
