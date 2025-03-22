@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;One's best success comes after their greatest disappointments.&rdquo; &mdash; <footer>Henry Ward Beecher</footer></blockquote>
+<blockquote>&ldquo;When you are totally at peace with yourself, nothing can shake you.&rdquo; &mdash; <footer>Deepam Chaterjee</footer></blockquote>
 
 </div>
