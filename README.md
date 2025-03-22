@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You are not stuck where you are unless you decide to be.  &rdquo; &mdash; <footer>Wayne Dyer</footer></blockquote>
+<blockquote>&ldquo;The significance of life is living.&rdquo; &mdash; <footer>Jiddu Krishnamurti</footer></blockquote>
 
 </div>
