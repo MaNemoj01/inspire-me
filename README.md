@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Life and death are of supreme importance. Time swiftly passes by and opportunity is lost.&rdquo; &mdash; <footer>Dogen</footer></blockquote>
+<blockquote>&ldquo;Our life isn't how much we can take out, but how much we can put in.  &rdquo; &mdash; <footer>Estee Lauder</footer></blockquote>
 
 </div>
