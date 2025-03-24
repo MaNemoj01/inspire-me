@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Never do things others can do and will do if there are things others cannot do or will not do.&rdquo; &mdash; <footer>Amelia Earhart</footer></blockquote>
+<blockquote>&ldquo;The big secret in life is that there is no big secret. Whatever your goal, you can get there if you're willing to work.&rdquo; &mdash; <footer>Oprah Winfrey</footer></blockquote>
 
 </div>
