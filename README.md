@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Life is not always a matter of holding good cards, but sometimes, playing a poor hand well. &rdquo; &mdash; <footer>Jack London</footer></blockquote>
+<blockquote>&ldquo;A good master leads you to the true master within. Only that master, who is your own higher self, can adequately answer all questions.&rdquo; &mdash; <footer>Ming-Dao Deng</footer></blockquote>
 
 </div>
