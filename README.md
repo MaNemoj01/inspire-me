@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;To avoid criticism, do nothing, say nothing, and be nothing.&rdquo; &mdash; <footer>Elbert Hubbard</footer></blockquote>
+<blockquote>&ldquo;Treat every moment as your last. It is not preparation for something else.&rdquo; &mdash; <footer>Shunryu Suzuki</footer></blockquote>
 
 </div>
