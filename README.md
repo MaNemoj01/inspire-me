@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;No amount of regretting can change the past, and no amount of worrying can change the future.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
+<blockquote>&ldquo;Life is either a daring adventure, or nothing.&rdquo; &mdash; <footer>Helen Keller</footer></blockquote>
 
 </div>
