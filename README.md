@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Treat every moment as your last. It is not preparation for something else.&rdquo; &mdash; <footer>Shunryu Suzuki</footer></blockquote>
+<blockquote>&ldquo;Every night before going to sleep, we must ask ourselves: what weakness did I overcome today? What virtue did I acquire?&rdquo; &mdash; <footer>Seneca</footer></blockquote>
 
 </div>
