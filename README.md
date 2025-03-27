@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Find the game where you can win, and then commit your life to playing it; and play to win.&rdquo; &mdash; <footer>Robert Kiyosaki</footer></blockquote>
+<blockquote>&ldquo;The first step toward getting somewhere is to decide that you are not going to stay where you are.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 
 </div>
