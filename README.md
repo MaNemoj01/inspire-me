@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You may think I'm small, but I have a universe inside my mind.&rdquo; &mdash; <footer>Yoko Ono</footer></blockquote>
+<blockquote>&ldquo;We tend to live up to our expectations.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>
 
 </div>
