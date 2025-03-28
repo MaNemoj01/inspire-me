@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You can discover what your enemy fears most by observing the means he uses to frighten you.&rdquo; &mdash; <footer>Eric Hoffer</footer></blockquote>
+<blockquote>&ldquo;The less you want, the richer you are. The more you need in order to be happy, the more miserable you'll be.&rdquo; &mdash; <footer>Yanni</footer></blockquote>
 
 </div>
