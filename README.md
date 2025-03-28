@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;When at last you are come to the ocean of happiness, do not go back thirsty.&rdquo; &mdash; <footer>Kabir</footer></blockquote>
+<blockquote>&ldquo;You can discover what your enemy fears most by observing the means he uses to frighten you.&rdquo; &mdash; <footer>Eric Hoffer</footer></blockquote>
 
 </div>
