@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;We may not be responsible for the world that created our minds, but we can take responsibility for the mind with which we create our world.&rdquo; &mdash; <footer>Gabor Mate</footer></blockquote>
+<blockquote>&ldquo;When at last you are come to the ocean of happiness, do not go back thirsty.&rdquo; &mdash; <footer>Kabir</footer></blockquote>
 
 </div>
