@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Nothing can bring you peace but yourself.&rdquo; &mdash; <footer>Dale Carnegie</footer></blockquote>
+<blockquote>&ldquo;The content of your character is your choice. Day by day, what you choose, what you think and what you do is who you become.&rdquo; &mdash; <footer>Heraclitus</footer></blockquote>
 
 </div>
