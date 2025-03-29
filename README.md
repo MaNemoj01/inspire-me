@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Until you change how you get things done, you'll never know what works best.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
+<blockquote>&ldquo;He who laughs at himself never runs out of things to laugh at.&rdquo; &mdash; <footer>Epictetus</footer></blockquote>
 
 </div>
