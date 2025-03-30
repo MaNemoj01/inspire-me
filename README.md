@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Those who look for the bad in people will surely find it.&rdquo; &mdash; <footer>Abraham Lincoln</footer></blockquote>
+<blockquote>&ldquo;The question is not what you look at, but what you see.&rdquo; &mdash; <footer>Henry David Thoreau</footer></blockquote>
 
 </div>
