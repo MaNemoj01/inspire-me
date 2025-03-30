@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Goals are the fuel in the furnace of achievement.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
+<blockquote>&ldquo;Judgments prevent us from seeing the good that lies beyond appearances.  &rdquo; &mdash; <footer>Wayne Dyer</footer></blockquote>
 
 </div>
