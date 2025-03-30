@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Whatever is begun in anger, ends in shame.&rdquo; &mdash; <footer>Benjamin Franklin</footer></blockquote>
+<blockquote>&ldquo;Our truest life is when we are in dreams awake.&rdquo; &mdash; <footer>Henry David Thoreau</footer></blockquote>
 
 </div>
