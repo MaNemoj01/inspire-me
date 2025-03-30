@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;We can either add to our character each day, or we can fritter away our energies in distractions.&rdquo; &mdash; <footer>Ming-Dao Deng</footer></blockquote>
+<blockquote>&ldquo;I didn't get there by wishing for it or hoping for it, but by working for it.&rdquo; &mdash; <footer>Estee Lauder</footer></blockquote>
 
 </div>
