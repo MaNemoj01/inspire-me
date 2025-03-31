@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The merit of all things lies in their difficulty.&rdquo; &mdash; <footer>Alexandre Dumas</footer></blockquote>
+<blockquote>&ldquo;There are no constraints on the human mind, no walls around the human spirit, no barriers to our progress except those we ourselves erect.&rdquo; &mdash; <footer>Ronald Reagan</footer></blockquote>
 
 </div>
