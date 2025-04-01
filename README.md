@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Be willing to be a beginner every single morning.&rdquo; &mdash; <footer>Meister Eckhart</footer></blockquote>
+<blockquote>&ldquo;Learn only how to avoid seeking for and attaching yourselves to anything.&rdquo; &mdash; <footer>Huang Po</footer></blockquote>
 
 </div>
