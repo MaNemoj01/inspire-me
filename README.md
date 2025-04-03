@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Happiness is a gift and the trick is not to expect it, but to delight in it when it comes.&rdquo; &mdash; <footer>Charles Dickens</footer></blockquote>
+<blockquote>&ldquo;A wise man makes his own decisions, but an ignorant man mindlessly follows the crowd.&rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
 
 </div>
