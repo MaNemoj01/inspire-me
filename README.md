@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Goals are the fuel in the furnace of achievement.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
+<blockquote>&ldquo;The heart wants what it wants - or else it does not care.&rdquo; &mdash; <footer>Emily Dickinson</footer></blockquote>
 
 </div>
