@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The best revenge is to be unlike him who performed the injury.&rdquo; &mdash; <footer>Marcus Aurelius</footer></blockquote>
+<blockquote>&ldquo;I can never decide whether my dreams are the result of my thoughts or my thoughts the result of my dreams.&rdquo; &mdash; <footer>D. H. Lawrence</footer></blockquote>
 
 </div>
