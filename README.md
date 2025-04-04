@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Through selfless service, you will always be fruitful and find the fulfillment of your desires.&rdquo; &mdash; <footer>Bhagavad Gita</footer></blockquote>
+<blockquote>&ldquo;Every moment of happiness requires a great amount of Ignorance&rdquo; &mdash; <footer>Honore de Balzac</footer></blockquote>
 
 </div>
