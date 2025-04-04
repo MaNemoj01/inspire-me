@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Opportunity is missed by most people because it is dressed in overalls and looks like work.&rdquo; &mdash; <footer>Thomas Edison</footer></blockquote>
+<blockquote>&ldquo;One small positive thought can change your whole day.&rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>
 
 </div>
