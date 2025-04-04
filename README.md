@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;No tree, it is said, can grow to heaven unless its roots reach down to hell.&rdquo; &mdash; <footer>Carl Jung</footer></blockquote>
+<blockquote>&ldquo;No one is useless in this world who lightens the burdens of another.&rdquo; &mdash; <footer>Charles Dickens</footer></blockquote>
 
 </div>
