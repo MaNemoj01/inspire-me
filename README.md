@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Optimism is the one quality more associated with success and happiness than any other.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
+<blockquote>&ldquo;The only way to make sense out of change is to plunge into it, move with it, and join the dance.&rdquo; &mdash; <footer>Alan Watts</footer></blockquote>
 
 </div>
