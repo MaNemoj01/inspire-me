@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It is not uncommon for people to spend their whole life waiting to start living.&rdquo; &mdash; <footer>Eckhart Tolle</footer></blockquote>
+<blockquote>&ldquo;Better to die fighting for freedom than be a prisoner all the days of your life.&rdquo; &mdash; <footer>Bob Marley</footer></blockquote>
 
 </div>
