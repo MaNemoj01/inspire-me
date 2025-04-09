@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;No matter how qualified or deserving we are, we will never reach a better life until we can imagine it for ourselves and allow ourselves to have it.&rdquo; &mdash; <footer>Richard Bach</footer></blockquote>
+<blockquote>&ldquo;The real measure of your wealth is how much you'd be worth if you lost all your money.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 
 </div>
