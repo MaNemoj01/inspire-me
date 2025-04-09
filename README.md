@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Better to die fighting for freedom than be a prisoner all the days of your life.&rdquo; &mdash; <footer>Bob Marley</footer></blockquote>
+<blockquote>&ldquo;When at last you are come to the ocean of happiness, do not go back thirsty.&rdquo; &mdash; <footer>Kabir</footer></blockquote>
 
 </div>
