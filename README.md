@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;When at last you are come to the ocean of happiness, do not go back thirsty.&rdquo; &mdash; <footer>Kabir</footer></blockquote>
+<blockquote>&ldquo;Incredible change happens in your life when you decide to take control of what you do have power over instead of craving control over what you don't.&rdquo; &mdash; <footer>Steve Maraboli</footer></blockquote>
 
 </div>
