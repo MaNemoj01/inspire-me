@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Great things are not accomplished by those who yield to trends and fads and popular opinion.&rdquo; &mdash; <footer>Jack Kerouac</footer></blockquote>
+<blockquote>&ldquo;You give but little when you give of your possessions. It is when you give of yourself that you truly give.&rdquo; &mdash; <footer>Kahlil Gibran</footer></blockquote>
 
 </div>
