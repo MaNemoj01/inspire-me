@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Zen insists that the whole trouble is just our failure to realize that there is no problem.&rdquo; &mdash; <footer>Bruce Lee</footer></blockquote>
+<blockquote>&ldquo;True prayer has no set form.&rdquo; &mdash; <footer>Morihei Ueshiba</footer></blockquote>
 
 </div>
