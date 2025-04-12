@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Silence is the great teacher and to learn its lessons you must pay attention to it.&rdquo; &mdash; <footer>Deepak Chopra</footer></blockquote>
+<blockquote>&ldquo;You play the hand you're dealt. I think the game's worthwhile.  &rdquo; &mdash; <footer>Christopher Reeve</footer></blockquote>
 
 </div>
