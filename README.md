@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you see someone without a smile give them one of yours.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+<blockquote>&ldquo;Not doing it is certainly the best way to not getting it.  &rdquo; &mdash; <footer>Wayne Gretzky</footer></blockquote>
 
 </div>
