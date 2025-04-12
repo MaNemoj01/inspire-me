@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Life goes by fast. Enjoy it. Calm down. It's all funny.&rdquo; &mdash; <footer>Joan Rivers</footer></blockquote>
+<blockquote>&ldquo;You are the average of the five people you spend the most time with.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>
 
 </div>
