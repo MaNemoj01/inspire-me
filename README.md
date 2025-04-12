@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;We can choose to look at whatever we want.  We can look at what's wrong in our life or we can look at what's right.&rdquo; &mdash; <footer>Sonia Ricotti</footer></blockquote>
+<blockquote>&ldquo;Life goes by fast. Enjoy it. Calm down. It's all funny.&rdquo; &mdash; <footer>Joan Rivers</footer></blockquote>
 
 </div>
