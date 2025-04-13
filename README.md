@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Integrity is telling myself the truth. And honesty is telling the truth to other people.&rdquo; &mdash; <footer>Spencer Johnson</footer></blockquote>
+<blockquote>&ldquo;You can start changing our world for the better daily, no matter how small the action.&rdquo; &mdash; <footer>Nelson Mandela</footer></blockquote>
 
 </div>
