@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Insanity: doing the same thing over and over again and expecting different results.&rdquo; &mdash; <footer>Albert Einstein</footer></blockquote>
+<blockquote>&ldquo;Fear is what stops you. Courage is what keeps you going.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 
 </div>
