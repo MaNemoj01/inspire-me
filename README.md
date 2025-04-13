@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You can start changing our world for the better daily, no matter how small the action.&rdquo; &mdash; <footer>Nelson Mandela</footer></blockquote>
+<blockquote>&ldquo;Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. &rdquo; &mdash; <footer>Samuel Beckett</footer></blockquote>
 
 </div>
