@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;To be able to forget means sanity.&rdquo; &mdash; <footer>Jack London</footer></blockquote>
+<blockquote>&ldquo;Smell the cheese often so you know when it is getting old.&rdquo; &mdash; <footer>Spencer Johnson</footer></blockquote>
 
 </div>
