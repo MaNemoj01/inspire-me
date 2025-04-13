@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Fear is what stops you. Courage is what keeps you going.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+<blockquote>&ldquo;We can have more than we've got because we can become more than we are.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>
 
 </div>
