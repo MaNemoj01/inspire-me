@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Do not wait for leaders; do it alone, person to person.&rdquo; &mdash; <footer>Mother Teresa</footer></blockquote>
+<blockquote>&ldquo;Learn to sit back and observe, not everything needs a reaction.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 
 </div>
