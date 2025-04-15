@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Throw your heart over the fence and the rest will follow&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
+<blockquote>&ldquo;Only when one allows themself the right to die, do they then give yourself the permission to live.&rdquo; &mdash; <footer>C. Sean McGee</footer></blockquote>
 
 </div>
