@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Do what is right, not what is easy, nor what is popular.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
+<blockquote>&ldquo;Just living is not enough... one must have sunshine, freedom, and a little flower. &rdquo; &mdash; <footer>Hans Christian Andersen</footer></blockquote>
 
 </div>
