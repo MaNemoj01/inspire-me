@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Experience is a comb which nature gives us when we are bald. &rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
+<blockquote>&ldquo;Who you are is defined by what you're willing to struggle for.&rdquo; &mdash; <footer>Mark Manson</footer></blockquote>
 
 </div>
