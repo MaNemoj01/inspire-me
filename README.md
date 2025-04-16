@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Happiness is not something ready made. It comes from your own actions.&rdquo; &mdash; <footer>Dalai Lama</footer></blockquote>
+<blockquote>&ldquo;Exceptional thinkers ignore their critics and go about their business making history.&rdquo; &mdash; <footer>John Eliot</footer></blockquote>
 
 </div>
