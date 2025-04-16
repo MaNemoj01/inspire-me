@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
+<blockquote>&ldquo;Stop acting so small. You are the universe in ecstatic motion.&rdquo; &mdash; <footer>Rumi</footer></blockquote>
 
 </div>
