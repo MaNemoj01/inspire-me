@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The dream is free, but the hustle is sold separately.&rdquo; &mdash; <footer>Steve Harvey</footer></blockquote>
+<blockquote>&ldquo;You have the ability, now apply yourself.&rdquo; &mdash; <footer>Benjamin Mays</footer></blockquote>
 
 </div>
