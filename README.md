@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;I have never let my schooling interfere with my education.&rdquo; &mdash; <footer>Mark Twain</footer></blockquote>
+<blockquote>&ldquo;People have the illusion that all over the world, all the time, all kinds of fantastic things are happening.&rdquo; &mdash; <footer>David Brinkley</footer></blockquote>
 
 </div>
