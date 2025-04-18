@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You don't know who is important to you until you actually lose them.&rdquo; &mdash; <footer>Mahatma Gandhi</footer></blockquote>
+<blockquote>&ldquo;You don't need to be better than anyone else, you just need to be better than you used to be.&rdquo; &mdash; <footer>Wayne Dyer</footer></blockquote>
 
 </div>
