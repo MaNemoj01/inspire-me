@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A golden cage is still just a cage.&rdquo; &mdash; <footer>Anita Krizzan</footer></blockquote>
+<blockquote>&ldquo;Patience is bitter, but its fruit is sweet.&rdquo; &mdash; <footer>Aristotle</footer></blockquote>
 
 </div>
