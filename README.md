@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;When you say yes to change, you are choosing to navigate that path peacefully and happily and see where it takes you.&rdquo; &mdash; <footer>Sonia Ricotti</footer></blockquote>
+<blockquote>&ldquo;The foolish reject what they see, not what they think; the wise reject what they think, not what they see.&rdquo; &mdash; <footer>Huang Po</footer></blockquote>
 
 </div>
