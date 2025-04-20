@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;This is such a short and precious life that it's really important that you don't spend it being unhappy.&rdquo; &mdash; <footer>Naval Ravikant</footer></blockquote>
+<blockquote>&ldquo;No idea, no matter how good, will work if it doesn't get used.&rdquo; &mdash; <footer>Peter A. Cohen</footer></blockquote>
 
 </div>
