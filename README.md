@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you see someone without a smile give them one of yours.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+<blockquote>&ldquo;This is such a short and precious life that it's really important that you don't spend it being unhappy.&rdquo; &mdash; <footer>Naval Ravikant</footer></blockquote>
 
 </div>
