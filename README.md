@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The most courageous act is still to think for yourself. Aloud.&rdquo; &mdash; <footer>Coco Chanel</footer></blockquote>
+<blockquote>&ldquo;Everybody needs a passion. That's what keeps life interesting.&rdquo; &mdash; <footer>Betty White</footer></blockquote>
 
 </div>
