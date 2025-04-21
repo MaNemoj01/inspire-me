@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Life is ten percent what you experience and ninety percent how you respond to it.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+<blockquote>&ldquo;It is only depth of character that determines the profundity with which we face life.&rdquo; &mdash; <footer>Ming-Dao Deng</footer></blockquote>
 
 </div>
