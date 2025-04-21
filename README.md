@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You are what you believe in. You become that which you believe you can become.&rdquo; &mdash; <footer>Bhagavad Gita</footer></blockquote>
+<blockquote>&ldquo;Only I can change my life. No one can do it for me.&rdquo; &mdash; <footer>Carol Burnett</footer></blockquote>
 
 </div>
