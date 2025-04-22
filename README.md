@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;We are like islands in the sea, separate on the surface but connected in the deep.&rdquo; &mdash; <footer>William James</footer></blockquote>
+<blockquote>&ldquo;Turn the pain into power.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 
 </div>
