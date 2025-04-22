@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you're afraid - don't do it, - if you're doing it - don't be afraid! &rdquo; &mdash; <footer>Genghis Khan</footer></blockquote>
+<blockquote>&ldquo;Don't be afraid to go slowly. Be afraid of stopping.&rdquo; &mdash; <footer>Zen Proverb</footer></blockquote>
 
 </div>
