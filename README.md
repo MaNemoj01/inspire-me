@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Your life does not get better by chance, it gets better by change.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>
+<blockquote>&ldquo;The quicker you let go of old cheese, the sooner you find new cheese.&rdquo; &mdash; <footer>Spencer Johnson</footer></blockquote>
 
 </div>
