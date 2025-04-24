@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Information changes your mind. Action changes your circumstances.&rdquo; &mdash; <footer>Jack Butcher</footer></blockquote>
+<blockquote>&ldquo;Investing in yourself is the best investment you will ever make.&rdquo; &mdash; <footer>Robin Sharma</footer></blockquote>
 
 </div>
