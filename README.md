@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If he cannot stop the mind that seeks after fame and profit, he will spend his life without finding peace.&rdquo; &mdash; <footer>Dogen</footer></blockquote>
+<blockquote>&ldquo;If you don't make things happen then things will happen to you.&rdquo; &mdash; <footer>Robert Collier</footer></blockquote>
 
 </div>
