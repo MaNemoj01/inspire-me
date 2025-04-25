@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Don't stumble over something that's behind you.&rdquo; &mdash; <footer>Steve Harvey</footer></blockquote>
+<blockquote>&ldquo;I have no methods; all I do is accept people as they are.&rdquo; &mdash; <footer>Joan Rivers</footer></blockquote>
 
 </div>
