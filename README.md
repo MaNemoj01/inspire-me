@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The most important single ingredient in the formula of success is knowing how to get along with people.&rdquo; &mdash; <footer>Theodore Roosevelt</footer></blockquote>
+<blockquote>&ldquo;You can easily judge the character of a man by how he treats those who can do nothing for him.&rdquo; &mdash; <footer>Simon Sinek</footer></blockquote>
 
 </div>
