@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The important thing is not what one is born with but what use one makes of that equipment.&rdquo; &mdash; <footer>Alfred Adler</footer></blockquote>
+<blockquote>&ldquo;Most people fail in life not because they aim too high and miss, but because they aim too low and hit.&rdquo; &mdash; <footer>Les Brown</footer></blockquote>
 
 </div>
