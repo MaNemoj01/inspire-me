@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;We may not be able to stop evil in the world, but how we treat one another is entirely up to us.&rdquo; &mdash; <footer>Barack Obama</footer></blockquote>
+<blockquote>&ldquo;Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. &rdquo; &mdash; <footer>Samuel Beckett</footer></blockquote>
 
 </div>
