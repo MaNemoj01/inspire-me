@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;First learn the meaning of what you say, and then speak.&rdquo; &mdash; <footer>Epictetus</footer></blockquote>
+<blockquote>&ldquo;If you have to be in a soap opera try not to be cast in the worst role.&rdquo; &mdash; <footer>Judy Garland</footer></blockquote>
 
 </div>
