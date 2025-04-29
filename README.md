@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Your heart is the size of an ocean. Go find yourself in its hidden depths.&rdquo; &mdash; <footer>Rumi</footer></blockquote>
+<blockquote>&ldquo;I want the fishing rod, not the fish.&rdquo; &mdash; <footer>Yanni</footer></blockquote>
 
 </div>
