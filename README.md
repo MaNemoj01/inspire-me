@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You know the more one does the more one can do.&rdquo; &mdash; <footer>Amelia Earhart</footer></blockquote>
+<blockquote>&ldquo;Difficult and meaningful will always bring more satisfaction than easy and meaningless.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>
 
 </div>
