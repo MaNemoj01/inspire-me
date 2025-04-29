@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Surround yourself only with people who are going to take you higher.&rdquo; &mdash; <footer>Oprah Winfrey</footer></blockquote>
+<blockquote>&ldquo;When a man is penalized for honesty he learns to lie.&rdquo; &mdash; <footer>Criss Jami</footer></blockquote>
 
 </div>
