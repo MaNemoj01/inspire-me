@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;People inspire you, or they drain you. Pick them wisely.&rdquo; &mdash; <footer>Les Brown</footer></blockquote>
+<blockquote>&ldquo;You cannot push anyone up a ladder unless he is willing to climb a little himself.&rdquo; &mdash; <footer>Andrew Carnegie</footer></blockquote>
 
 </div>
