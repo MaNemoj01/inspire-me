@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Do not fight with pigs - you will be smeared in mud but the pig will like it.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote>
+<blockquote>&ldquo;We think too much and feel too little.&rdquo; &mdash; <footer>Charlie Chaplin</footer></blockquote>
 
 </div>
