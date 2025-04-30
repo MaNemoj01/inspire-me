@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It's your road, and yours alone, others may walk it with you, but no one can walk it for you.&rdquo; &mdash; <footer>Rumi</footer></blockquote>
+<blockquote>&ldquo;Perpetual optimism is a force multiplier.&rdquo; &mdash; <footer>Colin Powell</footer></blockquote>
 
 </div>
