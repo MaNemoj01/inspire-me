@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You purchase pain with all that joy can give and die of nothing but a rage to live.&rdquo; &mdash; <footer>Alexander Pope</footer></blockquote>
+<blockquote>&ldquo;We can't help everyone, but everyone can help someone.&rdquo; &mdash; <footer>Ronald Reagan</footer></blockquote>
 
 </div>
