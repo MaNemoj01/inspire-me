@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Give out what you most want to come back.&rdquo; &mdash; <footer>Robin Sharma</footer></blockquote>
+<blockquote>&ldquo;The more you are motivated by Love, The more Fearless & Free your action will be.&rdquo; &mdash; <footer>Dalai Lama</footer></blockquote>
 
 </div>
