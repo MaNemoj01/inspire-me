@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If someone betrays you once, it's their fault; if they betray you twice, it's your fault.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
+<blockquote>&ldquo;Have a heart that never hardens, and a temper that never tires, and a touch that never hurts.&rdquo; &mdash; <footer>Charles Dickens</footer></blockquote>
 
 </div>
