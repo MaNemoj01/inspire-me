@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Success and failure come and go, but don't let them define you. It's who you are that matters.&rdquo; &mdash; <footer>Kamal Ravikant</footer></blockquote>
+<blockquote>&ldquo;There is peace even in the storm.&rdquo; &mdash; <footer>Vincent van Gogh</footer></blockquote>
 
 </div>
