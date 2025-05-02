@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The strength of a wall is neither greater nor less than the courage of the men who defend it. &rdquo; &mdash; <footer>Genghis Khan</footer></blockquote>
+<blockquote>&ldquo;Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to focus.&rdquo; &mdash; <footer>Alexander Graham Bell</footer></blockquote>
 
 </div>
