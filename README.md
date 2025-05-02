@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Don't concern yourself with the money. Be of service. Build. Work. Dream. Create.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>
+<blockquote>&ldquo;If you are unable to find the truth right where you are, where else do you expect to find it?&rdquo; &mdash; <footer>Dogen</footer></blockquote>
 
 </div>
