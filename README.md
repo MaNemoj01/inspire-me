@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;There are three classes of people: those who see. Those who see when they are shown. Those who do not see.&rdquo; &mdash; <footer>Leonardo da Vinci</footer></blockquote>
+<blockquote>&ldquo;Fortunate are those who take the first steps.&rdquo; &mdash; <footer>Paulo Coelho</footer></blockquote>
 
 </div>
