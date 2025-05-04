@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A warrior does not give up what he loves, he finds the love in what he does.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>
+<blockquote>&ldquo;The score never interested me, only the game.&rdquo; &mdash; <footer>Mae West</footer></blockquote>
 
 </div>
