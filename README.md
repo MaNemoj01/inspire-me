@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Old age is like everything else. To make a success of it, you've got to start young.&rdquo; &mdash; <footer>Theodore Roosevelt</footer></blockquote>
+<blockquote>&ldquo;The world would go on even without you. Don't take yourself so seriously.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
 
 </div>
