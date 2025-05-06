@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The great use of life is to spend it for something that will outlast it.&rdquo; &mdash; <footer>William James</footer></blockquote>
+<blockquote>&ldquo;To be fully alive is to feel that everything is possible.&rdquo; &mdash; <footer>Eric Hoffer</footer></blockquote>
 
 </div>
