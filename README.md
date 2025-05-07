@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Remember, today is the tomorrow you worried about yesterday.&rdquo; &mdash; <footer>Dale Carnegie</footer></blockquote>
+<blockquote>&ldquo;Enjoy every minute of life. Never second-guess life.&rdquo; &mdash; <footer>Michael Jordan</footer></blockquote>
 
 </div>
