@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;In all human affairs there are efforts, and there are results, and the strength of the effort is the measure of the result.&rdquo; &mdash; <footer>James Allen</footer></blockquote>
+<blockquote>&ldquo;We learn to walk by falling down. If we never fell down, we would never walk.&rdquo; &mdash; <footer>Robert Kiyosaki</footer></blockquote>
 
 </div>
