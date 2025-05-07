@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Every saint has a past, and every sinner has a future.&rdquo; &mdash; <footer>Oscar Wilde</footer></blockquote>
+<blockquote>&ldquo;The less you try to impress, the more peaceful you can be.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>
 
 </div>
