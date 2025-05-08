@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Perfection is not attainable, but if we chase perfection we can catch excellence.&rdquo; &mdash; <footer>Vince Lombardi</footer></blockquote>
+<blockquote>&ldquo;Integrity is telling myself the truth. And honesty is telling the truth to other people.&rdquo; &mdash; <footer>Spencer Johnson</footer></blockquote>
 
 </div>
