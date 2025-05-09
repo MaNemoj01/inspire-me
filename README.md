@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Don't worry about being successful, but work toward being significant and the success will naturally follow.&rdquo; &mdash; <footer>Oprah Winfrey</footer></blockquote>
+<blockquote>&ldquo;Behind every cloud is another cloud.&rdquo; &mdash; <footer>Judy Garland</footer></blockquote>
 
 </div>
