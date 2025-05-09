@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Integrity is the ability to stand by an idea.&rdquo; &mdash; <footer>Ayn Rand</footer></blockquote>
+<blockquote>&ldquo;Night is a more quiet time to work. It aids thought.&rdquo; &mdash; <footer>Alexander Graham Bell</footer></blockquote>
 
 </div>
