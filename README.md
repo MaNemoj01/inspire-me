@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Keep your face always toward the sunshine -  shadows will fall behind you.&rdquo; &mdash; <footer>Walt Whitman</footer></blockquote>
+<blockquote>&ldquo;Integrity is the ability to stand by an idea.&rdquo; &mdash; <footer>Ayn Rand</footer></blockquote>
 
 </div>
