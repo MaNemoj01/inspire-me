@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Identify your problems, but give your power and energy to solutions.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
+<blockquote>&ldquo;The more you lose yourself in something bigger than yourself, the more energy you will have.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
 
 </div>
