@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The most tragic thing in the world is a man of genius who is not a man of honor.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote>
+<blockquote>&ldquo;Simplicity is the glory of expression.&rdquo; &mdash; <footer>Walt Whitman</footer></blockquote>
 
 </div>
