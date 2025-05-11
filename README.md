@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Wit is educated insolence.&rdquo; &mdash; <footer>Aristotle</footer></blockquote>
+<blockquote>&ldquo;Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience.&rdquo; &mdash; <footer>Denis Waitley</footer></blockquote>
 
 </div>
