@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you hang out with chickens, you're going to cluck and if you hang out with eagles, you're going to fly.&rdquo; &mdash; <footer>Steve Maraboli</footer></blockquote>
+<blockquote>&ldquo;Everything you've ever wanted is on the other side of fear.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
 
 </div>
