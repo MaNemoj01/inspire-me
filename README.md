@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The eye with which I see God is the same eye with which God sees me.&rdquo; &mdash; <footer>Meister Eckhart</footer></blockquote>
+<blockquote>&ldquo;The goal of an artist is to create the definitive work that cannot be surpassed.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote>
 
 </div>
