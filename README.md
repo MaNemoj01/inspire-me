@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A man with outward courage dares to die: a man with inner courage dares to live.&rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>
+<blockquote>&ldquo;Fallacies do not cease to be fallacies because they become fashions.&rdquo; &mdash; <footer>Gilbert Chesterton</footer></blockquote>
 
 </div>
