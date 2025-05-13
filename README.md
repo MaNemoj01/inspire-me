@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Write to help yourself, publish to help others.&rdquo; &mdash; <footer>Jack Butcher</footer></blockquote>
+<blockquote>&ldquo;A diamond is a piece of charcoal that handled stress exceptionally well.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 
 </div>
