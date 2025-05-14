@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you do not push the boundaries, you will never know where they are.&rdquo; &mdash; <footer>T.S. Eliot</footer></blockquote>
+<blockquote>&ldquo;Whenever you find yourself on the side of the majority, it is time to reform.&rdquo; &mdash; <footer>Mark Twain</footer></blockquote>
 
 </div>
