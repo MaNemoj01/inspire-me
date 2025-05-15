@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;All our dreams can come true, if we have the courage to pursue them.&rdquo; &mdash; <footer>Walt Disney</footer></blockquote>
+<blockquote>&ldquo;The only time you run out of chances is when you stop taking them.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 
 </div>
