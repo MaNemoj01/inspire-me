@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Too many of us are not living our dreams because we are living our fears.&rdquo; &mdash; <footer>Les Brown</footer></blockquote>
+<blockquote>&ldquo;There is always room in your life for thinking bigger, pushing limits and imagining the impossible.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
 
 </div>
