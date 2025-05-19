@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Would you rather live your life according to the approval of others or aligned with your truth and your dreams?&rdquo; &mdash; <footer>Robin Sharma</footer></blockquote>
+<blockquote>&ldquo;Be gentle with yourself. Think less and feel more. Be as happy as you can. You only have this moment.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>
 
 </div>
