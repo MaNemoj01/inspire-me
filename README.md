@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The measure of wisdom is how calm you are when facing any given situation.&rdquo; &mdash; <footer>Naval Ravikant</footer></blockquote>
+<blockquote>&ldquo;If you want to feel happy, do something for yourself. If you want to feel fulfilled, do something for someone else.&rdquo; &mdash; <footer>Simon Sinek</footer></blockquote>
 
 </div>
