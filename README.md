@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Never be afraid to raise your voice for honesty and truth and compassion against injustice and lying and greed.&rdquo; &mdash; <footer>William Faulkner</footer></blockquote>
+<blockquote>&ldquo;Deeds will not be less valiant because they are upraised.&rdquo; &mdash; <footer>J.R.R. Tolkien</footer></blockquote>
 
 </div>
