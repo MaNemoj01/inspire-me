@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Life is essentially an endless series of problems. The solution to one problem is merely the creation of another.&rdquo; &mdash; <footer>Mark Manson</footer></blockquote>
+<blockquote>&ldquo;All animals except man know that the principal business of life is to enjoy it.&rdquo; &mdash; <footer>Samuel Butler</footer></blockquote>
 
 </div>
