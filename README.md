@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;No one returns from a long journey the same person they were before.&rdquo; &mdash; <footer>Zen Proverb</footer></blockquote>
+<blockquote>&ldquo;Not all of us can do great things. But we can do small things with great love.&rdquo; &mdash; <footer>Mother Teresa</footer></blockquote>
 
 </div>
