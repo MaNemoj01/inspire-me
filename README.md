@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;We can choose to look at whatever we want.  We can look at what's wrong in our life or we can look at what's right.&rdquo; &mdash; <footer>Sonia Ricotti</footer></blockquote>
+<blockquote>&ldquo;Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution.&rdquo; &mdash; <footer>Kahlil Gibran</footer></blockquote>
 
 </div>
