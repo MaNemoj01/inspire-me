@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;an action committed in anger is an action doomed to failure. &rdquo; &mdash; <footer>Genghis Khan</footer></blockquote>
+<blockquote>&ldquo;Success is a consequence and must not be a goal.&rdquo; &mdash; <footer>Gustave Flaubert</footer></blockquote>
 
 </div>
