@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Before you can see the Light, you have to deal with the darkness.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>
+<blockquote>&ldquo;Change yourself and you have done your part in changing the world.&rdquo; &mdash; <footer>Paramahansa Yogananda</footer></blockquote>
 
 </div>
