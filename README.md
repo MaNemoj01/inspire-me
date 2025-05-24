@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The greatest gift that you can give to others is the gift of unconditional love and acceptance. &rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
+<blockquote>&ldquo;If the misery of the poor be caused not by the laws of nature, but by our institutions, great is our sin.&rdquo; &mdash; <footer>Charles Darwin</footer></blockquote>
 
 </div>
