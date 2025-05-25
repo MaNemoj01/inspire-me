@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The two most powerful warriors are patience and time.&rdquo; &mdash; <footer>Leo Tolstoy</footer></blockquote>
+<blockquote>&ldquo;Obstacles can't stop you. Problems can't stop you. Most of all, other people can't stop you. Only you can stop you.&rdquo; &mdash; <footer>Jeffrey Gitomer</footer></blockquote>
 
 </div>
