@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You gain strength, courage and confidence by every experience in which you really stop to look fear in the face.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
+<blockquote>&ldquo;Freedom from desire leads to inner peace.&rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>
 
 </div>
