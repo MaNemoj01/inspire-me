@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Do not try to be on the side of the majority, but live according to your inner laws.&rdquo; &mdash; <footer>Marcus Aurelius</footer></blockquote>
+<blockquote>&ldquo;When you lose your desire for things that do not matter, you will be free.&rdquo; &mdash; <footer>Morihei Ueshiba</footer></blockquote>
 
 </div>
