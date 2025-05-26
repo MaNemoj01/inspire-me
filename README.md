@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge.&rdquo; &mdash; <footer>Stephen Hawking</footer></blockquote>
+<blockquote>&ldquo;Realize deeply that the present moment is all you ever have. &rdquo; &mdash; <footer>Eckhart Tolle</footer></blockquote>
 
 </div>
