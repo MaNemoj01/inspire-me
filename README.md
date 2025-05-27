@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Everything you've ever wanted is on the other side of fear.&rdquo; &mdash; <footer>George Addair</footer></blockquote>
+<blockquote>&ldquo;You are what you believe in. You become that which you believe you can become.&rdquo; &mdash; <footer>Bhagavad Gita</footer></blockquote>
 
 </div>
