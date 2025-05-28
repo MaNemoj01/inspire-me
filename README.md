@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;I can live without money, but I cannot live without love.&rdquo; &mdash; <footer>Judy Garland</footer></blockquote>
+<blockquote>&ldquo;Little minds have little worries, big minds have no time for worries.&rdquo; &mdash; <footer>Ralph Waldo Emerson</footer></blockquote>
 
 </div>
