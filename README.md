@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The wisest men follow their own direction.&rdquo; &mdash; <footer>Euripides</footer></blockquote>
+<blockquote>&ldquo;The man who moved the mountain was the one who began carrying away the smallest stones.&rdquo; &mdash; <footer>Zen Proverb</footer></blockquote>
 
 </div>
