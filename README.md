@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Is it really possible to tell someone else what one feels?&rdquo; &mdash; <footer>Leo Tolstoy</footer></blockquote>
+<blockquote>&ldquo;Never take your position for granted and never let any favors you receive go to your head.&rdquo; &mdash; <footer>Robert Greene</footer></blockquote>
 
 </div>
