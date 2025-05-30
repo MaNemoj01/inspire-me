@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;What's obvious to you isn't obvious to most people. Operate from this perspective and you'll help more people.&rdquo; &mdash; <footer>Jack Butcher</footer></blockquote>
+<blockquote>&ldquo;Don't seek, don't search, don't ask, don't knock, don't demand - relax.&rdquo; &mdash; <footer>Osho</footer></blockquote>
 
 </div>
