@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Don't talk about what you have done or what you are going to do.&rdquo; &mdash; <footer>Thomas Jefferson</footer></blockquote>
+<blockquote>&ldquo;Anyone who reads a book with a sense of obligation does not understand the art of reading.&rdquo; &mdash; <footer>Lin Yutang</footer></blockquote>
 
 </div>
