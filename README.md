@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The face is the mirror of the mind, and eyes without speaking confess the secrets of the heart. &rdquo; &mdash; <footer>St. Jerome</footer></blockquote>
+<blockquote>&ldquo;He who knows how to wait need make no concessions.&rdquo; &mdash; <footer>Sigmund Freud</footer></blockquote>
 
 </div>
