@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;In life you need either inspiration or desperation.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
+<blockquote>&ldquo;Shoot for the moon. Even if you miss, you'll land among the stars.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
 
 </div>
