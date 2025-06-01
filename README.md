@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The best revenge is to be unlike him who performed the injury.&rdquo; &mdash; <footer>Marcus Aurelius</footer></blockquote>
+<blockquote>&ldquo;It isn't that they can't see the solution. It is that they can't see the problem.&rdquo; &mdash; <footer>Gilbert Chesterton</footer></blockquote>
 
 </div>
