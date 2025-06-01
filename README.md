@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Rest when you're weary. Refresh and renew yourself, your body, your mind, your spirit. Then get back to work.&rdquo; &mdash; <footer>Ralph Marston</footer></blockquote>
+<blockquote>&ldquo;Procrastination is attitude's natural assassin. There's nothing so fatiguing as an uncompleted task.&rdquo; &mdash; <footer>William James</footer></blockquote>
 
 </div>
