@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;To the mind that is still, the whole universe surrenders.&rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>
+<blockquote>&ldquo;Meditate. It won't be fun but it will surface what you need to deal with.&rdquo; &mdash; <footer>Naval Ravikant</footer></blockquote>
 
 </div>
