@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Meditate. It won't be fun but it will surface what you need to deal with.&rdquo; &mdash; <footer>Naval Ravikant</footer></blockquote>
+<blockquote>&ldquo;You are always your own best guru, your own best teacher, the answers are always inside you.&rdquo; &mdash; <footer>Sathya Sai Baba</footer></blockquote>
 
 </div>
