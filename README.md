@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It's not how much we give but how much love we put into giving.&rdquo; &mdash; <footer>Mother Teresa</footer></blockquote>
+<blockquote>&ldquo;If you try to get rid of fear and anger without knowing their meaning, they will grow stronger and return.&rdquo; &mdash; <footer>Deepak Chopra</footer></blockquote>
 
 </div>
