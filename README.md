@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Sometimes it is more important to discover what one cannot do, than what one can do.&rdquo; &mdash; <footer>Lin Yutang</footer></blockquote>
+<blockquote>&ldquo;Would you rather live your life according to the approval of others or aligned with your truth and your dreams?&rdquo; &mdash; <footer>Robin Sharma</footer></blockquote>
 
 </div>
