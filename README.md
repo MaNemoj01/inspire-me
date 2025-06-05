@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A real friend is one who walks in when the rest of the world walks out.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+<blockquote>&ldquo;In a world of change, the learners shall inherit the earth, while the learned shall find themselves perfectly suited for a world that no longer exists.&rdquo; &mdash; <footer>Eric Hoffer</footer></blockquote>
 
 </div>
