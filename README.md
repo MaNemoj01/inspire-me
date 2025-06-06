@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Don't stop when you're tired. Stop when you're done.&rdquo; &mdash; <footer>Marilyn Monroe</footer></blockquote>
+<blockquote>&ldquo;Is it really possible to tell someone else what one feels?&rdquo; &mdash; <footer>Leo Tolstoy</footer></blockquote>
 
 </div>
