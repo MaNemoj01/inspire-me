@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Contemplation often makes life miserable.  We should act more, think less, and stop watching ourselves live.&rdquo; &mdash; <footer>Nicolas Chamfort</footer></blockquote>
+<blockquote>&ldquo;The more you take responsibility for your past and present, the more you are able to create the future you seek.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
 
 </div>
