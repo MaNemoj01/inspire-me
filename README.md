@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;On the other side of the clouds is a bright blue sky.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+<blockquote>&ldquo;Definitions belong to the definers, not the defined.&rdquo; &mdash; <footer>Toni Morrison</footer></blockquote>
 
 </div>
