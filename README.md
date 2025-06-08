@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Fools talk, cowards are silent, wise men listen.&rdquo; &mdash; <footer>Carlos Ruiz Zafon</footer></blockquote>
+<blockquote>&ldquo;The only defense against the world is a thorough knowledge of it.&rdquo; &mdash; <footer>John Locke</footer></blockquote>
 
 </div>
