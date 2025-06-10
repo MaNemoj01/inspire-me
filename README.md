@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Time and health are two precious assets that we don't recognize and appreciate until they have been depleted. &rdquo; &mdash; <footer>Denis Waitley</footer></blockquote>
+<blockquote>&ldquo;The saddest aspect of life is that there is no one on earth whose happiness is such that he won't sometimes wish he were dead rather than alive.&rdquo; &mdash; <footer>Herodotus</footer></blockquote>
 
 </div>
