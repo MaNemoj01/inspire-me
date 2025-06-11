@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Take interest and even delight in doing the small things well.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>
+<blockquote>&ldquo;The greatest gift that you can give to others is the gift of unconditional love and acceptance. &rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
 
 </div>
