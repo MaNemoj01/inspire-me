@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A man is great not because he hasn't failed; a man is great because failure hasn't stopped him.&rdquo; &mdash; <footer>Confucius</footer></blockquote>
+<blockquote>&ldquo;Light a candle instead of cursing the darkness.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
 
 </div>
