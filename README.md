@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Change is hard at first, messy in the middle and gorgeous at the end.&rdquo; &mdash; <footer>Robin Sharma</footer></blockquote>
+<blockquote>&ldquo;You need to be doing fewer things for more effect instead of doing more things with side effects.&rdquo; &mdash; <footer>Gary Keller</footer></blockquote>
 
 </div>
