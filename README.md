@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;One mistake does not have to rule a person's entire life.&rdquo; &mdash; <footer>Joyce Meyer</footer></blockquote>
+<blockquote>&ldquo;Failure is a great teacher. If you're open to it every mistake has a lesson to offer.&rdquo; &mdash; <footer>Oprah Winfrey</footer></blockquote>
 
 </div>
