@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Be gentle with yourself. Think less and feel more. Be as happy as you can. You only have this moment.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>
+<blockquote>&ldquo;If your mind is empty, it is always ready for anything, it is open to everything.&rdquo; &mdash; <footer>Shunryu Suzuki</footer></blockquote>
 
 </div>
