@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Honor is the foundation of courage.&rdquo; &mdash; <footer>Amelia Earhart</footer></blockquote>
+<blockquote>&ldquo;Don't be afraid of missing opportunities. Behind every failure is an opportunity somebody wishes they had missed.&rdquo; &mdash; <footer>Lily Tomlin</footer></blockquote>
 
 </div>
