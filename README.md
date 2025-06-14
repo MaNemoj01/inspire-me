@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Every one of us is the sum total of his own thoughts.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>
+<blockquote>&ldquo;The secret of life is to fall seven times and to get up eight times.&rdquo; &mdash; <footer>Paulo Coelho</footer></blockquote>
 
 </div>
