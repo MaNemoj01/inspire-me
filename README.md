@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Blessed is he who expects nothing, for he shall be disappointed.&rdquo; &mdash; <footer>Jonathan Swift</footer></blockquote>
+<blockquote>&ldquo;Don't let the noise of others opinions drown out your inner voice.&rdquo; &mdash; <footer>Steve Jobs</footer></blockquote>
 
 </div>
