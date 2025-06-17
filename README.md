@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you look for perfection, you'll never be content.&rdquo; &mdash; <footer>Leo Tolstoy</footer></blockquote>
+<blockquote>&ldquo;Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives.&rdquo; &mdash; <footer>Betty White</footer></blockquote>
 
 </div>
