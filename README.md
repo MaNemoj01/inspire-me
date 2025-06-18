@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;To be happy we need something to solve. Happiness is therefore a form of action.&rdquo; &mdash; <footer>Mark Manson</footer></blockquote>
+<blockquote>&ldquo;To acquire true self power you have to feel beneath no one, be immune to criticism and be fearless.&rdquo; &mdash; <footer>Deepak Chopra</footer></blockquote>
 
 </div>
