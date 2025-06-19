@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Inner peace is when you realize that, in the end, nothing matters.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>
+<blockquote>&ldquo;Think how really precious is the time you have to spend, whether it's at work or with your family. Every minute should be enjoyed and savored.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>
 
 </div>
