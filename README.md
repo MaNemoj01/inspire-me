@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;What you resist, persists.&rdquo; &mdash; <footer>Carl Jung</footer></blockquote>
+<blockquote>&ldquo;To forget the whole world is easy; to make the whole world forget you is hard.&rdquo; &mdash; <footer>Zhuangzi</footer></blockquote>
 
 </div>
