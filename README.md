@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Great minds discuss ideas. Average minds discuss events. Small minds discuss people.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
+<blockquote>&ldquo;Shoot for the moon. Even if you miss, you'll land among the stars.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
 
 </div>
