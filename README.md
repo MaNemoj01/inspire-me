@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Why do you stay in prison when the door is so wide open?&rdquo; &mdash; <footer>Rumi</footer></blockquote>
+<blockquote>&ldquo;Common sense is not so common. &rdquo; &mdash; <footer>Voltaire</footer></blockquote>
 
 </div>
