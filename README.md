@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;All has not been said and never will be.&rdquo; &mdash; <footer>Samuel Beckett</footer></blockquote>
+<blockquote>&ldquo;Courage is resistance to fear, mastery of fear - not absence of fear.&rdquo; &mdash; <footer>Mark Twain</footer></blockquote>
 
 </div>
