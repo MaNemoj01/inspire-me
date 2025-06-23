@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Your hardest times often lead to the greatest moments of your life. Keep going. Tough situations build strong people in the end.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
+<blockquote>&ldquo;Believe in one thing too much and you have no room for new ideas.  &rdquo; &mdash; <footer>Ray Bradbury</footer></blockquote>
 
 </div>
