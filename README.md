@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;There is only one thing in the world worse than being talked about, and that is not being talked about. &rdquo; &mdash; <footer>Oscar Wilde</footer></blockquote>
+<blockquote>&ldquo;Success is not how high you have climbed, but how you make a positive difference to the world.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
 
 </div>
