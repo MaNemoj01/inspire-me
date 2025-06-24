@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;For all evils there are two remedies - time and silence.&rdquo; &mdash; <footer>Alexandre Dumas</footer></blockquote>
+<blockquote>&ldquo;My mind seems to have become a kind of machine for grinding general laws out of large collections of facts.&rdquo; &mdash; <footer>Charles Darwin</footer></blockquote>
 
 </div>
