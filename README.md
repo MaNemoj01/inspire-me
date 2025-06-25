@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Every traveler has a home of his own, and he learns to appreciate it the more from his wandering.&rdquo; &mdash; <footer>Charles Dickens</footer></blockquote>
+<blockquote>&ldquo;We ourselves feel that what we are doing is just a drop in the ocean. But the ocean would be less because of that missing drop.&rdquo; &mdash; <footer>Mother Teresa</footer></blockquote>
 
 </div>
