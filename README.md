@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You get in life what you have the courage to ask for.&rdquo; &mdash; <footer>Oprah Winfrey</footer></blockquote>
+<blockquote>&ldquo;There's a very deep connection among human beings. All we have to do is open our minds to it.&rdquo; &mdash; <footer>Yanni</footer></blockquote>
 
 </div>
