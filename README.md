@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;By perseverance the snail reached the ark.&rdquo; &mdash; <footer>Charles Spurgeon</footer></blockquote>
+<blockquote>&ldquo;When angry count to ten before you speak. If very angry, count to one hundred.&rdquo; &mdash; <footer>Thomas Jefferson</footer></blockquote>
 
 </div>
