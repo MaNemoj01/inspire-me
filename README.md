@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The most creative act you will ever undertake is the act of creating yourself.&rdquo; &mdash; <footer>Deepak Chopra</footer></blockquote>
+<blockquote>&ldquo;You cannot have a positive life and a negative mind.&rdquo; &mdash; <footer>Joyce Meyer</footer></blockquote>
 
 </div>
