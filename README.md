@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Don't wait for extraordinary opportunities. Seize common occasions and make them great.&rdquo; &mdash; <footer>Orison Swett Marden</footer></blockquote>
+<blockquote>&ldquo;Each problem has a positive side.&rdquo; &mdash; <footer>Og Mandino</footer></blockquote>
 
 </div>
