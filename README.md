@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Patience is bitter, but its fruit is sweet.&rdquo; &mdash; <footer>Aristotle</footer></blockquote>
+<blockquote>&ldquo;Be a master of change rather than a victim of change.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
 
 </div>
