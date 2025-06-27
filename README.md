@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Not all of us can do great things. But we can do small things with great love.&rdquo; &mdash; <footer>Mother Teresa</footer></blockquote>
+<blockquote>&ldquo;The world only exists in your eyes. You can make it as big or as small as you want.&rdquo; &mdash; <footer>F. Scott Fitzgerald</footer></blockquote>
 
 </div>
