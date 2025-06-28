@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;I alone cannot change the world, but I can cast a stone across the waters to create many ripples.&rdquo; &mdash; <footer>Mother Teresa</footer></blockquote>
+<blockquote>&ldquo;Be strong. Be confident. Be the star of your own life.&rdquo; &mdash; <footer>Estee Lauder</footer></blockquote>
 
 </div>
