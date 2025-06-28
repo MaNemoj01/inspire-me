@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you've made a mistake, it's better just to laugh at it.&rdquo; &mdash; <footer>Zen Proverb</footer></blockquote>
+<blockquote>&ldquo;Failure is feedback. Learn from it and move on.&rdquo; &mdash; <footer>Jack Butcher</footer></blockquote>
 
 </div>
