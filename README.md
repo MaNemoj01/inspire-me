@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A wise man makes his own decisions, but an ignorant man mindlessly follows the crowd.&rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
+<blockquote>&ldquo;If you've made a mistake, it's better just to laugh at it.&rdquo; &mdash; <footer>Zen Proverb</footer></blockquote>
 
 </div>
