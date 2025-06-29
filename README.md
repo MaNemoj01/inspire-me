@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;People do not decide their futures, they decide their habits and their habits decide their futures.&rdquo; &mdash; <footer>Gary Keller</footer></blockquote>
+<blockquote>&ldquo;Life and the simple beauty of it is too good to pass up.&rdquo; &mdash; <footer>Christopher McCandless</footer></blockquote>
 
 </div>
