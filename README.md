@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Everyone faces challenges in life. It's a matter of how you learn to overcome them and using them to your advantage.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
+<blockquote>&ldquo;Silence is sometimes the best answer.&rdquo; &mdash; <footer>Dalai Lama</footer></blockquote>
 
 </div>
