@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;We turn not older with years but newer every day.&rdquo; &mdash; <footer>Emily Dickinson</footer></blockquote>
+<blockquote>&ldquo;Everyone faces challenges in life. It's a matter of how you learn to overcome them and using them to your advantage.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
 
 </div>
