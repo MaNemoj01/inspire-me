@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Fear is stupid. So are regrets.&rdquo; &mdash; <footer>Marilyn Monroe</footer></blockquote>
+<blockquote>&ldquo;You can't make someone feel good about themselves until you feel good about yourself.&rdquo; &mdash; <footer>Robin Sharma</footer></blockquote>
 
 </div>
