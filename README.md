@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Courage is knowing what not to fear.&rdquo; &mdash; <footer>Plato</footer></blockquote>
+<blockquote>&ldquo;Our deeds determine us, as much as we determine our deeds.&rdquo; &mdash; <footer>George Eliot</footer></blockquote>
 
 </div>
