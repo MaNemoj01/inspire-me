@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Embrace the life you have and stop wishing that you could be someone else.&rdquo; &mdash; <footer>Joyce Meyer</footer></blockquote>
+<blockquote>&ldquo;Motivation is what gets you started. Habit is what keeps you going.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>
 
 </div>
