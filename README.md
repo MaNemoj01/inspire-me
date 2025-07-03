@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question.&rdquo; &mdash; <footer>John Tukey</footer></blockquote>
+<blockquote>&ldquo;Learn to value yourself, which means: fight for your happiness.&rdquo; &mdash; <footer>Ayn Rand</footer></blockquote>
 
 </div>
