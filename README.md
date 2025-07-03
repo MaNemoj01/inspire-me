@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Keep others in suspense, cultivate an air of unpredictability.&rdquo; &mdash; <footer>Robert Greene</footer></blockquote>
+<blockquote>&ldquo;Remember that the best relationship is one in which your love for each other exceeds your need for each other.&rdquo; &mdash; <footer>Dalai Lama</footer></blockquote>
 
 </div>
