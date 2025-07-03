@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;There are no shortcuts to any place worth going. &rdquo; &mdash; <footer>Beverly Sills</footer></blockquote>
+<blockquote>&ldquo;All wealth is the product of labor.&rdquo; &mdash; <footer>John Locke</footer></blockquote>
 
 </div>
