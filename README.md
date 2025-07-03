@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Quality is not an act, it is a habit.&rdquo; &mdash; <footer>Aristotle</footer></blockquote>
+<blockquote>&ldquo;We tend to live up to our expectations.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>
 
 </div>
