@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Where there's life, there's hope.&rdquo; &mdash; <footer>Stephen Hawking</footer></blockquote>
+<blockquote>&ldquo;Many a man has failed because he had his wishbone where his backbone should have been.&rdquo; &mdash; <footer>Ronald Reagan</footer></blockquote>
 
 </div>
