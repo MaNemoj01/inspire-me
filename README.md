@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Giving back involves a certain amount of giving up.&rdquo; &mdash; <footer>Colin Powell</footer></blockquote>
+<blockquote>&ldquo;Everything that is done in the world is done by hope.&rdquo; &mdash; <footer>Martin Luther</footer></blockquote>
 
 </div>
