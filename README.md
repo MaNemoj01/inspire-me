@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The right thing to do and the hard thing to do are usually the same.&rdquo; &mdash; <footer>Steve Maraboli</footer></blockquote>
+<blockquote>&ldquo;A good master leads you to the true master within. Only that master, who is your own higher self, can adequately answer all questions.&rdquo; &mdash; <footer>Ming-Dao Deng</footer></blockquote>
 
 </div>
