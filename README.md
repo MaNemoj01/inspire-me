@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It's your life-but only if you make it so.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
+<blockquote>&ldquo;The person who cannot control his words shows that he cannot control himself.&rdquo; &mdash; <footer>Robert Greene</footer></blockquote>
 
 </div>
