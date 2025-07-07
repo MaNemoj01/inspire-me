@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Anything worth doing is worth doing slowly.&rdquo; &mdash; <footer>Mae West</footer></blockquote>
+<blockquote>&ldquo;If I love myself I love you. If I love you I love myself.&rdquo; &mdash; <footer>Rumi</footer></blockquote>
 
 </div>
