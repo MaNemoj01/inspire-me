@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A clever person turns great troubles into little ones, and little ones into none at all. &rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
+<blockquote>&ldquo;Anything worth doing is worth doing slowly.&rdquo; &mdash; <footer>Mae West</footer></blockquote>
 
 </div>
