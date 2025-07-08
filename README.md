@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Man is affected not by events but by the view he takes of them.  &rdquo; &mdash; <footer>Seneca</footer></blockquote>
+<blockquote>&ldquo;If you want to change how you see your problems, you have to change what you value and/or how you measure failure/success.&rdquo; &mdash; <footer>Mark Manson</footer></blockquote>
 
 </div>
