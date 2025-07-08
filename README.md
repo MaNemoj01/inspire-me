@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you want to change how you see your problems, you have to change what you value and/or how you measure failure/success.&rdquo; &mdash; <footer>Mark Manson</footer></blockquote>
+<blockquote>&ldquo;You can have it all. You just can't have it all at once. &rdquo; &mdash; <footer>Oprah Winfrey</footer></blockquote>
 
 </div>
