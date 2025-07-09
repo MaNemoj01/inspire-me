@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Thoughts become things. If you see it in your mind, you will hold it in your hand.&rdquo; &mdash; <footer>Bob Proctor</footer></blockquote>
+<blockquote>&ldquo;If you want something you've never had you must be willing to do something you've never done.&rdquo; &mdash; <footer>Thomas Jefferson</footer></blockquote>
 
 </div>
