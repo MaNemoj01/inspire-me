@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;What the eye doesn't see and the mind doesn't know, doesn't exist.&rdquo; &mdash; <footer>D. H. Lawrence</footer></blockquote>
+<blockquote>&ldquo;Nothing makes a man broad-minded like adversity.&rdquo; &mdash; <footer>Will Rogers</footer></blockquote>
 
 </div>
