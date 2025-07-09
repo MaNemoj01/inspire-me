@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question.&rdquo; &mdash; <footer>John Tukey</footer></blockquote>
+<blockquote>&ldquo;You have as much laughter as you have faith.&rdquo; &mdash; <footer>Martin Luther</footer></blockquote>
 
 </div>
