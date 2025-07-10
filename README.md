@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Things may come to those who wait, but only the things left by those who hustle.&rdquo; &mdash; <footer>Abraham Lincoln</footer></blockquote>
+<blockquote>&ldquo;The trouble with most of us is that we'd rather be ruined by praise than saved by criticism.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
 
 </div>
