@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The trouble with most of us is that we'd rather be ruined by praise than saved by criticism.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
+<blockquote>&ldquo;Having an open mind is one of the most important qualities we can possess. Once our minds close, we stop evolving.&rdquo; &mdash; <footer>Yanni</footer></blockquote>
 
 </div>
