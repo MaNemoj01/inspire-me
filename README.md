@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Having an open mind is one of the most important qualities we can possess. Once our minds close, we stop evolving.&rdquo; &mdash; <footer>Yanni</footer></blockquote>
+<blockquote>&ldquo;Never let the fear of striking out keep you from playing the game.&rdquo; &mdash; <footer>Babe Ruth</footer></blockquote>
 
 </div>
