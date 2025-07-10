@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If there were no God, there would be no atheists.&rdquo; &mdash; <footer>Gilbert Chesterton</footer></blockquote>
+<blockquote>&ldquo;I can live without money, but I cannot live without love.&rdquo; &mdash; <footer>Judy Garland</footer></blockquote>
 
 </div>
