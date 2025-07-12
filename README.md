@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Great acts are made up of small deeds.&rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>
+<blockquote>&ldquo;Words have no power to impress the mind without the exquisite horror of their reality.&rdquo; &mdash; <footer>Edgar Allan Poe</footer></blockquote>
 
 </div>
