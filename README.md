@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Never give up work. Work gives you meaning and purpose and life is empty without it.&rdquo; &mdash; <footer>Stephen Hawking</footer></blockquote>
+<blockquote>&ldquo;Men are equal; it is not birth but virtue that makes the difference.&rdquo; &mdash; <footer>Voltaire</footer></blockquote>
 
 </div>
