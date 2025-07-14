@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Time stays long enough for anyone who will use it.&rdquo; &mdash; <footer>Leonardo da Vinci</footer></blockquote>
+<blockquote>&ldquo;Be truthful about your emotions, and use your mind and emotions in your favor, not against yourself.&rdquo; &mdash; <footer>Robert Kiyosaki</footer></blockquote>
 
 </div>
