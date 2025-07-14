@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;In the end, it's not the years in your life that count. It's the life in your years.&rdquo; &mdash; <footer>Abraham Lincoln</footer></blockquote>
+<blockquote>&ldquo;A warrior does not give up what he loves, he finds the love in what he does.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>
 
 </div>
