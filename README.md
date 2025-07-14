@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It is our experiences that mold us into who we are...during times of adversity our true character will show.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+<blockquote>&ldquo;It only takes a split second to smile and forget, yet to someone that needed it, it can last a lifetime.&rdquo; &mdash; <footer>Steve Maraboli</footer></blockquote>
 
 </div>
