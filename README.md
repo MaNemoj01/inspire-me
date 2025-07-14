@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;First learn the meaning of what you say, and then speak.&rdquo; &mdash; <footer>Epictetus</footer></blockquote>
+<blockquote>&ldquo;Freedom itself demands discomfort.&rdquo; &mdash; <footer>Mark Manson</footer></blockquote>
 
 </div>
