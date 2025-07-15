@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Singleness of purpose is one of the chief essentials for success in life, no matter what may be one's aim.&rdquo; &mdash; <footer>John D. Rockefeller</footer></blockquote>
+<blockquote>&ldquo;The most efficient way of rendering the poor harmless is to teach them to want to imitate the rich.&rdquo; &mdash; <footer>Carlos Ruiz Zafon</footer></blockquote>
 
 </div>
