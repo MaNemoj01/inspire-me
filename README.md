@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you want to find the secrets of the universe, think in terms of energy, frequency and vibration. &rdquo; &mdash; <footer>Nikola Tesla</footer></blockquote>
+<blockquote>&ldquo;You talk when you cease to be at peace with your thoughts.&rdquo; &mdash; <footer>Kahlil Gibran</footer></blockquote>
 
 </div>
