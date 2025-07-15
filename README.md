@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You talk when you cease to be at peace with your thoughts.&rdquo; &mdash; <footer>Kahlil Gibran</footer></blockquote>
+<blockquote>&ldquo;Happiness can be found, even in the darkest of times, if one only remembers to turn on the light.&rdquo; &mdash; <footer>Albus Dumbledore</footer></blockquote>
 
 </div>
