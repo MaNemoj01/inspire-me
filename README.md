@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A good character is the best tombstone. Carve your name on hearts, not on marble.&rdquo; &mdash; <footer>Charles Spurgeon</footer></blockquote>
+<blockquote>&ldquo;Go confidently in the direction of your dreams. Live the life you've imagined.&rdquo; &mdash; <footer>Arnold Schwarzenegger</footer></blockquote>
 
 </div>
