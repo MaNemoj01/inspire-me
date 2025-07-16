@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It's the little things done consistently over time, straight from your heart, that have the greatest impact.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+<blockquote>&ldquo;The most courageous act is still to think for yourself. Aloud.&rdquo; &mdash; <footer>Coco Chanel</footer></blockquote>
 
 </div>
