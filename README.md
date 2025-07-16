@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You must conceive it in your heart and mind before you can receive it. If you believe then all things are possible.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
+<blockquote>&ldquo;We live only now. Everything else is either passed or is unknown.&rdquo; &mdash; <footer>Marcus Aurelius</footer></blockquote>
 
 </div>
