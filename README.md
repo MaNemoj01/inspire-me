@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.&rdquo; &mdash; <footer>Helen Keller</footer></blockquote>
+<blockquote>&ldquo;Stop comparing yourself to others and focus on your own improvement.&rdquo; &mdash; <footer>Lolly Daskal</footer></blockquote>
 
 </div>
