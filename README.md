@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;I am not what happened to me, I am what I choose to become.&rdquo; &mdash; <footer>Carl Jung</footer></blockquote>
+<blockquote>&ldquo;It is our choices that show what we truly are, far more than our abilities.&rdquo; &mdash; <footer>Albus Dumbledore</footer></blockquote>
 
 </div>
