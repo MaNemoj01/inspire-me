@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Stop being tormented by everyone else's reaction to you.&rdquo; &mdash; <footer>Joyce Meyer</footer></blockquote>
+<blockquote>&ldquo;Only he who has no use for the empire is fit to be entrusted with it.&rdquo; &mdash; <footer>Zhuangzi</footer></blockquote>
 
 </div>
