@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Longevity is a fleeting moment that lasts forever.&rdquo; &mdash; <footer>Vidal Sassoon</footer></blockquote>
+<blockquote>&ldquo;If it entertains you now but will bore you someday, it's a distraction. Keep looking.&rdquo; &mdash; <footer>Naval Ravikant</footer></blockquote>
 
 </div>
