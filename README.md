@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Night is a more quiet time to work. It aids thought.&rdquo; &mdash; <footer>Alexander Graham Bell</footer></blockquote>
+<blockquote>&ldquo;The joy of life comes from our encounters with new experiences.&rdquo; &mdash; <footer>Christopher McCandless</footer></blockquote>
 
 </div>
