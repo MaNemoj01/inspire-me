@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Our life isn't how much we can take out, but how much we can put in.  &rdquo; &mdash; <footer>Estee Lauder</footer></blockquote>
+<blockquote>&ldquo;Never argue with stupid people, they will drag you down to their level and then beat you with experience.&rdquo; &mdash; <footer>Mark Twain</footer></blockquote>
 
 </div>
