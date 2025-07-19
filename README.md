@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Life is a question and how we live it is our answer.&rdquo; &mdash; <footer>Gary Keller</footer></blockquote>
+<blockquote>&ldquo;A man that flies from his fear may find that he has only taken a short cut to meet it.&rdquo; &mdash; <footer>J.R.R. Tolkien</footer></blockquote>
 
 </div>
