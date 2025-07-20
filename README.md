@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The river that flows in you also flows in me.&rdquo; &mdash; <footer>Kabir</footer></blockquote>
+<blockquote>&ldquo;Keep your friends close, and your enemies closer.&rdquo; &mdash; <footer>Sun Tzu</footer></blockquote>
 
 </div>
