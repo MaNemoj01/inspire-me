@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.&rdquo; &mdash; <footer>Og Mandino</footer></blockquote>
+<blockquote>&ldquo;It is under the greatest adversity that there exists the greatest potential for doing good, both for oneself and others.&rdquo; &mdash; <footer>Dalai Lama</footer></blockquote>
 
 </div>
