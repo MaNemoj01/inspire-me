@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You can have results or excuses, but not both.&rdquo; &mdash; <footer>Arnold Schwarzenegger</footer></blockquote>
+<blockquote>&ldquo;Peaceful is the one who expects nothing.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>
 
 </div>
