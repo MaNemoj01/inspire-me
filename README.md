@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;People are not disturbed by things, but by the views they take of them.&rdquo; &mdash; <footer>Epictetus</footer></blockquote>
+<blockquote>&ldquo;Be happy in the moment, that's enough. Each moment is all we need, not more.&rdquo; &mdash; <footer>Mother Teresa</footer></blockquote>
 
 </div>
