@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;No need to hurry. No need to sparkle. No need to be anybody but oneself.&rdquo; &mdash; <footer>Virginia Woolf</footer></blockquote>
+<blockquote>&ldquo;Never stand begging for that which you have the power to earn.&rdquo; &mdash; <footer>Miguel de Cervantes</footer></blockquote>
 
 </div>
