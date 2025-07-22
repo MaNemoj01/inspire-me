@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A liar knows that he is a liar, but one who speaks mere portions of truth in order to deceive is a craftsman of destruction.&rdquo; &mdash; <footer>Criss Jami</footer></blockquote>
+<blockquote>&ldquo;No need to hurry. No need to sparkle. No need to be anybody but oneself.&rdquo; &mdash; <footer>Virginia Woolf</footer></blockquote>
 
 </div>
