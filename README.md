@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but by all means, keep moving.&rdquo; &mdash; <footer>Martin Luther King, Jr.</footer></blockquote>
+<blockquote>&ldquo;The less you want, the richer you are. The more you need in order to be happy, the more miserable you'll be.&rdquo; &mdash; <footer>Yanni</footer></blockquote>
 
 </div>
