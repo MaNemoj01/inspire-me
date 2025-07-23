@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;When obstacles arise, you change your direction to reach your goal; you do not change your decision to get there.&rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>
+<blockquote>&ldquo;Every one of us is the sum total of his own thoughts.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>
 
 </div>
