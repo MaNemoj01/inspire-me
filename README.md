@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;To succeed takes more than the desire to win. It also takes the acceptance that we could fail.&rdquo; &mdash; <footer>Simon Sinek</footer></blockquote>
+<blockquote>&ldquo;Anyone who has ever made anything of importance was disciplined.&rdquo; &mdash; <footer>Andrew Hendrixson</footer></blockquote>
 
 </div>
