@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Every one of us is the sum total of his own thoughts.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>
+<blockquote>&ldquo;Start each day with a positive thought and a grateful heart.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
 
 </div>
