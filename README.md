@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Only those who do nothing at all make no mistakes.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+<blockquote>&ldquo;If we all did the things we are capable of doing, we would literally astound ourselves.&rdquo; &mdash; <footer>Thomas Edison</footer></blockquote>
 
 </div>
