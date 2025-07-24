@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The only way to 'find out if it will work out' is to do it.&rdquo; &mdash; <footer>Simon Sinek</footer></blockquote>
+<blockquote>&ldquo;Stop being a prisoner of your past. Become the architect of your future.&rdquo; &mdash; <footer>Robin Sharma</footer></blockquote>
 
 </div>
