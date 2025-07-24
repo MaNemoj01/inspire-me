@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;This is the most simple and basic component of life: our struggles determine our successes.&rdquo; &mdash; <footer>Mark Manson</footer></blockquote>
+<blockquote>&ldquo;It is well known that those who do not trust themselves never trust others.&rdquo; &mdash; <footer>Alfred Adler</footer></blockquote>
 
 </div>
