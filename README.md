@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You just can't beat the person who never gives up. &rdquo; &mdash; <footer>Babe Ruth</footer></blockquote>
+<blockquote>&ldquo;Presents are made for the pleasure of who gives them, not the merits of who receives them.&rdquo; &mdash; <footer>Carlos Ruiz Zafon</footer></blockquote>
 
 </div>
