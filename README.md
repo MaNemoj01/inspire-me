@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;There is only one thing in the world worse than being talked about, and that is not being talked about. &rdquo; &mdash; <footer>Oscar Wilde</footer></blockquote>
+<blockquote>&ldquo;To do two things at once is to do neither.&rdquo; &mdash; <footer>Publilius Syrus</footer></blockquote>
 
 </div>
