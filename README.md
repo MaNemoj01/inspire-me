@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Judge your success by what you had to give up in order to get it.&rdquo; &mdash; <footer>Dalai Lama</footer></blockquote>
+<blockquote>&ldquo;It is our experiences that mold us into who we are...during times of adversity our true character will show.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 
 </div>
