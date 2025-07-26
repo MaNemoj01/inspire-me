@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The prettiest eyes have cried the most.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+<blockquote>&ldquo;Your business is not to 'get somewhere' - it is to be here.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>
 
 </div>
