@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Your business is not to 'get somewhere' - it is to be here.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>
+<blockquote>&ldquo;If there's a definition of freedom, I think it's this: living life on your terms.&rdquo; &mdash; <footer>Kamal Ravikant</footer></blockquote>
 
 </div>
