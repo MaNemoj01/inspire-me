@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;We can change our lives. We can do, have, and be exactly what we wish.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
+<blockquote>&ldquo;A dream you dream alone is only a dream. A dream you dream together is reality.&rdquo; &mdash; <footer>Yoko Ono</footer></blockquote>
 
 </div>
