@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Problems remain as problems because people are busy defending them rather than finding solutions.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
+<blockquote>&ldquo;The soul without imagination is what an observatory would be without a telescope.&rdquo; &mdash; <footer>Henry Ward Beecher</footer></blockquote>
 
 </div>
