@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible in us be found.&rdquo; &mdash; <footer>Pema Chodron</footer></blockquote>
+<blockquote>&ldquo;All that a man achieves and all that he fails to achieve is the direct result of his own thoughts.&rdquo; &mdash; <footer>James Allen</footer></blockquote>
 
 </div>
