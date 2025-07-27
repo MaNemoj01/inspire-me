@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;We think too much and feel too little.&rdquo; &mdash; <footer>Charlie Chaplin</footer></blockquote>
+<blockquote>&ldquo;Courage is the willingness to engage in a risk-taking behavior regardless of whether the consequences are unknown or possibly adverse.&rdquo; &mdash; <footer>Alfred Adler</footer></blockquote>
 
 </div>
