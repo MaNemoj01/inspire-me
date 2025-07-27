@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Procrastination is attitude's natural assassin. There's nothing so fatiguing as an uncompleted task.&rdquo; &mdash; <footer>William James</footer></blockquote>
+<blockquote>&ldquo;Quiet people have the loudest minds.&rdquo; &mdash; <footer>Stephen King</footer></blockquote>
 
 </div>
