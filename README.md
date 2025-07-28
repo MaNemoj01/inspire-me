@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Desire for the fruits of work must never be your motive in working.&rdquo; &mdash; <footer>Bhagavad Gita</footer></blockquote>
+<blockquote>&ldquo;As long as a human being worries about when he will die, and what he has that is his, all of his works are zero.&rdquo; &mdash; <footer>Kabir</footer></blockquote>
 
 </div>
