@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Most of us live our lives by accident - we live as it happens. Fulfilment comes when we live our lives on purpose.&rdquo; &mdash; <footer>Simon Sinek</footer></blockquote>
+<blockquote>&ldquo;Every day passes whether you participate or not.&rdquo; &mdash; <footer>Ming-Dao Deng</footer></blockquote>
 
 </div>
