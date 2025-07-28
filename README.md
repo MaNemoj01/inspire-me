@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Singleness of purpose is one of the chief essentials for success in life, no matter what may be one's aim.&rdquo; &mdash; <footer>John D. Rockefeller</footer></blockquote>
+<blockquote>&ldquo;You cannot change your destination overnight but you can change your direction overnight.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>
 
 </div>
