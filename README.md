@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Understanding that rests in what it does not understand is the finest.&rdquo; &mdash; <footer>Zhuangzi</footer></blockquote>
+<blockquote>&ldquo;Do what you feel in your heart to be right - for you'll be criticized anyway.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
 
 </div>
