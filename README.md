@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Creativity is intelligence having fun.&rdquo; &mdash; <footer>Albert Einstein</footer></blockquote>
+<blockquote>&ldquo;Wisdom is the oneness of mind that guides and permeates all things.&rdquo; &mdash; <footer>Heraclitus</footer></blockquote>
 
 </div>
