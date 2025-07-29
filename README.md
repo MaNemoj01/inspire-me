@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Enthusiasm makes up for a host of deficiencies.&rdquo; &mdash; <footer>Barack Obama</footer></blockquote>
+<blockquote>&ldquo;My powers are ordinary. Only my application brings me success.&rdquo; &mdash; <footer>Isaac Newton</footer></blockquote>
 
 </div>
