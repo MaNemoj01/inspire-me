@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Always keep your eyes open. Keep watching. Because whatever you see can inspire you.&rdquo; &mdash; <footer>Grace Coddington</footer></blockquote>
+<blockquote>&ldquo;Dreams provide nourishment for the soul, just as a meal does for the body.&rdquo; &mdash; <footer>Paulo Coelho</footer></blockquote>
 
 </div>
