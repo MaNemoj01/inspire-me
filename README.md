@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Making your mark on the world is hard. If it were easy, everybody would do it.&rdquo; &mdash; <footer>Barack Obama</footer></blockquote>
+<blockquote>&ldquo;Rest in reason; move in passion.&rdquo; &mdash; <footer>Kahlil Gibran</footer></blockquote>
 
 </div>
