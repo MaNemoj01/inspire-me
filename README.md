@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Peace is not the absence of conflict, but the ability to cope with it.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+<blockquote>&ldquo;Making your mark on the world is hard. If it were easy, everybody would do it.&rdquo; &mdash; <footer>Barack Obama</footer></blockquote>
 
 </div>
