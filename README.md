@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It's easier to go down a hill than up it but the view is much better at the top.&rdquo; &mdash; <footer>Henry Ward Beecher</footer></blockquote>
+<blockquote>&ldquo;Don't spend time beating on a wall, hoping to transform it into a door.&rdquo; &mdash; <footer>Coco Chanel</footer></blockquote>
 
 </div>
