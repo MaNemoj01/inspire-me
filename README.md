@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A lie can travel half way around the world while the truth is putting on its shoes.&rdquo; &mdash; <footer>Mark Twain</footer></blockquote>
+<blockquote>&ldquo;Never close your lips to those whom you have already opened your heart.&rdquo; &mdash; <footer>Charles Dickens</footer></blockquote>
 
 </div>
