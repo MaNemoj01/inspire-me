@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;I would rather be hated for who I am than loved for who I'm not.  &rdquo; &mdash; <footer>Wayne Dyer</footer></blockquote>
+<blockquote>&ldquo;A strong man overcomes an obstacle, a wise man goes the whole way.&rdquo; &mdash; <footer>Zen Proverb</footer></blockquote>
 
 </div>
