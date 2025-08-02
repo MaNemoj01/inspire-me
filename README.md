@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Projecting your mind into a successful situation is the most powerful means to achieve goals.  &rdquo; &mdash; <footer>Estee Lauder</footer></blockquote>
+<blockquote>&ldquo;We should not look back unless it is to derive useful lessons from past errors.&rdquo; &mdash; <footer>George Washington</footer></blockquote>
 
 </div>
