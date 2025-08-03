@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Even if you persuade me, you won't persuade me.&rdquo; &mdash; <footer>Aristophanes</footer></blockquote>
+<blockquote>&ldquo;The mind that turns ever outward Will have no end to craving. Only the mind turned inward Will find a still-point of peace.&rdquo; &mdash; <footer>Ming-Dao Deng</footer></blockquote>
 
 </div>
