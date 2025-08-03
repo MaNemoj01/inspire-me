@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;To lose your temper is only useful once a year.&rdquo; &mdash; <footer>Colin R. Davis</footer></blockquote>
+<blockquote>&ldquo;The only man who never makes mistakes is the man who never does anything.&rdquo; &mdash; <footer>Theodore Roosevelt</footer></blockquote>
 
 </div>
