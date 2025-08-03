@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;When you've got nothing, you've got nothing to lose.&rdquo; &mdash; <footer>Bob Dylan</footer></blockquote>
+<blockquote>&ldquo;Without the confidence, nothing can be accomplished.&rdquo; &mdash; <footer>Sathya Sai Baba</footer></blockquote>
 
 </div>
