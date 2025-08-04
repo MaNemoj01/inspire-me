@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you can't imagine it, you can't have it.&rdquo; &mdash; <footer>Toni Morrison</footer></blockquote>
+<blockquote>&ldquo;A memory is a beautiful thing, it's almost a desire that you miss.&rdquo; &mdash; <footer>Gustave Flaubert</footer></blockquote>
 
 </div>
