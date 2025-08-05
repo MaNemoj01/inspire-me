@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;See what you're doing wrong, laugh at it, change and do better.&rdquo; &mdash; <footer>Spencer Johnson</footer></blockquote>
+<blockquote>&ldquo;He suffers more than necessary, who suffers before it is necessary.  &rdquo; &mdash; <footer>Seneca</footer></blockquote>
 
 </div>
