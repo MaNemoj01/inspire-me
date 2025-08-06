@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Fears are nothing more than a state of mind.&rdquo; &mdash; <footer>Napoleon Hill</footer></blockquote>
+<blockquote>&ldquo;Others have seen what is and asked why. I have seen what could be and asked why not&rdquo; &mdash; <footer>Pablo Picasso</footer></blockquote>
 
 </div>
