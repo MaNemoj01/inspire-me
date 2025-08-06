@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Ask no questions, and you'll be told no lies.&rdquo; &mdash; <footer>Charles Dickens</footer></blockquote>
+<blockquote>&ldquo;Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose.&rdquo; &mdash; <footer>Steve Jobs</footer></blockquote>
 
 </div>
