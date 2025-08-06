@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The only thing worse than being blind is having sight but no vision.&rdquo; &mdash; <footer>Helen Keller</footer></blockquote>
+<blockquote>&ldquo;You don't need a weatherman to know which way the wind blows.&rdquo; &mdash; <footer>Bob Dylan</footer></blockquote>
 
 </div>
