@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Life is from the inside out. When you shift on the inside, life shifts on the outside.&rdquo; &mdash; <footer>Kamal Ravikant</footer></blockquote>
+<blockquote>&ldquo;I've always tried to go a step past wherever people expected me to end up.&rdquo; &mdash; <footer>Beverly Sills</footer></blockquote>
 
 </div>
