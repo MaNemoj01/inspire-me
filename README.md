@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Shoot for the moon, because even if you miss, you'll land among the stars.&rdquo; &mdash; <footer>Les Brown</footer></blockquote>
+<blockquote>&ldquo;Character is doing what you don't want to do but know you should do.&rdquo; &mdash; <footer>Joyce Meyer</footer></blockquote>
 
 </div>
