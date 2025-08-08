@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Don't cry because it's over. Smile because it happened.&rdquo; &mdash; <footer>Dr. Seuss</footer></blockquote>
+<blockquote>&ldquo;Life is like a beautiful melody, only the lyrics are messed up.&rdquo; &mdash; <footer>Hans Christian Andersen</footer></blockquote>
 
 </div>
