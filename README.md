@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Not why the addiction but why the pain.&rdquo; &mdash; <footer>Gabor Mate</footer></blockquote>
+<blockquote>&ldquo;No duty is more urgent than that of returning thanks.&rdquo; &mdash; <footer>James Allen</footer></blockquote>
 
 </div>
