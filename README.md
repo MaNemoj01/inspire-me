@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The best mind-altering drug is the truth.&rdquo; &mdash; <footer>Lily Tomlin</footer></blockquote>
+<blockquote>&ldquo;I try more and more to be myself, caring relatively little whether people approve or disapprove.&rdquo; &mdash; <footer>Vincent van Gogh</footer></blockquote>
 
 </div>
