@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;No duty is more urgent than that of returning thanks.&rdquo; &mdash; <footer>James Allen</footer></blockquote>
+<blockquote>&ldquo;The golden opportunity you are seeking is in yourself. It is not in your environment; it is not in luck or chance, or the help of others; it is in yourself alone. &rdquo; &mdash; <footer>Orison Swett Marden</footer></blockquote>
 
 </div>
