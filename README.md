@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Change is hardest at the beginning, messiest in the middle and best at the end.&rdquo; &mdash; <footer>Robin Sharma</footer></blockquote>
+<blockquote>&ldquo;Grudges are for those who insist that they are owed something; forgiveness, however, is for those who are substantial enough to move on.&rdquo; &mdash; <footer>Criss Jami</footer></blockquote>
 
 </div>
