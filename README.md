@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A strong man overcomes an obstacle, a wise man goes the whole way.&rdquo; &mdash; <footer>Zen Proverb</footer></blockquote>
+<blockquote>&ldquo;We must have strong minds, ready to accept facts as they are.&rdquo; &mdash; <footer>Harry S. Truman</footer></blockquote>
 
 </div>
