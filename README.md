@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Your setback is just a setup for a comeback.&rdquo; &mdash; <footer>Steve Harvey</footer></blockquote>
+<blockquote>&ldquo;The only time you run out of chances is when you stop taking them.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 
 </div>
