@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Best be yourself, imperial, plain, and true.&rdquo; &mdash; <footer>Robert Browning</footer></blockquote>
+<blockquote>&ldquo;When you've got nothing, you've got nothing to lose.&rdquo; &mdash; <footer>Bob Dylan</footer></blockquote>
 
 </div>
