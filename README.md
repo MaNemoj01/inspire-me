@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The enemy is a very good teacher.&rdquo; &mdash; <footer>Dalai Lama</footer></blockquote>
+<blockquote>&ldquo;Always show more kindness than seems necessary because the person receiving it needs it more than you will ever know.&rdquo; &mdash; <footer>Colin Powell</footer></blockquote>
 
 </div>
