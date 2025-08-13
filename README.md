@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Knowledge has to be improved, challenged, and increased constantly, or it vanishes.&rdquo; &mdash; <footer>Peter Drucker</footer></blockquote>
+<blockquote>&ldquo;We suffer more often in imagination than in reality.  &rdquo; &mdash; <footer>Seneca</footer></blockquote>
 
 </div>
