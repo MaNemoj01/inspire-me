@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The best way to find yourself is to lose yourself in the service of others.&rdquo; &mdash; <footer>Mahatma Gandhi</footer></blockquote>
+<blockquote>&ldquo;Best be yourself, imperial, plain, and true.&rdquo; &mdash; <footer>Robert Browning</footer></blockquote>
 
 </div>
