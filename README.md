@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It is startling to realize how much unbelief is necessary to make belief possible.&rdquo; &mdash; <footer>Eric Hoffer</footer></blockquote>
+<blockquote>&ldquo;A hut full of laughter is richer than a palace full of sadness.&rdquo; &mdash; <footer>Zen Proverb</footer></blockquote>
 
 </div>
