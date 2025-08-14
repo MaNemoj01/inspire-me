@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A hut full of laughter is richer than a palace full of sadness.&rdquo; &mdash; <footer>Zen Proverb</footer></blockquote>
+<blockquote>&ldquo;The whole is greater than the sum of its parts.&rdquo; &mdash; <footer>Aristotle</footer></blockquote>
 
 </div>
