@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Every man is guilty of all the good he did not do. &rdquo; &mdash; <footer>Voltaire</footer></blockquote>
+<blockquote>&ldquo;When the mind is calm, how quickly, how smoothly, how beautifully you will perceive everything.&rdquo; &mdash; <footer>Paramahansa Yogananda</footer></blockquote>
 
 </div>
