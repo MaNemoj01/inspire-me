@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Avoiding danger is no safer in the long run than exposure.&rdquo; &mdash; <footer>Helen Keller</footer></blockquote>
+<blockquote>&ldquo;Life is ten percent what you experience and ninety percent how you respond to it.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 
 </div>
