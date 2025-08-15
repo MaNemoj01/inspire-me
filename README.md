@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;When we think about our strengths, we are strong. When we think about our weaknesses, we are weak.&rdquo; &mdash; <footer>Peter A. Cohen</footer></blockquote>
+<blockquote>&ldquo;You cannot swim for new horizons until you have courage to lose sight of the shore.&rdquo; &mdash; <footer>William Faulkner</footer></blockquote>
 
 </div>
