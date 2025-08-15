@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It isn't what you have or who you are or where you are or what you are doing that makes you happy or unhappy. It is what you think about it.&rdquo; &mdash; <footer>Dale Carnegie</footer></blockquote>
+<blockquote>&ldquo;The less you talk about your shame, the more of it you have.&rdquo; &mdash; <footer>Mark Manson</footer></blockquote>
 
 </div>
