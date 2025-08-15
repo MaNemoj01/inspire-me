@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Life is ten percent what you experience and ninety percent how you respond to it.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+<blockquote>&ldquo;Great thoughts speak only to the thoughtful mind, but great actions speak to all mankind.&rdquo; &mdash; <footer>Theodore Roosevelt</footer></blockquote>
 
 </div>
