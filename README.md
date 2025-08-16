@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Every drop in the ocean counts. &rdquo; &mdash; <footer>Yoko Ono</footer></blockquote>
+<blockquote>&ldquo;Learn to sit back and observe, not everything needs a reaction.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 
 </div>
