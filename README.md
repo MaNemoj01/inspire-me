@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Faith is taking the first step even when you don't see the whole staircase.&rdquo; &mdash; <footer>Martin Luther King, Jr.</footer></blockquote>
+<blockquote>&ldquo;Difficult roads often lead to beautiful destinations.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 
 </div>
