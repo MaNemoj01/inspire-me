@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Continuous effort - not strength or intelligence - is the key to unlocking our potential.&rdquo; &mdash; <footer>Winston Churchill</footer></blockquote>
+<blockquote>&ldquo;You will face many defeats in life, but never let yourself be defeated.&rdquo; &mdash; <footer>Maya Angelou</footer></blockquote>
 
 </div>
