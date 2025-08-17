@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Not all those who wander are lost.&rdquo; &mdash; <footer>J.R.R. Tolkien</footer></blockquote>
+<blockquote>&ldquo;Become the kind of leader that people would follow voluntarily, even if you had no title or position.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
 
 </div>
