@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You'll never find rainbows if you're looking down.  &rdquo; &mdash; <footer>Charlie Chaplin</footer></blockquote>
+<blockquote>&ldquo;Even if you persuade me, you won't persuade me.&rdquo; &mdash; <footer>Aristophanes</footer></blockquote>
 
 </div>
