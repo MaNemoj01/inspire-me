@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Preoccupied with a single leaf you won't see the tree.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+<blockquote>&ldquo;Enjoy every minute of life. Never second-guess life.&rdquo; &mdash; <footer>Michael Jordan</footer></blockquote>
 
 </div>
