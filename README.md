@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You're never given a dream without also being given the power to make it true.&rdquo; &mdash; <footer>Richard Bach</footer></blockquote>
+<blockquote>&ldquo;It is amazing what you can accomplish if you do not care who gets the credit.&rdquo; &mdash; <footer>Harry S. Truman</footer></blockquote>
 
 </div>
