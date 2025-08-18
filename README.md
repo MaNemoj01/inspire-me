@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A crisis is an opportunity riding the dangerous wind.&rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
+<blockquote>&ldquo;Not all readers are leaders, but all leaders are readers.&rdquo; &mdash; <footer>Harry S. Truman</footer></blockquote>
 
 </div>
