@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Reflect upon your present blessings of which every man has many - not on your past misfortunes, of which all men have some.&rdquo; &mdash; <footer>Charles Dickens</footer></blockquote>
+<blockquote>&ldquo;I try more and more to be myself, caring relatively little whether people approve or disapprove.&rdquo; &mdash; <footer>Vincent van Gogh</footer></blockquote>
 
 </div>
