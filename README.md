@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Never confuse a single defeat with a final defeat.&rdquo; &mdash; <footer>F. Scott Fitzgerald</footer></blockquote>
+<blockquote>&ldquo;Just do what must be done. This may not be happiness but it is greatness.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote>
 
 </div>
