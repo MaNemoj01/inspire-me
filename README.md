@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The past has no power over the present moment. &rdquo; &mdash; <footer>Eckhart Tolle</footer></blockquote>
+<blockquote>&ldquo;Persistence. Perfection. Patience. Power. Prioritize your passion. It keeps you sane.&rdquo; &mdash; <footer>Criss Jami</footer></blockquote>
 
 </div>
