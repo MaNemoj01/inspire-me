@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;My favorite things in life don't cost any money. It's really clear that the most precious resource we all have is time.&rdquo; &mdash; <footer>Steve Jobs</footer></blockquote>
+<blockquote>&ldquo;Take care of your body. It's the only place you have to live.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>
 
 </div>
