@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win.&rdquo; &mdash; <footer>Stephen King</footer></blockquote>
+<blockquote>&ldquo;If you want to be successful, find someone who has achieved the results you want and copy what they do and you'll achieve the same results.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
 
 </div>
