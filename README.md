@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Knowledge has to be improved, challenged, and increased constantly, or it vanishes.&rdquo; &mdash; <footer>Peter Drucker</footer></blockquote>
+<blockquote>&ldquo;Keep your eyes on the stars, but remember to keep your feet on the ground.&rdquo; &mdash; <footer>Theodore Roosevelt</footer></blockquote>
 
 </div>
