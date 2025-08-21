@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Nothing like a health problem to turn up the contrast dial for the rest of life.&rdquo; &mdash; <footer>Naval Ravikant</footer></blockquote>
+<blockquote>&ldquo;Age is a very high price to pay for maturity.&rdquo; &mdash; <footer>William James</footer></blockquote>
 
 </div>
