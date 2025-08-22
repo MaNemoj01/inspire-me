@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The greatest miracle is to be alive.&rdquo; &mdash; <footer>Thich Nhat Hanh</footer></blockquote>
+<blockquote>&ldquo;It is not titles that honour men, but men that honour titles.&rdquo; &mdash; <footer>Niccolo Machiavelli</footer></blockquote>
 
 </div>
