@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It's not how much money you make, it's how much money you keep.&rdquo; &mdash; <footer>Robert Kiyosaki</footer></blockquote>
+<blockquote>&ldquo;Emancipate yourself from mental slavery, none but ourselves can free our mind.&rdquo; &mdash; <footer>Bob Marley</footer></blockquote>
 
 </div>
