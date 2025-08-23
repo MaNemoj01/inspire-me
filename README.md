@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;By going within. Nowhere you can go is more peaceful - more free of interruptions - than your own soul.&rdquo; &mdash; <footer>Marcus Aurelius</footer></blockquote>
+<blockquote>&ldquo;If you correct your mind, the rest of your life will fall into place.&rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>
 
 </div>
