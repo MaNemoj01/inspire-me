@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Life goes by very fast. And the worst thing in life that you can have is a job that you hate, and have no energy and creativity in.&rdquo; &mdash; <footer>Robert Greene</footer></blockquote>
+<blockquote>&ldquo;One beam, no matter how big, cannot support an entire house on its own.&rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
 
 </div>
