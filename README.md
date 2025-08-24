@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Everyone must choose one of two pains: The pain of discipline or the pain of regret.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>
+<blockquote>&ldquo;Do not ignore the passion that burns in you. Spend time to discover your gift.&rdquo; &mdash; <footer>Steve Harvey</footer></blockquote>
 
 </div>
