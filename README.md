@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;All power is from within and therefore under our control.&rdquo; &mdash; <footer>Robert Collier</footer></blockquote>
+<blockquote>&ldquo;Strategy is a commodity, execution is an art.&rdquo; &mdash; <footer>Peter Drucker</footer></blockquote>
 
 </div>
