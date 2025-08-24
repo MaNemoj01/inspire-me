@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Rudeness is the weak man's imitation of strength.&rdquo; &mdash; <footer>Eric Hoffer</footer></blockquote>
+<blockquote>&ldquo;Too many of us are not living our dreams because we are living our fears.&rdquo; &mdash; <footer>Les Brown</footer></blockquote>
 
 </div>
