@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Life is about choice. You can choose to be a victim or anything else you like to be.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
+<blockquote>&ldquo;Troubles are often the tools by which God fashions us for better things.&rdquo; &mdash; <footer>Henry Ward Beecher</footer></blockquote>
 
 </div>
