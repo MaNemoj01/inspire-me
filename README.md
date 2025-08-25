@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;None of us can change our yesterdays but all of us can change our tomorrows.&rdquo; &mdash; <footer>Colin Powell</footer></blockquote>
+<blockquote>&ldquo;All men are equal before fish.&rdquo; &mdash; <footer>Herbert Hoover</footer></blockquote>
 
 </div>
