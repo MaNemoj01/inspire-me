@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Troubles are often the tools by which God fashions us for better things.&rdquo; &mdash; <footer>Henry Ward Beecher</footer></blockquote>
+<blockquote>&ldquo;The wise man reads both books and life itself.&rdquo; &mdash; <footer>Lin Yutang</footer></blockquote>
 
 </div>
