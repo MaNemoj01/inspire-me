@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Fear is what stops you. Courage is what keeps you going.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+<blockquote>&ldquo;None of us can change our yesterdays but all of us can change our tomorrows.&rdquo; &mdash; <footer>Colin Powell</footer></blockquote>
 
 </div>
