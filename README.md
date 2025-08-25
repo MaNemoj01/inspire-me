@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Talk to someone about themselves and they'll listen for hours.&rdquo; &mdash; <footer>Dale Carnegie</footer></blockquote>
+<blockquote>&ldquo;Always render more and better service than is expected of you, no matter what your task may be.&rdquo; &mdash; <footer>Og Mandino</footer></blockquote>
 
 </div>
