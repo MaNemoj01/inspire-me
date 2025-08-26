@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Always be a first-rate version of yourself, instead of a second-rate version of someone else.&rdquo; &mdash; <footer>Judy Garland</footer></blockquote>
+<blockquote>&ldquo;The greatest work that kindness does to others is that it makes them kind themselves.&rdquo; &mdash; <footer>Amelia Earhart</footer></blockquote>
 
 </div>
