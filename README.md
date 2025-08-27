@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;I am always doing that which I can not do, in order that I may learn how to do it.&rdquo; &mdash; <footer>Pablo Picasso</footer></blockquote>
+<blockquote>&ldquo;If you genuinely want something, don't wait for it - teach yourself.&rdquo; &mdash; <footer>Gurbaksh Chahal</footer></blockquote>
 
 </div>
