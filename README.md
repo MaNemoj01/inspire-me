@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;No man becomes rich unless he enriches others.&rdquo; &mdash; <footer>Andrew Carnegie</footer></blockquote>
+<blockquote>&ldquo;Don't let the fear of losing be greater than the excitement of winning.&rdquo; &mdash; <footer>Robert Kiyosaki</footer></blockquote>
 
 </div>
