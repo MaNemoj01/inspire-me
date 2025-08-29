@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The more you praise and celebrate your life, the more there is in life to celebrate. &rdquo; &mdash; <footer>Oprah Winfrey</footer></blockquote>
+<blockquote>&ldquo;To know even one life has breathed easier because you have lived. This is to have succeeded.&rdquo; &mdash; <footer>Ralph Waldo Emerson</footer></blockquote>
 
 </div>
