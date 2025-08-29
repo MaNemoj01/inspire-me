@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;To be truly positive in the eyes of some, you have to risk appearing negative in the eyes of others.&rdquo; &mdash; <footer>Criss Jami</footer></blockquote>
+<blockquote>&ldquo;Hope is not a strategy. Luck is not a factor. Fear is not an option.&rdquo; &mdash; <footer>James Cameron</footer></blockquote>
 
 </div>
