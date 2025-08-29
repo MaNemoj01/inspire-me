@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Focus is a matter of deciding what things you're not going to do.&rdquo; &mdash; <footer>John Carmack</footer></blockquote>
+<blockquote>&ldquo;Wherever you are is the entry point.&rdquo; &mdash; <footer>Kabir</footer></blockquote>
 
 </div>
