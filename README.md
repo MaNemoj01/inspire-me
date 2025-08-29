@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Hope is not a strategy. Luck is not a factor. Fear is not an option.&rdquo; &mdash; <footer>James Cameron</footer></blockquote>
+<blockquote>&ldquo;Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor.&rdquo; &mdash; <footer>Thich Nhat Hanh</footer></blockquote>
 
 </div>
