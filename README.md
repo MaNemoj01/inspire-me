@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;When you are content to be simply yourself and don't compare or compete, everybody will respect you. &rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>
+<blockquote>&ldquo;The way out is in.&rdquo; &mdash; <footer>Thich Nhat Hanh</footer></blockquote>
 
 </div>
