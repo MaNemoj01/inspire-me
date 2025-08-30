@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Definiteness of purpose is the starting point of all achievement. &rdquo; &mdash; <footer>W. Clement Stone</footer></blockquote>
+<blockquote>&ldquo;If you're not making mistakes, then you're not doing anything.&rdquo; &mdash; <footer>John Wooden</footer></blockquote>
 
 </div>
