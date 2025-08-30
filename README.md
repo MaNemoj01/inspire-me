@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Discipline yourself, and others won't need to.&rdquo; &mdash; <footer>John Wooden</footer></blockquote>
+<blockquote>&ldquo;Stop wasting time looking at someone else's reality while doing nothing about yours.&rdquo; &mdash; <footer>Steve Harvey</footer></blockquote>
 
 </div>
