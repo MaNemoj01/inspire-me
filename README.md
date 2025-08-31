@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you put water into a cup, it becomes the cup.&rdquo; &mdash; <footer>Bruce Lee</footer></blockquote>
+<blockquote>&ldquo;Be happy now, without reason - or you never will be at all.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>
 
 </div>
