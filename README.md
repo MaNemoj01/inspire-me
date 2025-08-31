@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Love doesn't need reason. It speaks from the irrational wisdom of the heart.&rdquo; &mdash; <footer>Deepak Chopra</footer></blockquote>
+<blockquote>&ldquo;Kind words can be short and easy to speak, but their echoes are truly endless.&rdquo; &mdash; <footer>Mother Teresa</footer></blockquote>
 
 </div>
