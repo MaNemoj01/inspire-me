@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;To be great is to be misunderstood.&rdquo; &mdash; <footer>Ralph Waldo Emerson</footer></blockquote>
+<blockquote>&ldquo;The unthankful heart discovers no mercies; but the thankful heart will find, in every hour, some heavenly blessings.&rdquo; &mdash; <footer>Henry Ward Beecher</footer></blockquote>
 
 </div>
