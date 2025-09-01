@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you want peace, you won't get it with violence.&rdquo; &mdash; <footer>John Lennon</footer></blockquote>
+<blockquote>&ldquo;Do you want to know who you are? Don't ask. Act! Action will delineate and define you.&rdquo; &mdash; <footer>Thomas Jefferson</footer></blockquote>
 
 </div>
