@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Treat everyone with politeness and kindness, not because they are nice, but because you are.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
+<blockquote>&ldquo;Life is one long process of getting tired.&rdquo; &mdash; <footer>Samuel Butler</footer></blockquote>
 
 </div>
