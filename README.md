@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A mistake is only an error, it becomes a mistake when you fail to correct it.&rdquo; &mdash; <footer>John Lennon</footer></blockquote>
+<blockquote>&ldquo;Magic is believing in yourself, if you can do that, you can make anything happen.&rdquo; &mdash; <footer>Johann Wolfgang von Goethe</footer></blockquote>
 
 </div>
