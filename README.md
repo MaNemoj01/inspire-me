@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A person is only by the thoughts that he chooses.&rdquo; &mdash; <footer>James Allen</footer></blockquote>
+<blockquote>&ldquo;To judge a man by his weakest link or deed is like judging the power of the ocean by one wave.&rdquo; &mdash; <footer>Elvis Presley</footer></blockquote>
 
 </div>
