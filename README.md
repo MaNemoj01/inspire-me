@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Nothing is impossible. The word itself says 'I'm possible!'&rdquo; &mdash; <footer>Audrey Hepburn</footer></blockquote>
+<blockquote>&ldquo;Do not pray for an easy life, pray for the strength to endure a difficult one.  &rdquo; &mdash; <footer>Bruce Lee</footer></blockquote>
 
 </div>
