@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The Law of Concentration states that whatever you dwell upon grows. The more you think about something, the more it becomes part of your reality.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
+<blockquote>&ldquo;Only the hand that erases can write the true thing.&rdquo; &mdash; <footer>Meister Eckhart</footer></blockquote>
 
 </div>
