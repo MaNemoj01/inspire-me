@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;There will always be suffering. But we must not suffer over the suffering.&rdquo; &mdash; <footer>Alan Watts</footer></blockquote>
+<blockquote>&ldquo;What have you done today to make someone else happy?&rdquo; &mdash; <footer>Deepam Chaterjee</footer></blockquote>
 
 </div>
