@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Employ your time in improving yourself by other men's writings, so that you shall gain easily what others have labored hard for.&rdquo; &mdash; <footer>Socrates</footer></blockquote>
+<blockquote>&ldquo;Be curious, not judgmental.&rdquo; &mdash; <footer>Walt Whitman</footer></blockquote>
 
 </div>
