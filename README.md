@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;We need a backbone, not a wishbone.&rdquo; &mdash; <footer>Joyce Meyer</footer></blockquote>
+<blockquote>&ldquo;Life is what happens to you while you're busy making other plans.&rdquo; &mdash; <footer>John Lennon</footer></blockquote>
 
 </div>
