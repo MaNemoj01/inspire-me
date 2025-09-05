@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;One's best success comes after their greatest disappointments.&rdquo; &mdash; <footer>Henry Ward Beecher</footer></blockquote>
+<blockquote>&ldquo;The greatest mistake you can make in life is to be continually fearing you will make one.&rdquo; &mdash; <footer>Elbert Hubbard</footer></blockquote>
 
 </div>
