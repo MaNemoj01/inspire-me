@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You may think I'm small, but I have a universe inside my mind.&rdquo; &mdash; <footer>Yoko Ono</footer></blockquote>
+<blockquote>&ldquo;Our greatest glory is not in never falling, but in rising every time we fall. &rdquo; &mdash; <footer>Confucius</footer></blockquote>
 
 </div>
