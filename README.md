@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Happiness depends on your mindset and attitude.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
+<blockquote>&ldquo;In youth we run into difficulties. In old age difficulties run into us. &rdquo; &mdash; <footer>Beverly Sills</footer></blockquote>
 
 </div>
