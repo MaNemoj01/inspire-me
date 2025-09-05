@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Our greatest glory is not in never falling, but in rising every time we fall. &rdquo; &mdash; <footer>Confucius</footer></blockquote>
+<blockquote>&ldquo;The secret of happiness is not in doing what you like but in liking what you have to do.&rdquo; &mdash; <footer>Sathya Sai Baba</footer></blockquote>
 
 </div>
