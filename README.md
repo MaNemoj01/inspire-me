@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Every second you have on this planet is very precious and it's your responsibility that you're happy.&rdquo; &mdash; <footer>Naval Ravikant</footer></blockquote>
+<blockquote>&ldquo;Confidence is consistency of thinking about what is possible and how to make it possible.&rdquo; &mdash; <footer>John Eliot</footer></blockquote>
 
 </div>
