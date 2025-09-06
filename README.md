@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Why fit in when you were born to stand out?&rdquo; &mdash; <footer>Dr. Seuss</footer></blockquote>
+<blockquote>&ldquo;The biggest mistake we could ever make in our lives is to think we work for anybody but ourselves.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
 
 </div>
