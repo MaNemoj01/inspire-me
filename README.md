@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Passion is energy. Feel the power that comes from focusing on what excites you. &rdquo; &mdash; <footer>Oprah Winfrey</footer></blockquote>
+<blockquote>&ldquo;Always focus on the front windshield and not the rear view mirror.&rdquo; &mdash; <footer>Colin Powell</footer></blockquote>
 
 </div>
