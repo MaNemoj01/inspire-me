@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Confidence is consistency of thinking about what is possible and how to make it possible.&rdquo; &mdash; <footer>John Eliot</footer></blockquote>
+<blockquote>&ldquo;We are all faced with a series of great opportunities brilliantly disguised as impossible situations. &rdquo; &mdash; <footer>Charles Swindoll</footer></blockquote>
 
 </div>
