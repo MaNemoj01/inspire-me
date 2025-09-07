@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;There are dark shadows on the earth, but its lights are stronger in the contrast.&rdquo; &mdash; <footer>Charles Dickens</footer></blockquote>
+<blockquote>&ldquo;Where there is anger, there is always pain underneath.&rdquo; &mdash; <footer>Eckhart Tolle</footer></blockquote>
 
 </div>
