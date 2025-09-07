@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Shoot for the moon, because even if you miss, you'll land among the stars.&rdquo; &mdash; <footer>Les Brown</footer></blockquote>
+<blockquote>&ldquo;There is no limitations except those we create for ourselves.&rdquo; &mdash; <footer>Lolly Daskal</footer></blockquote>
 
 </div>
