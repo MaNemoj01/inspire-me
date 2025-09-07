@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;What a liberation to realize that 'the voice in my head' is not who I am. Who am I then? The one who sees that.&rdquo; &mdash; <footer>Eckhart Tolle</footer></blockquote>
+<blockquote>&ldquo;Be true to yourself, help others, make each day your masterpiece&rdquo; &mdash; <footer>John Wooden</footer></blockquote>
 
 </div>
