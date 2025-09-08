@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The outer conditions of a person's life will always be found to reflect their inner beliefs.&rdquo; &mdash; <footer>James Allen</footer></blockquote>
+<blockquote>&ldquo;When everything seems to be going against you, remember that the airplane takes off against the wind, not with it. &rdquo; &mdash; <footer>Henry Ford</footer></blockquote>
 
 </div>
