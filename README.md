@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;People with clear, written goals, accomplish far more in a shorter period of time than people without them could ever imagine.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
+<blockquote>&ldquo;A person who does not read is no better than one cannot read.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>
 
 </div>
