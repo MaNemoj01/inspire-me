@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;To be fully alive is to feel that everything is possible.&rdquo; &mdash; <footer>Eric Hoffer</footer></blockquote>
+<blockquote>&ldquo;What would you do if you weren't afraid?&rdquo; &mdash; <footer>Spencer Johnson</footer></blockquote>
 
 </div>
