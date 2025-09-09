@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;From morning till night, we should never rely on a single thing.&rdquo; &mdash; <footer>Huang Po</footer></blockquote>
+<blockquote>&ldquo;When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.&rdquo; &mdash; <footer>Henry Ford</footer></blockquote>
 
 </div>
