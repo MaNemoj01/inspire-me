@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Failure will never overtake me if my determination to succeed is strong enough.&rdquo; &mdash; <footer>Og Mandino</footer></blockquote>
+<blockquote>&ldquo;Do every act of your life as if it were your last.&rdquo; &mdash; <footer>Marcus Aurelius</footer></blockquote>
 
 </div>
