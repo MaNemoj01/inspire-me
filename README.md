@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you cling to a certain thought with dynamic will power, it finally assumes a tangible outward form.&rdquo; &mdash; <footer>Paramahansa Yogananda</footer></blockquote>
+<blockquote>&ldquo;Awaken. Take heed, do not squander your life.&rdquo; &mdash; <footer>Dogen</footer></blockquote>
 
 </div>
