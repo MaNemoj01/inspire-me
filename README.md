@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;True wealth is of the heart, not of the purse.&rdquo; &mdash; <footer>Og Mandino</footer></blockquote>
+<blockquote>&ldquo;Anyone who dreams of an uncommon life eventually discovers there is no choice but to seek an uncommon approach to living it.&rdquo; &mdash; <footer>Gary Keller</footer></blockquote>
 
 </div>
