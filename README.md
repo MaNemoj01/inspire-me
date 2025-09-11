@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Whatever happened, happened for the good. Whatever is happening, is happening for the good. Whatever will happen, will also happen for the good.&rdquo; &mdash; <footer>Bhagavad Gita</footer></blockquote>
+<blockquote>&ldquo;If you want to be happy, do not dwell in the past, do not worry about the future, focus on living fully in the present.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
 
 </div>
