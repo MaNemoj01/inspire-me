@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Try to be a rainbow in someone's cloud.&rdquo; &mdash; <footer>Maya Angelou</footer></blockquote>
+<blockquote>&ldquo;The guest will judge better of a feast than the cook.&rdquo; &mdash; <footer>Aristotle</footer></blockquote>
 
 </div>
