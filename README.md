@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A fear of weakness only strengthens weakness.&rdquo; &mdash; <footer>Criss Jami</footer></blockquote>
+<blockquote>&ldquo;The real art in learning takes place as we move beyond proficiency, when our work becomes an expression of our essence.&rdquo; &mdash; <footer>Josh Waitzkin</footer></blockquote>
 
 </div>
