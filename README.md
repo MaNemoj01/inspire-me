@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The first step is to establish that something is possible; then probability will occur.&rdquo; &mdash; <footer>Elon Musk</footer></blockquote>
+<blockquote>&ldquo;There is no value in anything until it is finished. &rdquo; &mdash; <footer>Genghis Khan</footer></blockquote>
 
 </div>
