@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Do not fear failure but rather fear not trying.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
+<blockquote>&ldquo;Cry. Forgive. Learn. Move on. Let your tears water the seeds of your future happiness.&rdquo; &mdash; <footer>Steve Maraboli</footer></blockquote>
 
 </div>
