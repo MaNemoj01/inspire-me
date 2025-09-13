@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The pain of parting is nothing to the joy of meeting again.&rdquo; &mdash; <footer>Charles Dickens</footer></blockquote>
+<blockquote>&ldquo;Do not fear failure but rather fear not trying.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
 
 </div>
