@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A scientific man ought to have no wishes, no affections, - a mere heart of stone.&rdquo; &mdash; <footer>Charles Darwin</footer></blockquote>
+<blockquote>&ldquo;Death and life have their determined appointments; riches and honors depend upon heaven. &rdquo; &mdash; <footer>Confucius</footer></blockquote>
 
 </div>
