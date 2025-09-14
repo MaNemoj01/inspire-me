@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;How much pain they have cost us, the evils which have never happened.&rdquo; &mdash; <footer>Thomas Jefferson</footer></blockquote>
+<blockquote>&ldquo;If you see yourself as prosperous, you will be.&rdquo; &mdash; <footer>Robert Collier</footer></blockquote>
 
 </div>
