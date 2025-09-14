@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;There are as many opinions as there are experts.&rdquo; &mdash; <footer>Franklin D. Roosevelt</footer></blockquote>
+<blockquote>&ldquo;How much pain they have cost us, the evils which have never happened.&rdquo; &mdash; <footer>Thomas Jefferson</footer></blockquote>
 
 </div>
