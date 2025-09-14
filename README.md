@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Re-examine all that you have been told... dismiss that which insults your soul.&rdquo; &mdash; <footer>Walt Whitman</footer></blockquote>
+<blockquote>&ldquo;If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but by all means, keep moving.&rdquo; &mdash; <footer>Martin Luther King, Jr.</footer></blockquote>
 
 </div>
