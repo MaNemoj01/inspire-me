@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;When you want something in life, you just gotta reach out and grab it.&rdquo; &mdash; <footer>Christopher McCandless</footer></blockquote>
+<blockquote>&ldquo;Life is like stepping onto a boat which is about to sail out to sea and sink.&rdquo; &mdash; <footer>Shunryu Suzuki</footer></blockquote>
 
 </div>
