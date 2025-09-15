@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Happiness is a choice, not a result. Nothing will make you happy until you choose to be happy.&rdquo; &mdash; <footer>Ralph Marston</footer></blockquote>
+<blockquote>&ldquo;Men are anxious to improve their circumstances but are unwilling to improve themselves; they therefore remain bound.&rdquo; &mdash; <footer>James Allen</footer></blockquote>
 
 </div>
