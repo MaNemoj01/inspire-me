@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you believe you can, you can. If you believe you can't, then, well you can't.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
+<blockquote>&ldquo;The meaning of life is to find your gift. The purpose of life is to give it away.&rdquo; &mdash; <footer>Pablo Picasso</footer></blockquote>
 
 </div>
