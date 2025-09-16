@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A leader is one who knows the way, goes the way, and shows the way.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+<blockquote>&ldquo;Anyone who has ever made anything of importance was disciplined.&rdquo; &mdash; <footer>Andrew Hendrixson</footer></blockquote>
 
 </div>
