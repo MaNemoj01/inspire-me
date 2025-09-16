@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Heroes don't need to talk about what they did.&rdquo; &mdash; <footer>W.P. Kinsella</footer></blockquote>
+<blockquote>&ldquo;People rarely succeed unless they have fun in what they are doing.&rdquo; &mdash; <footer>Dale Carnegie</footer></blockquote>
 
 </div>
