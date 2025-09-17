@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Strive for excellence, not perfection, because we don't live in a perfect world.&rdquo; &mdash; <footer>Joyce Meyer</footer></blockquote>
+<blockquote>&ldquo;Man is made by his belief. As he believes, so he is.&rdquo; &mdash; <footer>Bhagavad Gita</footer></blockquote>
 
 </div>
