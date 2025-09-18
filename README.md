@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Have the courage to follow your heart and intuition. They somehow know what you truly want to become.&rdquo; &mdash; <footer>Steve Jobs</footer></blockquote>
+<blockquote>&ldquo;It is not how much we have, but how much we enjoy, that makes happiness.&rdquo; &mdash; <footer>Charles Spurgeon</footer></blockquote>
 
 </div>
