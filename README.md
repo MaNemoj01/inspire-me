@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously.&rdquo; &mdash; <footer>Steve Maraboli</footer></blockquote>
+<blockquote>&ldquo;The first man gets the oyster, the second man gets the shell.&rdquo; &mdash; <footer>Andrew Carnegie</footer></blockquote>
 
 </div>
