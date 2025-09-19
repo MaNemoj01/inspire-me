@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.&rdquo; &mdash; <footer>Dr. Seuss</footer></blockquote>
+<blockquote>&ldquo;You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously.&rdquo; &mdash; <footer>Steve Maraboli</footer></blockquote>
 
 </div>
