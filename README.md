@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Things may come to those who wait, but only the things left by those who hustle.&rdquo; &mdash; <footer>Abraham Lincoln</footer></blockquote>
+<blockquote>&ldquo;Your time is limited, so don't waste it living someone elses. life.&rdquo; &mdash; <footer>Steve Jobs</footer></blockquote>
 
 </div>
