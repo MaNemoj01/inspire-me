@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Giving is living. If you stop wanting to give, there's nothing more to live for.&rdquo; &mdash; <footer>Audrey Hepburn</footer></blockquote>
+<blockquote>&ldquo;Formal education will make you a living, self-education will make you a fortune.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>
 
 </div>
