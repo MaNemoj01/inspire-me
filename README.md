@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Friends ask you questions; enemies question you.&rdquo; &mdash; <footer>Criss Jami</footer></blockquote>
+<blockquote>&ldquo;Knowing is not enough, we must apply. Willing is not enough, we must do.&rdquo; &mdash; <footer>Johann Wolfgang von Goethe</footer></blockquote>
 
 </div>
