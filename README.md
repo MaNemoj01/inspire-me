@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Expect the best, plan for the worst, and prepare to be surprised. &rdquo; &mdash; <footer>Denis Waitley</footer></blockquote>
+<blockquote>&ldquo;It's the job that's never started that takes the longest to finish.&rdquo; &mdash; <footer>J.R.R. Tolkien</footer></blockquote>
 
 </div>
