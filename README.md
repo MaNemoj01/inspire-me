@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The wise learn many things from their enemies.&rdquo; &mdash; <footer>Aristophanes</footer></blockquote>
+<blockquote>&ldquo;If I can pay the bills, I'm happy.&rdquo; &mdash; <footer>Morgan Wootten</footer></blockquote>
 
 </div>
