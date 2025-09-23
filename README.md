@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;First say to yourself what you would be; and then do what you have to do.&rdquo; &mdash; <footer>Epictetus</footer></blockquote>
+<blockquote>&ldquo;You may forget with whom you laughed, but you will never forget with whom you wept.  &rdquo; &mdash; <footer>Kahlil Gibran</footer></blockquote>
 
 </div>
