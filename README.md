@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The wise accomplish all that they want without arousing the envy or scorn of others.&rdquo; &mdash; <footer>Ming-Dao Deng</footer></blockquote>
+<blockquote>&ldquo;Setting goals is the first step in turning the invisible into the visible.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
 
 </div>
