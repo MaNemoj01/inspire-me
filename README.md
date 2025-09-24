@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Make no small plans for they have no power to stir the soul.&rdquo; &mdash; <footer>Niccolo Machiavelli</footer></blockquote>
+<blockquote>&ldquo;Routine life is unbearable, and most people only think about how to escape into the world of fantasy and dreams.&rdquo; &mdash; <footer>Robert Greene</footer></blockquote>
 
 </div>
