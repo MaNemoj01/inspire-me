@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Become the kind of leader that people would follow voluntarily, even if you had no title or position.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
+<blockquote>&ldquo;You can never get enough of what you don't need to make you happy.&rdquo; &mdash; <footer>Eric Hoffer</footer></blockquote>
 
 </div>
