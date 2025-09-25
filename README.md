@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;We are all born ignorant, but one must work hard to remain stupid.&rdquo; &mdash; <footer>Benjamin Franklin</footer></blockquote>
+<blockquote>&ldquo;Have the courage to follow your heart and intuition. They somehow know what you truly want to become.&rdquo; &mdash; <footer>Steve Jobs</footer></blockquote>
 
 </div>
