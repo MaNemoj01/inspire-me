@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The beautiful journey of today can only begin when we learn to let go of yesterday.&rdquo; &mdash; <footer>Steve Maraboli</footer></blockquote>
+<blockquote>&ldquo;When something is important enough, you do it even if the odds are not in your favor.&rdquo; &mdash; <footer>Elon Musk</footer></blockquote>
 
 </div>
