@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Whether you have a problem in your life or not depends upon your own attitude, your own understanding.&rdquo; &mdash; <footer>Shunryu Suzuki</footer></blockquote>
+<blockquote>&ldquo;A rational person can find peace by cultivating indifference to things outside of their control.&rdquo; &mdash; <footer>Naval Ravikant</footer></blockquote>
 
 </div>
