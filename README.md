@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results.&rdquo; &mdash; <footer>Peter Drucker</footer></blockquote>
+<blockquote>&ldquo;The beautiful journey of today can only begin when we learn to let go of yesterday.&rdquo; &mdash; <footer>Steve Maraboli</footer></blockquote>
 
 </div>
