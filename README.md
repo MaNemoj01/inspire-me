@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A hero is an ordinary person doing things in an extra ordinary way.&rdquo; &mdash; <footer>Christopher Reeve</footer></blockquote>
+<blockquote>&ldquo;Whether you have a problem in your life or not depends upon your own attitude, your own understanding.&rdquo; &mdash; <footer>Shunryu Suzuki</footer></blockquote>
 
 </div>
