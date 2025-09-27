@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Your mind will make you rich or poor, depending on the use you put to it.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
+<blockquote>&ldquo;Nothing is more real than nothing.&rdquo; &mdash; <footer>Samuel Beckett</footer></blockquote>
 
 </div>
