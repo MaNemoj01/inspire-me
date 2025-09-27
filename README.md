@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The first half of life is devoted to forming a healthy ego, the second half is going inward and letting go of it.&rdquo; &mdash; <footer>Carl Jung</footer></blockquote>
+<blockquote>&ldquo;Even when a friend does something you do not like, he continues to be your friend. &rdquo; &mdash; <footer>Genghis Khan</footer></blockquote>
 
 </div>
