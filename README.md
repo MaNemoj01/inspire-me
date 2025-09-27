@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Everyone can rise above their circumstances and achieve success if they are dedicated to and passionate about what they do.&rdquo; &mdash; <footer>Nelson Mandela</footer></blockquote>
+<blockquote>&ldquo;Try to be a rainbow in someone's cloud.&rdquo; &mdash; <footer>Maya Angelou</footer></blockquote>
 
 </div>
