@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The energy of the mind is the essence of life.&rdquo; &mdash; <footer>Aristotle</footer></blockquote>
+<blockquote>&ldquo;The only way to 'find out if it will work out' is to do it.&rdquo; &mdash; <footer>Simon Sinek</footer></blockquote>
 
 </div>
