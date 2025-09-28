@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Success is not what you do when you are on top.  Success is how high you bounce when you hit the bottom.&rdquo; &mdash; <footer>Sonia Ricotti</footer></blockquote>
+<blockquote>&ldquo;Life can be wonderful if you're not afraid of it.&rdquo; &mdash; <footer>Charlie Chaplin</footer></blockquote>
 
 </div>
