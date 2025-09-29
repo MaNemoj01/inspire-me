@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest.&rdquo; &mdash; <footer>Seungsahn</footer></blockquote>
+<blockquote>&ldquo;The only way to 'find out if it will work out' is to do it.&rdquo; &mdash; <footer>Simon Sinek</footer></blockquote>
 
 </div>
