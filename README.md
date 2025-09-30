@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You make your own luck if you stay at it long enough.&rdquo; &mdash; <footer>Naval Ravikant</footer></blockquote>
+<blockquote>&ldquo;How people treat you is their karma; how you react is yours. &rdquo; &mdash; <footer>Wayne Dyer</footer></blockquote>
 
 </div>
