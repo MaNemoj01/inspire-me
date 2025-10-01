@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Be fascinated instead of frustrated.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>
+<blockquote>&ldquo;Do not be awe struck by other people and try to copy them. Nobody can be you as efficiently as you can.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
 
 </div>
