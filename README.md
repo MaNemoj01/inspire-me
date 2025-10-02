@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A vital part of the happiness formula is self-discipline. Whoever conquers himself knows deep happiness that fills the heart with joy.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
+<blockquote>&ldquo;Death smiles at us all. All we can do is smile back.&rdquo; &mdash; <footer>Marcus Aurelius</footer></blockquote>
 
 </div>
