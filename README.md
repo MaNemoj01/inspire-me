@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The greatest step towards a life of simplicity is to learn to let go.&rdquo; &mdash; <footer>Steve Maraboli</footer></blockquote>
+<blockquote>&ldquo;There is no limitations except those we create for ourselves.&rdquo; &mdash; <footer>Lolly Daskal</footer></blockquote>
 
 </div>
