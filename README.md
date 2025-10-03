@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Be fascinated instead of frustrated.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>
+<blockquote>&ldquo;Values are like fingerprints. Nobody's are the same, but you leave 'em all over everything you do.&rdquo; &mdash; <footer>Elvis Presley</footer></blockquote>
 
 </div>
