@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The quality of your commitments will determine the course of your life.&rdquo; &mdash; <footer>Ralph Marston</footer></blockquote>
+<blockquote>&ldquo;Take time like the river that never grows stale. Keep going and steady. No hurry, no rush.&rdquo; &mdash; <footer>Rumi</footer></blockquote>
 
 </div>
