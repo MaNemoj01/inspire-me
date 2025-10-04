@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Learning is a gift, even when pain is your teacher.&rdquo; &mdash; <footer>Michael Jordan</footer></blockquote>
+<blockquote>&ldquo;To lead an orchestra, you must turn your back on the crowd.&rdquo; &mdash; <footer>Aristotle</footer></blockquote>
 
 </div>
