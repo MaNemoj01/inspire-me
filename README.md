@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;To lead an orchestra, you must turn your back on the crowd.&rdquo; &mdash; <footer>Aristotle</footer></blockquote>
+<blockquote>&ldquo;Wealth consists not in having great possessions, but in having few wants.&rdquo; &mdash; <footer>Epictetus</footer></blockquote>
 
 </div>
