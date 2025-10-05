@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It is during our darkest moments that we must focus to see the light.&rdquo; &mdash; <footer>Aristotle</footer></blockquote>
+<blockquote>&ldquo;Things do not have meaning. We assign meaning to everything.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
 
 </div>
