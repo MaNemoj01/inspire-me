@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;We've got to live, no matter how many skies have fallen.&rdquo; &mdash; <footer>D. H. Lawrence</footer></blockquote>
+<blockquote>&ldquo;You can put lipstick on a pig. It's still a pig.&rdquo; &mdash; <footer>Barack Obama</footer></blockquote>
 
 </div>
