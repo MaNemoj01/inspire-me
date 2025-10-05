@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;I have never in my life learned anything from any man who agreed with me.&rdquo; &mdash; <footer>Dudley Field Malone</footer></blockquote>
+<blockquote>&ldquo;A man's worth is no greater than his ambitions.&rdquo; &mdash; <footer>Marcus Aurelius</footer></blockquote>
 
 </div>
