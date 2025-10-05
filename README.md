@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The only lost cause is one we give up on before we enter the struggle.&rdquo; &mdash; <footer>Vaclav Havel</footer></blockquote>
+<blockquote>&ldquo;If we have no peace, it is because we have forgotten that we belong to each other.&rdquo; &mdash; <footer>Mother Teresa</footer></blockquote>
 
 </div>
