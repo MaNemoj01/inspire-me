@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;There is a big difference between being centered and being self-centered.&rdquo; &mdash; <footer>Lolly Daskal</footer></blockquote>
+<blockquote>&ldquo;The wise warrior avoids the battle.&rdquo; &mdash; <footer>Sun Tzu</footer></blockquote>
 
 </div>
