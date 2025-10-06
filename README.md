@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Follow the man who seeks the truth; run from the man who has found it.&rdquo; &mdash; <footer>Vaclav Havel</footer></blockquote>
+<blockquote>&ldquo;Unless you're ashamed of yourself now and then, you're not honest.&rdquo; &mdash; <footer>William Faulkner</footer></blockquote>
 
 </div>
