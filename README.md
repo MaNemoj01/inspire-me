@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Anxiety is the dizziness of freedom.&rdquo; &mdash; <footer>Soren Kierkegaard</footer></blockquote>
+<blockquote>&ldquo;Hope is a waking dream.&rdquo; &mdash; <footer>Aristotle</footer></blockquote>
 
 </div>
