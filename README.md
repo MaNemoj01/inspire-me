@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Live your life and forget your age.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
+<blockquote>&ldquo;No man becomes rich unless he enriches others.&rdquo; &mdash; <footer>Andrew Carnegie</footer></blockquote>
 
 </div>
