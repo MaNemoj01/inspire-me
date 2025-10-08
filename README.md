@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;For all evils there are two remedies - time and silence.&rdquo; &mdash; <footer>Alexandre Dumas</footer></blockquote>
+<blockquote>&ldquo;The quieter you become, the more you are able to hear.&rdquo; &mdash; <footer>Rumi</footer></blockquote>
 
 </div>
