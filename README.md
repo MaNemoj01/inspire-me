@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Don't gain the world and lose your soul. Wisdom is better than silver and gold.&rdquo; &mdash; <footer>Bob Marley</footer></blockquote>
+<blockquote>&ldquo;If you want something new, you have to stop doing something old.&rdquo; &mdash; <footer>Peter Drucker</footer></blockquote>
 
 </div>
