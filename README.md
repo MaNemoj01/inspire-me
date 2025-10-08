@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Our greatest glory is not in never falling but in rising every time we fall.&rdquo; &mdash; <footer>Confucius</footer></blockquote>
+<blockquote>&ldquo;When you're at the end of your rope, tie a knot and hold on.&rdquo; &mdash; <footer>Theodore Roosevelt</footer></blockquote>
 
 </div>
