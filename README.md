@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Perpetual optimism is a force multiplier.&rdquo; &mdash; <footer>Colin Powell</footer></blockquote>
+<blockquote>&ldquo;Success is getting what you want. Happiness is wanting what you get.&rdquo; &mdash; <footer>Andrew Carnegie</footer></blockquote>
 
 </div>
