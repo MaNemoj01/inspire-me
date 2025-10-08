@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Happiness is when what you think, what you say, and what you do are in harmony.&rdquo; &mdash; <footer>Mahatma Gandhi</footer></blockquote>
+<blockquote>&ldquo;For all evils there are two remedies - time and silence.&rdquo; &mdash; <footer>Alexandre Dumas</footer></blockquote>
 
 </div>
