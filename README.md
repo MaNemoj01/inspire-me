@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;To be in harmony with the wholeness of things is not to have anxiety over imperfections.&rdquo; &mdash; <footer>Dogen</footer></blockquote>
+<blockquote>&ldquo;The greatest value of a picture is when it forces us to notice what we never expected to see.&rdquo; &mdash; <footer>John Tukey</footer></blockquote>
 
 </div>
