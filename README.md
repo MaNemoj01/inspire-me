@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If there is a book that you want to read, but it hasn't been written yet, then you must write it.&rdquo; &mdash; <footer>Toni Morrison</footer></blockquote>
+<blockquote>&ldquo;Don't waste time on excuses. Just get it done.&rdquo; &mdash; <footer>Ralph Marston</footer></blockquote>
 
 </div>
