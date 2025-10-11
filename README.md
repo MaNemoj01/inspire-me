@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
+<blockquote>&ldquo;The opposite of courage in our society is not cowardice... it is conformity.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>
 
 </div>
