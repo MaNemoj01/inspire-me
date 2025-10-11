@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Stress happens when the mind resists what is.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>
+<blockquote>&ldquo;The ego wants to go fast. The soul needs to go slow.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>
 
 </div>
