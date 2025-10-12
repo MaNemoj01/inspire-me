@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The more you are grateful for what you have the more you will have to be grateful for.  &rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>
+<blockquote>&ldquo;Catch, then, O catch the transient hour; Improve each moment as it flies! &rdquo; &mdash; <footer>St. Jerome</footer></blockquote>
 
 </div>
