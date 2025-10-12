@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;One must be poor to know the luxury of giving.&rdquo; &mdash; <footer>George Eliot</footer></blockquote>
+<blockquote>&ldquo;Don't seek, don't avoid, don't expect. Take what comes and be happy.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>
 
 </div>
