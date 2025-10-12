@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Life is not a problem to be solved, but a reality to be experienced.&rdquo; &mdash; <footer>Soren Kierkegaard</footer></blockquote>
+<blockquote>&ldquo;People acting together as a group can accomplish things which no individual acting alone could ever hope to bring about.&rdquo; &mdash; <footer>Franklin D. Roosevelt</footer></blockquote>
 
 </div>
