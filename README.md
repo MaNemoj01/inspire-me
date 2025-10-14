@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The way to love anything is to realize that it may be lost.&rdquo; &mdash; <footer>Gilbert Chesterton</footer></blockquote>
+<blockquote>&ldquo;I have not failed. I've just found 10,000 ways that won't work.&rdquo; &mdash; <footer>Thomas Edison</footer></blockquote>
 
 </div>
