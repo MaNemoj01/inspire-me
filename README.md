@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Showing off is the fool's idea of glory. &rdquo; &mdash; <footer>Bruce Lee</footer></blockquote>
+<blockquote>&ldquo;Everything eaten is killed. Every meal is a sacrifice.&rdquo; &mdash; <footer>Adi Da Samraj</footer></blockquote>
 
 </div>
