@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;We're responsible for everything that happens to us.&rdquo; &mdash; <footer>Yanni</footer></blockquote>
+<blockquote>&ldquo;What is planted in each person's soul will sprout.  &rdquo; &mdash; <footer>Rumi</footer></blockquote>
 
 </div>
