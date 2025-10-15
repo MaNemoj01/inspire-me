@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Do the difficult things while they are easy and do the great things while they are small.&rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>
+<blockquote>&ldquo;May you live all the days of your life.&rdquo; &mdash; <footer>Jonathan Swift</footer></blockquote>
 
 </div>
