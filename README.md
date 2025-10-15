@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It is better to change an opinion than to persist in a wrong one.&rdquo; &mdash; <footer>Socrates</footer></blockquote>
+<blockquote>&ldquo;We know nothing of tomorrow, our business is to be good and happy today.&rdquo; &mdash; <footer>Sydney Smith</footer></blockquote>
 
 </div>
