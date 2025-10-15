@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;By the practice of meditation, you will find that you are carrying within your heart a portable paradise.&rdquo; &mdash; <footer>Paramahansa Yogananda</footer></blockquote>
+<blockquote>&ldquo;Always do your best. What you plant now, you will harvest later.&rdquo; &mdash; <footer>Og Mandino</footer></blockquote>
 
 </div>
