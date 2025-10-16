@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Make your mind your own business.&rdquo; &mdash; <footer>Jack Butcher</footer></blockquote>
+<blockquote>&ldquo;When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.&rdquo; &mdash; <footer>Henry Ford</footer></blockquote>
 
 </div>
