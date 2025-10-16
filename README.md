@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Only those who will risk going too far can possibly find out how far one can go.&rdquo; &mdash; <footer>T.S. Eliot</footer></blockquote>
+<blockquote>&ldquo;There are more people who wish to be loved than there are who are willing to love. &rdquo; &mdash; <footer>Nicolas Chamfort</footer></blockquote>
 
 </div>
