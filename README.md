@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;There is no truth. There is only perception.&rdquo; &mdash; <footer>Gustave Flaubert</footer></blockquote>
+<blockquote>&ldquo;The very essence of instinct is that it's followed independently of reason.&rdquo; &mdash; <footer>Charles Darwin</footer></blockquote>
 
 </div>
