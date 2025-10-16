@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A mentor is someone who sees more talent and ability within you, than you see in yourself, and helps bring it out of you.&rdquo; &mdash; <footer>Bob Proctor</footer></blockquote>
+<blockquote>&ldquo;The most important thing in life is to stop saying 'I wish' and start saying 'I will'. Consider nothing impossible, then treat possibilities as probabilities.&rdquo; &mdash; <footer>Charles Dickens</footer></blockquote>
 
 </div>
