@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A good stance and posture reflect a proper state of mind.&rdquo; &mdash; <footer>Morihei Ueshiba</footer></blockquote>
+<blockquote>&ldquo;The first rule of handling conflict is don't hang around people who are constantly engaging in conflict.&rdquo; &mdash; <footer>Naval Ravikant</footer></blockquote>
 
 </div>
