@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You cannot swim for new horizons until you have courage to lose sight of the shore.&rdquo; &mdash; <footer>William Faulkner</footer></blockquote>
+<blockquote>&ldquo;Don't gain the world and lose your soul. Wisdom is better than silver and gold.&rdquo; &mdash; <footer>Bob Marley</footer></blockquote>
 
 </div>
