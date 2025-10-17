@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You have as much laughter as you have faith.&rdquo; &mdash; <footer>Martin Luther</footer></blockquote>
+<blockquote>&ldquo;It is difficult to free fools from the chains they revere. &rdquo; &mdash; <footer>Voltaire</footer></blockquote>
 
 </div>
