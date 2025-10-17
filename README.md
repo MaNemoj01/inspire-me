@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If light is in your heart, you will find your way home.  &rdquo; &mdash; <footer>Rumi</footer></blockquote>
+<blockquote>&ldquo;I begin with an idea and then it becomes something else.&rdquo; &mdash; <footer>Pablo Picasso</footer></blockquote>
 
 </div>
