@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Wealth consists not in having great possessions, but in having few wants.&rdquo; &mdash; <footer>Epictetus</footer></blockquote>
+<blockquote>&ldquo;I learned the value of hard work by working hard. &rdquo; &mdash; <footer>Margaret Mead</footer></blockquote>
 
 </div>
