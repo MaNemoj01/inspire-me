@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The greatest of empires, is the empire over one's self.&rdquo; &mdash; <footer>Publilius Syrus</footer></blockquote>
+<blockquote>&ldquo;We would accomplish many more things if we did not think of them as impossible.&rdquo; &mdash; <footer>Vince Lombardi</footer></blockquote>
 
 </div>
