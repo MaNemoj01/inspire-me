@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If we know how to adapt, we end up being superior.&rdquo; &mdash; <footer>Ming-Dao Deng</footer></blockquote>
+<blockquote>&ldquo;A self that goes on changing is a self that goes on living.&rdquo; &mdash; <footer>Virginia Woolf</footer></blockquote>
 
 </div>
