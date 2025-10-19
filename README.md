@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A self that goes on changing is a self that goes on living.&rdquo; &mdash; <footer>Virginia Woolf</footer></blockquote>
+<blockquote>&ldquo;It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose.&rdquo; &mdash; <footer>Ming-Dao Deng</footer></blockquote>
 
 </div>
