@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose.&rdquo; &mdash; <footer>Ming-Dao Deng</footer></blockquote>
+<blockquote>&ldquo;Many people spend more time looking at their failures than focusing on their successes.&rdquo; &mdash; <footer>Lolly Daskal</footer></blockquote>
 
 </div>
