@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It's not what you pay a man, but what he costs you that counts.&rdquo; &mdash; <footer>Will Rogers</footer></blockquote>
+<blockquote>&ldquo;There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world.&rdquo; &mdash; <footer>Henry Ward Beecher</footer></blockquote>
 
 </div>
