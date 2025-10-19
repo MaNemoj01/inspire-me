@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It's not what you say out of your mouth that determines your life, it's what you whisper to yourself that has the most power!&rdquo; &mdash; <footer>Robert Kiyosaki</footer></blockquote>
+<blockquote>&ldquo;Everybody needs a passion. That's what keeps life interesting.&rdquo; &mdash; <footer>Betty White</footer></blockquote>
 
 </div>
