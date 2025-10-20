@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Men go to far greater lengths to avoid what they fear than to obtain what they desire.&rdquo; &mdash; <footer>Dan Brown</footer></blockquote>
+<blockquote>&ldquo;The only lost cause is one we give up on before we enter the struggle.&rdquo; &mdash; <footer>Vaclav Havel</footer></blockquote>
 
 </div>
