@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You purchase pain with all that joy can give and die of nothing but a rage to live.&rdquo; &mdash; <footer>Alexander Pope</footer></blockquote>
+<blockquote>&ldquo;There are only two ways to live your life. One is as if nothing is a miracle. The other is as if everything is a miracle.&rdquo; &mdash; <footer>Albert Einstein</footer></blockquote>
 
 </div>
