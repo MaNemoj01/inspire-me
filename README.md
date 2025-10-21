@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Turn the pain into power.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+<blockquote>&ldquo;Do not wait for leaders; do it alone, person to person.&rdquo; &mdash; <footer>Mother Teresa</footer></blockquote>
 
 </div>
