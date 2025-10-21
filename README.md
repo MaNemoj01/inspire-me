@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Life is about not knowing and then doing something anyway.&rdquo; &mdash; <footer>Mark Manson</footer></blockquote>
+<blockquote>&ldquo;Be who you are and say what you feel because those who mind don't matter and those who matter don't mind.&rdquo; &mdash; <footer>Dr. Seuss</footer></blockquote>
 
 </div>
