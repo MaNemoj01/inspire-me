@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You can often change your circumstances by changing your attitude.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
+<blockquote>&ldquo;I don't walk away from things that I think are unfinished.&rdquo; &mdash; <footer>Arnold Schwarzenegger</footer></blockquote>
 
 </div>
