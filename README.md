@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The first step is to establish that something is possible; then probability will occur.&rdquo; &mdash; <footer>Elon Musk</footer></blockquote>
+<blockquote>&ldquo;Older men declare war. But it is youth that must fight and die.&rdquo; &mdash; <footer>Herbert Hoover</footer></blockquote>
 
 </div>
