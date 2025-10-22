@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;At the center of your being you have the answer; you know who you are and you know what you want.&rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>
+<blockquote>&ldquo;Failure means you've now learned another valuable lesson that pushes you one step closer to success.&rdquo; &mdash; <footer>Steve Harvey</footer></blockquote>
 
 </div>
