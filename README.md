@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Success is liking yourself, liking what you do, and liking how you do it.&rdquo; &mdash; <footer>Maya Angelou</footer></blockquote>
+<blockquote>&ldquo;Man invented language to satisfy his deep need to complain.&rdquo; &mdash; <footer>Lily Tomlin</footer></blockquote>
 
 </div>
