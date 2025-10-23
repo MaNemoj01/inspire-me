@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Dreams are the royal road to the unconscious. &rdquo; &mdash; <footer>Sigmund Freud</footer></blockquote>
+<blockquote>&ldquo;No man can get rich himself unless he enriches others.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>
 
 </div>
