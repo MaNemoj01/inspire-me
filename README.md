@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;an action committed in anger is an action doomed to failure. &rdquo; &mdash; <footer>Genghis Khan</footer></blockquote>
+<blockquote>&ldquo;Work out your own salvation. Do not depend on others.&rdquo; &mdash; <footer>Buddha</footer></blockquote>
 
 </div>
