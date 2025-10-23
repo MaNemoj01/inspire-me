@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Riches don't make a man rich, they only make him busier.&rdquo; &mdash; <footer>Christopher Columbus</footer></blockquote>
+<blockquote>&ldquo;Happiness cannot be traveled to, owned, earned, worn or consumed.&rdquo; &mdash; <footer>Denis Waitley</footer></blockquote>
 
 </div>
