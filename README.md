@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;All wealth is the product of labor.&rdquo; &mdash; <footer>John Locke</footer></blockquote>
+<blockquote>&ldquo;If you don't like something change it; if you can't change it, change the way you think about it.&rdquo; &mdash; <footer>Mary Engelbreit</footer></blockquote>
 
 </div>
