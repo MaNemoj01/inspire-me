@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Do not pray for an easy life, pray for the strength to endure a difficult one.  &rdquo; &mdash; <footer>Bruce Lee</footer></blockquote>
+<blockquote>&ldquo;You talk when you cease to be at peace with your thoughts.&rdquo; &mdash; <footer>Kahlil Gibran</footer></blockquote>
 
 </div>
