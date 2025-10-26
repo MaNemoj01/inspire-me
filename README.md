@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You cannot teach a crab to walk straight.&rdquo; &mdash; <footer>Aristophanes</footer></blockquote>
+<blockquote>&ldquo;Many roads lead to the path, but basically there are only two: reason and practice. &rdquo; &mdash; <footer>Bodhidharma</footer></blockquote>
 
 </div>
