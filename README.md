@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;We learn by pushing ourselves and finding what really lies at the outer reaches of our abilities.&rdquo; &mdash; <footer>Josh Waitzkin</footer></blockquote>
+<blockquote>&ldquo;We are all here for some special reason.&rdquo; &mdash; <footer>Robin Sharma</footer></blockquote>
 
 </div>
