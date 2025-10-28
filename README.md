@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The man who moved the mountain was the one who began carrying away the smallest stones.&rdquo; &mdash; <footer>Zen Proverb</footer></blockquote>
+<blockquote>&ldquo;If you can't argue both sides, you can't argue.&rdquo; &mdash; <footer>Jack Butcher</footer></blockquote>
 
 </div>
