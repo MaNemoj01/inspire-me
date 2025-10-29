@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It's the job that's never started that takes the longest to finish.&rdquo; &mdash; <footer>J.R.R. Tolkien</footer></blockquote>
+<blockquote>&ldquo;The world is changed by your example, not by your opinion.&rdquo; &mdash; <footer>Paulo Coelho</footer></blockquote>
 
 </div>
