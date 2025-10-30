@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It doesn't matter how slow you go, as long as you don't stop.&rdquo; &mdash; <footer>Confucius</footer></blockquote>
+<blockquote>&ldquo;Fear can hold you prisoner. Hope can set you free.&rdquo; &mdash; <footer>Stephen King</footer></blockquote>
 
 </div>
