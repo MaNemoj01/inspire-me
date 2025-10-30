@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;When you're curious, you find lots of interesting things to do.&rdquo; &mdash; <footer>Walt Disney</footer></blockquote>
+<blockquote>&ldquo;The only thing more frustrating than slanderers is those foolish enough to listen to them.&rdquo; &mdash; <footer>Criss Jami</footer></blockquote>
 
 </div>
