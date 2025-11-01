@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Our deeds determine us, as much as we determine our deeds.&rdquo; &mdash; <footer>George Eliot</footer></blockquote>
+<blockquote>&ldquo;Have the fearless attitude of a hero and the loving heart of a child.&rdquo; &mdash; <footer>Soyen Shaku</footer></blockquote>
 
 </div>
