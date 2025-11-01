@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Watch what you say, and whatever you say, practice it.&rdquo; &mdash; <footer>Soyen Shaku</footer></blockquote>
+<blockquote>&ldquo;A wise man will be master of his mind, a fool will be its slave.&rdquo; &mdash; <footer>Publilius Syrus</footer></blockquote>
 
 </div>
