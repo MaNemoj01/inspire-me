@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You Create Your Own Present By What You Give Your Attention To Today.&rdquo; &mdash; <footer>Spencer Johnson</footer></blockquote>
+<blockquote>&ldquo;The greatest deception men suffer is from their own opinions.&rdquo; &mdash; <footer>Leonardo da Vinci</footer></blockquote>
 
 </div>
