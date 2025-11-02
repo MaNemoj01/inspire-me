@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Most of us live our lives by accident - we live as it happens. Fulfilment comes when we live our lives on purpose.&rdquo; &mdash; <footer>Simon Sinek</footer></blockquote>
+<blockquote>&ldquo;I like the dreams of the future better than the history of the past.&rdquo; &mdash; <footer>Thomas Jefferson</footer></blockquote>
 
 </div>
