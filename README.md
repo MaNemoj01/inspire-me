@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Every man desires to live long, but no man wishes to be old.&rdquo; &mdash; <footer>Jonathan Swift</footer></blockquote>
+<blockquote>&ldquo;Friendship is one of the most tangible things in a world which offers fewer and fewer supports.&rdquo; &mdash; <footer>Kenneth Branagh</footer></blockquote>
 
 </div>
