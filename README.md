@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The only limits in your life are those that you set yourself.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
+<blockquote>&ldquo;Logic is like the sword - those who appeal to it shall perish by it.&rdquo; &mdash; <footer>Samuel Butler</footer></blockquote>
 
 </div>
