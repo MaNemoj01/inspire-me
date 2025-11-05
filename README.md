@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Many people will walk in and out of your life, but only true friends will leave footprints in your heart.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
+<blockquote>&ldquo;We have a duty to maintain the light of consciousness to make sure it continues into the future.&rdquo; &mdash; <footer>Elon Musk</footer></blockquote>
 
 </div>
