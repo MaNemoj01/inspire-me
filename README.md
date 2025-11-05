@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;What people need and what they want may be very different.&rdquo; &mdash; <footer>Elbert Hubbard</footer></blockquote>
+<blockquote>&ldquo;Life is a constant series of opportunities.&rdquo; &mdash; <footer>Ming-Dao Deng</footer></blockquote>
 
 </div>
