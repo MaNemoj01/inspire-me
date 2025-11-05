@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Whether you think you can or think you can't – you are right.&rdquo; &mdash; <footer>Henry Ford</footer></blockquote>
+<blockquote>&ldquo;It is not titles that honour men, but men that honour titles.&rdquo; &mdash; <footer>Niccolo Machiavelli</footer></blockquote>
 
 </div>
