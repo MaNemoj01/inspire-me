@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It is not enough to win a war; it is more important to organize the peace.&rdquo; &mdash; <footer>Aristotle</footer></blockquote>
+<blockquote>&ldquo;The future is not a gift. It is an achievement.&rdquo; &mdash; <footer>Robert F. Kennedy</footer></blockquote>
 
 </div>
