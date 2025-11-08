@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Confidence is the greatest friend.&rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>
+<blockquote>&ldquo;I don't ever give up. I'd have to be dead or completely incapacitated.&rdquo; &mdash; <footer>Elon Musk</footer></blockquote>
 
 </div>
