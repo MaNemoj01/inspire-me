@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Everyone thinks of changing the world, but no one thinks of changing himself.&rdquo; &mdash; <footer>Leo Tolstoy</footer></blockquote>
+<blockquote>&ldquo;The wise accomplish all that they want without arousing the envy or scorn of others.&rdquo; &mdash; <footer>Ming-Dao Deng</footer></blockquote>
 
 </div>
