@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The Art of Peace begins with you.&rdquo; &mdash; <footer>Morihei Ueshiba</footer></blockquote>
+<blockquote>&ldquo;Your happiness is what truly matters most. Do what you have to do in order to be happy.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
 
 </div>
