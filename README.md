@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;He suffers more than necessary, who suffers before it is necessary.  &rdquo; &mdash; <footer>Seneca</footer></blockquote>
+<blockquote>&ldquo;Life is ten percent what you experience and ninety percent how you respond to it.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 
 </div>
