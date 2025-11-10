@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Respect was invented to cover the empty place where love should be.&rdquo; &mdash; <footer>Leo Tolstoy</footer></blockquote>
+<blockquote>&ldquo;We have to live life with a sense of urgency so not a minute is wasted.&rdquo; &mdash; <footer>Les Brown</footer></blockquote>
 
 </div>
