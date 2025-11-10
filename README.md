@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;All that we see or seem is but a dream within a dream.&rdquo; &mdash; <footer>Edgar Allan Poe</footer></blockquote>
+<blockquote>&ldquo;If you read a lot of books, you're considered well-read. But if you watch a lot of TV, you're not considered well-viewed.&rdquo; &mdash; <footer>Lily Tomlin</footer></blockquote>
 
 </div>
