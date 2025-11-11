@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;He who possesses most must be most afraid of loss.&rdquo; &mdash; <footer>Leonardo da Vinci</footer></blockquote>
+<blockquote>&ldquo;Observe things as they are and don't pay attention to other people.&rdquo; &mdash; <footer>Huang Po</footer></blockquote>
 
 </div>
