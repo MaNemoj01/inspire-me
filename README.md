@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;All life is an experiment. The more experiments you make, the better.&rdquo; &mdash; <footer>Ralph Waldo Emerson</footer></blockquote>
+<blockquote>&ldquo;You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes.&rdquo; &mdash; <footer>A.A. Milne</footer></blockquote>
 
 </div>
