@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Animals don't hate, and we're supposed to be better than them.&rdquo; &mdash; <footer>Elvis Presley</footer></blockquote>
+<blockquote>&ldquo;It is indeed a radical act of love just to sit down and be quiet for a time by yourself.&rdquo; &mdash; <footer>Jon Kabat-Zinn</footer></blockquote>
 
 </div>
