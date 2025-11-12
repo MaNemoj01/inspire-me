@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;I've always tried to go a step past wherever people expected me to end up.&rdquo; &mdash; <footer>Beverly Sills</footer></blockquote>
+<blockquote>&ldquo;Don't live the same year 75 times and call it a life.&rdquo; &mdash; <footer>Robin Sharma</footer></blockquote>
 
 </div>
