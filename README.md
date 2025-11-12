@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Growing up is losing some illusions, in order to acquire others.&rdquo; &mdash; <footer>Virginia Woolf</footer></blockquote>
+<blockquote>&ldquo;The greatest miracle is to be alive.&rdquo; &mdash; <footer>Thich Nhat Hanh</footer></blockquote>
 
 </div>
