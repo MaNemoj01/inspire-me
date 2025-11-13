@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The day is for honest men, the night for thieves.&rdquo; &mdash; <footer>Euripides</footer></blockquote>
+<blockquote>&ldquo;The more one judges, the less one loves.&rdquo; &mdash; <footer>Honore de Balzac</footer></blockquote>
 
 </div>
