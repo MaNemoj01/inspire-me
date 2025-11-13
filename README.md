@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If light is in your heart, you will find your way home.  &rdquo; &mdash; <footer>Rumi</footer></blockquote>
+<blockquote>&ldquo;If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest.&rdquo; &mdash; <footer>Seungsahn</footer></blockquote>
 
 </div>
