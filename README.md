@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Listen to what you know instead of what you fear.&rdquo; &mdash; <footer>Richard Bach</footer></blockquote>
+<blockquote>&ldquo;When one does not have what one wants, one must want what one has.&rdquo; &mdash; <footer>Sigmund Freud</footer></blockquote>
 
 </div>
