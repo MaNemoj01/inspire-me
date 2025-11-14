@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If we will be quiet and ready enough, we shall find compensation in every disappointment.&rdquo; &mdash; <footer>Henry David Thoreau</footer></blockquote>
+<blockquote>&ldquo;He who is not contented with what he has, would not be contented with what he would like to have.&rdquo; &mdash; <footer>Socrates</footer></blockquote>
 
 </div>
