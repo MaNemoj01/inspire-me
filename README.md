@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Everything that irritates us about others.&rdquo; &mdash; <footer>Carl Jung</footer></blockquote>
+<blockquote>&ldquo;Deeds will not be less valiant because they are upraised.&rdquo; &mdash; <footer>J.R.R. Tolkien</footer></blockquote>
 
 </div>
