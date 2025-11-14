@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;An intelligence test sometimes shows a man how smart he would have been not to have taken it.&rdquo; &mdash; <footer>Laurence J. Peter</footer></blockquote>
+<blockquote>&ldquo;Listen to what you know instead of what you fear.&rdquo; &mdash; <footer>Richard Bach</footer></blockquote>
 
 </div>
