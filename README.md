@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;There are two ways of seeing: with the body and with the soul. The body's sight can sometimes forget, but the soul remembers forever.&rdquo; &mdash; <footer>Alexandre Dumas</footer></blockquote>
+<blockquote>&ldquo;Getting over a painful experience is much like crossing monkey bars. You have to let go at some point in order to move forward.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 
 </div>
