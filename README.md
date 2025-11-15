@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Most people dabble their way through life, never deciding to master anything in particular.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
+<blockquote>&ldquo;The difference between winning and losing is most often not quitting.&rdquo; &mdash; <footer>Walt Disney</footer></blockquote>
 
 </div>
