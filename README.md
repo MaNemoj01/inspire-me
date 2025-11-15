@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The art of being happy lies in the power of extracting happiness from common things.&rdquo; &mdash; <footer>Henry Ward Beecher</footer></blockquote>
+<blockquote>&ldquo;Never to suffer would never to have been blessed.&rdquo; &mdash; <footer>Edgar Allan Poe</footer></blockquote>
 
 </div>
