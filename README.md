@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;He who permits himself to tell a lie once, finds it much easier to do it the second time.&rdquo; &mdash; <footer>Thomas Jefferson</footer></blockquote>
+<blockquote>&ldquo;Only when I fall do I get up again.&rdquo; &mdash; <footer>Vincent van Gogh</footer></blockquote>
 
 </div>
