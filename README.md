@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Love is not about possession. Love is about appreciation.&rdquo; &mdash; <footer>Osho</footer></blockquote>
+<blockquote>&ldquo;No matter how tall the mountain is, it cannot block the sun.&rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
 
 </div>
