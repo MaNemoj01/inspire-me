@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Life can only be understood backwards; but it must be lived forwards.&rdquo; &mdash; <footer>Soren Kierkegaard</footer></blockquote>
+<blockquote>&ldquo;Victims recite problems, leaders provide solutions.&rdquo; &mdash; <footer>Robin Sharma</footer></blockquote>
 
 </div>
