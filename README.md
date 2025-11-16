@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It's the job that's never started that takes the longest to finish.&rdquo; &mdash; <footer>J.R.R. Tolkien</footer></blockquote>
+<blockquote>&ldquo;Do not ignore the passion that burns in you. Spend time to discover your gift.&rdquo; &mdash; <footer>Steve Harvey</footer></blockquote>
 
 </div>
