@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Do not ignore your gift. Your gift is the thing you do the absolute best with the least amount of effort.&rdquo; &mdash; <footer>Steve Harvey</footer></blockquote>
+<blockquote>&ldquo;If you don't know, the thing to do is not to get scared, but to learn.&rdquo; &mdash; <footer>Ayn Rand</footer></blockquote>
 
 </div>
