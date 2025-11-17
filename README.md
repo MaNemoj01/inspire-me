@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Don't criticize what you can't understand. &rdquo; &mdash; <footer>Bob Dylan</footer></blockquote>
+<blockquote>&ldquo;Being in a good frame of mind helps keep one in the picture of health.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 
 </div>
