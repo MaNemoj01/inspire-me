@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Being in a good frame of mind helps keep one in the picture of health.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+<blockquote>&ldquo;Have a vision, trust yourself, break some rules, ignore the naysayers, don't be afraid to fail.&rdquo; &mdash; <footer>Arnold Schwarzenegger</footer></blockquote>
 
 </div>
