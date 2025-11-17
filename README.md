@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Greatness lies not in being strong, but in the right use of strength.&rdquo; &mdash; <footer>Henry Ward Beecher</footer></blockquote>
+<blockquote>&ldquo;In the beginner's mind there are many possibilities, but in the expert's mind there are few.&rdquo; &mdash; <footer>Shunryu Suzuki</footer></blockquote>
 
 </div>
