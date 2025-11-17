@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Circumstances do not make the man, they reveal him.&rdquo; &mdash; <footer>James Allen</footer></blockquote>
+<blockquote>&ldquo;If you don't break your ropes while you're alive, do you think ghosts will do it after?&rdquo; &mdash; <footer>Kabir</footer></blockquote>
 
 </div>
