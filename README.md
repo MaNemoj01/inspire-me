@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Enthusiasm makes up for a host of deficiencies.&rdquo; &mdash; <footer>Barack Obama</footer></blockquote>
+<blockquote>&ldquo;The chief enemy of creativity is good sense.&rdquo; &mdash; <footer>Pablo Picasso</footer></blockquote>
 
 </div>
