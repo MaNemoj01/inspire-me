@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Inspire yourself to be great. Being good isn't good enough.&rdquo; &mdash; <footer>Gurbaksh Chahal</footer></blockquote>
+<blockquote>&ldquo;If you find you are not valued and appreciated, then shift your attention to places where you will be valued and appreciated.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
 
 </div>
