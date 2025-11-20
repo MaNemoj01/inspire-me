@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;At the end of the day, let there be no excuses, no explanations, no regrets.&rdquo; &mdash; <footer>Steve Maraboli</footer></blockquote>
+<blockquote>&ldquo;Do not stop thinking of life as an adventure.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
 
 </div>
