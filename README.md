@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The only way round is through.&rdquo; &mdash; <footer>Robert Frost</footer></blockquote>
+<blockquote>&ldquo;At the end of the day, let there be no excuses, no explanations, no regrets.&rdquo; &mdash; <footer>Steve Maraboli</footer></blockquote>
 
 </div>
