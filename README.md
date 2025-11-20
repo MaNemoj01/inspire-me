@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You have a brain and mind of your own. Use it, and reach your own decisions.&rdquo; &mdash; <footer>Napoleon Hill</footer></blockquote>
+<blockquote>&ldquo;Whatever we plant in our subconscious mind and nourish with repetition and emotion will one day become reality.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>
 
 </div>
