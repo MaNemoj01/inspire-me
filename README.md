@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;There is an essence of when you are fearless, you become more creative.&rdquo; &mdash; <footer>Gurbaksh Chahal</footer></blockquote>
+<blockquote>&ldquo;If you do what you've always done, you'll get what you've always gotten.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
 
 </div>
