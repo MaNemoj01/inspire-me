@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Be thankful for everything that happens in your life; it's all an experience.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
+<blockquote>&ldquo;Words, once they are printed, have a life of their own.&rdquo; &mdash; <footer>Carol Burnett</footer></blockquote>
 
 </div>
