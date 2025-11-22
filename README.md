@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The dreamers are the saviors of the worlds.&rdquo; &mdash; <footer>James Allen</footer></blockquote>
+<blockquote>&ldquo;When you judge others, you do not define them, you define yourself.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>
 
 </div>
