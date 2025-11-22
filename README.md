@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Life should be touched, not strangled.  &rdquo; &mdash; <footer>Ray Bradbury</footer></blockquote>
+<blockquote>&ldquo;Absurdity is the ecstasy of intellectualism.&rdquo; &mdash; <footer>Criss Jami</footer></blockquote>
 
 </div>
