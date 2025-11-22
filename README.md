@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The more often a stupidity is repeated, the more it gets the appearance of wisdom.&rdquo; &mdash; <footer>Voltaire</footer></blockquote>
+<blockquote>&ldquo;Life should be touched, not strangled.  &rdquo; &mdash; <footer>Ray Bradbury</footer></blockquote>
 
 </div>
