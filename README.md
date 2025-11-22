@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Don't let the silly little dramas of each day get you down. For you are here to do great things.&rdquo; &mdash; <footer>Ralph Marston</footer></blockquote>
+<blockquote>&ldquo;Fear does not have any special power unless you empower it by submitting to it.&rdquo; &mdash; <footer>Les Brown</footer></blockquote>
 
 </div>
