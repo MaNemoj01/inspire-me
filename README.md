@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You are never too old to become younger.&rdquo; &mdash; <footer>Mae West</footer></blockquote>
+<blockquote>&ldquo;It is your attitude, not your aptitude, that determines your altitude.&rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>
 
 </div>
