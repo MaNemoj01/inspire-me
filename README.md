@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you see a get rich quick scheme, that's someone else trying to get rich off of you.&rdquo; &mdash; <footer>Naval Ravikant</footer></blockquote>
+<blockquote>&ldquo;The dreamers are the saviors of the worlds.&rdquo; &mdash; <footer>James Allen</footer></blockquote>
 
 </div>
