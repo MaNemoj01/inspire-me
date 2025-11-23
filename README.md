@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;With the new day comes new strength and new thoughts.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
+<blockquote>&ldquo;The measure of who we are is what we do with what we have.&rdquo; &mdash; <footer>Vince Lombardi</footer></blockquote>
 
 </div>
