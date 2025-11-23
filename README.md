@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;We are all like the bright moon, we still have our darker side.  &rdquo; &mdash; <footer>Kahlil Gibran</footer></blockquote>
+<blockquote>&ldquo;With the new day comes new strength and new thoughts.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
 
 </div>
