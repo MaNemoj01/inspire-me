@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Wisdom consists not so much in knowing what to do in the ultimate as knowing what to do next.&rdquo; &mdash; <footer>Herbert Hoover</footer></blockquote>
+<blockquote>&ldquo;If you have to be in a soap opera try not to be cast in the worst role.&rdquo; &mdash; <footer>Judy Garland</footer></blockquote>
 
 </div>
