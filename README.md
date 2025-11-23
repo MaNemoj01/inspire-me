@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Opportunity is missed by most people because it is dressed in overalls and looks like work.&rdquo; &mdash; <footer>Thomas Edison</footer></blockquote>
+<blockquote>&ldquo;Imagination is the true magic carpet.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
 
 </div>
