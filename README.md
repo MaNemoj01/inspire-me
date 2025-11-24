@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Attitude drives actions. Actions drive results. Results drive lifestyles.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>
+<blockquote>&ldquo;Why compare yourself with others? No one in the entire world can do a better job of being you than you.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 
 </div>
