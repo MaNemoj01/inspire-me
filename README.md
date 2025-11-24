@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If we are not able to smile, then the world will not have peace.&rdquo; &mdash; <footer>Thich Nhat Hanh</footer></blockquote>
+<blockquote>&ldquo;Until we can manage time, we can manage nothing else.&rdquo; &mdash; <footer>Peter Drucker</footer></blockquote>
 
 </div>
