@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The significance of life is living.&rdquo; &mdash; <footer>Jiddu Krishnamurti</footer></blockquote>
+<blockquote>&ldquo;Happiness is a choice, not a result. Nothing will make you happy until you choose to be happy.&rdquo; &mdash; <footer>Ralph Marston</footer></blockquote>
 
 </div>
