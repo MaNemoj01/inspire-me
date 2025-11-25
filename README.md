@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;I am not what happened to me, I am what I choose to become.&rdquo; &mdash; <footer>Carl Jung</footer></blockquote>
+<blockquote>&ldquo;Reflect upon your present blessings of which every man has many - not on your past misfortunes, of which all men have some.&rdquo; &mdash; <footer>Charles Dickens</footer></blockquote>
 
 </div>
