@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Life becomes easier and more beautiful when we can see the good in other people.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
+<blockquote>&ldquo;Great minds are always feared by lesser minds.&rdquo; &mdash; <footer>Dan Brown</footer></blockquote>
 
 </div>
