@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Genius, in truth, means little more than the faculty of perceiving in an unhabitual way.&rdquo; &mdash; <footer>William James</footer></blockquote>
+<blockquote>&ldquo;In peace, sons bury their fathers. In war, fathers bury their sons. &rdquo; &mdash; <footer>Herodotus</footer></blockquote>
 
 </div>
