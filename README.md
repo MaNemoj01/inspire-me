@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;New opinions are always suspected, and usually opposed, without any other reason but because they are not common.&rdquo; &mdash; <footer>John Locke</footer></blockquote>
+<blockquote>&ldquo;They who have conquered doubt and fear have conquered failure.&rdquo; &mdash; <footer>James Allen</footer></blockquote>
 
 </div>
