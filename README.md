@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;In peace, sons bury their fathers. In war, fathers bury their sons. &rdquo; &mdash; <footer>Herodotus</footer></blockquote>
+<blockquote>&ldquo;Yesterday is but today's memory, tomorrow is today's dream.&rdquo; &mdash; <footer>Kahlil Gibran</footer></blockquote>
 
 </div>
