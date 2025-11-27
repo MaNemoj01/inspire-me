@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The act of taking the first step is what separates the winners from the losers.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
+<blockquote>&ldquo;Never to suffer would never to have been blessed.&rdquo; &mdash; <footer>Edgar Allan Poe</footer></blockquote>
 
 </div>
