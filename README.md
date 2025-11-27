@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A little impatience will spoil great plans.&rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
+<blockquote>&ldquo;Success is getting what you want, happiness is wanting what you get.&rdquo; &mdash; <footer>W.P. Kinsella</footer></blockquote>
 
 </div>
