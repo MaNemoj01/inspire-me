@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;All religions, arts and sciences are branches of the same tree. &rdquo; &mdash; <footer>Albert Einstein</footer></blockquote>
+<blockquote>&ldquo;Follow your heart, listen to your inner voice, stop caring about what others think.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
 
 </div>
