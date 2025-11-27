@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Dreams are the touchstones of our characters.&rdquo; &mdash; <footer>Henry David Thoreau</footer></blockquote>
+<blockquote>&ldquo;If you want things to be different, perhaps the answer is to become different yourself.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
 
 </div>
