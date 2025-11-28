@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;My actions are my only true belongings. I cannot escape the consequences of my actions. My actions are the ground upon which I stand.&rdquo; &mdash; <footer>Thich Nhat Hanh</footer></blockquote>
+<blockquote>&ldquo;Quiet people have the loudest minds.&rdquo; &mdash; <footer>Stephen Hawking</footer></blockquote>
 
 </div>
