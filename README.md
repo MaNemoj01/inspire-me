@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You are the sky. Everything else - it's just the weather.&rdquo; &mdash; <footer>Pema Chodron</footer></blockquote>
+<blockquote>&ldquo;Peace is the result of retraining your mind to process life as it is, rather than as you think it should be.  &rdquo; &mdash; <footer>Wayne Dyer</footer></blockquote>
 
 </div>
