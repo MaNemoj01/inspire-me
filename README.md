@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Reversing your treatment of the man you have wronged is better than asking his forgiveness.&rdquo; &mdash; <footer>Elbert Hubbard</footer></blockquote>
+<blockquote>&ldquo;Cherish forever what makes you unique, cuz you're really a yawn if it goes.&rdquo; &mdash; <footer>Bette Midler</footer></blockquote>
 
 </div>
