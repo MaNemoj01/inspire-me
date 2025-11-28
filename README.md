@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Cherish forever what makes you unique, cuz you're really a yawn if it goes.&rdquo; &mdash; <footer>Bette Midler</footer></blockquote>
+<blockquote>&ldquo;Some people are old at 18 and some are young at 90. Time is a concept that humans created.&rdquo; &mdash; <footer>Yoko Ono</footer></blockquote>
 
 </div>
