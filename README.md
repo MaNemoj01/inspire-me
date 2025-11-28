@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;To do great work one must be very idle as well as very industrious.&rdquo; &mdash; <footer>Samuel Butler</footer></blockquote>
+<blockquote>&ldquo;Reversing your treatment of the man you have wronged is better than asking his forgiveness.&rdquo; &mdash; <footer>Elbert Hubbard</footer></blockquote>
 
 </div>
