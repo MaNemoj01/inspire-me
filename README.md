@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It is our choices that show what we truly are, far more than our abilities.&rdquo; &mdash; <footer>Albus Dumbledore</footer></blockquote>
+<blockquote>&ldquo;What's the point in being smart enough to read, if everything you read makes you dumb?&rdquo; &mdash; <footer>C. Sean McGee</footer></blockquote>
 
 </div>
