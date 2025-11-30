@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Believe and you're halfway there.&rdquo; &mdash; <footer>Harry S. Truman</footer></blockquote>
+<blockquote>&ldquo;Learn to value yourself, which means: fight for your happiness.&rdquo; &mdash; <footer>Ayn Rand</footer></blockquote>
 
 </div>
