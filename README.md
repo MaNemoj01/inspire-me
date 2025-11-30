@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Happiness is the spiritual experience of living every minute with love, grace and gratitude.&rdquo; &mdash; <footer>Denis Waitley</footer></blockquote>
+<blockquote>&ldquo;Everyone thinks of changing the world, but no one thinks of changing himself.&rdquo; &mdash; <footer>Leo Tolstoy</footer></blockquote>
 
 </div>
