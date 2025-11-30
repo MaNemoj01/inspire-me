@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Everyone thinks of changing the world, but no one thinks of changing himself.&rdquo; &mdash; <footer>Leo Tolstoy</footer></blockquote>
+<blockquote>&ldquo;When you move beyond your fear, you feel free.&rdquo; &mdash; <footer>Spencer Johnson</footer></blockquote>
 
 </div>
