@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Our happiness depends on the habit of mind we cultivate.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
+<blockquote>&ldquo;Human happiness and moral duty are inseparably connected. &rdquo; &mdash; <footer>George Washington</footer></blockquote>
 
 </div>
