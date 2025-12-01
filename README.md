@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Dreams are for dreamers. Goals are for achievers.&rdquo; &mdash; <footer>Arnold Schwarzenegger</footer></blockquote>
+<blockquote>&ldquo;Do not look for approval except for the consciousness of doing your best.&rdquo; &mdash; <footer>Andrew Carnegie</footer></blockquote>
 
 </div>
