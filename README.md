@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Don't ever be afraid to put yourself in a lesser position so that you can learn something from someone who knows more.&rdquo; &mdash; <footer>Steve Harvey</footer></blockquote>
+<blockquote>&ldquo;Things turn out best for the people who make the best of the way things turn out.&rdquo; &mdash; <footer>John Wooden</footer></blockquote>
 
 </div>
