@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Music is like creating an emotional painting. The sounds are the colors.&rdquo; &mdash; <footer>Yanni</footer></blockquote>
+<blockquote>&ldquo;Imagination is the true magic carpet.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
 
 </div>
