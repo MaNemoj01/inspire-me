@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Even in the grave, all is not lost.&rdquo; &mdash; <footer>Edgar Allan Poe</footer></blockquote>
+<blockquote>&ldquo;In a world that is constantly changing, it is to our advantage to learn how to adapt and enjoy something better.&rdquo; &mdash; <footer>Spencer Johnson</footer></blockquote>
 
 </div>
