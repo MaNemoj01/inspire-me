@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh.&rdquo; &mdash; <footer>Pema Chodron</footer></blockquote>
+<blockquote>&ldquo;Every defeat, every heartbreak every loss, contains its own seed, its own lesson on how to improve your performance the next time.&rdquo; &mdash; <footer>Og Mandino</footer></blockquote>
 
 </div>
