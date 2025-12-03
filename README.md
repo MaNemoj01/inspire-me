@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you see someone without a smile give them one of yours.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+<blockquote>&ldquo;To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh.&rdquo; &mdash; <footer>Pema Chodron</footer></blockquote>
 
 </div>
