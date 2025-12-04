@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you're brave enough to say goodbye, life will reward you with a new hello.&rdquo; &mdash; <footer>Paulo Coelho</footer></blockquote>
+<blockquote>&ldquo;The more often a stupidity is repeated, the more it gets the appearance of wisdom.&rdquo; &mdash; <footer>Voltaire</footer></blockquote>
 
 </div>
