@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Follow your instincts. That is where true wisdom manifests itself.&rdquo; &mdash; <footer>Oprah Winfrey</footer></blockquote>
+<blockquote>&ldquo;Obstacles are those frightful things you see when you take your eyes off your goals.&rdquo; &mdash; <footer>Sydney Smith</footer></blockquote>
 
 </div>
