@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It is not as important how we start, but how we finish.&rdquo; &mdash; <footer>Joyce Meyer</footer></blockquote>
+<blockquote>&ldquo;A bird does not sing because it has an answer. It sings because it has a song.&rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
 
 </div>
