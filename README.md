@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You cannot teach a crab to walk straight.&rdquo; &mdash; <footer>Aristophanes</footer></blockquote>
+<blockquote>&ldquo;Nothing endures but change.&rdquo; &mdash; <footer>Heraclitus</footer></blockquote>
 
 </div>
