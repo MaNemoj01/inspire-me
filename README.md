@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Play your part in life, but never forget that it is only a role.&rdquo; &mdash; <footer>Paramahansa Yogananda</footer></blockquote>
+<blockquote>&ldquo;A moving door hinge never corrodes. Flowing water never grows stagnant.&rdquo; &mdash; <footer>Ming-Dao Deng</footer></blockquote>
 
 </div>
