@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The heart wants what it wants - or else it does not care.&rdquo; &mdash; <footer>Emily Dickinson</footer></blockquote>
+<blockquote>&ldquo;If you want others to be happy, practice compassion. If you want to be happy, practice compassion.&rdquo; &mdash; <footer>Dalai Lama</footer></blockquote>
 
 </div>
