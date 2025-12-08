@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Go for it now. The future is promised to no one. &rdquo; &mdash; <footer>Wayne Dyer</footer></blockquote>
+<blockquote>&ldquo;When you are talented you do it whatever it is until your fingers bleed or your eyes are ready to fall out of your head.&rdquo; &mdash; <footer>Stephen King</footer></blockquote>
 
 </div>
