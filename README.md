@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;No one is useless in this world who lightens the burdens of another.&rdquo; &mdash; <footer>Charles Dickens</footer></blockquote>
+<blockquote>&ldquo;Life needs to be more than just solving problems every day. You need to wake up and be excited about the future.&rdquo; &mdash; <footer>Elon Musk</footer></blockquote>
 
 </div>
