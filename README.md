@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Choose to be optimistic, it feels better.&rdquo; &mdash; <footer>Dalai Lama</footer></blockquote>
+<blockquote>&ldquo;Everyone is a moon, and has a dark side which he never shows to anybody.&rdquo; &mdash; <footer>Mark Twain</footer></blockquote>
 
 </div>
