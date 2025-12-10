@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Life is filled with secrets. You can't learn them all at once.&rdquo; &mdash; <footer>Dan Brown</footer></blockquote>
+<blockquote>&ldquo;Wise people, even though all laws were abolished, would still lead the same life.&rdquo; &mdash; <footer>Aristophanes</footer></blockquote>
 
 </div>
