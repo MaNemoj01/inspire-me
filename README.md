@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If the plan doesn't work, change the plan, but never the goal.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+<blockquote>&ldquo;You don't need anybody to tell you who you are or what you are. You are what you are!&rdquo; &mdash; <footer>John Lennon</footer></blockquote>
 
 </div>
