@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;What are we doing here, that is the question.&rdquo; &mdash; <footer>Samuel Beckett</footer></blockquote>
+<blockquote>&ldquo;Don't ever be afraid to put yourself in a lesser position so that you can learn something from someone who knows more.&rdquo; &mdash; <footer>Steve Harvey</footer></blockquote>
 
 </div>
