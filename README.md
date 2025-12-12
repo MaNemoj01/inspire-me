@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Do what is right, not what is easy, nor what is popular.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
+<blockquote>&ldquo;Care about what other people think and you will always be their prisoner.&rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>
 
 </div>
