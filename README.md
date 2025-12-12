@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The ladder of success is best climbed by stepping on the rungs of opportunity.&rdquo; &mdash; <footer>Ayn Rand</footer></blockquote>
+<blockquote>&ldquo;Life is to be fortified by many friendships. To love, and to be loved, is the greatest happiness of existence.&rdquo; &mdash; <footer>Sydney Smith</footer></blockquote>
 
 </div>
