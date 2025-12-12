@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The journey is what brings us happiness not the destination.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>
+<blockquote>&ldquo;A person is only by the thoughts that he chooses.&rdquo; &mdash; <footer>James Allen</footer></blockquote>
 
 </div>
