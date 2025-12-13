@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Inspiration exists, but it has to find you working.&rdquo; &mdash; <footer>Pablo Picasso</footer></blockquote>
+<blockquote>&ldquo;A hopeless man is a very desperate and dangerous man, almost a dead man.&rdquo; &mdash; <footer>Robert F. Kennedy</footer></blockquote>
 
 </div>
