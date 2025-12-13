@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Just throw away all thoughts of imaginary things, and stand firm in that which you are.&rdquo; &mdash; <footer>Kabir</footer></blockquote>
+<blockquote>&ldquo;Learn from the mistakes of others. You can't live long enough to make them all yourself.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
 
 </div>
