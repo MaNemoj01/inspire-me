@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Learn the rules like a pro, so you can break them like an artist.&rdquo; &mdash; <footer>Pablo Picasso</footer></blockquote>
+<blockquote>&ldquo;Remember that sometimes not getting what you want is a wonderful stroke of luck.&rdquo; &mdash; <footer>Dalai Lama</footer></blockquote>
 
 </div>
