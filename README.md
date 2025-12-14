@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;He who laughs at himself never runs out of things to laugh at.&rdquo; &mdash; <footer>Epictetus</footer></blockquote>
+<blockquote>&ldquo;The price of inaction is far greater than the cost of making a mistake.&rdquo; &mdash; <footer>Meister Eckhart</footer></blockquote>
 
 </div>
