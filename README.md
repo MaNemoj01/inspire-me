@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Youth has no age.&rdquo; &mdash; <footer>Pablo Picasso</footer></blockquote>
+<blockquote>&ldquo;Perpetual optimism is a force multiplier.&rdquo; &mdash; <footer>Colin Powell</footer></blockquote>
 
 </div>
