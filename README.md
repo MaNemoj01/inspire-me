@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you truly expect something to be difficult, it will be.&rdquo; &mdash; <footer>Peter A. Cohen</footer></blockquote>
+<blockquote>&ldquo;Just get out and do it. You will be very, very glad that you did.&rdquo; &mdash; <footer>Christopher McCandless</footer></blockquote>
 
 </div>
