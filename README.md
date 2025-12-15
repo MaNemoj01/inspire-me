@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Before preparing to improve the world, first look around your own home three times. &rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
+<blockquote>&ldquo;A thing must be loved before it is lovable.&rdquo; &mdash; <footer>Gilbert Chesterton</footer></blockquote>
 
 </div>
