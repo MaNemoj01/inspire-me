@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Death is as sure for that which is born, as birth is for that which is dead. Therefore grieve not for what is inevitable.&rdquo; &mdash; <footer>Bhagavad Gita</footer></blockquote>
+<blockquote>&ldquo;Before preparing to improve the world, first look around your own home three times. &rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
 
 </div>
