@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Faith is taking the first step even when you don't see the whole staircase.&rdquo; &mdash; <footer>Martin Luther King, Jr.</footer></blockquote>
+<blockquote>&ldquo;A person who does not read is no better than one cannot read.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>
 
 </div>
