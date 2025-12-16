@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;People tend to complicate their own lives, as if living weren't already complicated enough.&rdquo; &mdash; <footer>Carlos Ruiz Zafon</footer></blockquote>
+<blockquote>&ldquo;It is the power of the mind to be unconquerable.&rdquo; &mdash; <footer>Seneca</footer></blockquote>
 
 </div>
