@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;There is no path to Happiness. Happiness is the path.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>
+<blockquote>&ldquo;The giving of love is an education in itself.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
 
 </div>
