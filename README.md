@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Nothing ever goes away until it has taught us what we need to know.&rdquo; &mdash; <footer>Pema Chodron</footer></blockquote>
+<blockquote>&ldquo;There is no sadder sight than a young pessimist.&rdquo; &mdash; <footer>Mark Twain</footer></blockquote>
 
 </div>
