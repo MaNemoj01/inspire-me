@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Only those who dare to fail greatly can ever achieve greatly.&rdquo; &mdash; <footer>Robert F. Kennedy</footer></blockquote>
+<blockquote>&ldquo;Don't let them drag you down by rumors. Just go with what you believe in.&rdquo; &mdash; <footer>Michael Jordan</footer></blockquote>
 
 </div>
