@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Tension is who you think you should be. Relaxation is who you are.&rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
+<blockquote>&ldquo;Progress comes to those who train and train; reliance on secret techniques will get you nowhere.&rdquo; &mdash; <footer>Morihei Ueshiba</footer></blockquote>
 
 </div>
