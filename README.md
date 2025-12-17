@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Leadership starts at the top.&rdquo; &mdash; <footer>Morgan Wootten</footer></blockquote>
+<blockquote>&ldquo;The dead receive more flowers than the living because regret is stronger than gratitude.&rdquo; &mdash; <footer>Anne Frank</footer></blockquote>
 
 </div>
