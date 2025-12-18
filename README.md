@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Do it with passion, or not at all.&rdquo; &mdash; <footer>Rosa Nouchette Carey</footer></blockquote>
+<blockquote>&ldquo;Never argue with stupid people, they will drag you down to their level and then beat you with experience.&rdquo; &mdash; <footer>Mark Twain</footer></blockquote>
 
 </div>
