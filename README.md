@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;What people need and what they want may be very different.&rdquo; &mdash; <footer>Elbert Hubbard</footer></blockquote>
+<blockquote>&ldquo;Success is never final; failure is never fatal.&rdquo; &mdash; <footer>Conrad Hilton</footer></blockquote>
 
 </div>
