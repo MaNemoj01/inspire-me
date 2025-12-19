@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Death is not sad; the sad thing is that most people don't really live at all.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>
+<blockquote>&ldquo;Don't concern yourself with the money. Be of service. Build. Work. Dream. Create.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>
 
 </div>
