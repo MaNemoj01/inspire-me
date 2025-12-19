@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Go and do the things you can't. That is how you get to do them.&rdquo; &mdash; <footer>Pablo Picasso</footer></blockquote>
+<blockquote>&ldquo;Nothing is really work unless you would rather be doing something else. &rdquo; &mdash; <footer>James Matthew Barrie</footer></blockquote>
 
 </div>
