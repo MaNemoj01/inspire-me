@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Death is not sad; the sad thing is that most people don't really live at all.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>
+<blockquote>&ldquo;The first step toward getting somewhere is to decide that you are not going to stay where you are.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 
 </div>
