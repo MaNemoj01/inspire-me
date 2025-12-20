@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it.&rdquo; &mdash; <footer>George Eliot</footer></blockquote>
+<blockquote>&ldquo;Whatever you do in life, surround yourself with smart people who'll argue with you.&rdquo; &mdash; <footer>John Wooden</footer></blockquote>
 
 </div>
