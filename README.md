@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Every blessing ignored becomes a curse.&rdquo; &mdash; <footer>Paulo Coelho</footer></blockquote>
+<blockquote>&ldquo;Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it.&rdquo; &mdash; <footer>George Eliot</footer></blockquote>
 
 </div>
