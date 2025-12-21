@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;What do we live for if not to make life less difficult for each other?&rdquo; &mdash; <footer>T.S. Eliot</footer></blockquote>
+<blockquote>&ldquo;The person who cannot control his words shows that he cannot control himself.&rdquo; &mdash; <footer>Robert Greene</footer></blockquote>
 
 </div>
