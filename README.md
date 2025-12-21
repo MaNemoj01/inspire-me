@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If I have seen further than others, it is by standing upon the shoulders of giants.&rdquo; &mdash; <footer>Isaac Newton</footer></blockquote>
+<blockquote>&ldquo;A man is but a product of his thoughts. What he thinks he becomes.&rdquo; &mdash; <footer>Mahatma Gandhi</footer></blockquote>
 
 </div>
