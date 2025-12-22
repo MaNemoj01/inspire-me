@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Normal is the average of deviance.&rdquo; &mdash; <footer>Rita Mae Brown</footer></blockquote>
+<blockquote>&ldquo;All cruelty springs from weakness.  &rdquo; &mdash; <footer>Seneca</footer></blockquote>
 
 </div>
