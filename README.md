@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Each path to knowledge involves different rules and these rules are not interchangeable.&rdquo; &mdash; <footer>Barack Obama</footer></blockquote>
+<blockquote>&ldquo;Fear is a natural reaction to moving closer to the truth.&rdquo; &mdash; <footer>Pema Chodron</footer></blockquote>
 
 </div>
