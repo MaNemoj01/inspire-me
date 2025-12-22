@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Change yourself - you are in control.&rdquo; &mdash; <footer>Mahatma Gandhi</footer></blockquote>
+<blockquote>&ldquo;Normal is the average of deviance.&rdquo; &mdash; <footer>Rita Mae Brown</footer></blockquote>
 
 </div>
