@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.&rdquo; &mdash; <footer>Martin Luther King, Jr.</footer></blockquote>
+<blockquote>&ldquo;If you build the guts to do something, anything, then you better save enough to face the consequences.&rdquo; &mdash; <footer>Criss Jami</footer></blockquote>
 
 </div>
