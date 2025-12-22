@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but by all means, keep moving.&rdquo; &mdash; <footer>Martin Luther King, Jr.</footer></blockquote>
+<blockquote>&ldquo;The present moment dies every moment to become the past , is reborn every moment into the future. All experience is now. Now never ends.&rdquo; &mdash; <footer>Deepak Chopra</footer></blockquote>
 
 </div>
