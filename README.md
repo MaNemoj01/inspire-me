@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Success is achieved and maintained by those who try and keep trying. &rdquo; &mdash; <footer>W. Clement Stone</footer></blockquote>
+<blockquote>&ldquo;The future is no more uncertain than the present.&rdquo; &mdash; <footer>Walt Whitman</footer></blockquote>
 
 </div>
