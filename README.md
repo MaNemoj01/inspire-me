@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The future is no more uncertain than the present.&rdquo; &mdash; <footer>Walt Whitman</footer></blockquote>
+<blockquote>&ldquo;You have to accept whatever comes, and the only important thing is that you meet it with the best you have to give.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
 
 </div>
