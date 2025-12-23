@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The difference between treason and patriotism is only a matter of dates.&rdquo; &mdash; <footer>Alexandre Dumas</footer></blockquote>
+<blockquote>&ldquo;Our view of the world is truly shaped by what we decide to hear.&rdquo; &mdash; <footer>William James</footer></blockquote>
 
 </div>
