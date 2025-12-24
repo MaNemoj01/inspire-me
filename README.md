@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you do the work you get rewarded. There are no shortcuts in life.&rdquo; &mdash; <footer>Michael Jordan</footer></blockquote>
+<blockquote>&ldquo;Let not your mind run on what you lack as much as on what you have already.&rdquo; &mdash; <footer>Marcus Aurelius</footer></blockquote>
 
 </div>
