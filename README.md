@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Success is the child of drudgery and perseverance. It cannot be coaxed or bribed; pay the price and it is yours. &rdquo; &mdash; <footer>Orison Swett Marden</footer></blockquote>
+<blockquote>&ldquo;You have the ability, now apply yourself.&rdquo; &mdash; <footer>Benjamin Mays</footer></blockquote>
 
 </div>
