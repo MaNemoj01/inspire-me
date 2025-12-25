@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Every adversity, every failure, every heartbreak, carries with it the seed of an equal or greater benefit.&rdquo; &mdash; <footer>Napoleon Hill</footer></blockquote>
+<blockquote>&ldquo;Don't blame others. it won't make you a better person.&rdquo; &mdash; <footer>Lolly Daskal</footer></blockquote>
 
 </div>
