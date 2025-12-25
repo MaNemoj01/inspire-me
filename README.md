@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Every day is lost in which we do not learn something useful. Man has no nobler or more valuable possession than time.&rdquo; &mdash; <footer>Thomas Jefferson</footer></blockquote>
+<blockquote>&ldquo;Honesty is the first chapter in the book of wisdom.&rdquo; &mdash; <footer>Thomas Jefferson</footer></blockquote>
 
 </div>
