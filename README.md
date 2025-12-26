@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Life is not meant to be easy my child, but take courage: it can be delightful.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote>
+<blockquote>&ldquo;Some changes look negative on the surface but you will soon realize that space is being created in your life for something new to emerge.&rdquo; &mdash; <footer>Eckhart Tolle</footer></blockquote>
 
 </div>
