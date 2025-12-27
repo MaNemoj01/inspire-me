@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Life is filled with secrets. You can't learn them all at once.&rdquo; &mdash; <footer>Dan Brown</footer></blockquote>
+<blockquote>&ldquo;Knowing your own darkness is the best method for dealing with the darknesses of other people.&rdquo; &mdash; <footer>Carl Jung</footer></blockquote>
 
 </div>
