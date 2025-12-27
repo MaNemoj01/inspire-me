@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you don't know, the thing to do is not to get scared, but to learn.&rdquo; &mdash; <footer>Ayn Rand</footer></blockquote>
+<blockquote>&ldquo;Study logic and math, because once you've mastered them, you won't fear any book.&rdquo; &mdash; <footer>Naval Ravikant</footer></blockquote>
 
 </div>
