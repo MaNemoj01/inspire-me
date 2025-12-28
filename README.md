@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The sun shines upon good and bad alike.&rdquo; &mdash; <footer>Hans Christian Andersen</footer></blockquote>
+<blockquote>&ldquo;The only limits in our life are those we impose on ourselves.&rdquo; &mdash; <footer>Bob Proctor</footer></blockquote>
 
 </div>
