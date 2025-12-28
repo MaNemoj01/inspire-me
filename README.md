@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;An inch of time is an inch of gold but you can't buy that inch of time with an inch of gold.&rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
+<blockquote>&ldquo;If we did all the things we are capable of, we would literally astound ourselves.&rdquo; &mdash; <footer>Thomas Edison</footer></blockquote>
 
 </div>
