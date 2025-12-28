@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The quality of your life is determined by the quality of questions you ask.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
+<blockquote>&ldquo;A gentleman is one who puts more into the world than he takes out.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote>
 
 </div>
