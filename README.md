@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;When the fish is caught we pay no more attention to the trap.&rdquo; &mdash; <footer>Huang Po</footer></blockquote>
+<blockquote>&ldquo;The sun shines upon good and bad alike.&rdquo; &mdash; <footer>Hans Christian Andersen</footer></blockquote>
 
 </div>
