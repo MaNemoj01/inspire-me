@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you want to achieve anything in this world, you have to get used to the idea that not everyone will like you.&rdquo; &mdash; <footer>Simon Sinek</footer></blockquote>
+<blockquote>&ldquo;Words are like Leaves; and where they most abound, Much Fruit of Sense beneath is rarely found.&rdquo; &mdash; <footer>Alexander Pope</footer></blockquote>
 
 </div>
