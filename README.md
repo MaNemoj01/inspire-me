@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You miss 100% of the shots you don't take.&rdquo; &mdash; <footer>Wayne Gretzky</footer></blockquote>
+<blockquote>&ldquo;Gratitude is the fairest blossom which springs from the soul.&rdquo; &mdash; <footer>Henry Ward Beecher</footer></blockquote>
 
 </div>
