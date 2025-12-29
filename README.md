@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;I think self-awareness is probably the most important thing towards being a champion. &rdquo; &mdash; <footer>Billie Jean King</footer></blockquote>
+<blockquote>&ldquo;My guiding principle is this: Guilt is never to be doubted. &rdquo; &mdash; <footer>Franz Kafka</footer></blockquote>
 
 </div>
