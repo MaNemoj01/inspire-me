@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;One day, in retrospect, the years of struggle will strike you as the most beautiful.&rdquo; &mdash; <footer>Sigmund Freud</footer></blockquote>
+<blockquote>&ldquo;The grass is greener where you water it.&rdquo; &mdash; <footer>Neil Barringham</footer></blockquote>
 
 </div>
