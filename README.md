@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A rational person can find peace by cultivating indifference to things outside of their control.&rdquo; &mdash; <footer>Naval Ravikant</footer></blockquote>
+<blockquote>&ldquo;Don't change your mind just because people are offended; change your mind if you're wrong.&rdquo; &mdash; <footer>Criss Jami</footer></blockquote>
 
 </div>
