@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Walking with a friend in the dark is better than walking alone in the light.&rdquo; &mdash; <footer>Helen Keller</footer></blockquote>
+<blockquote>&ldquo;All wealth is the product of labor.&rdquo; &mdash; <footer>John Locke</footer></blockquote>
 
 </div>
