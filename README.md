@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Confidence is what you have before you understand the problem.&rdquo; &mdash; <footer>Woody Allen</footer></blockquote>
+<blockquote>&ldquo;Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference.&rdquo; &mdash; <footer>Robert Frost</footer></blockquote>
 
 </div>
