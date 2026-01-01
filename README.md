@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;To live is the rarest thing in the world. Most people exist, that is all. &rdquo; &mdash; <footer>Oscar Wilde</footer></blockquote>
+<blockquote>&ldquo;Behind every beautiful thing, there's some kind of pain.&rdquo; &mdash; <footer>Bob Dylan</footer></blockquote>
 
 </div>
