@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Human behavior flows from three main sources: desire, emotion, and knowledge.&rdquo; &mdash; <footer>Plato</footer></blockquote>
+<blockquote>&ldquo;To live is the rarest thing in the world. Most people exist, that is all. &rdquo; &mdash; <footer>Oscar Wilde</footer></blockquote>
 
 </div>
