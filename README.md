@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Good luck is opportunity meeting preparedness.&rdquo; &mdash; <footer>Deepak Chopra</footer></blockquote>
+<blockquote>&ldquo;Some people don't like change, but you need to embrace change if the alternative is disaster.&rdquo; &mdash; <footer>Elon Musk</footer></blockquote>
 
 </div>
