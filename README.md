@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Some people don't like change, but you need to embrace change if the alternative is disaster.&rdquo; &mdash; <footer>Elon Musk</footer></blockquote>
+<blockquote>&ldquo;A mistake is only an error, it becomes a mistake when you fail to correct it.&rdquo; &mdash; <footer>John Lennon</footer></blockquote>
 
 </div>
