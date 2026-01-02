@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Duty makes us do things well, but love makes us do them beautifully.  &rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>
+<blockquote>&ldquo;Good luck is opportunity meeting preparedness.&rdquo; &mdash; <footer>Deepak Chopra</footer></blockquote>
 
 </div>
