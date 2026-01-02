@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;No valid plans for the future can be made by those who have no capacity for living now.&rdquo; &mdash; <footer>Alan Watts</footer></blockquote>
+<blockquote>&ldquo;To escape from the world means that one's mind is not concerned with the opinions of the world.&rdquo; &mdash; <footer>Dogen</footer></blockquote>
 
 </div>
