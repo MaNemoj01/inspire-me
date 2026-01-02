@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The best mind-altering drug is the truth.&rdquo; &mdash; <footer>Lily Tomlin</footer></blockquote>
+<blockquote>&ldquo;Talk sense to a fool and he calls you foolish.&rdquo; &mdash; <footer>Euripides</footer></blockquote>
 
 </div>
