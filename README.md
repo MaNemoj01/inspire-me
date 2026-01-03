@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Pain doesn't last. And when it's gone, we have something to show for it. Growth.&rdquo; &mdash; <footer>Kamal Ravikant</footer></blockquote>
+<blockquote>&ldquo;The more you extend kindness to yourself, the more it will become your automatic response to others.&rdquo; &mdash; <footer>Wayne Dyer</footer></blockquote>
 
 </div>
