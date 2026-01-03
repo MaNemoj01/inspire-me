@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;I have lived with several Zen masters -- all of them cats.&rdquo; &mdash; <footer>Eckhart Tolle</footer></blockquote>
+<blockquote>&ldquo;It takes half your life before you discover life is a do-it-yourself project.&rdquo; &mdash; <footer>Napoleon Hill</footer></blockquote>
 
 </div>
