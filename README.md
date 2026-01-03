@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Absurdity is the ecstasy of intellectualism.&rdquo; &mdash; <footer>Criss Jami</footer></blockquote>
+<blockquote>&ldquo;Life is the dancer and you are the dance.&rdquo; &mdash; <footer>Eckhart Tolle</footer></blockquote>
 
 </div>
