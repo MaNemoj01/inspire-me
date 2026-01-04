@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Men go to far greater lengths to avoid what they fear than to obtain what they desire.&rdquo; &mdash; <footer>Dan Brown</footer></blockquote>
+<blockquote>&ldquo;If you want to achieve anything in this world, you have to get used to the idea that not everyone will like you.&rdquo; &mdash; <footer>Simon Sinek</footer></blockquote>
 
 </div>
