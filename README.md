@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Sometimes good things fall apart so better things can fall together.&rdquo; &mdash; <footer>Marilyn Monroe</footer></blockquote>
+<blockquote>&ldquo;The greatest treasures are those invisible to the eye but found by the heart.&rdquo; &mdash; <footer>Judy Garland</footer></blockquote>
 
 </div>
