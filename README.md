@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Resentment or grudges do no harm to the person against whom you hold these feelings but every day and every night of your life, they are eating at you.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
+<blockquote>&ldquo;Associate yourself with men of good quality, if you esteem your own reputation; for 'tis better to be alone than in bad company. &rdquo; &mdash; <footer>George Washington</footer></blockquote>
 
 </div>
