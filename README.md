@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Associate yourself with men of good quality, if you esteem your own reputation; for 'tis better to be alone than in bad company. &rdquo; &mdash; <footer>George Washington</footer></blockquote>
+<blockquote>&ldquo;Getting over a painful experience is much like crossing monkey bars. You have to let go at some point in order to move forward.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 
 </div>
