@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Cease striving. Then there will be transformation.&rdquo; &mdash; <footer>Zhuangzi</footer></blockquote>
+<blockquote>&ldquo;It is the power of the mind to be unconquerable.&rdquo; &mdash; <footer>Seneca</footer></blockquote>
 
 </div>
