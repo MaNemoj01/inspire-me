@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It is the power of the mind to be unconquerable.&rdquo; &mdash; <footer>Seneca</footer></blockquote>
+<blockquote>&ldquo;The only thing more frustrating than slanderers is those foolish enough to listen to them.&rdquo; &mdash; <footer>Criss Jami</footer></blockquote>
 
 </div>
