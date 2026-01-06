@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily.&rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>
+<blockquote>&ldquo;Time goes from present to past.&rdquo; &mdash; <footer>Shunryu Suzuki</footer></blockquote>
 
 </div>
