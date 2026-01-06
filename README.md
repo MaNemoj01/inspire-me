@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Greatest success comes just one step beyond the point at which defeat overtakes you.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+<blockquote>&ldquo;Without struggle, no progress and no result. Every breaking of habit produces a change in the machine.&rdquo; &mdash; <footer>G.I. Gurdjieff</footer></blockquote>
 
 </div>
