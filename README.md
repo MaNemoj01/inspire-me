@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Don't let the noise of others' opinions drown out your own inner voice.&rdquo; &mdash; <footer>Steve Jobs</footer></blockquote>
+<blockquote>&ldquo;The way we feel is the direct result of what we think.&rdquo; &mdash; <footer>Peter A. Cohen</footer></blockquote>
 
 </div>
