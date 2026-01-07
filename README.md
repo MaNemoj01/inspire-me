@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you don't have time to do it right, when will you have time to do it over?&rdquo; &mdash; <footer>John Wooden</footer></blockquote>
+<blockquote>&ldquo;Procrastination is attitude's natural assassin. There's nothing so fatiguing as an uncompleted task.&rdquo; &mdash; <footer>William James</footer></blockquote>
 
 </div>
