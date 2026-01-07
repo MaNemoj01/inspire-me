@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The greatest deception men suffer is from their own opinions.&rdquo; &mdash; <footer>Leonardo da Vinci</footer></blockquote>
+<blockquote>&ldquo;Pain doesn't last. And when it's gone, we have something to show for it. Growth.&rdquo; &mdash; <footer>Kamal Ravikant</footer></blockquote>
 
 </div>
