@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;In order to be irreplaceable one must always be different.&rdquo; &mdash; <footer>Coco Chanel</footer></blockquote>
+<blockquote>&ldquo;You can not live your life just based on what everyone else thinks.&rdquo; &mdash; <footer>Joyce Meyer</footer></blockquote>
 
 </div>
