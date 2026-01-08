@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something tomorrow. &rdquo; &mdash; <footer>Orison Swett Marden</footer></blockquote>
+<blockquote>&ldquo;Failure is just information and an opportunity to change your course.&rdquo; &mdash; <footer>Oprah Winfrey</footer></blockquote>
 
 </div>
