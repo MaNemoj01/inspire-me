@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You can not live your life just based on what everyone else thinks.&rdquo; &mdash; <footer>Joyce Meyer</footer></blockquote>
+<blockquote>&ldquo;It is hard to fail, but it is worse never to have tried to succeed.&rdquo; &mdash; <footer>Theodore Roosevelt</footer></blockquote>
 
 </div>
