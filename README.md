@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you don't like something change it. If you can't change it, change your attitude about it. Don't complain.&rdquo; &mdash; <footer>Maya Angelou</footer></blockquote>
+<blockquote>&ldquo;Your vision will become clear only when you can look into your own heart.&rdquo; &mdash; <footer>Lolly Daskal</footer></blockquote>
 
 </div>
