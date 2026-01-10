@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Only those who do nothing at all make no mistakes.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+<blockquote>&ldquo;Act as if what you do makes a difference. It does.&rdquo; &mdash; <footer>William James</footer></blockquote>
 
 </div>
