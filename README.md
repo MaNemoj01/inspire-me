@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A good system shortens the road to the goal. &rdquo; &mdash; <footer>Orison Swett Marden</footer></blockquote>
+<blockquote>&ldquo;Don't wait for extraordinary opportunities. Seize common occasions and make them great.&rdquo; &mdash; <footer>Orison Swett Marden</footer></blockquote>
 
 </div>
