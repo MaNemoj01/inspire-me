@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;He that can have patience can have what he will.&rdquo; &mdash; <footer>Benjamin Franklin</footer></blockquote>
+<blockquote>&ldquo;Instead of thinking outside the box, get rid of the box.&rdquo; &mdash; <footer>Deepak Chopra</footer></blockquote>
 
 </div>
