@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;I think self-awareness is probably the most important thing towards being a champion. &rdquo; &mdash; <footer>Billie Jean King</footer></blockquote>
+<blockquote>&ldquo;Give out what you most want to come back.&rdquo; &mdash; <footer>Robin Sharma</footer></blockquote>
 
 </div>
