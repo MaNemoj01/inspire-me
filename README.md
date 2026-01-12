@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It's beautiful to be alone. To be alone does not mean to be lonely. It means the mind is not influenced and contaminated by society.&rdquo; &mdash; <footer>Jiddu Krishnamurti</footer></blockquote>
+<blockquote>&ldquo;Your imagination is your preview of life's coming attractions.&rdquo; &mdash; <footer>Albert Einstein</footer></blockquote>
 
 </div>
