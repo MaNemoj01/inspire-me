@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty.&rdquo; &mdash; <footer>Theodore Roosevelt</footer></blockquote>
+<blockquote>&ldquo;Ripe fruit falls by itself - but it doesn't fall in your mouth. &rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
 
 </div>
