@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Have the courage to be ignorant of a great number of things, in order to avoid the calamity of being ignorant of everything.&rdquo; &mdash; <footer>Sydney Smith</footer></blockquote>
+<blockquote>&ldquo;Better to die fighting for freedom than be a prisoner all the days of your life.&rdquo; &mdash; <footer>Bob Marley</footer></blockquote>
 
 </div>
