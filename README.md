@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;What keeps life fascinating is the constant creativity of the soul.&rdquo; &mdash; <footer>Deepak Chopra</footer></blockquote>
+<blockquote>&ldquo;Simplicity is the glory of expression.&rdquo; &mdash; <footer>Walt Whitman</footer></blockquote>
 
 </div>
