@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Inner peace is when you realize that, in the end, nothing matters.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>
+<blockquote>&ldquo;In the practice of tolerance, one's enemy is the best teacher.&rdquo; &mdash; <footer>Dalai Lama</footer></blockquote>
 
 </div>
