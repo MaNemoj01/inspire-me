@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;I thought how unpleasant it is to be locked out; and I thought how it is worse, perhaps, to be locked in.&rdquo; &mdash; <footer>Virginia Woolf</footer></blockquote>
+<blockquote>&ldquo;It's easy to wish for health when you're sick.  When you're doing well, you need just as much vigilance.&rdquo; &mdash; <footer>Kamal Ravikant</footer></blockquote>
 
 </div>
