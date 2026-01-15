@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Change begets change. Nothing propagates so fast.&rdquo; &mdash; <footer>Charles Dickens</footer></blockquote>
+<blockquote>&ldquo;Every poem should remind the reader that they are going to die.&rdquo; &mdash; <footer>Edgar Allan Poe</footer></blockquote>
 
 </div>
