@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The more you take responsibility for your past and present, the more you are able to create the future you seek.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
+<blockquote>&ldquo;Sometimes it is more important to discover what one cannot do, than what one can do.&rdquo; &mdash; <footer>Lin Yutang</footer></blockquote>
 
 </div>
