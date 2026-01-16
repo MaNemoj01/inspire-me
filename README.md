@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you are far from the enemy, make him believe you are near.&rdquo; &mdash; <footer>Sun Tzu</footer></blockquote>
+<blockquote>&ldquo;Being wrong brings the opportunity for growth.&rdquo; &mdash; <footer>Mark Manson</footer></blockquote>
 
 </div>
