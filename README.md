@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Life would be tragic if it weren't funny.&rdquo; &mdash; <footer>Stephen Hawking</footer></blockquote>
+<blockquote>&ldquo;To be angry is to revenge the faults of others on ourselves.&rdquo; &mdash; <footer>Alexander Pope</footer></blockquote>
 
 </div>
