@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The people who succeed are irrationally passionate about something.&rdquo; &mdash; <footer>Naval Ravikant</footer></blockquote>
+<blockquote>&ldquo;The secret of getting ahead is getting started.&rdquo; &mdash; <footer>Mark Twain</footer></blockquote>
 
 </div>
