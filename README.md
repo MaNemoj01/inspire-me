@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Live, travel, adventure, bless, and don't be sorry.  &rdquo; &mdash; <footer>Jack Kerouac</footer></blockquote>
+<blockquote>&ldquo;Most people spend more time and energy going around problems than in trying to solve them. &rdquo; &mdash; <footer>Henry Ford</footer></blockquote>
 
 </div>
