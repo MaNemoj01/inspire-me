@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Even a hare will bite when it is cornered. &rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
+<blockquote>&ldquo;The universe doesn't give you what you ask for with your thoughts - it gives you what you demand with your actions.&rdquo; &mdash; <footer>Steve Maraboli</footer></blockquote>
 
 </div>
