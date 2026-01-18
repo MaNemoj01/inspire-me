@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;When you realize you've made a mistake, take immediate steps to correct it.&rdquo; &mdash; <footer>Dalai Lama</footer></blockquote>
+<blockquote>&ldquo;The businessman's tool is value.&rdquo; &mdash; <footer>Ayn Rand</footer></blockquote>
 
 </div>
