@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Patience expands your options. If you insist on immediate gratification, your choices are severely limited.&rdquo; &mdash; <footer>Ralph Marston</footer></blockquote>
+<blockquote>&ldquo;Shoot for the moon. Even if you miss, you'll land among the stars.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
 
 </div>
