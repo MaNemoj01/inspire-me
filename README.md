@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Life goes by fast. Enjoy it. Calm down. It's all funny.&rdquo; &mdash; <footer>Joan Rivers</footer></blockquote>
+<blockquote>&ldquo;I skate to where the puck is going to be, not where it has been.&rdquo; &mdash; <footer>Wayne Gretzky</footer></blockquote>
 
 </div>
