@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Keep your friends close, and your enemies closer.&rdquo; &mdash; <footer>Sun Tzu</footer></blockquote>
+<blockquote>&ldquo;There is nothing more truly artistic than to love people.&rdquo; &mdash; <footer>Vincent van Gogh</footer></blockquote>
 
 </div>
