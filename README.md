@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;I admire those who do good and expect nothing in return.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
+<blockquote>&ldquo;Keep your friends close, and your enemies closer.&rdquo; &mdash; <footer>Sun Tzu</footer></blockquote>
 
 </div>
