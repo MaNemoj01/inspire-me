@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Failure is an option, fear is not.&rdquo; &mdash; <footer>James Cameron</footer></blockquote>
+<blockquote>&ldquo;Do not ignore your gift. Your gift is the thing you do the absolute best with the least amount of effort.&rdquo; &mdash; <footer>Steve Harvey</footer></blockquote>
 
 </div>
