@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;To belittle, you have to be little.&rdquo; &mdash; <footer>Kahlil Gibran</footer></blockquote>
+<blockquote>&ldquo;Failure is an option, fear is not.&rdquo; &mdash; <footer>James Cameron</footer></blockquote>
 
 </div>
