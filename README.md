@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;In the end, it's not the years in your life that count. It's the life in your years.&rdquo; &mdash; <footer>Abraham Lincoln</footer></blockquote>
+<blockquote>&ldquo;Life is a question and how we live it is our answer.&rdquo; &mdash; <footer>Gary Keller</footer></blockquote>
 
 </div>
