@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A man is not called wise because he talks and talks again; but if he is peaceful, loving and fearless then he is in truth called wise. &rdquo; &mdash; <footer>Buddha</footer></blockquote>
+<blockquote>&ldquo;We must not cease from exploration. And the end of all our exploring will be to arrive where we began and to know the place for the first time.&rdquo; &mdash; <footer>T.S. Eliot</footer></blockquote>
 
 </div>
