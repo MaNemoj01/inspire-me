@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Care about what other people think and you will always be their prisoner.&rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>
+<blockquote>&ldquo;The dead receive more flowers than the living because regret is stronger than gratitude.&rdquo; &mdash; <footer>Anne Frank</footer></blockquote>
 
 </div>
