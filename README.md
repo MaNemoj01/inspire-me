@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you are patient in one moment of anger, you will escape a hundred days of sorrow. &rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
+<blockquote>&ldquo;The more people you help become successful the more successful you become.&rdquo; &mdash; <footer>Steve Harvey</footer></blockquote>
 
 </div>
