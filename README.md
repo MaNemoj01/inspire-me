@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.&rdquo; &mdash; <footer>Ralph Waldo Emerson</footer></blockquote>
+<blockquote>&ldquo;Our greatest fears lie in anticipation.&rdquo; &mdash; <footer>Honore de Balzac</footer></blockquote>
 
 </div>
