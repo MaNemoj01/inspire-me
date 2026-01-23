@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Doing the best at this moment puts you in the best place for the next moment.&rdquo; &mdash; <footer>Oprah Winfrey</footer></blockquote>
+<blockquote>&ldquo;He who possesses most must be most afraid of loss.&rdquo; &mdash; <footer>Leonardo da Vinci</footer></blockquote>
 
 </div>
