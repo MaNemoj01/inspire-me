@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The biggest challenge after success is shutting up about it.&rdquo; &mdash; <footer>Criss Jami</footer></blockquote>
+<blockquote>&ldquo;A needle is not sharp at both ends. &rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
 
 </div>
