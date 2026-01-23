@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The most efficient way of rendering the poor harmless is to teach them to want to imitate the rich.&rdquo; &mdash; <footer>Carlos Ruiz Zafon</footer></blockquote>
+<blockquote>&ldquo;Peace of mind is that mental condition in which you have accepted the worst.&rdquo; &mdash; <footer>Lin Yutang</footer></blockquote>
 
 </div>
