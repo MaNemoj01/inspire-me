@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Life has more imagination than we carry in our dreams.&rdquo; &mdash; <footer>Christopher Columbus</footer></blockquote>
+<blockquote>&ldquo;The privilege of a lifetime is to become who you truly are.&rdquo; &mdash; <footer>Carl Jung</footer></blockquote>
 
 </div>
