@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A fear of weakness only strengthens weakness.&rdquo; &mdash; <footer>Criss Jami</footer></blockquote>
+<blockquote>&ldquo;The price of inaction is far greater than the cost of making a mistake.&rdquo; &mdash; <footer>Meister Eckhart</footer></blockquote>
 
 </div>
