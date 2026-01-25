@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Some men see things as they are and ask why. Others dream things that never were and ask why not.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote>
+<blockquote>&ldquo;A fear of weakness only strengthens weakness.&rdquo; &mdash; <footer>Criss Jami</footer></blockquote>
 
 </div>
