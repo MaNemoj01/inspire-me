@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Happiness is pretty simple: someone to love, something to do, something to look forward to.&rdquo; &mdash; <footer>Rita Mae Brown</footer></blockquote>
+<blockquote>&ldquo;It is in the darkness that one finds the light.&rdquo; &mdash; <footer>Meister Eckhart</footer></blockquote>
 
 </div>
