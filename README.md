@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Stand up to your obstacles and do something about them. You'll find they haven't half the strength you think they have.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
+<blockquote>&ldquo;Conflict cannot survive without your participation. &rdquo; &mdash; <footer>Wayne Dyer</footer></blockquote>
 
 </div>
