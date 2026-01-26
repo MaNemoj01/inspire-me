@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The reward of suffering is experience.&rdquo; &mdash; <footer>Harry S. Truman</footer></blockquote>
+<blockquote>&ldquo;Turn off your mind, relax, and float downstream.&rdquo; &mdash; <footer>John Lennon</footer></blockquote>
 
 </div>
