@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;While some of us act without thinking, too many of us think without acting.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>
+<blockquote>&ldquo;Each problem has a positive side.&rdquo; &mdash; <footer>Og Mandino</footer></blockquote>
 
 </div>
