@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Outstanding people have one thing in common: an absolute sense of mission.  &rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>
+<blockquote>&ldquo;Lost Time is never found again.&rdquo; &mdash; <footer>Benjamin Franklin</footer></blockquote>
 
 </div>
