@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;I am thankful to all those who said no. It's because of them, I did it myself.  &rdquo; &mdash; <footer>Wayne Dyer</footer></blockquote>
+<blockquote>&ldquo;The true soldier fights not because he hates what is in front of him, but because he loves what is behind him.&rdquo; &mdash; <footer>Gilbert Chesterton</footer></blockquote>
 
 </div>
