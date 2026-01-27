@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Nothing has any power over me other than that which I give it through my conscious thoughts.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
+<blockquote>&ldquo;Always turn a negative situation into a positive situation.&rdquo; &mdash; <footer>Michael Jordan</footer></blockquote>
 
 </div>
