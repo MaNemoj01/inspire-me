@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward.&rdquo; &mdash; <footer>Colin Powell</footer></blockquote>
+<blockquote>&ldquo;It's always to soon to quit!&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
 
 </div>
