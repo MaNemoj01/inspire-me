@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Always turn a negative situation into a positive situation.&rdquo; &mdash; <footer>Michael Jordan</footer></blockquote>
+<blockquote>&ldquo;The secret of perfect health lies in keeping the mind always cheerful - never worried, never hurried, never borne down by any fear, thought or anxiety.&rdquo; &mdash; <footer>Sathya Sai Baba</footer></blockquote>
 
 </div>
