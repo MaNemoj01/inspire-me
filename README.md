@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A needle is not sharp at both ends. &rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
+<blockquote>&ldquo;People don't realize that now is all there ever is; there is no past or future except as memory or anticipation in your mind.&rdquo; &mdash; <footer>Eckhart Tolle</footer></blockquote>
 
 </div>
