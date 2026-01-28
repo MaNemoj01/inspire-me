@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.&rdquo; &mdash; <footer>Ayn Rand</footer></blockquote>
+<blockquote>&ldquo;Conscience is a dog that does not stop us from passing but that we cannot prevent from barking.&rdquo; &mdash; <footer>Nicolas Chamfort</footer></blockquote>
 
 </div>
