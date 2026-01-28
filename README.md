@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You are the only real obstacle in your path to a fulfilling life.&rdquo; &mdash; <footer>Les Brown</footer></blockquote>
+<blockquote>&ldquo;It's easy to be a critic, but being a doer requires effort, risk, and change.  &rdquo; &mdash; <footer>Wayne Dyer</footer></blockquote>
 
 </div>
