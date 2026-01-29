@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Get mad, then get over it.&rdquo; &mdash; <footer>Colin Powell</footer></blockquote>
+<blockquote>&ldquo;Don't stop when you're tired. Stop when you're done.&rdquo; &mdash; <footer>Marilyn Monroe</footer></blockquote>
 
 </div>
