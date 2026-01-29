@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A single dream is more powerful than a thousand realities.&rdquo; &mdash; <footer>J.R.R. Tolkien</footer></blockquote>
+<blockquote>&ldquo;Becoming a great leader doesn't mean being perfect. it means living with your imperfections.&rdquo; &mdash; <footer>Lolly Daskal</footer></blockquote>
 
 </div>
