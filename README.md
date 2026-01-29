@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;No man will make a great leader who wants to do it all himself or to get all the credit for doing it.&rdquo; &mdash; <footer>Andrew Carnegie</footer></blockquote>
+<blockquote>&ldquo;Through discipline comes freedom.&rdquo; &mdash; <footer>Aristotle</footer></blockquote>
 
 </div>
