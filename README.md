@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Science can flourish only in an atmosphere of free speech. &rdquo; &mdash; <footer>Albert Einstein</footer></blockquote>
+<blockquote>&ldquo;As soon as you truly commit to making something happen, the 'how' will reveal itself.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
 
 </div>
