@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It is startling to realize how much unbelief is necessary to make belief possible.&rdquo; &mdash; <footer>Eric Hoffer</footer></blockquote>
+<blockquote>&ldquo;Don't ever save anything for a special occasion. Being alive is the special occasion.&rdquo; &mdash; <footer>Mary Engelbreit</footer></blockquote>
 
 </div>
