@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The golden opportunity you are seeking is within yourself.&rdquo; &mdash; <footer>Mary Engelbreit</footer></blockquote>
+<blockquote>&ldquo;Difficult roads often lead to beautiful destinations.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 
 </div>
