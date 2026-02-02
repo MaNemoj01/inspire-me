@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The destiny of man is in his own soul. &rdquo; &mdash; <footer>Herodotus</footer></blockquote>
+<blockquote>&ldquo;Empty your mind, be formless, shapeless, like water.&rdquo; &mdash; <footer>Bruce Lee</footer></blockquote>
 
 </div>
