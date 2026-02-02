@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Men learn to love the woman they are attracted to. Women learn to become attracted to the man they fall in love with.&rdquo; &mdash; <footer>Woody Allen</footer></blockquote>
+<blockquote>&ldquo;The golden opportunity you are seeking is within yourself.&rdquo; &mdash; <footer>Mary Engelbreit</footer></blockquote>
 
 </div>
