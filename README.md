@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It is not uncommon for people to spend their whole life waiting to start living.&rdquo; &mdash; <footer>Eckhart Tolle</footer></blockquote>
+<blockquote>&ldquo;Nothing is hopeless; we must hope for everything.&rdquo; &mdash; <footer>Euripides</footer></blockquote>
 
 </div>
