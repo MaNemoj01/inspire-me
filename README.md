@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Be approximately right rather than exactly wrong.&rdquo; &mdash; <footer>John Tukey</footer></blockquote>
+<blockquote>&ldquo;Man must use what he has, not hope for what is not.&rdquo; &mdash; <footer>G.I. Gurdjieff</footer></blockquote>
 
 </div>
