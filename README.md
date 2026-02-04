@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The most important battle is one to conquer yourself.&rdquo; &mdash; <footer>Yanni</footer></blockquote>
+<blockquote>&ldquo;It's not the size of the dog in the fight, it's the size of the fight in the dog.&rdquo; &mdash; <footer>Mark Twain</footer></blockquote>
 
 </div>
