@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It's not the size of the dog in the fight, it's the size of the fight in the dog.&rdquo; &mdash; <footer>Mark Twain</footer></blockquote>
+<blockquote>&ldquo;Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it.&rdquo; &mdash; <footer>Rumi</footer></blockquote>
 
 </div>
