@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Whatever you think the world is withholding from you, you are withholding from the world.&rdquo; &mdash; <footer>Eckhart Tolle</footer></blockquote>
+<blockquote>&ldquo;The quality of your commitments will determine the course of your life.&rdquo; &mdash; <footer>Ralph Marston</footer></blockquote>
 
 </div>
