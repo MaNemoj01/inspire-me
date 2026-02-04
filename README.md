@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Stay away from people who makes you feel like you are wasting their time.&rdquo; &mdash; <footer>Paulo Coelho</footer></blockquote>
+<blockquote>&ldquo;You must find the place inside yourself where nothing is impossible.&rdquo; &mdash; <footer>Les Brown</footer></blockquote>
 
 </div>
