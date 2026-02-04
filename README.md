@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Live, travel, adventure, bless, and don't be sorry.  &rdquo; &mdash; <footer>Jack Kerouac</footer></blockquote>
+<blockquote>&ldquo;The traveler sees what he sees. The tourist sees what he has come to see.&rdquo; &mdash; <footer>Gilbert Chesterton</footer></blockquote>
 
 </div>
