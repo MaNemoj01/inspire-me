@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Successful people are not without problems. They're simply people who've learned to solve their problems.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>
+<blockquote>&ldquo;Re-examine all that you have been told... dismiss that which insults your soul.&rdquo; &mdash; <footer>Walt Whitman</footer></blockquote>
 
 </div>
