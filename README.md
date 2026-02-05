@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It is not what we get. But who we become, what we contribute... that gives meaning to our lives.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
+<blockquote>&ldquo;Don't worry about being successful, but work toward being significant and the success will naturally follow.&rdquo; &mdash; <footer>Oprah Winfrey</footer></blockquote>
 
 </div>
