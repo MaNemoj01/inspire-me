@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Progress lies not in enhancing what is, but in advancing toward what will be.&rdquo; &mdash; <footer>Kahlil Gibran</footer></blockquote>
+<blockquote>&ldquo;What loneliness is more lonely than distrust?&rdquo; &mdash; <footer>George Eliot</footer></blockquote>
 
 </div>
