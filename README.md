@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The chief danger in life is that you may take too many precautions.&rdquo; &mdash; <footer>Alfred Adler</footer></blockquote>
+<blockquote>&ldquo;Trying to predict the future is like trying to drive down a country road at night with no lights while looking out the back window.&rdquo; &mdash; <footer>Peter Drucker</footer></blockquote>
 
 </div>
