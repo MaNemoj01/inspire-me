@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Fear is a natural reaction to moving closer to the truth.&rdquo; &mdash; <footer>Pema Chodron</footer></blockquote>
+<blockquote>&ldquo;There are more people who wish to be loved than there are who are willing to love. &rdquo; &mdash; <footer>Nicolas Chamfort</footer></blockquote>
 
 </div>
