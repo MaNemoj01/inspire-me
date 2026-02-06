@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;In order for you to be the BEST you can be for others, first you must be BEST for yourself.&rdquo; &mdash; <footer>Jeffrey Gitomer</footer></blockquote>
+<blockquote>&ldquo;Don't let your learning lead to knowledge. Let your learning lead to action.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>
 
 </div>
