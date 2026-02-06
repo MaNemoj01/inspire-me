@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;To plant a garden is to believe in tomorrow.  &rdquo; &mdash; <footer>Audrey Hepburn</footer></blockquote>
+<blockquote>&ldquo;Life comes at us in waves. We can't predict or control those waves, but we can learn to surf.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>
 
 </div>
