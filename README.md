@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The best way to not feel hopeless is to get up and do something.&rdquo; &mdash; <footer>Barack Obama</footer></blockquote>
+<blockquote>&ldquo;Real growth comes through intense, difficult, and challenging situations.&rdquo; &mdash; <footer>Kamal Ravikant</footer></blockquote>
 
 </div>
