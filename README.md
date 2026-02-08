@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;To accomplish big things, I am convinced you must first dream big dreams.&rdquo; &mdash; <footer>Conrad Hilton</footer></blockquote>
+<blockquote>&ldquo;You may be disappointed if you fail, but you are doomed if you don't try.&rdquo; &mdash; <footer>Beverly Sills</footer></blockquote>
 
 </div>
