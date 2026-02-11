@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present.&rdquo; &mdash; <footer>Joan Rivers</footer></blockquote>
+<blockquote>&ldquo;The more something scares you, the more you should do it.&rdquo; &mdash; <footer>Mark Manson</footer></blockquote>
 
 </div>
