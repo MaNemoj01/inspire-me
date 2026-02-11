@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Most people achieved their greatest success one step beyond what looked like their greatest failure.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
+<blockquote>&ldquo;Our happiness depends on the habit of mind we cultivate.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
 
 </div>
