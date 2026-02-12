@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;One reason so few of us achieve what we truly want is that we never direct our focus; we never concentrate our power.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
+<blockquote>&ldquo;Every act of creation is first an act of destruction.&rdquo; &mdash; <footer>Pablo Picasso</footer></blockquote>
 
 </div>
