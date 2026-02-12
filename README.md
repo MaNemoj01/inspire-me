@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Better to have, and not need, than to need, and not have.&rdquo; &mdash; <footer>Franz Kafka</footer></blockquote>
+<blockquote>&ldquo;Ideas do not reach perfection in a day, no matter how much study is put upon them.&rdquo; &mdash; <footer>Alexander Graham Bell</footer></blockquote>
 
 </div>
