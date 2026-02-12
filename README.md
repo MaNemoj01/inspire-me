@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Prefer to be defeated in the presence of the wise than to excel among fools.&rdquo; &mdash; <footer>Dogen</footer></blockquote>
+<blockquote>&ldquo;Looking after my health today gives me a better hope for tomorrow. &rdquo; &mdash; <footer>Anne Wilson Schaef</footer></blockquote>
 
 </div>
