@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Muddy water is best cleared by leaving it alone.&rdquo; &mdash; <footer>Alan Watts</footer></blockquote>
+<blockquote>&ldquo;A life without a cause is a life without effect.&rdquo; &mdash; <footer>Paulo Coelho</footer></blockquote>
 
 </div>
