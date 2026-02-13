@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Why do you stay in prison when the door is so wide open?&rdquo; &mdash; <footer>Rumi</footer></blockquote>
+<blockquote>&ldquo;Life is growth. If we stop growing, technically and spiritually, we are as good as dead.&rdquo; &mdash; <footer>Morihei Ueshiba</footer></blockquote>
 
 </div>
