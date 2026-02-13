@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You Create Your Own Present By What You Give Your Attention To Today.&rdquo; &mdash; <footer>Spencer Johnson</footer></blockquote>
+<blockquote>&ldquo;If you always do what you've always done, you'll always get what you've always got. &rdquo; &mdash; <footer>Henry Ford</footer></blockquote>
 
 </div>
