@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Life is growth. If we stop growing, technically and spiritually, we are as good as dead.&rdquo; &mdash; <footer>Morihei Ueshiba</footer></blockquote>
+<blockquote>&ldquo;Love is the absence of judgment.&rdquo; &mdash; <footer>Dalai Lama</footer></blockquote>
 
 </div>
