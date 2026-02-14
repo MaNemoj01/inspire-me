@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Good luck is opportunity meeting preparedness.&rdquo; &mdash; <footer>Deepak Chopra</footer></blockquote>
+<blockquote>&ldquo;That some achieve great success is proof to all that others can achieve it as well.&rdquo; &mdash; <footer>Abraham Lincoln</footer></blockquote>
 
 </div>
