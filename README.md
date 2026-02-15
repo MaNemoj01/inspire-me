@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You cannot have a positive life and a negative mind.&rdquo; &mdash; <footer>Joyce Meyer</footer></blockquote>
+<blockquote>&ldquo;It is never too late to be what you might have been.&rdquo; &mdash; <footer>George Eliot</footer></blockquote>
 
 </div>
