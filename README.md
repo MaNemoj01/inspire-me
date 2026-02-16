@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Perseverance and spirit have done wonders in all ages. &rdquo; &mdash; <footer>George Washington</footer></blockquote>
+<blockquote>&ldquo;We don't stop playing because we grow old; we grow old because we stop playing.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote>
 
 </div>
