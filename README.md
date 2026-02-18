@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Any game becomes important when you know and love the players.&rdquo; &mdash; <footer>W.P. Kinsella</footer></blockquote>
+<blockquote>&ldquo;Identify your problems, but give your power and energy to solutions.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
 
 </div>
