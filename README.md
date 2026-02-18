@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;What we call the beginning is often the end. And to make an end is to make a beginning. The end is where we start from.&rdquo; &mdash; <footer>T.S. Eliot</footer></blockquote>
+<blockquote>&ldquo;Don't waste your time in anger, regrets, worries, and grudges. Life is too short to be unhappy.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
 
 </div>
