@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Humor isn't for everyone. It's only for people who want to have fun, enjoy life, and feel alive.&rdquo; &mdash; <footer>Anne Wilson Schaef</footer></blockquote>
+<blockquote>&ldquo;Life is from the inside out. When you shift on the inside, life shifts on the outside.&rdquo; &mdash; <footer>Kamal Ravikant</footer></blockquote>
 
 </div>
