@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Cultivate the merry heart, develop the happiness habit, and life will become a continual feast.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
+<blockquote>&ldquo;If we know how to adapt, we end up being superior.&rdquo; &mdash; <footer>Ming-Dao Deng</footer></blockquote>
 
 </div>
