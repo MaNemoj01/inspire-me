@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;People become attached to their burdens sometimes more than the burdens are attached to them.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote>
+<blockquote>&ldquo;Always keep your eyes open. Keep watching. Because whatever you see can inspire you.&rdquo; &mdash; <footer>Grace Coddington</footer></blockquote>
 
 </div>
