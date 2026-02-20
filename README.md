@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A goal is a dream with a deadline.&rdquo; &mdash; <footer>Napoleon Hill</footer></blockquote>
+<blockquote>&ldquo;For your life to be great, your faith must be bigger than your fear.&rdquo; &mdash; <footer>Robin Sharma</footer></blockquote>
 
 </div>
