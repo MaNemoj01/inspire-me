@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled.&rdquo; &mdash; <footer>Andrew Carnegie</footer></blockquote>
+<blockquote>&ldquo;You never know when a moment and a few sincere words can have an impact on a life.  &rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>
 
 </div>
