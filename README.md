@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Misfortune shows those who are not really friends.&rdquo; &mdash; <footer>Aristotle</footer></blockquote>
+<blockquote>&ldquo;While some of us act without thinking, too many of us think without acting.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>
 
 </div>
