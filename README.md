@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Curiosity is the most powerful thing you own.&rdquo; &mdash; <footer>James Cameron</footer></blockquote>
+<blockquote>&ldquo;Always do what is right. It will gratify half of mankind and astound the other.&rdquo; &mdash; <footer>Mark Twain</footer></blockquote>
 
 </div>
