@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Pain doesn't last. And when it's gone, we have something to show for it. Growth.&rdquo; &mdash; <footer>Kamal Ravikant</footer></blockquote>
+<blockquote>&ldquo;It's only after you've stepped outside your comfort zone that you begin to change, grow, and transform.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
 
 </div>
