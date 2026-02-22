@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Thinking is difficult, that's why most people judge.&rdquo; &mdash; <footer>Carl Jung</footer></blockquote>
+<blockquote>&ldquo;If you don't like something change it; if you can't change it, change the way you think about it.&rdquo; &mdash; <footer>Mary Engelbreit</footer></blockquote>
 
 </div>
