@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Every adversity, every failure, every heartbreak, carries with it the seed of an equal or greater benefit.&rdquo; &mdash; <footer>Napoleon Hill</footer></blockquote>
+<blockquote>&ldquo;Don't try to be young. Just open your mind. Stay interested in stuff.&rdquo; &mdash; <footer>Betty White</footer></blockquote>
 
 </div>
