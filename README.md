@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;What gets measured gets improved.&rdquo; &mdash; <footer>Robin Sharma</footer></blockquote>
+<blockquote>&ldquo;Words can only have a positive effect on others if and when they are ready to listen.&rdquo; &mdash; <footer>Christopher Reeve</footer></blockquote>
 
 </div>
