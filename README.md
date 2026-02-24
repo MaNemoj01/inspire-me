@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Saying nothing sometimes says the most.&rdquo; &mdash; <footer>Emily Dickinson</footer></blockquote>
+<blockquote>&ldquo;Never stand begging for that which you have the power to earn.&rdquo; &mdash; <footer>Miguel de Cervantes</footer></blockquote>
 
 </div>
