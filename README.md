@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Your worth consists in what you are and not in what you have.&rdquo; &mdash; <footer>Thomas Edison</footer></blockquote>
+<blockquote>&ldquo;Health is the greatest of all possessions.&rdquo; &mdash; <footer>Jonathan Swift</footer></blockquote>
 
 </div>
