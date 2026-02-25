@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Wherever you are, it's the place you need to be.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>
+<blockquote>&ldquo;Everything you've ever wanted is on the other side of fear.&rdquo; &mdash; <footer>George Addair</footer></blockquote>
 
 </div>
