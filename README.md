@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The mind that turns ever outward Will have no end to craving. Only the mind turned inward Will find a still-point of peace.&rdquo; &mdash; <footer>Ming-Dao Deng</footer></blockquote>
+<blockquote>&ldquo;Those who realize their folly are not true fools.&rdquo; &mdash; <footer>Zhuangzi</footer></blockquote>
 
 </div>
