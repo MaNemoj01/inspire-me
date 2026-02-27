@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Do good, live in the most positive and joyful way possible every day.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
+<blockquote>&ldquo;To love means loving the unlovable.&rdquo; &mdash; <footer>Gilbert Chesterton</footer></blockquote>
 
 </div>
