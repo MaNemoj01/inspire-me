@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The single biggest problem in communication is the illusion that it has taken place.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote>
+<blockquote>&ldquo;There are no limitations to the mind except those we acknowledge...&rdquo; &mdash; <footer>Napoleon Hill</footer></blockquote>
 
 </div>
