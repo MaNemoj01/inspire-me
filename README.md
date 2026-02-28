@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you want peace, you won't get it with violence.&rdquo; &mdash; <footer>John Lennon</footer></blockquote>
+<blockquote>&ldquo;A man should never be ashamed to own that he has been in the wrong, which is but saying, that he is wiser today than yesterday.&rdquo; &mdash; <footer>Jonathan Swift</footer></blockquote>
 
 </div>
