@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The roots of education are bitter, but the fruit is sweet.&rdquo; &mdash; <footer>Aristotle</footer></blockquote>
+<blockquote>&ldquo;Focus on how far you have come in life rather than looking at the accomplishments of others.&rdquo; &mdash; <footer>Lolly Daskal</footer></blockquote>
 
 </div>
