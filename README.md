@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Stop being a prisoner of your past. Become the architect of your future.&rdquo; &mdash; <footer>Robin Sharma</footer></blockquote>
+<blockquote>&ldquo;Successful people ask better questions, and as a result, they get better answers.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
 
 </div>
