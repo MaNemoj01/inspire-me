@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;I think self-awareness is probably the most important thing towards being a champion. &rdquo; &mdash; <footer>Billie Jean King</footer></blockquote>
+<blockquote>&ldquo;Life is about choice. You can choose to be a victim or anything else you like to be.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
 
 </div>
