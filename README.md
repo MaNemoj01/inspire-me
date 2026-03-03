@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Anger exceeding limits causes fear and excessive kindness eliminates respect.&rdquo; &mdash; <footer>Euripides</footer></blockquote>
+<blockquote>&ldquo;Give more than you think you can, trusting that you are richer than you think.&rdquo; &mdash; <footer>Jon Kabat-Zinn</footer></blockquote>
 
 </div>
