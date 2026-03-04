@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Realistic people do not accomplish extraordinary things.&rdquo; &mdash; <footer>John Eliot</footer></blockquote>
+<blockquote>&ldquo;Maybe you are searching among the branches, for what only appears in the roots.&rdquo; &mdash; <footer>Rumi</footer></blockquote>
 
 </div>
