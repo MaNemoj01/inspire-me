@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Some of the greater things in life are unseen; that's why you close your eyes when you kiss, cry, or dream.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+<blockquote>&ldquo;Not how long, but how well you have lived is the main thing.&rdquo; &mdash; <footer>Seneca</footer></blockquote>
 
 </div>
