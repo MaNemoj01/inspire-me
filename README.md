@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Start the day with love, spend the day with love, fill the day with love and end the day with love.&rdquo; &mdash; <footer>Sathya Sai Baba</footer></blockquote>
+<blockquote>&ldquo;It's much better to do good in a way that no one knows anything about it.&rdquo; &mdash; <footer>Leo Tolstoy</footer></blockquote>
 
 </div>
