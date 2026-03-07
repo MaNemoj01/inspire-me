@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Everyone sees what you appear to be, few experience what you really are.&rdquo; &mdash; <footer>Niccolo Machiavelli</footer></blockquote>
+<blockquote>&ldquo;It is hard to fail, but it is worse never to have tried to succeed.&rdquo; &mdash; <footer>Theodore Roosevelt</footer></blockquote>
 
 </div>
