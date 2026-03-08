@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;What do we live for, if it is not to make life less difficult for each other?&rdquo; &mdash; <footer>George Eliot</footer></blockquote>
+<blockquote>&ldquo;It is the power of thought that gives man power over nature.&rdquo; &mdash; <footer>Hans Christian Andersen</footer></blockquote>
 
 </div>
