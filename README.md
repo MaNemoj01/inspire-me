@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Inspire yourself to be great. Being good isn't good enough.&rdquo; &mdash; <footer>Gurbaksh Chahal</footer></blockquote>
+<blockquote>&ldquo;A man should do his job so well that the living, the dead, and the unborn could do it no better.&rdquo; &mdash; <footer>Martin Luther King, Jr.</footer></blockquote>
 
 </div>
