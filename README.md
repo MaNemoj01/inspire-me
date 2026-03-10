@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Do not try to be on the side of the majority, but live according to your inner laws.&rdquo; &mdash; <footer>Marcus Aurelius</footer></blockquote>
+<blockquote>&ldquo;It is literally true that you can succeed best and quickest by helping others succeed.&rdquo; &mdash; <footer>Napoleon Hill</footer></blockquote>
 
 </div>
