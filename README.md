@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Far and away the best prize that life has to offer is the chance to work hard at work worth doing.&rdquo; &mdash; <footer>Theodore Roosevelt</footer></blockquote>
+<blockquote>&ldquo;Of all men's miseries the bitterest is this: to know so much and to have control over nothing. &rdquo; &mdash; <footer>Herodotus</footer></blockquote>
 
 </div>
