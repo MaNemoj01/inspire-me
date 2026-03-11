@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;There are no contests in the Art of Peace. A true warrior is invincible because he or she contests with nothing.&rdquo; &mdash; <footer>Morihei Ueshiba</footer></blockquote>
+<blockquote>&ldquo;When you view failure as feedback, you get more done. When you view failure as a finality, you get nothing done.&rdquo; &mdash; <footer>Jack Butcher</footer></blockquote>
 
 </div>
