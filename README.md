@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Work out your own salvation. Do not depend on others.&rdquo; &mdash; <footer>Buddha</footer></blockquote>
+<blockquote>&ldquo;People spend too much time doing and not enough time thinking about what they should be doing.&rdquo; &mdash; <footer>Naval Ravikant</footer></blockquote>
 
 </div>
