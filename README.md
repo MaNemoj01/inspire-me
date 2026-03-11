@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Let us always meet each other with smile, for the smile is the beginning of love.&rdquo; &mdash; <footer>Mother Teresa</footer></blockquote>
+<blockquote>&ldquo;Work out your own salvation. Do not depend on others.&rdquo; &mdash; <footer>Buddha</footer></blockquote>
 
 </div>
