@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Play your part in life, but never forget that it is only a role.&rdquo; &mdash; <footer>Paramahansa Yogananda</footer></blockquote>
+<blockquote>&ldquo;A gentleman accepts the responsibility of his actions and bears the burden of their consequences.&rdquo; &mdash; <footer>William Faulkner</footer></blockquote>
 
 </div>
