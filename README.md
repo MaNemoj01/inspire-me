@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It is better to change an opinion than to persist in a wrong one.&rdquo; &mdash; <footer>Socrates</footer></blockquote>
+<blockquote>&ldquo;Better to have, and not need, than to need, and not have.&rdquo; &mdash; <footer>Franz Kafka</footer></blockquote>
 
 </div>
