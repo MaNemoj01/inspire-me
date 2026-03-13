@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You'll get more from being a peacemaker than a warrior.&rdquo; &mdash; <footer>Arnold Schwarzenegger</footer></blockquote>
+<blockquote>&ldquo;If you've never eaten while crying you don t know what life tastes like.&rdquo; &mdash; <footer>Johann Wolfgang von Goethe</footer></blockquote>
 
 </div>
