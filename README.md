@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The significance of life is living.&rdquo; &mdash; <footer>Jiddu Krishnamurti</footer></blockquote>
+<blockquote>&ldquo;The path is difficult to ensure worthiness. The lazy look elsewhere, The persevering find riches.&rdquo; &mdash; <footer>Ming-Dao Deng</footer></blockquote>
 
 </div>
