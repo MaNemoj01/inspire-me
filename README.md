@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It is hard to fail, but it is worse never to have tried to succeed.&rdquo; &mdash; <footer>Theodore Roosevelt</footer></blockquote>
+<blockquote>&ldquo;Routine life is unbearable, and most people only think about how to escape into the world of fantasy and dreams.&rdquo; &mdash; <footer>Robert Greene</footer></blockquote>
 
 </div>
