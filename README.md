@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It is not uncommon for people to spend their whole life waiting to start living.&rdquo; &mdash; <footer>Eckhart Tolle</footer></blockquote>
+<blockquote>&ldquo;Confidence is consistency of thinking about what is possible and how to make it possible.&rdquo; &mdash; <footer>John Eliot</footer></blockquote>
 
 </div>
