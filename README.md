@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Always try to be a little kinder than necessary.&rdquo; &mdash; <footer>James Matthew Barrie</footer></blockquote>
+<blockquote>&ldquo;The secret of success lies not in doing your own work, but in recognizing the right man to do it.&rdquo; &mdash; <footer>Andrew Carnegie</footer></blockquote>
 
 </div>
