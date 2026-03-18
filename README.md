@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is.&rdquo; &mdash; <footer>Nicolas Chamfort</footer></blockquote>
+<blockquote>&ldquo;Nothing ever happened in the past that can prevent you from being present now; and if the past cannot prevent you from being present now, what power does it have?&rdquo; &mdash; <footer>Eckhart Tolle</footer></blockquote>
 
 </div>
