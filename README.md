@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Every man desires to live long, but no man wishes to be old.&rdquo; &mdash; <footer>Jonathan Swift</footer></blockquote>
+<blockquote>&ldquo;Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is.&rdquo; &mdash; <footer>Nicolas Chamfort</footer></blockquote>
 
 </div>
