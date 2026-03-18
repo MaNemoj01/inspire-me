@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water.&rdquo; &mdash; <footer>Buddha</footer></blockquote>
+<blockquote>&ldquo;Be gentle with yourself. Think less and feel more. Be as happy as you can. You only have this moment.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>
 
 </div>
