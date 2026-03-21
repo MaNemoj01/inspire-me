@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Much learning does not teach understanding.&rdquo; &mdash; <footer>Heraclitus</footer></blockquote>
+<blockquote>&ldquo;When it comes to mastering a skill, time is the magic ingredient.&rdquo; &mdash; <footer>Robert Greene</footer></blockquote>
 
 </div>
