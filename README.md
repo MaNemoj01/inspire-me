@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;it's important to make sure that we're talking with each other in a way that heals, not in a way that wounds.&rdquo; &mdash; <footer>Barack Obama</footer></blockquote>
+<blockquote>&ldquo;The secret of life is to fall seven times and to get up eight times.&rdquo; &mdash; <footer>Paulo Coelho</footer></blockquote>
 
 </div>
