@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;All leaders are readers.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>
+<blockquote>&ldquo;You can never cross the ocean unless you have the courage to lose sight of the shore.&rdquo; &mdash; <footer>Christopher Columbus</footer></blockquote>
 
 </div>
