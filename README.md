@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You will face many defeats in life, but never let yourself be defeated.&rdquo; &mdash; <footer>Maya Angelou</footer></blockquote>
+<blockquote>&ldquo;The quality of your life is the quality of your relationships.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
 
 </div>
