@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Everyone has the right to make his own decisions, but none has the right to force his decision on others.&rdquo; &mdash; <footer>Ayn Rand</footer></blockquote>
+<blockquote>&ldquo;My definition of success is control.&rdquo; &mdash; <footer>Kenneth Branagh</footer></blockquote>
 
 </div>
