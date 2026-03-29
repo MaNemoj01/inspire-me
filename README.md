@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Emancipate yourself from mental slavery, none but ourselves can free our mind.&rdquo; &mdash; <footer>Bob Marley</footer></blockquote>
+<blockquote>&ldquo;All problems are illusions of the mind.&rdquo; &mdash; <footer>Eckhart Tolle</footer></blockquote>
 
 </div>
