@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Laziness may appear attractive, but work gives satisfaction.&rdquo; &mdash; <footer>Anne Frank</footer></blockquote>
+<blockquote>&ldquo;Your world is a living expression of how you are using and have used your mind.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>
 
 </div>
