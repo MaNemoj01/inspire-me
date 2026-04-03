@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;From a certain point onward there is no longer any turning back. That is the point that must be reached.&rdquo; &mdash; <footer>Franz Kafka</footer></blockquote>
+<blockquote>&ldquo;A man is great not because he hasn't failed; a man is great because failure hasn't stopped him.&rdquo; &mdash; <footer>Confucius</footer></blockquote>
 
 </div>
