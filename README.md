@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Men are anxious to improve their circumstances but are unwilling to improve themselves; they therefore remain bound.&rdquo; &mdash; <footer>James Allen</footer></blockquote>
+<blockquote>&ldquo;The goal of an artist is to create the definitive work that cannot be surpassed.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote>
 
 </div>
