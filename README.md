@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The man who removes a mountain begins by carrying away small stones.&rdquo; &mdash; <footer>William Faulkner</footer></blockquote>
+<blockquote>&ldquo;If you're waiting until you feel talented enough to make it, you'll never make it.&rdquo; &mdash; <footer>Criss Jami</footer></blockquote>
 
 </div>
