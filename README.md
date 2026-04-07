@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;No man is more cheated than the selfish man.&rdquo; &mdash; <footer>Henry Ward Beecher</footer></blockquote>
+<blockquote>&ldquo;Change your thoughts and you change your world.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
 
 </div>
