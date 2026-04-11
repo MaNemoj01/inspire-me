@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The things I carry are my thoughts. That's it. They are the only weight. My thoughts determine whether I am free and light or burdened.&rdquo; &mdash; <footer>Kamal Ravikant</footer></blockquote>
+<blockquote>&ldquo;No need to hurry. No need to sparkle. No need to be anybody but oneself.&rdquo; &mdash; <footer>Virginia Woolf</footer></blockquote>
 
 </div>
