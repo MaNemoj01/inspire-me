@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Everyone sees what you appear to be, few experience what you really are.&rdquo; &mdash; <footer>Niccolo Machiavelli</footer></blockquote>
+<blockquote>&ldquo;You cannot find peace avoiding life.&rdquo; &mdash; <footer>Virginia Woolf</footer></blockquote>
 
 </div>
