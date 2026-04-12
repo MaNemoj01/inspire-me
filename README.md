@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;No grand idea was ever born in a conference, but a lot of foolish ideas have died there.&rdquo; &mdash; <footer>F. Scott Fitzgerald</footer></blockquote>
+<blockquote>&ldquo;It's very strange that the people you love are often the people you're most cruel to.&rdquo; &mdash; <footer>Kenneth Branagh</footer></blockquote>
 
 </div>
