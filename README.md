@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Would you rather learn to deal with the truth now than be forced to do so later on?&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
+<blockquote>&ldquo;The number one cause of failure is the fear of failure.&rdquo; &mdash; <footer>Steve Harvey</footer></blockquote>
 
 </div>
