@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;I don't pretend to know everything; I just only speak on matters I know I'll win.&rdquo; &mdash; <footer>Criss Jami</footer></blockquote>
+<blockquote>&ldquo;We have more possibilities available in each moment than we realize.&rdquo; &mdash; <footer>Thich Nhat Hanh</footer></blockquote>
 
 </div>
