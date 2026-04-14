@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;All men who have achieved great things have been great dreamers. &rdquo; &mdash; <footer>Orison Swett Marden</footer></blockquote>
+<blockquote>&ldquo;Life is the dancer and you are the dance.&rdquo; &mdash; <footer>Eckhart Tolle</footer></blockquote>
 
 </div>
