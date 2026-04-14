@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;As you think, so shall you become. &rdquo; &mdash; <footer>Bruce Lee</footer></blockquote>
+<blockquote>&ldquo;Have a vision, trust yourself, break some rules, ignore the naysayers, don't be afraid to fail.&rdquo; &mdash; <footer>Arnold Schwarzenegger</footer></blockquote>
 
 </div>
