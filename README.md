@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You find peace not by rearranging the circumstances of your life, but by realizing who you are at the deepest level.&rdquo; &mdash; <footer>Eckhart Tolle</footer></blockquote>
+<blockquote>&ldquo;Appear weak when you are strong, and strong when you are weak.&rdquo; &mdash; <footer>Sun Tzu</footer></blockquote>
 
 </div>
