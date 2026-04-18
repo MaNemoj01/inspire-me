@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A poet should be so crafty with words that he is envied even for his pains.&rdquo; &mdash; <footer>Criss Jami</footer></blockquote>
+<blockquote>&ldquo;We must learn to live together as brothers or perish together as fools.&rdquo; &mdash; <footer>Martin Luther King, Jr.</footer></blockquote>
 
 </div>
