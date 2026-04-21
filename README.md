@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
+<blockquote>&ldquo;When things go wrong, don't go with them.&rdquo; &mdash; <footer>Elvis Presley</footer></blockquote>
 
 </div>
