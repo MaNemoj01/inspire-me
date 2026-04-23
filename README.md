@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Each time we don't say what we wanna say, we're dying.&rdquo; &mdash; <footer>Yoko Ono</footer></blockquote>
+<blockquote>&ldquo;Some people feel the rain. Others just get wet. &rdquo; &mdash; <footer>Bob Dylan</footer></blockquote>
 
 </div>
