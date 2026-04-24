@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Life is simply what our feelings do to us.&rdquo; &mdash; <footer>Honore de Balzac</footer></blockquote>
+<blockquote>&ldquo;In the midst of movement and chaos, keep stillness inside of you.&rdquo; &mdash; <footer>Deepak Chopra</footer></blockquote>
 
 </div>
