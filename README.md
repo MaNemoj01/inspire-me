@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Do what you can, with what you have, where you are.&rdquo; &mdash; <footer>Theodore Roosevelt</footer></blockquote>
+<blockquote>&ldquo;Your work is to discover your work and then, with all your heart, to give yourself to it.&rdquo; &mdash; <footer>Buddha</footer></blockquote>
 
 </div>
