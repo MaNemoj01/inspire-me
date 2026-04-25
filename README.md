@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Your world is a living expression of how you are using and have used your mind.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>
+<blockquote>&ldquo;If you realize that you're the problem, then you can change yourself, learn something and grow wiser. Don't blame other people for your problems.&rdquo; &mdash; <footer>Robert Kiyosaki</footer></blockquote>
 
 </div>
