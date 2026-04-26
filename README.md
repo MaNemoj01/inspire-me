@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Learn to enjoy every minute of your life. Be happy now. Don't wait for something outside of yourself to make you happy in the future.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>
+<blockquote>&ldquo;Sometimes out of your biggest misery, comes your greatest gain.&rdquo; &mdash; <footer>Steve Harvey</footer></blockquote>
 
 </div>
