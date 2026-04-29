@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Always do your best. What you plant now, you will harvest later.&rdquo; &mdash; <footer>Og Mandino</footer></blockquote>
+<blockquote>&ldquo;Stop wasting time defending your problems and work on addressing them instead.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
 
 </div>
