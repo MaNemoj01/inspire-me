@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It is up to each of us to sing as we feel moved by the overall song of life.&rdquo; &mdash; <footer>Ming-Dao Deng</footer></blockquote>
+<blockquote>&ldquo;You can never get enough of what you don't need to make you happy.&rdquo; &mdash; <footer>Eric Hoffer</footer></blockquote>
 
 </div>
