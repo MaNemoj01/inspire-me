@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Not how long, but how well you have lived is the main thing.&rdquo; &mdash; <footer>Seneca</footer></blockquote>
+<blockquote>&ldquo;It still holds true that man is most uniquely human when he turns obstacles into opportunities.&rdquo; &mdash; <footer>Eric Hoffer</footer></blockquote>
 
 </div>
