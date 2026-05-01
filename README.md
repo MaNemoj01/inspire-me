@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;In order to control myself I must first accept myself by going with and not against my nature.&rdquo; &mdash; <footer>Bruce Lee</footer></blockquote>
+<blockquote>&ldquo;Before you can see the Light, you have to deal with the darkness.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>
 
 </div>
