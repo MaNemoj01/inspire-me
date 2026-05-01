@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Before you can see the Light, you have to deal with the darkness.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>
+<blockquote>&ldquo;Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly.&rdquo; &mdash; <footer>Marcus Aurelius</footer></blockquote>
 
 </div>
