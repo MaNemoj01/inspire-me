@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Be yourself; everyone else is already taken &rdquo; &mdash; <footer>Oscar Wilde</footer></blockquote>
+<blockquote>&ldquo;Obstacles are those frightful things you see when you take your eyes off your goal.&rdquo; &mdash; <footer>Henry Ford</footer></blockquote>
 
 </div>
