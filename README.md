@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;There are two things a person should never be angry at, what they can help, and what they cannot.&rdquo; &mdash; <footer>Plato</footer></blockquote>
+<blockquote>&ldquo;When people are free to do as they please, they usually imitate each other.&rdquo; &mdash; <footer>Eric Hoffer</footer></blockquote>
 
 </div>
