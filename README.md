@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for.&rdquo; &mdash; <footer>Bob Marley</footer></blockquote>
+<blockquote>&ldquo;It all depends on what you choose to believe.&rdquo; &mdash; <footer>Spencer Johnson</footer></blockquote>
 
 </div>
