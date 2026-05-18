@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The worst part of success is trying to find someone who is happy for you.&rdquo; &mdash; <footer>Bette Midler</footer></blockquote>
+<blockquote>&ldquo;No idea, no matter how good, will work if it doesn't get used.&rdquo; &mdash; <footer>Peter A. Cohen</footer></blockquote>
 
 </div>
