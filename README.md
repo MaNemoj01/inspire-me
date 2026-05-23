@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A bird does not sing because it has an answer. It sings because it has a song.&rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
+<blockquote>&ldquo;Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.&rdquo; &mdash; <footer>Buddha</footer></blockquote>
 
 </div>
