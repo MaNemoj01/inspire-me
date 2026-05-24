@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Some of us learn from other people&#039;s mistakes and the rest of us have to be other people.&rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>
+<blockquote>&ldquo;If you can&#039;t argue both sides, you can&#039;t argue.&rdquo; &mdash; <footer>Jack Butcher</footer></blockquote>
 
 </div>
