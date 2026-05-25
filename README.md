@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Genius is the ability to act rightly without precedent - the power to do the right thing the first time.&rdquo; &mdash; <footer>Elbert Hubbard</footer></blockquote>
+<blockquote>&ldquo;All human wisdom is contained in these two words - Wait and Hope&rdquo; &mdash; <footer>Alexandre Dumas</footer></blockquote>
 
 </div>
