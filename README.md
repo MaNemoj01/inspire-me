@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Nothing like a health problem to turn up the contrast dial for the rest of life.&rdquo; &mdash; <footer>Naval Ravikant</footer></blockquote>
+<blockquote>&ldquo;Remember, hope is a good thing, maybe the best of things.&rdquo; &mdash; <footer>Stephen King</footer></blockquote>
 
 </div>
