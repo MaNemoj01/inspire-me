@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;To be persuasive we must be believable; to be believable we must be credible; to be credible we must be truthful.&rdquo; &mdash; <footer>David Brinkley</footer></blockquote>
+<blockquote>&ldquo;The past has no power over the present moment.&rdquo; &mdash; <footer>Eckhart Tolle</footer></blockquote>
 
 </div>
