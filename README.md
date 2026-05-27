@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Who you are is defined by what you&#039;re willing to struggle for.&rdquo; &mdash; <footer>Mark Manson</footer></blockquote>
+<blockquote>&ldquo;Anything you may hold firmly in your imagination can be yours.&rdquo; &mdash; <footer>William James</footer></blockquote>
 
 </div>
