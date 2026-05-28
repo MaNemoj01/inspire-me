@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;A day wasted on others is not wasted on one&#039;s self.&rdquo; &mdash; <footer>Charles Dickens</footer></blockquote>
+<blockquote>&ldquo;When there is nothing to do, do nothing.&rdquo; &mdash; <footer>Warren Buffett</footer></blockquote>
 
 </div>
