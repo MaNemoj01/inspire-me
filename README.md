@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It is what we make out of what we have, not what we are given, that separates one person from another.&rdquo; &mdash; <footer>Nelson Mandela</footer></blockquote>
+<blockquote>&ldquo;It does not matter how slowly you go as long as you do not stop.&rdquo; &mdash; <footer>Colin R. Davis</footer></blockquote>
 
 </div>
