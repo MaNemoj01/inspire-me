@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Forget yesterday - it has already forgotten you. Don&#039;t sweat tomorrow - you haven&#039;t even met. Instead, open your eyes and your heart to a truly precious gift - today.&rdquo; &mdash; <footer>Steve Maraboli</footer></blockquote>
+<blockquote>&ldquo;If you want to be happy, do not dwell in the past, do not worry about the future, focus on living fully in the present.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
 
 </div>
