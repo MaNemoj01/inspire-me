@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Work out your own salvation. Do not depend on others.&rdquo; &mdash; <footer>Buddha</footer></blockquote>
+<blockquote>&ldquo;It&#039;s not the men in your life that matters, it&#039;s the life in your men.&rdquo; &mdash; <footer>Mae West</footer></blockquote>
 
 </div>
