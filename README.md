@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You change the world by being yourself.&rdquo; &mdash; <footer>Yoko Ono</footer></blockquote>
+<blockquote>&ldquo;Humor isn&#039;t for everyone. It&#039;s only for people who want to have fun, enjoy life, and feel alive.&rdquo; &mdash; <footer>Anne Wilson Schaef</footer></blockquote>
 
 </div>
