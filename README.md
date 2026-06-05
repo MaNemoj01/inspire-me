@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Every defeat, every heartbreak every loss, contains its own seed, its own lesson on how to improve your performance the next time.&rdquo; &mdash; <footer>Og Mandino</footer></blockquote>
+<blockquote>&ldquo;The opposite of courage in our society is not cowardice... it is conformity.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>
 
 </div>
