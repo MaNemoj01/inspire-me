@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You can do nothing to change the past, and the future will never come exactly as you plan or hope for.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>
+<blockquote>&ldquo;Realistic people do not accomplish extraordinary things.&rdquo; &mdash; <footer>John Eliot</footer></blockquote>
 
 </div>
