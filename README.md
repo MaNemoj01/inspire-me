@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Failure is just information and an opportunity to change your course.&rdquo; &mdash; <footer>Oprah Winfrey</footer></blockquote>
+<blockquote>&ldquo;It&#039;s wise to tell the truth. It&#039;s even wiser to tell it kindly.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>
 
 </div>
