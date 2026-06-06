@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It&#039;s wise to tell the truth. It&#039;s even wiser to tell it kindly.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>
+<blockquote>&ldquo;In peace, sons bury their fathers. In war, fathers bury their sons.&rdquo; &mdash; <footer>Herodotus</footer></blockquote>
 
 </div>
