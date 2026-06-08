@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Don&#039;t let someone elses. opinion become your reality.&rdquo; &mdash; <footer>Les Brown</footer></blockquote>
+<blockquote>&ldquo;If you don&#039;t have time to do it right, when will you have time to do it over?&rdquo; &mdash; <footer>John Wooden</footer></blockquote>
 
 </div>
