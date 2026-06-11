@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;One of the oldest human needs is having someone to wonder where you are when you don&#039;t come home at night.&rdquo; &mdash; <footer>Margaret Mead</footer></blockquote>
+<blockquote>&ldquo;Remain calm. Be kind.&rdquo; &mdash; <footer>Colin Powell</footer></blockquote>
 
 </div>
