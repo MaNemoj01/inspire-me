@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Expect the best of yourself, and then do what is necessary to make it a reality.&rdquo; &mdash; <footer>Ralph Marston</footer></blockquote>
+<blockquote>&ldquo;To find yourself, think for yourself.&rdquo; &mdash; <footer>Socrates</footer></blockquote>
 
 </div>
