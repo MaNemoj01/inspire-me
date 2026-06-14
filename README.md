@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The more you take responsibility for your past and present, the more you are able to create the future you seek.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
+<blockquote>&ldquo;Success is often achieved by those who don&#039;t know that failure is inevitable.&rdquo; &mdash; <footer>Coco Chanel</footer></blockquote>
 
 </div>
