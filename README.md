@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Life would be tragic if it weren&#039;t funny.&rdquo; &mdash; <footer>Stephen Hawking</footer></blockquote>
+<blockquote>&ldquo;Enthusiasm is a vital element toward the individual success of every man or woman.&rdquo; &mdash; <footer>Conrad Hilton</footer></blockquote>
 
 </div>
