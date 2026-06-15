@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;One never does wrong by doing right.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
+<blockquote>&ldquo;Where there&#039;s life, there&#039;s hope.&rdquo; &mdash; <footer>Stephen Hawking</footer></blockquote>
 
 </div>
