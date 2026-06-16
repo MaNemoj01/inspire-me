@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Where there&#039;s life, there&#039;s hope.&rdquo; &mdash; <footer>Stephen Hawking</footer></blockquote>
+<blockquote>&ldquo;Strive for excellence, not perfection, because we don&#039;t live in a perfect world.&rdquo; &mdash; <footer>Joyce Meyer</footer></blockquote>
 
 </div>
