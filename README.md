@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Nature does not hurry, yet everything is accomplished.&rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>
+<blockquote>&ldquo;You must be willing to do what others won&#039;t do, to have what others won&#039;t have.&rdquo; &mdash; <footer>Les Brown</footer></blockquote>
 
 </div>
