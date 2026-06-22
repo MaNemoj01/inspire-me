@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Only those who do nothing at all make no mistakes.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+<blockquote>&ldquo;If you don&#039;t like something change it. If you can&#039;t change it, change your attitude about it. Don&#039;t complain.&rdquo; &mdash; <footer>Maya Angelou</footer></blockquote>
 
 </div>
