@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Yesterday is history, tomorrow is a mystery, today is God&#039;s gift, that&#039;s why we call it the present.&rdquo; &mdash; <footer>Joan Rivers</footer></blockquote>
+<blockquote>&ldquo;Never whine, never complain, never try to justify yourself.&rdquo; &mdash; <footer>Robert Greene</footer></blockquote>
 
 </div>
