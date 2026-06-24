@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Our thoughts are highly influenced by the people around us and everything we read, see, and do.&rdquo; &mdash; <footer>Jeff Booth</footer></blockquote>
+<blockquote>&ldquo;Definitions belong to the definers, not the defined.&rdquo; &mdash; <footer>Toni Morrison</footer></blockquote>
 
 </div>
