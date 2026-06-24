@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The longer we dwell on our misfortunes, the greater is their power to harm us.&rdquo; &mdash; <footer>Voltaire</footer></blockquote>
+<blockquote>&ldquo;We&#039;re responsible for everything that happens to us.&rdquo; &mdash; <footer>Yanni</footer></blockquote>
 
 </div>
