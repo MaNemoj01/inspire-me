@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;We&#039;re responsible for everything that happens to us.&rdquo; &mdash; <footer>Yanni</footer></blockquote>
+<blockquote>&ldquo;Invest in as much of yourself as you can, you are your own biggest asset by far.&rdquo; &mdash; <footer>Warren Buffett</footer></blockquote>
 
 </div>
