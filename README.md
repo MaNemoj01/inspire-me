@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The only thing standing between you and your goal is the story you keep telling yourself as to why you can&#039;t achieve it.&rdquo; &mdash; <footer>Colin R. Davis</footer></blockquote>
+<blockquote>&ldquo;The way of success is the way of continuous pursuit of knowledge.&rdquo; &mdash; <footer>Napoleon Hill</footer></blockquote>
 
 </div>
