@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Life is from the inside out. When you shift on the inside, life shifts on the outside.&rdquo; &mdash; <footer>Kamal Ravikant</footer></blockquote>
+<blockquote>&ldquo;If the grass is greener on the other side, maybe that&#039;s because you&#039;re not taking good care of your grass.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 
 </div>
