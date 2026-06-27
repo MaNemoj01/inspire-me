@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible in us be found.&rdquo; &mdash; <footer>Pema Chodron</footer></blockquote>
+<blockquote>&ldquo;Think how really precious is the time you have to spend, whether it&#039;s at work or with your family. Every minute should be enjoyed and savored.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>
 
 </div>
