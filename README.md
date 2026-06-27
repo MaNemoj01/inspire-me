@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If the grass is greener on the other side, maybe that&#039;s because you&#039;re not taking good care of your grass.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+<blockquote>&ldquo;The strength of a wall is neither greater nor less than the courage of the men who defend it.&rdquo; &mdash; <footer>Genghis Khan</footer></blockquote>
 
 </div>
