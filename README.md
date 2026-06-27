@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Life is the dancer and you are the dance.&rdquo; &mdash; <footer>Eckhart Tolle</footer></blockquote>
+<blockquote>&ldquo;Your business is not to &#039;get somewhere&#039; - it is to be here.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>
 
 </div>
