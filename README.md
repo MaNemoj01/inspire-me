@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You can calculate the worth of a man by the number of his enemies.&rdquo; &mdash; <footer>Gustave Flaubert</footer></blockquote>
+<blockquote>&ldquo;Life is from the inside out. When you shift on the inside, life shifts on the outside.&rdquo; &mdash; <footer>Kamal Ravikant</footer></blockquote>
 
 </div>
