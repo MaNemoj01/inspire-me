@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You can do two things at once, but you can&#039;t focus effectively on two things at once.&rdquo; &mdash; <footer>Gary Keller</footer></blockquote>
+<blockquote>&ldquo;Don&#039;t stumble over something that&#039;s behind you.&rdquo; &mdash; <footer>Steve Harvey</footer></blockquote>
 
 </div>
