@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Life is to be fortified by many friendships. To love, and to be loved, is the greatest happiness of existence.&rdquo; &mdash; <footer>Sydney Smith</footer></blockquote>
+<blockquote>&ldquo;Lack of direction, not lack of time, is the problem. We all have twenty-four hour days.&rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>
 
 </div>
