@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Lack of direction, not lack of time, is the problem. We all have twenty-four hour days.&rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>
+<blockquote>&ldquo;Realize deeply that the present moment is all you ever have.&rdquo; &mdash; <footer>Eckhart Tolle</footer></blockquote>
 
 </div>
