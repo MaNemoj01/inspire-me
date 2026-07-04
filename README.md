@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;There are only encounters in history. There are no accidents.&rdquo; &mdash; <footer>Pablo Picasso</footer></blockquote>
+<blockquote>&ldquo;Always look on the bright side of things. If you can&#039;t comprehend this, polish that which has become dull until it begins to shine.&rdquo; &mdash; <footer>Zen Proverb</footer></blockquote>
 
 </div>
