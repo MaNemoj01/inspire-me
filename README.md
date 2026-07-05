@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Yesterday is but today&#039;s memory, tomorrow is today&#039;s dream.&rdquo; &mdash; <footer>Kahlil Gibran</footer></blockquote>
+<blockquote>&ldquo;You cannot push anyone up a ladder unless he is willing to climb a little himself.&rdquo; &mdash; <footer>Andrew Carnegie</footer></blockquote>
 
 </div>
