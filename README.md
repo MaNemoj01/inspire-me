@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Confidence comes from crossing thresholds.&rdquo; &mdash; <footer>Kamal Ravikant</footer></blockquote>
+<blockquote>&ldquo;It isn&#039;t that they can&#039;t see the solution. It is that they can&#039;t see the problem.&rdquo; &mdash; <footer>Gilbert Chesterton</footer></blockquote>
 
 </div>
