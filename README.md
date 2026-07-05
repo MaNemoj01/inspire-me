@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;All you need is passion. If you have a passion for something, you&#039;ll create the talent.&rdquo; &mdash; <footer>Yanni</footer></blockquote>
+<blockquote>&ldquo;Be not afraid of growing slowly, be afraid only of standing still.&rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
 
 </div>
