@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Focused, hard work is the real key to success.&rdquo; &mdash; <footer>John Carmack</footer></blockquote>
+<blockquote>&ldquo;The greatest gift that you can give to others is the gift of unconditional love and acceptance.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
 
 </div>
