@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;All I can do is be me, whoever that is.&rdquo; &mdash; <footer>Bob Dylan</footer></blockquote>
+<blockquote>&ldquo;Those who can make you believe absurdities can make you commit atrocities.&rdquo; &mdash; <footer>Voltaire</footer></blockquote>
 
 </div>
