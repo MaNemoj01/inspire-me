@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Happiness is the meaning and the purpose of life, the whole aim and end of human existence.&rdquo; &mdash; <footer>Aristotle</footer></blockquote>
+<blockquote>&ldquo;All I can do is be me, whoever that is.&rdquo; &mdash; <footer>Bob Dylan</footer></blockquote>
 
 </div>
