@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Make peace with your inner turmoil.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+<blockquote>&ldquo;If you don&#039;t like something change it; if you can&#039;t change it, change the way you think about it.&rdquo; &mdash; <footer>Mary Engelbreit</footer></blockquote>
 
 </div>
