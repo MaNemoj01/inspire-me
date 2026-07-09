@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Rewards and punishment is the lowest form of education.&rdquo; &mdash; <footer>Zhuangzi</footer></blockquote>
+<blockquote>&ldquo;Dream big. Start small. But most of all, start.&rdquo; &mdash; <footer>Simon Sinek</footer></blockquote>
 
 </div>
