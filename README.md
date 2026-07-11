@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It&#039;s not what you say out of your mouth that determines your life, it&#039;s what you whisper to yourself that has the most power!&rdquo; &mdash; <footer>Robert Kiyosaki</footer></blockquote>
+<blockquote>&ldquo;New beginnings are disguised as painful endings.&rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>
 
 </div>
