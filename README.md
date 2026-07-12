@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;People should pursue what they&#039;re passionate about. That will make them happier than pretty much anything else.&rdquo; &mdash; <footer>Elon Musk</footer></blockquote>
+<blockquote>&ldquo;Be - don&#039;t try to become&rdquo; &mdash; <footer>Osho</footer></blockquote>
 
 </div>
