@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Be - don&#039;t try to become&rdquo; &mdash; <footer>Osho</footer></blockquote>
+<blockquote>&ldquo;Risk comes from not knowing what you&#039;re doing.&rdquo; &mdash; <footer>Warren Buffett</footer></blockquote>
 
 </div>
