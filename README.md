@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Being in a good frame of mind helps keep one in the picture of health.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+<blockquote>&ldquo;Freedom is the open window through which pours the sunlight of the human spirit and human dignity.&rdquo; &mdash; <footer>Herbert Hoover</footer></blockquote>
 
 </div>
