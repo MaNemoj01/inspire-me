@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Enlightenment is intimacy with all things.&rdquo; &mdash; <footer>Dogen</footer></blockquote>
+<blockquote>&ldquo;The best leaders are constantly learning, curious about where they made mistakes and actively looking for areas where they might have it wrong.&rdquo; &mdash; <footer>Jeff Booth</footer></blockquote>
 
 </div>
