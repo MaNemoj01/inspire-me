@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Where there is anger, there is always pain underneath.&rdquo; &mdash; <footer>Eckhart Tolle</footer></blockquote>
+<blockquote>&ldquo;If you go out looking for friends, you&#039;re going to find they are very scarce. If you go out to be a friend, you&#039;ll find them everywhere.&rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>
 
 </div>
