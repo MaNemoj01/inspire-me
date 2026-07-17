@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Work joyfully and peacefully, knowing that right thoughts and right efforts inevitably bring about right results.&rdquo; &mdash; <footer>James Allen</footer></blockquote>
+<blockquote>&ldquo;Your vision will become clear only when you can look into your own heart.&rdquo; &mdash; <footer>Lolly Daskal</footer></blockquote>
 
 </div>
