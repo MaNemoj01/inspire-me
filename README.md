@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;He who violates another&#039;s honor loses his own.&rdquo; &mdash; <footer>Publilius Syrus</footer></blockquote>
+<blockquote>&ldquo;Success seems to be connected to action. Successful people keep moving. They make mistakes, but they don&#039;t quit.&rdquo; &mdash; <footer>Conrad Hilton</footer></blockquote>
 
 </div>
