@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;No idea, no matter how good, will work if it doesn&#039;t get used.&rdquo; &mdash; <footer>Peter A. Cohen</footer></blockquote>
+<blockquote>&ldquo;Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more.&rdquo; &mdash; <footer>Nikola Tesla</footer></blockquote>
 
 </div>
