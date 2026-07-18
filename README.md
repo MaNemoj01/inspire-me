@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;When meditation is mastered, the mind is unwavering like the flame of a lamp in a windless place.&rdquo; &mdash; <footer>Bhagavad Gita</footer></blockquote>
+<blockquote>&ldquo;There are only two ways to live your life. One is as if nothing is a miracle. The other is as if everything is a miracle.&rdquo; &mdash; <footer>Albert Einstein</footer></blockquote>
 
 </div>
