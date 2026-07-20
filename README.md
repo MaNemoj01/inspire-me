@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Looking after my health today gives me a better hope for tomorrow.&rdquo; &mdash; <footer>Anne Wilson Schaef</footer></blockquote>
+<blockquote>&ldquo;It&#039;s very important to like the people you work with, otherwise life and your job is gonna be quite miserable.&rdquo; &mdash; <footer>Elon Musk</footer></blockquote>
 
 </div>
