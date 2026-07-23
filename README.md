@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you want something then you lose everything. If you don&#039;t want anything then you already have everything.&rdquo; &mdash; <footer>Seungsahn</footer></blockquote>
+<blockquote>&ldquo;Making your mark on the world is hard. If it were easy, everybody would do it.&rdquo; &mdash; <footer>Barack Obama</footer></blockquote>
 
 </div>
