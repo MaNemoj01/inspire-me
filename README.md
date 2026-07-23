@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Winners are not afraid of losing. But losers are. Failure is part of the process of success. People who avoid failure also avoid success.&rdquo; &mdash; <footer>Robert Kiyosaki</footer></blockquote>
+<blockquote>&ldquo;My guiding principle is this: Guilt is never to be doubted.&rdquo; &mdash; <footer>Franz Kafka</footer></blockquote>
 
 </div>
