@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Stop comparing yourself to others and focus on your own improvement.&rdquo; &mdash; <footer>Lolly Daskal</footer></blockquote>
+<blockquote>&ldquo;Successful people appreciate where they have come from, but they don&#039;t let their past set the tone for their future.&rdquo; &mdash; <footer>Steve Harvey</footer></blockquote>
 
 </div>
