@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;People with clear, written goals, accomplish far more in a shorter period of time than people without them could ever imagine.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
+<blockquote>&ldquo;An un-examined life is not worth living.&rdquo; &mdash; <footer>Socrates</footer></blockquote>
 
 </div>
