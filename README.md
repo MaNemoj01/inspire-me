@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The only person you should try to be better than is the person you were yesterday.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
+<blockquote>&ldquo;Others can stop you temporarily - you are the only one who can do it permanently.&rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>
 
 </div>
