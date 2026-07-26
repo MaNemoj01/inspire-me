@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Our anxiety does not empty tomorrow of its sorrows, but only empties today of its strengths.&rdquo; &mdash; <footer>Charles Spurgeon</footer></blockquote>
+<blockquote>&ldquo;It&#039;s what you do in the present that will redeem the past and thereby change the future.&rdquo; &mdash; <footer>Paulo Coelho</footer></blockquote>
 
 </div>
