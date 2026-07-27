@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Death is not sad; the sad thing is that most people don&#039;t really live at all.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>
+<blockquote>&ldquo;To belittle, you have to be little.&rdquo; &mdash; <footer>Kahlil Gibran</footer></blockquote>
 
 </div>
