@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you read a lot of books, you&#039;re considered well-read. But if you watch a lot of TV, you&#039;re not considered well-viewed.&rdquo; &mdash; <footer>Lily Tomlin</footer></blockquote>
+<blockquote>&ldquo;Death is not sad; the sad thing is that most people don&#039;t really live at all.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>
 
 </div>
