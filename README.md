@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The only way it gets better for you is when you get better. Better is not something you wish, it&#039;s something you become.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>
+<blockquote>&ldquo;Never let your memories be greater than your dreams.&rdquo; &mdash; <footer>Doug Ivester</footer></blockquote>
 
 </div>
