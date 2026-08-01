@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;When we have our body and mind in order, everything else will exist in the right place, in the right way.&rdquo; &mdash; <footer>Shunryu Suzuki</footer></blockquote>
+<blockquote>&ldquo;A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote>
 
 </div>
