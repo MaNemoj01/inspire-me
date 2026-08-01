@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Making money isn&#039;t hard in itself... What&#039;s hard is to earn it doing something worth devoting one&#039;s life to.&rdquo; &mdash; <footer>Carlos Ruiz Zafon</footer></blockquote>
+<blockquote>&ldquo;The secret of success lies not in doing your own work, but in recognizing the right man to do it.&rdquo; &mdash; <footer>Andrew Carnegie</footer></blockquote>
 
 </div>
