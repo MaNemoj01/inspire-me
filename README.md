@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Real loss is only possible when you love something more than you love yourself.&rdquo; &mdash; <footer>Robin Williams</footer></blockquote>
+<blockquote>&ldquo;The only thing standing between you and your goal is the story you keep telling yourself as to why you can&#039;t achieve it.&rdquo; &mdash; <footer>Colin R. Davis</footer></blockquote>
 
 </div>
