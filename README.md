@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Everyone faces challenges in life. It&#039;s a matter of how you learn to overcome them and using them to your advantage.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
+<blockquote>&ldquo;At the center of your being you have the answer; you know who you are and you know what you want.&rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>
 
 </div>
