@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Don&#039;t let your learning lead to knowledge. Let your learning lead to action.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>
+<blockquote>&ldquo;Everyone faces challenges in life. It&#039;s a matter of how you learn to overcome them and using them to your advantage.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
 
 </div>
