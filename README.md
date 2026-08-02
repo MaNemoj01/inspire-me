@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you carry joy in your heart, you can heal any moment.&rdquo; &mdash; <footer>Neale Donald Walsch</footer></blockquote>
+<blockquote>&ldquo;Learn to enjoy every minute of your life. Be happy now. Don&#039;t wait for something outside of yourself to make you happy in the future.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>
 
 </div>
