@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Do not save what is left after spending, but spend what is left after saving.&rdquo; &mdash; <footer>Warren Buffett</footer></blockquote>
+<blockquote>&ldquo;I begin with an idea and then it becomes something else.&rdquo; &mdash; <footer>Pablo Picasso</footer></blockquote>
 
 </div>
