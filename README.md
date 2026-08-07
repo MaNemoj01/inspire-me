@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;My favorite things in life don&#039;t cost any money. It&#039;s really clear that the most precious resource we all have is time.&rdquo; &mdash; <footer>Steve Jobs</footer></blockquote>
+<blockquote>&ldquo;It&#039;s easier to lose than to win.&rdquo; &mdash; <footer>Wayne Gretzky</footer></blockquote>
 
 </div>
