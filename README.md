@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;There is no limitations except those we create for ourselves.&rdquo; &mdash; <footer>Lolly Daskal</footer></blockquote>
+<blockquote>&ldquo;The problem happens when we have multiple desires. When we have fuzzy desires. When we want to do ten different things and we&#039;re not clear about which is the one we care about.&rdquo; &mdash; <footer>Naval Ravikant</footer></blockquote>
 
 </div>
