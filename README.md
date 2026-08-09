@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The important thing is not to stop questioning. Curiosity has its own reason for existing.&rdquo; &mdash; <footer>Albert Einstein</footer></blockquote>
+<blockquote>&ldquo;We have no more right to consume happiness without producing it than to consume wealth without producing it.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote>
 
 </div>
