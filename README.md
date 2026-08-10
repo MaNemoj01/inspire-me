@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Our heart is a treasury; if you pour out all its wealth at once, you are bankrupt.&rdquo; &mdash; <footer>Honore de Balzac</footer></blockquote>
+<blockquote>&ldquo;The scariest monsters are the ones that lurk within our souls.&rdquo; &mdash; <footer>Edgar Allan Poe</footer></blockquote>
 
 </div>
