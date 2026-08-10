@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The most virtuous are those who content themselves with being virtuous without seeking to appear so.&rdquo; &mdash; <footer>Plato</footer></blockquote>
+<blockquote>&ldquo;If it entertains you now but will bore you someday, it&#039;s a distraction. Keep looking.&rdquo; &mdash; <footer>Naval Ravikant</footer></blockquote>
 
 </div>
