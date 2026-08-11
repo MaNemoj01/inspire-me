@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Take away love and our earth is a tomb.&rdquo; &mdash; <footer>Robert Browning</footer></blockquote>
+<blockquote>&ldquo;Don&#039;t shortchange yourself when it comes to investing in your own better future.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>
 
 </div>
