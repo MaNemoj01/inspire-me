@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Work for something because it is good, not just because it stands a chance to succeed.&rdquo; &mdash; <footer>Vaclav Havel</footer></blockquote>
+<blockquote>&ldquo;Routine, done for long enough and done sincerely enough, becomes more than routine. It becomes ritual—it becomes sanctified and holy.&rdquo; &mdash; <footer>Ryan Holiday</footer></blockquote>
 
 </div>
