@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;All know that the drop merges into the ocean, but few know that the ocean merges into the drop.&rdquo; &mdash; <footer>Kabir</footer></blockquote>
+<blockquote>&ldquo;Life begins at the end of our comfort zone.&rdquo; &mdash; <footer>Neale Donald Walsch</footer></blockquote>
 
 </div>
