@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Concentrate all your thoughts upon the work at hand. The sun&#039;s rays do not burn until brought to focus.&rdquo; &mdash; <footer>Alexander Graham Bell</footer></blockquote>
+<blockquote>&ldquo;Do you have the patience to wait until your mud settles and the water is clear?&rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>
 
 </div>
