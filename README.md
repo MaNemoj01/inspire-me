@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Your time is limited, don&#039;t waste it living someone else&#039;s life.&rdquo; &mdash; <footer>Colin R. Davis</footer></blockquote>
+<blockquote>&ldquo;If you are depressed, you are living in the past. If you are anxious, you are living in the future. if you are at peace, you are living in the present.&rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>
 
 </div>
