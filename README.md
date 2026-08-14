@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Cherish forever what makes you unique, cuz you&#039;re really a yawn if it goes.&rdquo; &mdash; <footer>Bette Midler</footer></blockquote>
+<blockquote>&ldquo;Your time is limited, don&#039;t waste it living someone else&#039;s life.&rdquo; &mdash; <footer>Colin R. Davis</footer></blockquote>
 
 </div>
