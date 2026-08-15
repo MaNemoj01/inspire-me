@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Keep smiling, because life is a beautiful thing and there&#039;s so much to smile about.&rdquo; &mdash; <footer>Marilyn Monroe</footer></blockquote>
+<blockquote>&ldquo;There can be no greater gift than that of giving one&#039;s time and energy to help others without expecting anything in return.&rdquo; &mdash; <footer>Nelson Mandela</footer></blockquote>
 
 </div>
