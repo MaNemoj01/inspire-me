@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Better than the young man&#039;s knowledge is the old man&#039;s experience.&rdquo; &mdash; <footer>Tibetan Proverb</footer></blockquote>
+<blockquote>&ldquo;Even if you&#039;re sure you can win, be careful that you can live with what you lose.&rdquo; &mdash; <footer>Gary Keller</footer></blockquote>
 
 </div>
