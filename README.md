@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Peace of mind is that mental condition in which you have accepted the worst.&rdquo; &mdash; <footer>Lin Yutang</footer></blockquote>
+<blockquote>&ldquo;Everybody&#039;s life is either rewarding or an example.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
 
 </div>
