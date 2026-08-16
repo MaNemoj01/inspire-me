@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Repetition does not transform a lie into a truth.&rdquo; &mdash; <footer>Franklin D. Roosevelt</footer></blockquote>
+<blockquote>&ldquo;The whole world is a series of miracles, but we&#039;re so used to them we call them ordinary things.&rdquo; &mdash; <footer>Hans Christian Andersen</footer></blockquote>
 
 </div>
