@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It&#039;s always to soon to quit!&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
+<blockquote>&ldquo;In the middle of difficulty lies opportunity.&rdquo; &mdash; <footer>Albert Einstein</footer></blockquote>
 
 </div>
