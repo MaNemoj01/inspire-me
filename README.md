@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Money poisons you when you&#039;ve got it, and starves you when you haven&#039;t.&rdquo; &mdash; <footer>D. H. Lawrence</footer></blockquote>
+<blockquote>&ldquo;Our attitude toward life determines life&#039;s attitude towards us.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>
 
 </div>
