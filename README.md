@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Don&#039;t look back - you&#039;re not going that way.&rdquo; &mdash; <footer>Mary Engelbreit</footer></blockquote>
+<blockquote>&ldquo;An investment in knowledge pays the best interest.&rdquo; &mdash; <footer>Benjamin Franklin</footer></blockquote>
 
 </div>
