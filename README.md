@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Never lose hope. Storms make people stronger and never last forever.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
+<blockquote>&ldquo;Don&#039;t look back - you&#039;re not going that way.&rdquo; &mdash; <footer>Mary Engelbreit</footer></blockquote>
 
 </div>
