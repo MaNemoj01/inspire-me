@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;What is planted in each person&#039;s soul will sprout.&rdquo; &mdash; <footer>Rumi</footer></blockquote>
+<blockquote>&ldquo;Never give way to laziness.&rdquo; &mdash; <footer>Bhagavad Gita</footer></blockquote>
 
 </div>
