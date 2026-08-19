@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Who you are is defined by what you&#039;re willing to struggle for.&rdquo; &mdash; <footer>Mark Manson</footer></blockquote>
+<blockquote>&ldquo;By failing to prepare, you are preparing to fail.&rdquo; &mdash; <footer>Benjamin Franklin</footer></blockquote>
 
 </div>
