@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Some of the greater things in life are unseen; that&#039;s why you close your eyes when you kiss, cry, or dream.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+<blockquote>&ldquo;Expectations ruin relationships.&rdquo; &mdash; <footer>Neale Donald Walsch</footer></blockquote>
 
 </div>
