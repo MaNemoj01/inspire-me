@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Difficulties strengthen the mind, as labor does the body.&rdquo; &mdash; <footer>Seneca</footer></blockquote>
+<blockquote>&ldquo;If you don&#039;t know where you&#039;re going, you will probably end up somewhere else.&rdquo; &mdash; <footer>Laurence J. Peter</footer></blockquote>
 
 </div>
