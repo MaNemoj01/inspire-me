@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Always do what is right. It will gratify half of mankind and astound the other.&rdquo; &mdash; <footer>Mark Twain</footer></blockquote>
+<blockquote>&ldquo;Show up even when you don&#039;t want to show up.&rdquo; &mdash; <footer>Steve Harvey</footer></blockquote>
 
 </div>
