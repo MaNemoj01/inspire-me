@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you don&#039;t know, the thing to do is not to get scared, but to learn.&rdquo; &mdash; <footer>Ayn Rand</footer></blockquote>
+<blockquote>&ldquo;Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree.&rdquo; &mdash; <footer>Martin Luther</footer></blockquote>
 
 </div>
