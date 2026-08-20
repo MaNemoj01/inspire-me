@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you don&#039;t know where you&#039;re going, you will probably end up somewhere else.&rdquo; &mdash; <footer>Laurence J. Peter</footer></blockquote>
+<blockquote>&ldquo;There are no shortcuts to any place worth going.&rdquo; &mdash; <footer>Beverly Sills</footer></blockquote>
 
 </div>
