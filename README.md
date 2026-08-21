@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The secret of change is to focus all your energy not on fighting the old, but on building the new.&rdquo; &mdash; <footer>Colin R. Davis</footer></blockquote>
+<blockquote>&ldquo;There is no truth except the truth that exists within you. Everything else is what someone is telling you.&rdquo; &mdash; <footer>Neale Donald Walsch</footer></blockquote>
 
 </div>
