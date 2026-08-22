@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Meditate. It won&#039;t be fun but it will surface what you need to deal with.&rdquo; &mdash; <footer>Naval Ravikant</footer></blockquote>
+<blockquote>&ldquo;Nothing good ever comes of violence.&rdquo; &mdash; <footer>Martin Luther</footer></blockquote>
 
 </div>
