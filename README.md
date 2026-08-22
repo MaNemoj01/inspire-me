@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;We suffer for the simple reason that suffering is biologically useful. It is nature&#039;s preferred agent for inspiring change.&rdquo; &mdash; <footer>Mark Manson</footer></blockquote>
+<blockquote>&ldquo;Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence.&rdquo; &mdash; <footer>George Washington</footer></blockquote>
 
 </div>
