@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Be not afraid of growing slowly, be afraid only of standing still.&rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
+<blockquote>&ldquo;Winners don&#039;t Quit. That&#039;s why they Win.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 
 </div>
