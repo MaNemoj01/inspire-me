@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Failure means you&#039;ve now learned another valuable lesson that pushes you one step closer to success.&rdquo; &mdash; <footer>Steve Harvey</footer></blockquote>
+<blockquote>&ldquo;What the mind can conceive, it can achieve.&rdquo; &mdash; <footer>Napoleon Hill</footer></blockquote>
 
 </div>
