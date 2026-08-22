@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Winners don&#039;t Quit. That&#039;s why they Win.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+<blockquote>&ldquo;The ability to hold two competing thoughts in one&#039;s mind and still be able to function is the mark of a superior mind.&rdquo; &mdash; <footer>F. Scott Fitzgerald</footer></blockquote>
 
 </div>
