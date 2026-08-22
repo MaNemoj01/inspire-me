@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Life is all about mistakes. It is constant change and growth.&rdquo; &mdash; <footer>Neale Donald Walsch</footer></blockquote>
+<blockquote>&ldquo;Don&#039;t allow your mind to tell your heart what to do. The mind gives up easily.&rdquo; &mdash; <footer>Paulo Coelho</footer></blockquote>
 
 </div>
