@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;When the mind is calm, how quickly, how smoothly, how beautifully you will perceive everything.&rdquo; &mdash; <footer>Paramahansa Yogananda</footer></blockquote>
+<blockquote>&ldquo;You can never get enough of what you don&#039;t need to make you happy.&rdquo; &mdash; <footer>Eric Hoffer</footer></blockquote>
 
 </div>
