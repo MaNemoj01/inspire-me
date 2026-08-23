@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Good things aren&#039;t supposed to just fall into your lap.&rdquo; &mdash; <footer>Audrey Hepburn</footer></blockquote>
+<blockquote>&ldquo;One of the first signs of the beginning of understanding is the wish to die.&rdquo; &mdash; <footer>Franz Kafka</footer></blockquote>
 
 </div>
