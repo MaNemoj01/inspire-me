@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Realistic people do not accomplish extraordinary things.&rdquo; &mdash; <footer>John Eliot</footer></blockquote>
+<blockquote>&ldquo;If you&#039;ve made a mistake, it&#039;s better just to laugh at it.&rdquo; &mdash; <footer>Zen Proverb</footer></blockquote>
 
 </div>
