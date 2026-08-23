@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;How you think when you lose determines how long it will be until you win.&rdquo; &mdash; <footer>Gilbert Chesterton</footer></blockquote>
+<blockquote>&ldquo;Realistic people do not accomplish extraordinary things.&rdquo; &mdash; <footer>John Eliot</footer></blockquote>
 
 </div>
