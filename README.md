@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Don&#039;t criticize what you can&#039;t understand.&rdquo; &mdash; <footer>Bob Dylan</footer></blockquote>
+<blockquote>&ldquo;Be kind whenever possible. It is always possible.&rdquo; &mdash; <footer>Dalai Lama</footer></blockquote>
 
 </div>
