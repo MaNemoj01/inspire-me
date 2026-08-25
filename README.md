@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one.&rdquo; &mdash; <footer>Mark Twain</footer></blockquote>
+<blockquote>&ldquo;We don&#039;t have to be smarter than the rest. We have to be more disciplined than the rest.&rdquo; &mdash; <footer>Warren Buffett</footer></blockquote>
 
 </div>
