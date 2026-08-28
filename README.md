@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;We don&#039;t stumble accidentally into an amazing life. It takes decision, a commitment to consistently work on ourselves.&rdquo; &mdash; <footer>Kamal Ravikant</footer></blockquote>
+<blockquote>&ldquo;You become a worrier by practicing worry. You become free of worry by practicing the opposite.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
 
 </div>
