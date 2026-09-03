@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Keep smiling, because life is a beautiful thing and there&#039;s so much to smile about.&rdquo; &mdash; <footer>Marilyn Monroe</footer></blockquote>
+<blockquote>&ldquo;You can often change your circumstances by changing your attitude.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
 
 </div>
