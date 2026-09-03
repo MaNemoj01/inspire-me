@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Anyone telling you it&#039;s pointless to share your perspective is sharing their perspective.&rdquo; &mdash; <footer>Jack Butcher</footer></blockquote>
+<blockquote>&ldquo;Values are like fingerprints. Nobody&#039;s are the same, but you leave &#039;em all over everything you do.&rdquo; &mdash; <footer>Elvis Presley</footer></blockquote>
 
 </div>
