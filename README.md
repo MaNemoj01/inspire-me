@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You don&#039;t get in life what you want; you get in life what you are.&rdquo; &mdash; <footer>Les Brown</footer></blockquote>
+<blockquote>&ldquo;A fear-oriented man is always calculating, planning, arranging, safeguarding. His whole life is lost in this way.&rdquo; &mdash; <footer>Osho</footer></blockquote>
 
 </div>
