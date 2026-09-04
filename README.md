@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Change the changeable, accept the unchangeable, and remove yourself from the unacceptable.&rdquo; &mdash; <footer>Denis Waitley</footer></blockquote>
+<blockquote>&ldquo;You don&#039;t get in life what you want; you get in life what you are.&rdquo; &mdash; <footer>Les Brown</footer></blockquote>
 
 </div>
