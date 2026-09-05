@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Ancient Rule of Twenty-one: if you do anything for twenty-one days in a row, it will be installed as a habit.&rdquo; &mdash; <footer>Robin Sharma</footer></blockquote>
+<blockquote>&ldquo;I&#039;m an optimist by choice not by stupidity.&rdquo; &mdash; <footer>Yanni</footer></blockquote>
 
 </div>
