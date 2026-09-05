@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Life belongs to the living, and he who lives must be prepared for changes.&rdquo; &mdash; <footer>Johann Wolfgang von Goethe</footer></blockquote>
+<blockquote>&ldquo;I think it&#039;s very important to have a feedback loop, where you&#039;re constantly thinking about what you&#039;ve done and how you could be doing it better.&rdquo; &mdash; <footer>Elon Musk</footer></blockquote>
 
 </div>
