@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Not all of us can do great things. But we can do small things with great love.&rdquo; &mdash; <footer>Mother Teresa</footer></blockquote>
+<blockquote>&ldquo;When you lose your desire for things that do not matter, you will be free.&rdquo; &mdash; <footer>Morihei Ueshiba</footer></blockquote>
 
 </div>
