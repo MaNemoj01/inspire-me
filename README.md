@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;I enjoy life when things are happening. I don&#039;t care if it&#039;s good things or bad things. That means you&#039;re alive.&rdquo; &mdash; <footer>Joan Rivers</footer></blockquote>
+<blockquote>&ldquo;If you quit once it becomes a habit.&rdquo; &mdash; <footer>Michael Jordan</footer></blockquote>
 
 </div>
