@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;We never know the love of a parent till we become parents ourselves.&rdquo; &mdash; <footer>Henry Ward Beecher</footer></blockquote>
+<blockquote>&ldquo;Resilience is not what happens to you. It&#039;s how you react to, respond to, and recover from what happens to you.&rdquo; &mdash; <footer>Jeffrey Gitomer</footer></blockquote>
 
 </div>
