@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The whole of life, from the moment you are born to the moment you die, is a process of learning.&rdquo; &mdash; <footer>Jiddu Krishnamurti</footer></blockquote>
+<blockquote>&ldquo;In the midst of chaos, there is also opportunity.&rdquo; &mdash; <footer>Sun Tzu</footer></blockquote>
 
 </div>
