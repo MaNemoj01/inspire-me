@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You talk when you cease to be at peace with your thoughts.&rdquo; &mdash; <footer>Kahlil Gibran</footer></blockquote>
+<blockquote>&ldquo;When meditation is mastered, the mind is unwavering like the flame of a lamp in a windless place.&rdquo; &mdash; <footer>Bhagavad Gita</footer></blockquote>
 
 </div>
