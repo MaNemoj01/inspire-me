@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Time is more valuable than money. You can get more money, but you cannot get more time.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>
+<blockquote>&ldquo;Your time is limited, so don&#039;t waste it living someone elses. life. Don&#039;t be trapped by dogma - which is living with the results of other people&#039;s thinking.&rdquo; &mdash; <footer>Steve Jobs</footer></blockquote>
 
 </div>
