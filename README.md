@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;You can&#039;t wait for inspiration. You have to go after it with a club.&rdquo; &mdash; <footer>Jack London</footer></blockquote>
+<blockquote>&ldquo;If you truly expect something to be difficult, it will be.&rdquo; &mdash; <footer>Peter A. Cohen</footer></blockquote>
 
 </div>
