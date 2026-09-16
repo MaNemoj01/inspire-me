@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;As you love yourself, life loves you back.&rdquo; &mdash; <footer>Kamal Ravikant</footer></blockquote>
+<blockquote>&ldquo;You can&#039;t wait for inspiration. You have to go after it with a club.&rdquo; &mdash; <footer>Jack London</footer></blockquote>
 
 </div>
