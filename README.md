@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Everyone has a sense of humor. If you don&#039;t laugh at jokes, you probably laugh at opinions.&rdquo; &mdash; <footer>Criss Jami</footer></blockquote>
+<blockquote>&ldquo;The highest form of ignorance is when you reject something you don&#039;t know anything about.&rdquo; &mdash; <footer>Wayne Dyer</footer></blockquote>
 
 </div>
