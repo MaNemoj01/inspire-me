@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The highest form of ignorance is when you reject something you don&#039;t know anything about.&rdquo; &mdash; <footer>Wayne Dyer</footer></blockquote>
+<blockquote>&ldquo;Stop acting so small. You are the universe in ecstatic motion.&rdquo; &mdash; <footer>Rumi</footer></blockquote>
 
 </div>
