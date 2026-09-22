@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The Truth is realized in an instant; the Act is practiced step by step.&rdquo; &mdash; <footer>Seungsahn</footer></blockquote>
+<blockquote>&ldquo;Everything will be ok in the end. If it&#039;s not ok, it&#039;s not the end.&rdquo; &mdash; <footer>John Lennon</footer></blockquote>
 
 </div>
