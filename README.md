@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Your problem isn&#039;t the problem. Your reaction is the problem.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+<blockquote>&ldquo;Never allow a person to tell you no who doesn&#039;t have the power to say yes.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
 
 </div>
