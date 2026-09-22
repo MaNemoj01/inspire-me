@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The outer conditions of a person&#039;s life will always be found to reflect their inner beliefs.&rdquo; &mdash; <footer>James Allen</footer></blockquote>
+<blockquote>&ldquo;I can never decide whether my dreams are the result of my thoughts or my thoughts the result of my dreams.&rdquo; &mdash; <footer>D. H. Lawrence</footer></blockquote>
 
 </div>
