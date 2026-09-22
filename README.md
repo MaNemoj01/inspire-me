@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;In three words I can sum up everything I&#039;ve learned about life: it goes on.&rdquo; &mdash; <footer>Robert Frost</footer></blockquote>
+<blockquote>&ldquo;Your problem isn&#039;t the problem. Your reaction is the problem.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 
 </div>
