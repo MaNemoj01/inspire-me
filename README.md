@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Sometimes you have to shut your eyes, so you can see the real beauty.&rdquo; &mdash; <footer>Kilian Jornet</footer></blockquote>
+<blockquote>&ldquo;A dead thing can go with the stream, but only a living thing can go against it.&rdquo; &mdash; <footer>Gilbert Chesterton</footer></blockquote>
 
 </div>
