@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;There are few reasons for telling the truth, but for lying the number is infinite.&rdquo; &mdash; <footer>Carlos Ruiz Zafon</footer></blockquote>
+<blockquote>&ldquo;The only way to &#039;find out if it will work out&#039; is to do it.&rdquo; &mdash; <footer>Simon Sinek</footer></blockquote>
 
 </div>
