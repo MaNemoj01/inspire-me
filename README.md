@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The trouble with most of us is that we&#039;d rather be ruined by praise than saved by criticism.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
+<blockquote>&ldquo;The greatest value of a picture is when it forces us to notice what we never expected to see.&rdquo; &mdash; <footer>John Tukey</footer></blockquote>
 
 </div>
