@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Concentrated power has always been the enemy of liberty.&rdquo; &mdash; <footer>Ronald Reagan</footer></blockquote>
+<blockquote>&ldquo;The older you get, the more you understand how your conscience works.&rdquo; &mdash; <footer>Criss Jami</footer></blockquote>
 
 </div>
