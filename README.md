@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Act as if what you do makes a difference. It does.&rdquo; &mdash; <footer>William James</footer></blockquote>
+<blockquote>&ldquo;Opportunities don&#039;t often come along. So, when they do, you have to grab them.&rdquo; &mdash; <footer>Audrey Hepburn</footer></blockquote>
 
 </div>
