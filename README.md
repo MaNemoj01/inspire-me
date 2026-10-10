@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Give a girl the right shoes, and she can conquer the world.&rdquo; &mdash; <footer>Bette Midler</footer></blockquote>
+<blockquote>&ldquo;It&#039;s better to stand by someone&#039;s side than by yourself.&rdquo; &mdash; <footer>Jack London</footer></blockquote>
 
 </div>
