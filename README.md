@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Your time is limited, so don&#039;t waste it living someone elses. life.&rdquo; &mdash; <footer>Steve Jobs</footer></blockquote>
+<blockquote>&ldquo;Inspire yourself to be great. Being good isn&#039;t good enough.&rdquo; &mdash; <footer>Gurbaksh Chahal</footer></blockquote>
 
 </div>
