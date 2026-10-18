@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Inspire yourself to be great. Being good isn&#039;t good enough.&rdquo; &mdash; <footer>Gurbaksh Chahal</footer></blockquote>
+<blockquote>&ldquo;You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.&rdquo; &mdash; <footer>Dr. Seuss</footer></blockquote>
 
 </div>
