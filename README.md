@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Making money isn&#039;t hard in itself... What&#039;s hard is to earn it doing something worth devoting one&#039;s life to.&rdquo; &mdash; <footer>Carlos Ruiz Zafon</footer></blockquote>
+<blockquote>&ldquo;Your time is limited, so don&#039;t waste it living someone elses. life.&rdquo; &mdash; <footer>Steve Jobs</footer></blockquote>
 
 </div>
