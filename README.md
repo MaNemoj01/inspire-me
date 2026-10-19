@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;There are more people who wish to be loved than there are who are willing to love.&rdquo; &mdash; <footer>Nicolas Chamfort</footer></blockquote>
+<blockquote>&ldquo;Live in each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourself to the influence of the earth.&rdquo; &mdash; <footer>Henry David Thoreau</footer></blockquote>
 
 </div>
