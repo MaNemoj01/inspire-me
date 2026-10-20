@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The secret of change is to focus all your energy not on fighting the old, but on building the new.&rdquo; &mdash; <footer>Colin R. Davis</footer></blockquote>
+<blockquote>&ldquo;Your mind will make you rich or poor, depending on the use you put to it.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
 
 </div>
