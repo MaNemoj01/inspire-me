@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Words are the clothes thoughts wear.&rdquo; &mdash; <footer>Samuel Beckett</footer></blockquote>
+<blockquote>&ldquo;Life goes by fast. Enjoy it. Calm down. It&#039;s all funny.&rdquo; &mdash; <footer>Joan Rivers</footer></blockquote>
 
 </div>
