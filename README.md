@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It is impossible for a man to learn what he thinks he already knows.&rdquo; &mdash; <footer>Epictetus</footer></blockquote>
+<blockquote>&ldquo;Poverty and hardship are created by false thinking.&rdquo; &mdash; <footer>Bodhidharma</footer></blockquote>
 
 </div>
