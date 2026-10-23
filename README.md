@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The ability to hold two competing thoughts in one&#039;s mind and still be able to function is the mark of a superior mind.&rdquo; &mdash; <footer>F. Scott Fitzgerald</footer></blockquote>
+<blockquote>&ldquo;The fact of the matter is that there will be nothing learned from any challenge in which we don&#039;t try our hardest.&rdquo; &mdash; <footer>Josh Waitzkin</footer></blockquote>
 
 </div>
