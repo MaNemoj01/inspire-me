@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;The way we feel is the direct result of what we think.&rdquo; &mdash; <footer>Peter A. Cohen</footer></blockquote>
+<blockquote>&ldquo;The one who boasts does so only out of a feeling of inferiority.&rdquo; &mdash; <footer>Alfred Adler</footer></blockquote>
 
 </div>
