@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Absence makes the heart grow fonder.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
+<blockquote>&ldquo;They who have conquered doubt and fear have conquered failure.&rdquo; &mdash; <footer>James Allen</footer></blockquote>
 
 </div>
