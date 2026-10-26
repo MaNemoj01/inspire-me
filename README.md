@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Man is made by his belief. As he believes, so he is.&rdquo; &mdash; <footer>Bhagavad Gita</footer></blockquote>
+<blockquote>&ldquo;Having lots of money while not having inner peace is like dying of thirst while bathing in the ocean.&rdquo; &mdash; <footer>Paramahansa Yogananda</footer></blockquote>
 
 </div>
