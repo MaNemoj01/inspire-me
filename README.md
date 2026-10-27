@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Shoot for the moon. Even if you miss, you&#039;ll land among the stars.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
+<blockquote>&ldquo;He is not a lover who does not love forever.&rdquo; &mdash; <footer>Euripides</footer></blockquote>
 
 </div>
