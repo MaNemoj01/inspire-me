@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;If you&#039;re not failing every now and again, it&#039;s a sign you&#039;re not doing anything very innovative.&rdquo; &mdash; <footer>Woody Allen</footer></blockquote>
+<blockquote>&ldquo;Everyone faces challenges in life. It&#039;s a matter of how you learn to overcome them and using them to your advantage.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
 
 </div>
