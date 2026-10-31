@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It doesn&#039;t matter where you are, you are nowhere compared to where you can go.&rdquo; &mdash; <footer>Bob Proctor</footer></blockquote>
+<blockquote>&ldquo;The first rule of handling conflict is don&#039;t hang around people who are constantly engaging in conflict.&rdquo; &mdash; <footer>Naval Ravikant</footer></blockquote>
 
 </div>
