@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;I don&#039;t walk away from things that I think are unfinished.&rdquo; &mdash; <footer>Arnold Schwarzenegger</footer></blockquote>
+<blockquote>&ldquo;People think about what they don&#039;t want and attract more of the same.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 
 </div>
