@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;One must be poor to know the luxury of giving.&rdquo; &mdash; <footer>George Eliot</footer></blockquote>
+<blockquote>&ldquo;If you don&#039;t make things happen then things will happen to you.&rdquo; &mdash; <footer>Robert Collier</footer></blockquote>
 
 </div>
