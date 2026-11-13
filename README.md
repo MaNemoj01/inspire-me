@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;It doesn&#039;t matter what you do, only how well you do it.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>
+<blockquote>&ldquo;It may take some hard work. But the more you say no to the things that don&#039;t matter, the more you can say yes to the things that do.&rdquo; &mdash; <footer>Ryan Holiday</footer></blockquote>
 
 </div>
