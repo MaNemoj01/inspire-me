@@ -8,6 +8,6 @@
 <sub><i>Daily dose of inspiration quotes provided by [ZenQuotes API](https://zenquotes.io/) and images by [Unsplash](https://unsplash.com/).</i></sub>
 
 
-<blockquote>&ldquo;Without the confidence, nothing can be accomplished.&rdquo; &mdash; <footer>Sathya Sai Baba</footer></blockquote>
+<blockquote>&ldquo;The wisdom of life consists in the elimination of the nonessentials.&rdquo; &mdash; <footer>Lin Yutang</footer></blockquote>
 
 </div>
